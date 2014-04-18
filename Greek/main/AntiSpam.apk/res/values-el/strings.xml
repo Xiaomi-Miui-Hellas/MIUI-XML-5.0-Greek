@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Guard</string>
-  <string name="bl_block_info" formatted="false">Blocked: Number %d, details %d</string>
-  <string name="bl_no_blacklist">No blocked numbers</string>
-  <string name="bl_no_block_call">No blocked calls</string>
-  <string name="bl_no_block_sms">No blocked messages</string>
-  <string name="dlg_add_blacklist">Block this number?</string>
-  <string name="dlg_add_keyword">Add keywords</string>
-  <string name="dlg_add_manual_hint">Input phone number</string>
-  <string name="dlg_add_manual_ok">Add</string>
+  <string name="bl_block_info" formatted="false">Αποκλεισμένα: αριθμός %d, λεπτομέρειες %d</string>
+  <string name="bl_no_blacklist">Χωρίς αποκλεισμένους αριθμούς</string>
+  <string name="bl_no_block_call">Χωρίς αποκλεισμένες κλήσεις</string>
+  <string name="bl_no_block_sms">Χωρίς αποκλεισμένα μυνήματα</string>
+  <string name="dlg_add_blacklist">Αποκλεισμός αυτού του αριθμού?</string>
+  <string name="dlg_add_keyword">Προσθήκη Λέξεων</string>
+  <string name="dlg_add_manual_hint">Εισαγωγή αριθμού τηλεφώνου</string>
+  <string name="dlg_add_manual_ok">Προσθήκη</string>
   <string name="dlg_bl_add_manual">Add number to blacklist manually</string>
   <string name="dlg_clear_all_call">Clear blocked calls?</string>
   <string name="dlg_clear_all_ok">Clear all</string>
