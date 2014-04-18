@@ -6,7 +6,7 @@
   <string name="bl_no_block_call">Χωρίς αποκλεισμένες κλήσεις</string>
   <string name="bl_no_block_sms">Χωρίς αποκλεισμένα μυνήματα</string>
   <string name="dlg_add_blacklist">Αποκλεισμός αυτού του αριθμού?</string>
-  <string name="dlg_add_keyword">Προσθήκη Λέξεων</string>
+  <string name="dlg_add_keyword">Προσθήκη λέξεων-κλειδιά</string>
   <string name="dlg_add_manual_hint">Εισαγωγή αριθμού τηλεφώνου</string>
   <string name="dlg_add_manual_ok">Προσθήκη</string>
   <string name="dlg_bl_add_manual">Add number to blacklist manually</string>
