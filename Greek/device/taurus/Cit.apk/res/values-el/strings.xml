@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="cit_OTG_plugin_check_summary">Αυτό το τεστ θα ανακαλύψει μια OTG συσκευή.</string>
-  <string name="cit_OTG_plugin_check_title"> Εκκίνηση OTG Τεστ</string>
-  <string name="cit_OTG_plugout_check_summary"> Αυτό το τεστ θα ανακλύψει την κατάσταση μια OTG συνδεδεμένης συσκευής.</string>
+  <string name="cit_OTG_plugin_check_summary">Αυτή η δοκιμή θα ανακαλύψει μια OTG συσκευή.</string>
+  <string name="cit_OTG_plugin_check_title"> Εκκίνηση Δοκιμής OTG</string>
+  <string name="cit_OTG_plugout_check_summary"> Αυτή η δοκιμή θα ανακλύψει την κατάσταση μια OTG συνδεδεμένης συσκευής.</string>
   <string name="cit_OTG_plugout_check_title">OTG Έδωσε κατάσταση</string>
   <string name="cit_OTG_waiting_in">Παρακαλώ συνδέστε USB_OTG συσκευή.</string>
   <string name="cit_OTG_waiting_out">Παρακαλώ αποσυνδέστε USB_OTG συσκευή.</string>
-  <string name="cit_ac_charger_in">AC charger is connected</string>
-  <string name="cit_ac_charger_out">AC charger in disconnected</string>
-  <string name="cit_accelermeter_sensor_check_summary">The screen will display X, Y, Z three directions of acceleration (Note: When the phone is turned round the values will change based on screen orientation</string>
-  <string name="cit_accelermeter_sensor_check_title">Test Accelerometer</string>
-  <string name="cit_audio_loopback_check_one_title">Test Microphone to receiver</string>
+  <string name="cit_ac_charger_in">Φορτηστής AC συνδέθηκε</string>
+  <string name="cit_ac_charger_out">Φορτηστής AC αποσυνδέθηκε</string>
+  <string name="cit_accelermeter_sensor_check_summary">Η οθόνη θα προβάλει X, Y, Z acceleration (Σημείωση: Όταν η συσκευή κάνει κυκλική κίνηση οι τιμές θα αλλάηξουν με βάση τον προσανατολισμό</string>
+  <string name="cit_accelermeter_sensor_check_title">Δοκιμή Accelerometer</string>
+  <string name="cit_audio_loopback_check_one_title">Δοκιμή μικροφώνου στον δέκτη</string>
   <string name="cit_audio_loopback_check_summary_first">Test will perform loopback test of the main microphone</string>
   <string name="cit_audio_loopback_check_summary_second">Turn the phone over and test the other microphones loopback</string>
   <string name="cit_audio_loopback_check_two_title">Test Microphone to speaker</string>
