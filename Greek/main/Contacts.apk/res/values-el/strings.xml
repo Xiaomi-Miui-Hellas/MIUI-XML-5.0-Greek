@@ -706,7 +706,7 @@ To add a contact to your list of favorites:
   <string name="preference_phone_more_title">Call settings</string>
   <string name="preference_remove_duplicate">Merge duplicate contacts</string>
   <string name="preference_simple_mode_description">Hide pictures and other contact data in list view</string>
-  <string name="preference_simple_mode_title">Simple mode</string>
+  <string name="preference_simple_mode_title">Απλή λειτουργία</string>
   <string name="preference_smart_group_company_summary">Group contacts by company</string>
   <string name="preference_smart_group_company_title">By company</string>
   <string name="preference_smart_group_frequency_summary">Group by most recent</string>
@@ -928,7 +928,7 @@ the content you're looking for is not currently available in your region."</stri
   <string name="search_results_searching">Searching…</string>
   <string name="search_settings_description">Names of your contacts</string>
   <string name="searching_vcard_message">Searching for vCard data in storage…</string>
-  <string name="select_all">Select all</string>
+  <string name="select_all">Επιλογή όλων</string>
   <string name="select_device">Select device</string>
   <string name="select_groups">Select groups</string>
   <string name="select_new_photo_from_photo_package">Select new photo from photo package</string>

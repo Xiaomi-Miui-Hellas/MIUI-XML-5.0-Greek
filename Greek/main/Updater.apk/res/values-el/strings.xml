@@ -113,7 +113,7 @@
   <string name="sdcard_is_not_present_dialog_title">SD card not found</string>
   <string name="send_install_log">Send error log</string>
   <string name="send_install_log_error">Failed to send error log</string>
-  <string name="share">Share</string>
+  <string name="share">Διαμοιρασμός</string>
   <string name="share_qq">Post it via Tencent weibo</string>
   <string name="share_sina">Post it via Sina weibo</string>
   <string name="share_update">Share system update info</string>

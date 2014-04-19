@@ -146,9 +146,9 @@
   <string name="scanning">Scanning...</string>
   <string name="sdcard_invalid">No SD card available!</string>
   <string name="sdcard_unavailable">SD card is unavailable</string>
-  <string name="select_all">Select all</string>
+  <string name="select_all">Επιλογή όλων</string>
   <string name="select_file_to_share">Select file(s) to share</string>
-  <string name="send">Send</string>
+  <string name="send">Αποστολή</string>
   <string name="send_2d_code">Send 2D code</string>
   <string name="send_cancel_tip">Transfer incomplete. Are you sure you want to stop transfer and exit?</string>
   <string name="send_cancel_tip2">Cancel sending. Sent %1$d / %2$d file(s)</string>
@@ -174,7 +174,7 @@
   <string name="settings_photo_remove">Delete avatar</string>
   <string name="settings_receive_confirm_summary">Confirm file transfer request(s)</string>
   <string name="settings_receive_confirm_title">Receive confirmation</string>
-  <string name="share">Share</string>
+  <string name="share">Διαμοιρασμός</string>
   <string name="share_history">Sharing history</string>
   <string name="share_item_not_found">File does not exist for sharing</string>
   <string name="share_message">%1$s File sharing</string>

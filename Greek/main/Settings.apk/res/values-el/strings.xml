@@ -2170,7 +2170,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
   <string name="security_settings_title">Security</string>
   <string name="sel_sub_summary">Select the Subscription for SUB-1 and SUB-2</string>
   <string name="sel_sub_title">Configure Subscriptions</string>
-  <string name="select_all">Select all</string>
+  <string name="select_all">Επιλογή όλων</string>
   <string name="select_application">Select application</string>
   <string name="select_device_admin_msg">Device administrators</string>
   <string name="select_subscription">Select Subscription</string>

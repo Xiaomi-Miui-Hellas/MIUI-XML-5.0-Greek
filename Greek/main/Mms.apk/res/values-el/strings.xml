@@ -26,7 +26,7 @@
   <string name="attach_image">Pictures</string>
   <string name="attach_record_sound">Record audio</string>
   <string name="attach_record_video">Capture video</string>
-  <string name="attach_slideshow">Slideshow</string>
+  <string name="attach_slideshow">Παρουσίαση</string>
   <string name="attach_sound">Audio</string>
   <string name="attach_subject">Subject</string>
   <string name="attach_take_photo">Capture picture</string>
@@ -379,7 +379,7 @@ Report bugs and send feedback directly to Xiaomi.”</string>
   <string name="select_local_video">Select local video</string>
   <string name="select_recipient">Select recipient</string>
   <string name="select_top_text">Text on top</string>
-  <string name="send">Send</string>
+  <string name="send">Αποστολή</string>
   <string name="send_signature_confirm_dialog_message">No message body found. Are you sure you wish to send only the signature?</string>
   <string name="send_signature_confirm_dialog_title">Confirm Sending</string>
   <string name="send_sms">Send message</string>

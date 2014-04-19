@@ -288,7 +288,7 @@
   <string name="search_settings_description">Artists, albums, and tracks</string>
   <string name="search_suggestion">Search Suggestions:</string>
   <string name="search_title">Search</string>
-  <string name="select_all">Select all</string>
+  <string name="select_all">Επιλογή όλων</string>
   <string name="select_folder">Select folder</string>
   <string name="select_quit_time">Set the timer for stopping the player (in mins)</string>
   <string name="send_to">Send to</string>
