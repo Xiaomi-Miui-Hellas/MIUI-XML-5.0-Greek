@@ -366,7 +366,7 @@ Try again in %d seconds."</string>
   <string name="lunar_zheng"/>
   <string name="memory_clear_nothing_result">No memory to clear</string>
   <string name="memory_clear_result">"%1$s Free | %2$s available"</string>
-  <string name="minutes">%d minutes</string>
+  <string name="minutes">%d λεπτά</string>
   <string name="miui_copyright_title">Copyright</string>
   <string name="miui_device_name">Android</string>
   <string name="miui_mibi_license_title">Mi Credit User agreement</string>
@@ -428,11 +428,11 @@ Try again in %d seconds."</string>
   <string name="sd_not_available_saved_to_internal_storage">Saved to internal storage</string>
   <string name="sd_not_available_use_internal_storage">SD card unavailable, saved to internal storage</string>
   <string name="select">Select</string>
-  <string name="select_all">Select all</string>
-  <string name="send">Send</string>
+  <string name="select_all">Επιλογή όλων</string>
+  <string name="send">Αποστολή</string>
   <string name="send_sms_for_sync_notice">The system will send an activation SMS, do you wish to continue?</string>
   <string name="send_sms_for_sync_title">Send SMS to activate Synchronisation</string>
-  <string name="share">Share</string>
+  <string name="share">Διαμοιρασμός</string>
   <string name="short_pincode_error_msg">Please input 4–8 digits</string>
   <string name="short_pukcode_error_msg">Please input at least 8 digits</string>
   <string name="shutdown_confirm_title">Are you sure you want to shutdown your phone?</string>

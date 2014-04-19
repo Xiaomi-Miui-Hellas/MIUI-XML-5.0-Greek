@@ -205,7 +205,7 @@
   <string name="settings_toggle_position_divider_list">Toggles placed above bar are active</string>
   <string name="settings_toggle_position_divider_page">%1$d toggles placed above bar are active</string>
   <string name="settings_toggle_position_reset">Reset toggles</string>
-  <string name="share">Share</string>
+  <string name="share">Διαμοιρασμός</string>
   <string name="status_bar_date_format">MMMM d, yyyy</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Set up input methods</string>

@@ -24,7 +24,7 @@
   <string name="analog_gadget">Analog clock</string>
   <string name="app_label">Clock</string>
   <string name="auto_silence_never">Never</string>
-  <string name="auto_silence_summary">Alarm will silence after %d minutes</string>
+  <string name="auto_silence_summary">Alarm will silence after %d λεπτά</string>
   <string name="auto_silence_title">Auto-silence</string>
   <string name="cancel">Άκυρο</string>
   <string name="close_alarm">Close alarm</string>
@@ -64,7 +64,7 @@
   <string name="menu_edit_systemtime">System time</string>
   <string name="menu_item_dock_settings">Dock settings</string>
   <string name="minute">1 minute</string>
-  <string name="minutes">%s minutes</string>
+  <string name="minutes">%s λεπτά</string>
   <string name="never">Once</string>
   <string name="pause">Pause</string>
   <string name="remind_ringtone">Ringtone</string>
@@ -87,8 +87,8 @@
   <string name="timer_alert_alert_silenced">Timer stopped after %d minutes.</string>
   <string name="timer_continue">Continue</string>
   <string name="timer_got_it">OK</string>
-  <string name="timer_message">%1$d minutes</string>
-  <string name="timer_message_with_hour">%1$d hours and %2$d minutes</string>
+  <string name="timer_message">%1$d λεπτά</string>
+  <string name="timer_message_with_hour">%1$d hours and %2$d λεπτά</string>
   <string name="timer_start_alarm">Start Timer</string>
   <string name="timer_title">Timer</string>
   <string name="timezone_exist_error_message">"You're already displaying that timezone"</string>

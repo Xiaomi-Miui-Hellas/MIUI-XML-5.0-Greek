@@ -272,7 +272,7 @@
   <string name="ringtone_menu">Use as phone ringtone</string>
   <string name="ringtone_not_support">Ringtone format not supported</string>
   <string name="ringtone_set">\"%s\" set as phone ringtone.</string>
-  <string name="save">Save</string>
+  <string name="save">Αποθήκευση</string>
   <string name="scan_barcode_to_connect">"Align the KTV console's QR code in the frame to scan"</string>
   <string name="scanning">Scanning SD card...</string>
   <string name="scanning_nosdcard">Scanning USB storage...</string>
@@ -288,7 +288,7 @@
   <string name="search_settings_description">Artists, albums, and tracks</string>
   <string name="search_suggestion">Search Suggestions:</string>
   <string name="search_title">Search</string>
-  <string name="select_all">Select all</string>
+  <string name="select_all">Επιλογή όλων</string>
   <string name="select_folder">Select folder</string>
   <string name="select_quit_time">Set the timer for stopping the player (in mins)</string>
   <string name="send_to">Send to</string>

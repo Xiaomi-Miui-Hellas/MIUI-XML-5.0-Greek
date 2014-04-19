@@ -884,7 +884,7 @@ Switch to the new provider anyway?"</string>
   <string name="rsp_unlock_success">UIM Service Provider unlock successful.</string>
   <string name="ruim_unlock_failed">UIM UIM unlock request unsuccessful.</string>
   <string name="ruim_unlock_success">UIM UIM unlock successful.</string>
-  <string name="save">Save</string>
+  <string name="save">Αποθήκευση</string>
   <string name="saving_account">Saving the account...</string>
   <string name="search_networks">Search networks</string>
   <string name="selectContact">select contact</string>

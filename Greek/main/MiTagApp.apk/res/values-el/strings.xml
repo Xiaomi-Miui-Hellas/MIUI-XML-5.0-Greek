@@ -137,7 +137,7 @@ touch it with the back of your phone"</string>
   <string name="saving">Saving…</string>
   <string name="screen_timeout">Sleep</string>
   <string name="screen_timeout_summary">After %s of inactivity</string>
-  <string name="select_all">Select all</string>
+  <string name="select_all">Επιλογή όλων</string>
   <string name="select_app">Select app</string>
   <string name="select_config">New tasks</string>
   <string name="send_email">Send mail</string>
@@ -146,7 +146,7 @@ touch it with the back of your phone"</string>
   <string name="set_alarm">Set an alarm</string>
   <string name="set_now">Settings</string>
   <string name="settings">Settings</string>
-  <string name="share">Share</string>
+  <string name="share">Διαμοιρασμός</string>
   <string name="share_content">"I've *%1$s* written to a Mi NFC tag. To read it, just touch it with the back of your device. Get the app here: http://app.xiaomi.com/detail/56946"</string>
   <string name="share_subject">Share one app: %1$s</string>
   <string name="share_wifi">Share WLAN</string>

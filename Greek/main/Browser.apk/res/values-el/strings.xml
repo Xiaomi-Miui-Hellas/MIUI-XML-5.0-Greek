@@ -177,7 +177,7 @@
   <string name="download_video_menu_video_version_low">You need to the update MiuiVideo.</string>
   <string name="download_video_no_title_default_name">Unnamed video</string>
   <string name="download_video_please_download_market">Please install MiApps before using this function.</string>
-  <string name="download_video_please_select_video">Select video</string>
+  <string name="download_video_please_select_video">Επιλογή βίντεο</string>
   <string name="download_video_start_down_toast">Download %1$s video(s)</string>
   <string name="download_video_unseleted_all">Deselect all</string>
   <string name="downloaded">Downloaded!</string>
