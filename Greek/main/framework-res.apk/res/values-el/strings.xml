@@ -10,7 +10,7 @@
     <string name="httpErrorBadUrl">Δεν ήταν δυνατό το άνοιγμα της σελίδας διότι η διεύθυνση URL δεν είναι έγκυρη.</string>
     <string name="httpErrorUnsupportedScheme">Το πρωτόκολλο δεν υποστηρίζεται.</string>
     <string name="no">Ακύρωση</string>
-    <string name="ok">OK</string>
+    <string name="ok">ΟΚ</string>
     <string name="paste">Επικόλληση</string>
     <string name="search_go">Αναζήτηση</string>
     <string name="selectAll">Επιλογή όλων</string>

@@ -52,7 +52,7 @@
   <string name="confirm">OK</string>
   <string name="confirm_know">OK</string>
   <string name="copy_failed">Failed to copy</string>
-  <string name="count_down_time">Start after %d seconds</string>
+  <string name="count_down_time">Start after %d δευτερόλεπτα</string>
   <string name="create_kuaipan_shortcut_pref">Create a shortcut to the desktop</string>
   <string name="create_new_folder_desctiption">Creating new folder...</string>
   <string name="create_new_folder_failed">Failed to create folder %1$s</string>
@@ -104,7 +104,7 @@
   <string name="file_info_location">Path:</string>
   <string name="file_info_modified">Modified:</string>
   <string name="file_info_size">Size:</string>
-  <string name="file_loading">Loading...</string>
+  <string name="file_loading">Φορτώνει...</string>
   <string name="file_too_large">"The file is too large and can't be uploaded"</string>
   <string name="finished">Finished</string>
   <string name="folder_exist">The folder already exists</string>

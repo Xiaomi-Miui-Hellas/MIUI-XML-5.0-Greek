@@ -661,7 +661,7 @@ Switch to the new provider anyway?"</string>
   <string name="nw_subset_unlock_success">SIM Network Subset unlock successful.</string>
   <string name="nw_unlock_failed">SIM Network unlock request unsuccessful.</string>
   <string name="nw_unlock_success">SIM Network unlock successful.</string>
-  <string name="ok">OK</string>
+  <string name="ok">ΟΚ</string>
   <string name="oldPin2Label">Old PIN2</string>
   <string name="oldPinLabel">Old PIN</string>
   <string name="old_pin2_hint_miui">Current PIN2</string>

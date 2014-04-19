@@ -97,7 +97,7 @@
   <string name="noti_wait_send">"Waiting to receive file(s), please ensure sender has enabled connection and can send file(s) "</string>
   <string name="notify_after_download">Notify after download</string>
   <string name="notify_after_restore">Notify after restore</string>
-  <string name="ok">OK</string>
+  <string name="ok">ΟΚ</string>
   <string name="online_file">MiDrive</string>
   <string name="only_support_single_share">Only single file sharing is supported!</string>
   <string name="open">Open</string>

@@ -183,7 +183,7 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="contact_editor_prompt_one_account">The new contact will be %1$s Sync</string>
   <string name="contact_editor_prompt_zero_accounts">Store in mobile or in a new online account</string>
   <string name="contact_is_readOnly">"Can't edit read-only contacts."</string>
-  <string name="contact_list_loading">Loading...</string>
+  <string name="contact_list_loading">Φορτώνει...</string>
   <string name="contact_pick_photo">Photo</string>
   <string name="contact_read_only">Not editable from this app.</string>
   <string name="contact_status_update_attribution">via %1$s</string>
@@ -297,7 +297,7 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="dialerIconLabel">Recent</string>
   <string name="dialerKeyboardHintText">Use keyboard to dial</string>
   <string name="dialer_addAnotherCall">Add call</string>
-  <string name="dialer_empty_text_loading">Loading...</string>
+  <string name="dialer_empty_text_loading">Φορτώνει...</string>
   <string name="dialer_empty_text_no_call_log">No calls</string>
   <string name="dialer_empty_text_no_search_result">No contacts found</string>
   <string name="dialer_returnToInCallScreen">Return to call in progress</string>
@@ -482,7 +482,7 @@ Reason: \"%s\""</string>
   <string name="list_filter_customize">Customize</string>
   <string name="list_filter_phones">All contacts with phone numbers</string>
   <string name="list_filter_single">Contact</string>
-  <string name="loading">Loading...</string>
+  <string name="loading">Φορτώνει...</string>
   <string name="loading_group_members">Loading group members…</string>
   <string name="loading_groups">Loading groups…</string>
   <string name="loading_recent">Loading recent contacts…</string>

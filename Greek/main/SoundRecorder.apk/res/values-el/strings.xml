@@ -71,7 +71,7 @@
   <string name="rename_illegal">Invalid recording name provided.</string>
   <string name="sd_card_not_available">SD card is not available</string>
   <string name="search_for_recordings_in_folders">Search folders for recordings</string>
-  <string name="second">%d seconds</string>
+  <string name="second">%d δευτερόλεπτα</string>
   <string name="send_to">Send to</string>
   <string name="sound_recorder_settings">Recording Settings</string>
   <string name="start_recording">Start recording</string>
