@@ -10,13 +10,13 @@
   <string name="auth_notif_ticker">OBEX authentication request</string>
   <string name="auth_notif_title">Session key request for PBAP</string>
   <string name="bpp_authentication_timeout_message">Timeout occurred inputting session key with %1$s</string>
-  <string name="bpp_cancel">Cancel</string>
+  <string name="bpp_cancel">Άκυρο</string>
   <string name="bpp_main">Bluetooth printing</string>
   <string name="bpp_printing_button_text">Printing</string>
   <string name="bpp_session_key_dialog_header">Bluetooth session key required</string>
   <string name="bpp_session_key_dialog_title">Input session key for %1$s</string>
   <string name="bpp_setting_text">Settings</string>
-  <string name="bt_enable_cancel">Cancel</string>
+  <string name="bt_enable_cancel">Άκυρο</string>
   <string name="bt_enable_line1">To use Bluetooth services, you must first enable Bluetooth.</string>
   <string name="bt_enable_line2">Enable Bluetooth now?</string>
   <string name="bt_enable_ok">Turn on</string>
@@ -68,7 +68,7 @@
   <string name="inbound_noti_title">Bluetooth received files</string>
   <string name="incoming_file_confirm_Notification_caption">Receive incoming file?</string>
   <string name="incoming_file_confirm_Notification_title">Bluetooth: Incoming file</string>
-  <string name="incoming_file_confirm_cancel">Cancel</string>
+  <string name="incoming_file_confirm_cancel">Άκυρο</string>
   <string name="incoming_file_confirm_content">"\"%1$s\" wants to send you %2$s (%3$s). 
 
  Accept the file?"</string>
@@ -161,7 +161,7 @@
   <string name="unknown_file">Unknown file</string>
   <string name="unknown_file_desc">"There's no app to handle this type of file. "</string>
   <string name="update_record">Confirm record</string>
-  <string name="upload_fail_cancel">Cancel</string>
+  <string name="upload_fail_cancel">Άκυρο</string>
   <string name="upload_fail_line1">"The file wasn't sent to \"%1$s\"."</string>
   <string name="upload_fail_line1_2">File: %1$s</string>
   <string name="upload_fail_ok">Retry</string>

@@ -96,7 +96,7 @@
   <string name="browserFrameNetworkErrorLabel">Connection problem</string>
   <string name="browser_bookmarks_page_bookmarks_text">Bookmarks</string>
   <string name="browser_history">Recently-visited pages</string>
-  <string name="cancel">Cancel</string>
+  <string name="cancel">Άκυρο</string>
   <string name="cannot_download">Can only download \"http\" or \"https\" URLs.</string>
   <string name="choose_upload">Choose file for upload</string>
   <string name="choosertitle_sharevia">Share via</string>
@@ -243,7 +243,7 @@
   <string name="import_bookmarks_dialog_remove">Delete bookmarks</string>
   <string name="import_bookmarks_dialog_select_add_account">Add bookmarks currently on this device and begin syncing with Google account</string>
   <string name="import_bookmarks_dialog_title">Sync with Google account</string>
-  <string name="import_bookmarks_wizard_cancel">Cancel</string>
+  <string name="import_bookmarks_wizard_cancel">Άκυρο</string>
   <string name="import_bookmarks_wizard_done">Done</string>
   <string name="import_bookmarks_wizard_next">Next</string>
   <string name="import_bookmarks_wizard_previous">Previous</string>
@@ -523,7 +523,7 @@
   <string name="search_baidu">Baidu</string>
   <string name="search_bing">Bing</string>
   <string name="search_button_text">Go</string>
-  <string name="search_cancel">Cancel</string>
+  <string name="search_cancel">Άκυρο</string>
   <string name="search_dianping">Cate</string>
   <string name="search_easou">Easou</string>
   <string name="search_google">Google</string>

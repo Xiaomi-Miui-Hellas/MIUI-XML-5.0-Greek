@@ -15,7 +15,7 @@
   <string name="button_pre">Back</string>
   <string name="can_not_find_explorer">FileExplorer not found, is the application installed?</string>
   <string name="can_not_send_this_file">Failed to send file!</string>
-  <string name="cancel">Cancel</string>
+  <string name="cancel">Άκυρο</string>
   <string name="cancel_receive">Cancel</string>
   <string name="cancel_send">Cancel</string>
   <string name="canceling">Cancelling</string>

@@ -19,19 +19,19 @@
   <string name="accessibility_skin_beautify_opened">Βελτιστοποίηση χρώματος δέρματος ενεργή</string>
   <string name="accessibility_switch_to_back_view">Αλλαγή στη πίσω κάμερα</string>
   <string name="accessibility_switch_to_front_view">Αλλαγή στην εμπρόσθια κάμερα</string>
-  <string name="accessibility_zoom_control">Zoom control</string>
-  <string name="albums">Albums</string>
-  <string name="aperture">Aperture</string>
-  <string name="app_details">App details:</string>
-  <string name="auto">Auto</string>
-  <string name="bg_replacement_message">"Set your device down and
-Step out of view for a moment"</string>
-  <string name="camera_disabled">Camera has been disabled because of security policies.</string>
-  <string name="camera_error_title">Camera error</string>
-  <string name="camera_label">Camera</string>
-  <string name="camera_settings_label">Camera settings</string>
-  <string name="can_not_play_video">Unlock screen to view playback</string>
-  <string name="cancel">Cancel</string>
+  <string name="accessibility_zoom_control">Έλεγχος ζουμ</string>
+  <string name="albums">Άλμπουμ</string>
+  <string name="aperture">Διάφραγμα</string>
+  <string name="app_details">Πληροφ. εφαρμογής:</string>
+  <string name="auto">Αυτόματο</string>
+  <string name="bg_replacement_message">"Τοποθετήστε τη συσκευή και
+Βγείτε από το καρέ για μια στιγμή"</string>
+  <string name="camera_disabled">Η κάμερα έχει απενεργοποιηθεί λόγο ρυθμίσεων ασφαλείας.</string>
+  <string name="camera_error_title">Σφάλμα κάμερας</string>
+  <string name="camera_label">Κάμερα</string>
+  <string name="camera_settings_label">Ρυθμίσεις κάμερας</string>
+  <string name="can_not_play_video">Ξεκλειδώστε την οθόνη για προβολή αναπαραγωγής</string>
+  <string name="cancel">Άκυρο</string>
   <string name="cannot_connect_camera_once">"Can't connect to camera"</string>
   <string name="cannot_connect_camera_twice">"Still can't connect to camera. Try restarting your phone and see if the problem persists."</string>
   <string name="clear_effects">Clear effects</string>
@@ -155,7 +155,7 @@ Step out of view for a moment"</string>
   <string name="people">People</string>
   <string name="pref_advanced_functions">Advanced functions</string>
   <string name="pref_advanced_settings">Advanced</string>
-  <string name="pref_camcorder_settings_category">Camera settings</string>
+  <string name="pref_camcorder_settings_category">Ρυθμίσεις κάμερας</string>
   <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">AE-Bracket</string>
   <string name="pref_camera_ae_bracket_hdr_entry_hdr">HDR</string>
   <string name="pref_camera_ae_bracket_hdr_entry_off">Off</string>
@@ -306,7 +306,7 @@ Step out of view for a moment"</string>
   <string name="pref_camera_scenemode_entry_sports">Sports</string>
   <string name="pref_camera_scenemode_entry_sunset">Sunset</string>
   <string name="pref_camera_scenemode_title">Scene mode</string>
-  <string name="pref_camera_settings_category">Camera settings</string>
+  <string name="pref_camera_settings_category">Ρυθμίσεις κάμερας</string>
   <string name="pref_camera_settings_title">Settings</string>
   <string name="pref_camera_sharpness_entry_level0">Level 0</string>
   <string name="pref_camera_sharpness_entry_level1">Level 1</string>
@@ -398,13 +398,13 @@ Step out of view for a moment"</string>
   <string name="resume_playing_restart">Restart</string>
   <string name="resume_playing_resume">Resume playing</string>
   <string name="resume_playing_title">Resume video</string>
-  <string name="review_cancel">CANCEL</string>
+  <string name="review_cancel">Άκυρο</string>
   <string name="rotate_left">Rotate left</string>
   <string name="rotate_right">Rotate right</string>
   <string name="save">Save</string>
   <string name="scan_qrcode">Scan QR code</string>
   <string name="secure_access_web_url">Secure web access</string>
-  <string name="see_app_details">View app details</string>
+  <string name="see_app_details">View Πληροφ. εφαρμογής</string>
   <string name="see_qrcode_detals">See QR code details</string>
   <string name="select_all">Select all</string>
   <string name="select_image">Select photo</string>

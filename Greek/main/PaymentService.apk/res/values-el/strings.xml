@@ -52,14 +52,14 @@
   <string name="btn_wait_confirm">Waiting</string>
   <string name="btn_wait_confirm_count">Waiting（%1$s）</string>
   <string name="button_call">Call</string>
-  <string name="button_cancel">Cancel</string>
+  <string name="button_cancel">Άκυρο</string>
   <string name="button_confirm">Confirm</string>
   <string name="button_next">Next</string>
   <string name="button_pay">Confirm</string>
   <string name="button_recharge">Top up</string>
   <string name="button_recharge_pay">Confirm</string>
   <string name="button_retry">Retry</string>
-  <string name="cancel">Cancel</string>
+  <string name="cancel">Άκυρο</string>
   <string name="change_security_lock">Change security lock</string>
   <string name="colon">": "</string>
   <string name="detail_consume_account">Customer ID</string>
@@ -178,7 +178,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="linkpay_achieve_charge">Complete payment</string>
   <string name="linkpay_app_name">Linkpay</string>
   <string name="linkpay_back_game">Back to game</string>
-  <string name="linkpay_cancel">Cancel</string>
+  <string name="linkpay_cancel">Άκυρο</string>
   <string name="linkpay_charge_account">Topup account:</string>
   <string name="linkpay_charge_game">Topup game</string>
   <string name="linkpay_charge_money">Topup amount:</string>

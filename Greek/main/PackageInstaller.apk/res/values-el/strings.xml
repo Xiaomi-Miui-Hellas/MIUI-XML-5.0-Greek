@@ -9,7 +9,7 @@
   <string name="app_not_found_dlg_title">Application not found</string>
   <string name="auto_startup_dialog_msg">"MIUI will allow the app to start-up automatically without prompting. This may lead to consumption of power or data traffic. Allow Autostart?"</string>
   <string name="caller_app">Caller: %1$s</string>
-  <string name="cancel">Cancel</string>
+  <string name="cancel">Άκυρο</string>
   <string name="dlg_app_replacement_statement">"The application you are installing will replace another application. All previous user data will be saved."</string>
   <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) will replace the current version (%3$s). User’s contents will be retained. Are you sure you wish to install?"</string>
   <string name="dlg_app_replacement_title">Replace application</string>

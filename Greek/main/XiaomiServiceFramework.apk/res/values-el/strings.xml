@@ -58,7 +58,7 @@
   <string name="bind_weibo_description">Find phone contacts, friends and other information directly from your account</string>
   <string name="binded">Associated</string>
   <string name="btn_activate">Activate</string>
-  <string name="button_cancel">Cancel</string>
+  <string name="button_cancel">Άκυρο</string>
   <string name="captcha">Captcha code</string>
   <string name="check_phone_error_title">Failed to enable sync service</string>
   <string name="check_phone_io_error">Network error</string>

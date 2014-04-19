@@ -85,7 +85,7 @@ Ok to cancel backup"</string>
   <string name="cloud_app_no_wifi">Wi-Fi unavailable</string>
   <string name="cloud_app_no_wifi_connect">No Wi-Fi connection available</string>
   <string name="cloud_app_other_devices">Other devices</string>
-  <string name="cloud_app_remove_cancel">Cancel deletion</string>
+  <string name="cloud_app_remove_cancel">Άκυρο deletion</string>
   <string name="cloud_app_remove_cancel_prompt_message">"Delete incomplete backup, press OK
 to cancel"</string>
   <string name="cloud_app_remove_cancel_prompt_title">Stop deletion</string>
@@ -95,7 +95,7 @@ to cancel"</string>
   <string name="cloud_app_remove_prompt">%1$s of data will be deleted. Do you want to continue?</string>
   <string name="cloud_app_restore_action_bar_title">%1$s of data has been backed up</string>
   <string name="cloud_app_restore_app_and_data">Restore apps and user data</string>
-  <string name="cloud_app_restore_cancel">Cancel restore</string>
+  <string name="cloud_app_restore_cancel">Άκυρο restore</string>
   <string name="cloud_app_restore_cancel_prompt_message">"Restore incomplete, press OK
 to cancel restore"</string>
   <string name="cloud_app_restore_cancel_prompt_title">Cancel restore</string>

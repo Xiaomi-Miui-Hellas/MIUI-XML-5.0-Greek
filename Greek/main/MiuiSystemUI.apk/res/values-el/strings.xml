@@ -71,7 +71,7 @@
   <string name="camera_key_action_shortcut_wake">Lock/Wake device</string>
   <string name="camera_key_action_toggle_title">Trigger toggle</string>
   <string name="chooseUsbActivity">Select an application for the USB device</string>
-  <string name="compat_mode_help_body">When an app was designed for a smaller screen, a zoom control will appear by the clock.</string>
+  <string name="compat_mode_help_body">When an app was designed for a smaller screen, a Έλεγχος ζουμ will appear by the clock.</string>
   <string name="compat_mode_help_header">Compatibility zoom</string>
   <string name="compat_mode_off">Stretch to fill screen</string>
   <string name="compat_mode_on">Zoom to fill screen</string>
@@ -118,7 +118,7 @@
   <string name="label_view">View</string>
   <string name="lockscreen_carrier_default">No service</string>
   <string name="mdb_entering">Entering MDB</string>
-  <string name="mdb_restore_cancel">Cancel</string>
+  <string name="mdb_restore_cancel">Άκυρο</string>
   <string name="mdb_restore_info1">"Will restore your phone's data"</string>
   <string name="mdb_restore_info2">"Please don't unplug USB connection"</string>
   <string name="mdb_restore_label">MDB Restore</string>
