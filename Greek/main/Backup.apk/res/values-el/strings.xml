@@ -53,8 +53,8 @@
   <string name="cancel_backup">Ακύρωση αντιγραφής</string>
   <string name="cancel_restore">Ακύρωση επαναφοράς</string>
   <string name="cloud_app_backup_cancel">Ακύρωση αντιγραφής</string>
-  <string name="cloud_app_backup_cancel_prompt_message">"Backup incompleted, press 
-Ok to cancel backup"</string>
+  <string name="cloud_app_backup_cancel_prompt_message">"Η αντιγραφή δεν ολοκληρώθηκε, πιέστε 
+Ok για ακύρωση της διαδικασίας"</string>
   <string name="cloud_app_backup_cancel_prompt_title">Cancel backup</string>
   <string name="cloud_app_backup_date">"Backed up on "</string>
   <string name="cloud_app_backup_pending">Pending...</string>
