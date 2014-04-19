@@ -143,7 +143,7 @@
   <string name="create_shortcut_bookmark">Add shortcut to home</string>
   <string name="current_page">"from "</string>
   <string name="defaultBookmarksUpButton">Bookmarks</string>
-  <string name="delete">Delete</string>
+  <string name="delete">Διαγραφή</string>
   <string name="delete_bookmark">Delete bookmark</string>
   <string name="delete_bookmark_warning">Delete bookmark \"%s\"?</string>
   <string name="delete_folder">Delete folder</string>
@@ -187,7 +187,7 @@
   <string name="dump_dom_tree">Dump DOM tree to file</string>
   <string name="dump_nav">Dump navigation cache</string>
   <string name="dump_render_tree">Dump render tree to file</string>
-  <string name="edit">Edit</string>
+  <string name="edit">Επεξεργασία</string>
   <string name="edit_bookmark">Edit bookmark</string>
   <string name="edit_folder">Edit folder</string>
   <string name="empty_bookmarks_folder">No bookmarks.</string>

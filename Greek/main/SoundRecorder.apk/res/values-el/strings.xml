@@ -11,7 +11,7 @@
   <string name="call_record">Call recordings (%d)</string>
   <string name="call_record_or">or</string>
   <string name="default_record_name">Untitled recording</string>
-  <string name="delete">Delete</string>
+  <string name="delete">Διαγραφή</string>
   <string name="delete_dialog_message">Do you want to delete current recording?</string>
   <string name="deleting_message">Deleting...</string>
   <string name="dialog_content_storage_full">Due to lack of storage space, recording was forced to stop. Remove unnecessary files through the File Explorer, would you like to open it now?</string>

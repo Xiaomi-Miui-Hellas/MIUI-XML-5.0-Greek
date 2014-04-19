@@ -133,7 +133,7 @@ to cancel restore"</string>
   <string name="data_no_enough_space">Not enough free internal storage space, free some space and try again</string>
   <string name="data_no_enough_space_message">Restore may fail, please clear some Internal storage and try again</string>
   <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
-  <string name="delete">Delete</string>
+  <string name="delete">Διαγραφή</string>
   <string name="delete_backup_process">Deleting backup(s)...</string>
   <string name="delete_failed_backup_confirm">The backup has an error, cannot restore from this backup</string>
   <string name="dir_date_format">yyyy-MM-dd_HH-mm-ss</string>

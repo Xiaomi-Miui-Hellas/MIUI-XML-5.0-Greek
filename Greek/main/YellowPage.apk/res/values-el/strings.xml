@@ -26,7 +26,7 @@
   <string name="contact_detail_calllog_call_record_tips">Call log</string>
   <string name="custom_mark_category">Custom</string>
   <string name="data_error">Sorry, current service is not available, please try again later</string>
-  <string name="delete">Delete</string>
+  <string name="delete">Διαγραφή</string>
   <string name="express_inqiury_select_logistics">Select courier</string>
   <string name="express_inquiry">Tracking</string>
   <string name="express_inquiry_button_text">Track</string>

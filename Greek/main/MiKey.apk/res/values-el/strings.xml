@@ -43,7 +43,7 @@
   <string name="cn_8">8</string>
   <string name="cn_9">9</string>
   <string name="confirm">OK</string>
-  <string name="delete">Delete</string>
+  <string name="delete">Διαγραφή</string>
   <string name="delete_confirm">Delete?</string>
   <string name="delete_gesture">Delete settings?</string>
   <string name="device_not_recognized">Device not recognized. Try again.</string>

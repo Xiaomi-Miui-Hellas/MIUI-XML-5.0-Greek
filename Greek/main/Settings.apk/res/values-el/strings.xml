@@ -741,7 +741,7 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="default_date_format">MM/dd/yyyy</string>
   <string name="default_input_method">Choose default input method</string>
   <string name="default_usb_mode">USB connection</string>
-  <string name="delete">Delete</string>
+  <string name="delete">Διαγραφή</string>
   <string name="details_subtitle">Use details</string>
   <string name="details_title">Use details</string>
   <string name="dev_settings_warning_message">These settings are intended for development use only. They can cause your device and the applications on it to break or misbehave.</string>
@@ -1782,7 +1782,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
  You need to change this configuration before you can delete this profile."</string>
   <string name="power_dialog_delete_dialog_delete">"Delete custom profile and associated settings data? You can't reverse this action!"</string>
   <string name="power_dialog_delete_dialog_title">Delete custom profile</string>
-  <string name="power_dialog_ok">OK</string>
+  <string name="power_dialog_ok">ΟΚ</string>
   <string name="power_dialog_screen_brightness_automatic">Adjust brightness automatically</string>
   <string name="power_dialog_screen_brightness_automatic_off">Screen brightness will remain constant in all surroundings</string>
   <string name="power_dialog_screen_brightness_automatic_on">Screen brightness will vary in relation to the light in your surroundings</string>

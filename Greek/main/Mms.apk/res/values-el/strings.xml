@@ -94,7 +94,7 @@
   <string name="copy_to_sdcard_fail">Unable to save attachment</string>
   <string name="copy_to_sdcard_success">Attachment saved</string>
   <string name="database_corruption">Database corrupted, recreating database</string>
-  <string name="delete">Delete</string>
+  <string name="delete">Διαγραφή</string>
   <string name="delete_bookmark">Remove from Favorites</string>
   <string name="delete_message">Delete</string>
   <string name="delete_phrase">Delete phrase</string>
@@ -115,7 +115,7 @@
   <string name="duration_sec">Duration (%s sec)</string>
   <string name="duration_selector_title">"Duration for slide "</string>
   <string name="duration_zero">Duration must be greater than zero seconds</string>
-  <string name="edit">Edit</string>
+  <string name="edit">Επεξεργασία</string>
   <string name="edit_nickname_for_nocontact">No recipients found. Please have at least one recipient to edit nicknames.</string>
   <string name="edit_nickname_for_nocontact_by_robot">Please have at least one recipient to edit nicknames.</string>
   <string name="edit_phrase">Edit phrase</string>

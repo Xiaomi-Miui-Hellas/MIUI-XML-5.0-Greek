@@ -44,13 +44,13 @@ touch it with the back of your phone"</string>
   <string name="contact_card">Name card</string>
   <string name="contact_compay">Εταιρεία</string>
   <string name="contact_email">Email</string>
-  <string name="contact_name">Name</string>
-  <string name="contact_phone">Phone</string>
-  <string name="contact_title">Title</string>
+  <string name="contact_name">Όνομα</string>
+  <string name="contact_phone">Τηλέφωνο</string>
+  <string name="contact_title">Τίτλος</string>
   <string name="create">Create</string>
   <string name="create_configs_prompt">To add a task, touch Add</string>
   <string name="create_tag">New</string>
-  <string name="delete">Delete</string>
+  <string name="delete">Διαγραφή</string>
   <string name="deleting">Deleting…</string>
   <string name="detect_empty_tag">Empty tag detected</string>
   <string name="detect_tag">Tag detected</string>

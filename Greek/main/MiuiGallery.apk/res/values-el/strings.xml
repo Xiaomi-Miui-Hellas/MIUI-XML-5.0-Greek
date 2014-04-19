@@ -136,7 +136,7 @@ friends."</string>
   <string name="dcim_opaipic">Opaipic</string>
   <string name="dcim_viva_pics">VIVA</string>
   <string name="defalt_local_mobile">Mobile</string>
-  <string name="delete">Delete</string>
+  <string name="delete">Διαγραφή</string>
   <string name="delete_file">Delete %1$d files?</string>
   <string name="delete_files_and_folders">Are you sure to delete %1$d selected file(s) and %2$d selected folder(s)?</string>
   <string name="delete_folder">Delete %1$d selected folder(s)?</string>
@@ -144,12 +144,12 @@ friends."</string>
   <string name="deleting_files">Deleting files...</string>
   <string name="demo_video_folder_display_name">Demo video</string>
   <string name="deny">Reject</string>
-  <string name="description">Description</string>
-  <string name="details">Details</string>
+  <string name="description">Περιγραφή</string>
+  <string name="details">Πληροφορίες</string>
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="details_ms">%1$02d:%2$02d</string>
   <string name="details_sharer">Shared by</string>
-  <string name="details_title">%1$d of %2$d items:</string>
+  <string name="details_title">%1$d από %2$d αντικείμενα:</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="documentary">Documentary</string>
   <string name="done">Done</string>
@@ -159,8 +159,8 @@ friends."</string>
   <string name="download_fail">Download failed!</string>
   <string name="download_fail_confirm_continue">Downloading %s failed. Continue?</string>
   <string name="duotone">Duo-tone</string>
-  <string name="duration">Duration</string>
-  <string name="edit">Edit</string>
+  <string name="duration">Διάρκεια</string>
+  <string name="edit">Επεξεργασία</string>
   <string name="edited_photo_bucket_name">Edited</string>
   <string name="email_picker_title">Add shared e-mail</string>
   <string name="enable_cloud_for_sharing">Enable the MiCloud album to view shared pictures.</string>
