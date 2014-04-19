@@ -1,0 +1,27 @@
+#!/bin/bash
+##git commit -a && git pull && git push
+echo " "
+
+printf '%s ' 'Use with caution. Choose from a=commit all, pull, push, all=do-all.'
+read -${BASH_VERSION+e}r cmd
+
+case $cmd in
+    a)
+        echo "commiting all files to repository"
+		git commit -a
+        ;;
+    pull)
+        echo "pulling all files from repository"
+		git pull
+        ;;
+    push)
+        echo "pushing all files to repository"
+        git push
+        ;;
+    all)
+        echo "commiting all, pulling, pushing.."
+		git commit -a && git pull && git push
+        ;;
+	*)
+        echo "Unknown command - sure you know what you are doing here?"
+esac
