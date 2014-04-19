@@ -147,7 +147,7 @@
   <string name="account_setup_options_mail_window_2weeks">Two weeks</string>
   <string name="account_setup_options_mail_window_3days">Three days</string>
   <string name="account_setup_options_mail_window_all">All</string>
-  <string name="account_setup_options_mail_window_auto">Automatic</string>
+  <string name="account_setup_options_mail_window_auto">Αυτόματοmatic</string>
   <string name="account_setup_options_mail_window_default">"Use account's default"</string>
   <string name="account_setup_options_mail_window_label">Days to sync</string>
   <string name="account_setup_options_notify_label">Notify me when e-mail arrives.</string>

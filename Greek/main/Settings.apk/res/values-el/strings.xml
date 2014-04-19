@@ -705,7 +705,7 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="date_time_12_hour_sample">1:00 pm</string>
   <string name="date_time_24_hour_sample">13:00</string>
   <string name="date_time_24hour">Use 24-hour format</string>
-  <string name="date_time_auto">Automatic date &amp; time</string>
+  <string name="date_time_auto">Αυτόματοmatic date &amp; time</string>
   <string name="date_time_auto_summaryOff">Use network-provided time</string>
   <string name="date_time_auto_summaryOn">Use network-provided time</string>
   <string name="date_time_date_format">Choose date format</string>
@@ -3020,7 +3020,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different Wi-Fi network.</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xiaomi_money_service">MiCredit</string>
   <string name="yes">OK</string>
-  <string name="zone_auto">Automatic time zone</string>
+  <string name="zone_auto">Αυτόματοmatic time zone</string>
   <string name="zone_auto_summaryOff">Use network-provided time zone</string>
   <string name="zone_auto_summaryOn">Use network-provided time zone</string>
   <string name="zone_list_menu_sort_alphabetically">Sort alphabetically</string>
