@@ -613,7 +613,7 @@ To add a contact to your list of favorites:
   <string name="no_sdcard_message">No storage was found.</string>
   <string name="non_phone_add_to_contacts">Add to contacts</string>
   <string name="non_phone_caption">Phone number</string>
-  <string name="non_phone_close">Close</string>
+  <string name="non_phone_close">Κλείσιμο</string>
   <string name="none_found">No devices found</string>
   <string name="none_paired">No devices paired</string>
   <string name="not_applied">Not supported</string>

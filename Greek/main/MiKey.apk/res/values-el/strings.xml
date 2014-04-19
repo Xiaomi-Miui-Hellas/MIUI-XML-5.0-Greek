@@ -4,7 +4,7 @@
   <string name="action_clear_call_list">Clean call history</string>
   <string name="action_clear_memory">Clean RAM</string>
   <string name="action_clear_sms_inbox">Clean SMS Inbox</string>
-  <string name="action_close">Close</string>
+  <string name="action_close">Κλείσιμο</string>
   <string name="action_lock_screen">Lock screen</string>
   <string name="action_open_camera">Camera</string>
   <string name="action_open_flashlight">Flashlight</string>

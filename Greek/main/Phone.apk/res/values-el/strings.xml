@@ -22,7 +22,7 @@
   <string name="advanced_settings_show">▷ Touch to show all</string>
   <string name="advertisements_disable">Advertisements disabled</string>
   <string name="advertisements_enable">Advertisements enabled</string>
-  <string name="alert_dialog_close">Close the profile</string>
+  <string name="alert_dialog_close">Κλείσιμο the profile</string>
   <string name="alert_dialog_dismiss">Dismiss</string>
   <string name="alert_dialog_in_ecm_call">The selected action is not available while in an emergency call</string>
   <string name="alert_dialog_no">No</string>

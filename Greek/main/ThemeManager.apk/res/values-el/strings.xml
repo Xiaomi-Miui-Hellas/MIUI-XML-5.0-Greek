@@ -19,7 +19,7 @@
   <string name="backup_theme_success_message">Theme backup successful</string>
   <string name="basic_info">Basic info</string>
   <string name="change_wallpaper">Wallpaper</string>
-  <string name="close">Close</string>
+  <string name="close">Κλείσιμο</string>
   <string name="component_category_finest_title">Featured</string>
   <string name="component_category_more_title">More</string>
   <string name="component_include_title">Contains %1$s components</string>

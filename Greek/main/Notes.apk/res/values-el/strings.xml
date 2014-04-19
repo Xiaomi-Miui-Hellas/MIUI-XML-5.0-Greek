@@ -21,7 +21,7 @@
   <string name="attachment_gallery">Gallery</string>
   <string name="button_new_note">New Note</string>
   <string name="call_record_folder_name">Call notes</string>
-  <string name="close">Close</string>
+  <string name="close">Κλείσιμο</string>
   <string name="default_folder_name">Notes</string>
   <string name="dlg_desc_confirm_alarm_silent">Alarm clock and notes will not sound in silent mode when turned off.</string>
   <string name="dlg_title_confirm_alarm_silent">Do you want to silence alarms in silent mode?</string>

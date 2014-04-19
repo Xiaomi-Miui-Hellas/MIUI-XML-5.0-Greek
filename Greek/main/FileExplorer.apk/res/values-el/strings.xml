@@ -45,7 +45,7 @@
   <string name="cleaning">Cleaning...</string>
   <string name="cleanup_complete">Cleanup successful</string>
   <string name="cleanup_stopped">Cleanup stopped</string>
-  <string name="close">Close</string>
+  <string name="close">Κλείσιμο</string>
   <string name="compress_fail">Compression failed, destination already exists</string>
   <string name="compress_message">Compress to:</string>
   <string name="compress_title">Compress</string>
