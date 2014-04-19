@@ -43,11 +43,11 @@
   <string name="cit_charger_plugin_check_summary">Έλεγχος κατάστασης φορτηστή</string>
   <string name="cit_charger_plugin_check_title">Έλεγχος σύνδεσης φορτηστή</string>
   <string name="cit_charger_plugout_check_summary">Με αφαίρεση και επανατοποθέτηση του καλωδίου φόρτησης θα ξεκινήσει η δοκιμή</string>
-  <string name="cit_charger_plugout_check_title">Test charger disconnect</string>
-  <string name="cit_charger_waiting_in">Waiting for charger</string>
-  <string name="cit_charger_waiting_out">Unplug charger</string>
-  <string name="cit_display_check_summary">Test will display an image, please add a .bmp file to the root of the SD card</string>
-  <string name="cit_display_check_title">Test Screen</string>
+  <string name="cit_charger_plugout_check_title">Δοκιμή φορτηστή αποσύνδεση</string>
+  <string name="cit_charger_waiting_in">Αναμονή για φορτηστή</string>
+  <string name="cit_charger_waiting_out">Αφαιρέστε φορτηστή</string>
+  <string name="cit_display_check_summary">Η δοκιμή θα εμφανίσει μια εικόνα, παρακαλώ προσθέστε ένα αρχείο .bmp στην αρχή της κάρτας SD σας</string>
+  <string name="cit_display_check_title">Δοκιμή Οθόνης</string>
   <string name="cit_display_continue">Click on the screen to begin testing</string>
   <string name="cit_exit_test_summary">Exiting active tests will loose all data, are you sure you want to continue?</string>
   <string name="cit_exit_test_title">Stop test</string>
