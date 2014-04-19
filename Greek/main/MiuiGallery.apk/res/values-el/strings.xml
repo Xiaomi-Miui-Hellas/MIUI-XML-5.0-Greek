@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Import">Import</string>
+  <string name="Import">Εισαγωγή</string>
   <string name="accept">Accept</string>
   <string name="accept_or_deny">%1$s shared album %2$s with you.</string>
   <string name="action_fail_unknown_error">Operation failed due to unknown error.</string>
@@ -193,7 +193,7 @@ friends."</string>
   <string name="filllight">Fill Light</string>
   <string name="fisheye">Fisheye</string>
   <string name="flash">Flash</string>
-  <string name="flash_off">No flash</string>
+  <string name="flash_off">Χωρίς φλας</string>
   <string name="flash_on">Flash fired</string>
   <string name="flip">Flip</string>
   <string name="flip_tooltip">Drag photo to flip it</string>
