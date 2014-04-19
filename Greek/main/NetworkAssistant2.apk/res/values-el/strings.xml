@@ -7,7 +7,7 @@
   <string name="adjust_traffic_carrier_summary_two_day_before">Updated 2 days ago</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Updated yesterday at %s</string>
   <string name="adjust_traffic_data">Set data usage</string>
-  <string name="app_detail">Πληροφορίες</string>
+  <string name="app_detail">Details</string>
   <string name="app_mobile">DATA</string>
   <string name="app_name">Data usage</string>
   <string name="app_version">Version</string>
@@ -37,7 +37,7 @@ Usage in excess of your carrier plan's data limits can result in steep overage c
   <string name="data_usage_warning_title">Data usage warning</string>
   <string name="declaration_dialog_msg">This feature can help you track your usage, but is not guaranteed to prevent additional charges. For best results, set a conservative limit.</string>
   <string name="deleted_apps">Deleted Apps</string>
-  <string name="detail_app_button">Πληροφορίες</string>
+  <string name="detail_app_button">Details</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
   <string name="firewall_activity_lable">Restrict data usage by app</string>
@@ -88,7 +88,7 @@ Used"</string>
   <string name="network_control">View app settings</string>
   <string name="notification_content_title">Used %1$s while locked</string>
   <string name="notification_title">%1$s-%2$s: about %3$s used</string>
-  <string name="ok_button">ΟΚ</string>
+  <string name="ok_button">OK</string>
   <string name="per_month_pkg_traffic_settings">Set data limit</string>
   <string name="permit_running_network">Allow background data</string>
   <string name="person_hotpot">Mobile hotspots</string>
@@ -131,7 +131,7 @@ Used"</string>
   <string name="pref_package_traffic_overlay">%1$s | Additional: %2$s</string>
   <string name="pref_package_traffic_settings">Mobile data limit</string>
   <string name="pref_pkg_begin_date">Usage cycle reset date</string>
-  <string name="pref_setting_operators_message">Επεξεργασία the message your device sends your carrier to sync your data usage stats</string>
+  <string name="pref_setting_operators_message">Edit the message your device sends your carrier to sync your data usage stats</string>
   <string name="pref_show_mobile_traffic">When you unlock you phone, show data usage stats for the period when your device has been locked (must be longer than 3 minutes)</string>
   <string name="pref_special_traffic_exceed_limit">Notify me when data usage reaches limit</string>
   <string name="pref_special_traffic_limit_warn">Set data usage warning</string>
@@ -157,7 +157,7 @@ Used"</string>
   <string name="traffic_correction_start_correction">"Talking to carrier's servers…"</string>
   <string name="traffic_correction_start_correction_failed">Request failed, please check the operator settings</string>
   <string name="traffic_correction_success">Data usage updated</string>
-  <string name="traffic_none">Κανένα</string>
+  <string name="traffic_none">None</string>
   <string name="traffic_protection_data_usage_summary">"Usage in excess of your carrier plan's data limits can result in steep overage charges."</string>
   <string name="traffic_protection_label">Data usage warning</string>
   <string name="traffic_protection_next">Next</string>
@@ -181,5 +181,5 @@ Used"</string>
   <string name="traffic_setting_fragment_title">Data usage query settings</string>
   <string name="usage_sorted_activity_lable">Data usage</string>
   <string name="usage_sorted_empty_text">Empty</string>
-  <string name="usage_sorted_loading_text">Φορτώνει…</string>
+  <string name="usage_sorted_loading_text">Loading…</string>
 </resources>

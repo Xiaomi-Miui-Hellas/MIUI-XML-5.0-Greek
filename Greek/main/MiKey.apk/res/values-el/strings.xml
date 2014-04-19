@@ -6,8 +6,8 @@
   <string name="action_clear_sms_inbox">Clean SMS Inbox</string>
   <string name="action_close">Close</string>
   <string name="action_lock_screen">Lock screen</string>
-  <string name="action_open_camera">Κάμερα</string>
-  <string name="action_open_flashlight">Φλαςlight</string>
+  <string name="action_open_camera">Camera</string>
+  <string name="action_open_flashlight">Flashlight</string>
   <string name="action_open_or_close_motion">On/Off Motion</string>
   <string name="action_open_other_app">Other app</string>
   <string name="action_open_sound_recorder">Reocrd sound</string>
@@ -21,7 +21,7 @@
   <string name="add">Add</string>
   <string name="app_name">MiKey</string>
   <string name="call_to">Call</string>
-  <string name="cancel">Άκυρο</string>
+  <string name="cancel">Cancel</string>
   <string name="category_app">Apps</string>
   <string name="category_system_settings">Settings</string>
   <string name="clean_memory">Clean memory</string>
@@ -42,8 +42,8 @@
   <string name="cn_7">7</string>
   <string name="cn_8">8</string>
   <string name="cn_9">9</string>
-  <string name="confirm">ΟΚ</string>
-  <string name="delete">Διαγραφή</string>
+  <string name="confirm">OK</string>
+  <string name="delete">Delete</string>
   <string name="delete_confirm">Delete?</string>
   <string name="delete_gesture">Delete settings?</string>
   <string name="device_not_recognized">Device not recognized. Try again.</string>

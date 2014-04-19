@@ -25,7 +25,7 @@
   <string name="account_settings_delete_account_label">Remove account</string>
   <string name="account_settings_description_label">Account name</string>
   <string name="account_settings_edit_quick_responses_label">Quick responses</string>
-  <string name="account_settings_edit_quick_responses_summary">Επεξεργασία text that you frequently insert when composing e-mails</string>
+  <string name="account_settings_edit_quick_responses_summary">Edit text that you frequently insert when composing e-mails</string>
   <string name="account_settings_exit_server_settings">Discard unsaved changes?</string>
   <string name="account_settings_incoming_label">Incoming settings</string>
   <string name="account_settings_incoming_summary">Username, password, and other incoming server settings</string>
@@ -65,7 +65,7 @@
   <string name="account_setup_basics_exchange_title">Add an Exchange account</string>
   <string name="account_setup_basics_exchange_title_alternate">Add an Exchange ActiveSync account</string>
   <string name="account_setup_basics_headline">E-mail account</string>
-  <string name="account_setup_basics_manual_setup_action">Εγχειρίδιο setup</string>
+  <string name="account_setup_basics_manual_setup_action">Manual setup</string>
   <string name="account_setup_basics_password_label">Password</string>
   <string name="account_setup_basics_title">Account setup</string>
   <string name="account_setup_check_settings_check_incoming_msg">Checking incoming server settings…</string>
@@ -74,7 +74,7 @@
   <string name="account_setup_exchange_certificate_title">Client certificate</string>
   <string name="account_setup_exchange_device_id_label">Mobile Device ID</string>
   <string name="account_setup_exchange_headline">Server settings</string>
-  <string name="account_setup_exchange_no_certificate">Κανένα</string>
+  <string name="account_setup_exchange_no_certificate">None</string>
   <string name="account_setup_exchange_remove_certificate">Remove</string>
   <string name="account_setup_exchange_select_certificate">Select</string>
   <string name="account_setup_exchange_server_label">Server</string>
@@ -94,7 +94,7 @@
   <string name="account_setup_failed_dlg_certificate_message">"Can't safely connect to server."</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Can't safely connect to server.
 (%s)"</string>
-  <string name="account_setup_failed_dlg_edit_details_action">Επεξεργασία details</string>
+  <string name="account_setup_failed_dlg_edit_details_action">Edit details</string>
   <string name="account_setup_failed_dlg_server_message">"Can't connect to server."</string>
   <string name="account_setup_failed_dlg_server_message_fmt">"Can't connect to server.
 (%s)"</string>
@@ -115,7 +115,7 @@
   <string name="account_setup_incoming_pop_server_label">POP3 server</string>
   <string name="account_setup_incoming_port_label">Port</string>
   <string name="account_setup_incoming_security_label">Security type</string>
-  <string name="account_setup_incoming_security_none_label">Κανένα</string>
+  <string name="account_setup_incoming_security_none_label">None</string>
   <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
   <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (Accept all certificates)</string>
   <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
@@ -238,7 +238,7 @@
   <string name="discard_action">Discard</string>
   <string name="done">Done</string>
   <string name="done_action">Done</string>
-  <string name="edit_quick_response_dialog">Επεξεργασία quick response</string>
+  <string name="edit_quick_response_dialog">Edit quick response</string>
   <string name="eml_view_title">Viewing %s</string>
   <string name="error_loading_message_body">"Couldn't load the message text. The message may be too large to view."</string>
   <string name="exchange_name">Corporate</string>
@@ -374,7 +374,7 @@ CC: %4$s
   <string name="next_action">Next</string>
   <string name="notification_multiple_new_messages_fmt">%1$d new messages</string>
   <string name="notification_to_account">to %1$s</string>
-  <string name="okay_action">ΟΚ</string>
+  <string name="okay_action">OK</string>
   <string name="older_action">Older</string>
   <string name="password_expire_warning_content_title">Lock screen password expiring</string>
   <string name="password_expire_warning_dialog_content_fmt">You must change your lock screen PIN or password soon, or the data for %s will be erased. Change it now?</string>
@@ -420,7 +420,7 @@ CC: %4$s
   <string name="show_quick_text_list_dialog_action">Insert quick response</string>
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-  <string name="status_loading_messages">Φορτώνει messages…</string>
+  <string name="status_loading_messages">Loading messages…</string>
   <string name="status_network_error">Network error</string>
   <string name="subject_hint">Subject</string>
   <string name="system_account_create_failed">"Couldn't create the account. Try again."</string>
@@ -432,7 +432,7 @@ CC: %4$s
   <string name="waitinf_for_sync_message_1">Syncing...</string>
   <string name="waitinf_for_sync_message_2">Your inbox will appear soon.</string>
   <string name="widget_all_mail">Combined Inbox</string>
-  <string name="widget_loading">Φορτώνει…</string>
+  <string name="widget_loading">Loading…</string>
   <string name="widget_no_accounts">"You haven't set up an e-mail account yet."</string>
   <string name="widget_no_mailboxes">"This account isn't synced. Try again later."</string>
   <string name="widget_other_views">Touch icon to change.</string>

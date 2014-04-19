@@ -2,10 +2,10 @@
 <resources>
   <string name="FMRecording_reach_storage_threshold">Recording has stopped. Your SD card storage space is low.</string>
   <string name="access_sd_fail">"Couldn't access SD card."</string>
-  <string name="alert_dialog_cancel">Άκυρο</string>
-  <string name="alert_dialog_ok">ΟΚ</string>
+  <string name="alert_dialog_cancel">Cancel</string>
+  <string name="alert_dialog_ok">OK</string>
   <string name="alert_message_delete_station">Are you sure you want to delete the selected station?</string>
-  <string name="alert_title_delete">Διαγραφή</string>
+  <string name="alert_title_delete">Delete</string>
   <string name="alert_title_new_station">New Station</string>
   <string name="alert_title_save_station">Save Station - %s</string>
   <string name="app_name">FM Radio</string>
@@ -26,7 +26,7 @@
   <string name="delete_station_title">Delete</string>
   <string name="dialog_sleep_title">Select Auto-Off Sleep Time</string>
   <string name="durationformat">%2$d:%5$02d</string>
-  <string name="edit_station">Επεξεργασία Station</string>
+  <string name="edit_station">Edit Station</string>
   <string name="enter_rssi">Enter RMSSI Delta</string>
   <string name="enter_sigth">Enter Signal Th</string>
   <string name="exit_fm">Exit</string>
@@ -49,8 +49,8 @@
   <string name="increase_af">increase frequency</string>
   <string name="input_station">Radio Frequency (MHz)</string>
   <string name="menu_add_list">Add List</string>
-  <string name="menu_delete">Διαγραφή</string>
-  <string name="menu_edit">Επεξεργασία</string>
+  <string name="menu_delete">Delete</string>
+  <string name="menu_edit">Edit</string>
   <string name="menu_exit">Exit</string>
   <string name="menu_new_station">Add New Station</string>
   <string name="menu_play">Play</string>
@@ -68,10 +68,10 @@
   <string name="menu_select_station">Select Station</string>
   <string name="menu_settings">Settings</string>
   <string name="menu_sleep">Sleep</string>
-  <string name="menu_sleep_cancel">Άκυρο Sleep</string>
+  <string name="menu_sleep_cancel">Cancel Sleep</string>
   <string name="menu_stats">FM RF Stats</string>
   <string name="msg_callactive">FM Tx is not supported when there is an active voice call</string>
-  <string name="msg_headsetpluggedin">Ντίσκοnnect all Headsets before using FM Tx</string>
+  <string name="msg_headsetpluggedin">Disconnect all Headsets before using FM Tx</string>
   <string name="msg_noantenna_message">To improve sound quality, connect your headphones</string>
   <string name="msg_scanning">Scanning for all FM Stations</string>
   <string name="msg_scanning_pty">Scanning for %s</string>
@@ -84,7 +84,7 @@
   <string name="no_storage">Mount SD card before recording begins.</string>
   <string name="pre_station">previous station</string>
   <string name="preparing_sd">Preparing SD card</string>
-  <string name="preset_delete">Διαγραφή</string>
+  <string name="preset_delete">Delete</string>
   <string name="preset_replace">Replace</string>
   <string name="preset_tune">Tune</string>
   <string name="presetlist_autoselect_title">Confirm Auto-Select</string>
@@ -111,7 +111,7 @@
   <string name="stat_notif_frequency">: %1$s MHz</string>
   <string name="stat_notif_tx_frequency">FM Transmitting at: %1$s</string>
   <string name="station_check_favorite">Add to favourites</string>
-  <string name="station_edit">Επεξεργασία</string>
+  <string name="station_edit">Edit</string>
   <string name="station_freq_format">%sMHz</string>
   <string name="station_move">Move</string>
   <string name="station_name_already_used">Station name is already in use. Please choose another station name</string>

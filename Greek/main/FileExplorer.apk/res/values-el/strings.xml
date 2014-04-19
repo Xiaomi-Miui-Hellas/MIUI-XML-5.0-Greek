@@ -7,7 +7,7 @@
   <string name="app_cache_cleanup_indication">%s cache</string>
   <string name="app_cache_title">App cache</string>
   <string name="app_garbage_cleanup_indication">%s app junk</string>
-  <string name="app_garbage_path">Τοποθεσία:</string>
+  <string name="app_garbage_path">Location:</string>
   <string name="app_garbage_title">App junk</string>
   <string name="app_name">File Explorer</string>
   <string name="application_size_label">App</string>
@@ -19,7 +19,7 @@
   <string name="binded_accout_description">Accounts are merged, use either your Xiaomi account or MiDrive account to login, both can read your data</string>
   <string name="binded_accout_title">MiDrive account</string>
   <string name="cache_size_label">Cache</string>
-  <string name="cancel">Άκυρο</string>
+  <string name="cancel">Cancel</string>
   <string name="cancel_app_garbage_cleanup">Cancel app cleanup</string>
   <string name="cancel_with_count_down">Cancel (%d)</string>
   <string name="category_all">All</string>
@@ -45,12 +45,12 @@
   <string name="cleaning">Cleaning...</string>
   <string name="cleanup_complete">Cleanup successful</string>
   <string name="cleanup_stopped">Cleanup stopped</string>
-  <string name="close">Κλείσιμο</string>
+  <string name="close">Close</string>
   <string name="compress_fail">Compression failed, destination already exists</string>
   <string name="compress_message">Compress to:</string>
   <string name="compress_title">Compress</string>
-  <string name="confirm">ΟΚ</string>
-  <string name="confirm_know">ΟΚ</string>
+  <string name="confirm">OK</string>
+  <string name="confirm_know">OK</string>
   <string name="copy_failed">Failed to copy</string>
   <string name="count_down_time">Start after %d seconds</string>
   <string name="create_kuaipan_shortcut_pref">Create a shortcut to the desktop</string>
@@ -60,7 +60,7 @@
   <string name="cution">Tips</string>
   <string name="data_capacity">Space: %1$s</string>
   <string name="data_size_label">Data</string>
-  <string name="decompress_cancel">Άκυρο</string>
+  <string name="decompress_cancel">Cancel</string>
   <string name="decompress_confirm">Decompress?</string>
   <string name="decompress_fail">Decompression failed!</string>
   <string name="decompress_success">Decompression successful</string>
@@ -104,7 +104,7 @@
   <string name="file_info_location">Path:</string>
   <string name="file_info_modified">Modified:</string>
   <string name="file_info_size">Size:</string>
-  <string name="file_loading">Φορτώνει...</string>
+  <string name="file_loading">Loading...</string>
   <string name="file_too_large">"The file is too large and can't be uploaded"</string>
   <string name="finished">Finished</string>
   <string name="folder_exist">The folder already exists</string>
@@ -137,8 +137,8 @@ Junk"</string>
   <string name="kuaipan_prompt">MiDrive Help</string>
   <string name="kuaipan_prompt_message">"The server is currently unavailable, please try again later"</string>
   <string name="kuaipan_tech_support">Technical support provided by Xiaomi</string>
-  <string name="load_err">Φορτώνει failed</string>
-  <string name="loading">Φορτώνει…</string>
+  <string name="load_err">Loading failed</string>
+  <string name="loading">Loading…</string>
   <string name="local_cache_size">Local cache size: %s</string>
   <string name="login_reg_content">MiDrive helps you store files and sync them between multiple devices.</string>
   <string name="login_reg_content0">MiDrive is your Cloud storage drive</string>
@@ -179,7 +179,7 @@ Junk"</string>
 2. Upload (update the remote file)"</string>
   <string name="open_changed_file_title">File modified</string>
   <string name="operating">Running…</string>
-  <string name="operation_cancel">Άκυρο</string>
+  <string name="operation_cancel">Cancel</string>
   <string name="operation_compress">Compress</string>
   <string name="operation_compressing">Compressing...</string>
   <string name="operation_copy">Copy</string>
@@ -188,7 +188,7 @@ Junk"</string>
   <string name="operation_create_folder">New folder</string>
   <string name="operation_create_folder_message">Enter folder name</string>
   <string name="operation_decompressing">Decompressing...</string>
-  <string name="operation_delete">Διαγραφή</string>
+  <string name="operation_delete">Delete</string>
   <string name="operation_delete_confirm_message">Confirm Deletion?</string>
   <string name="operation_delete_confirm_message_folder">"Deleting the folder will also delete all files within it."</string>
   <string name="operation_deleting">Deleting...</string>
@@ -196,7 +196,7 @@ Junk"</string>
   <string name="operation_download_link">Generate download link</string>
   <string name="operation_favorite">Add to Favorites</string>
   <string name="operation_hide_sys">Hide hidden files</string>
-  <string name="operation_info">Πληροφορίες</string>
+  <string name="operation_info">Details</string>
   <string name="operation_move">Move</string>
   <string name="operation_moving">Moving...</string>
   <string name="operation_moving_detail">Moving files (%1$d/%2$d)</string>

@@ -52,14 +52,14 @@
   <string name="btn_wait_confirm">Waiting</string>
   <string name="btn_wait_confirm_count">Waiting（%1$s）</string>
   <string name="button_call">Call</string>
-  <string name="button_cancel">Άκυρο</string>
+  <string name="button_cancel">Cancel</string>
   <string name="button_confirm">Confirm</string>
   <string name="button_next">Next</string>
   <string name="button_pay">Confirm</string>
   <string name="button_recharge">Top up</string>
   <string name="button_recharge_pay">Confirm</string>
   <string name="button_retry">Retry</string>
-  <string name="cancel">Άκυρο</string>
+  <string name="cancel">Cancel</string>
   <string name="change_security_lock">Change security lock</string>
   <string name="colon">": "</string>
   <string name="detail_consume_account">Customer ID</string>
@@ -178,7 +178,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="linkpay_achieve_charge">Complete payment</string>
   <string name="linkpay_app_name">Linkpay</string>
   <string name="linkpay_back_game">Back to game</string>
-  <string name="linkpay_cancel">Άκυρο</string>
+  <string name="linkpay_cancel">Cancel</string>
   <string name="linkpay_charge_account">Topup account:</string>
   <string name="linkpay_charge_game">Topup game</string>
   <string name="linkpay_charge_money">Topup amount:</string>
@@ -199,14 +199,14 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="linkpay_choose_paycard_value">Select card value</string>
   <string name="linkpay_commodity_name">Goods:</string>
   <string name="linkpay_company_title">Company:</string>
-  <string name="linkpay_confirm_char">ΟΚ</string>
+  <string name="linkpay_confirm_char">OK</string>
   <string name="linkpay_confirm_order">Order confirmation</string>
   <string name="linkpay_consumer_records">Customer records</string>
   <string name="linkpay_consumer_records_thirtydays">Last 30 days customer history</string>
   <string name="linkpay_copyright">Copyright, China Unicom</string>
   <string name="linkpay_deal_time">Opening hours</string>
   <string name="linkpay_dear_user">Dear user:</string>
-  <string name="linkpay_determine">ΟΚ</string>
+  <string name="linkpay_determine">OK</string>
   <string name="linkpay_enter_phonenum_msg">Dear Unicom user, SMS verification has failed, please enter a valid phone number to re-send the verification code.</string>
   <string name="linkpay_enter_right_phonenumber">Enter a valid phone number</string>
   <string name="linkpay_enter_right_verificationcode">Invalid verification code</string>
@@ -245,7 +245,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="linkpay_please_use_3gnet">Please use 3G network to make payments</string>
   <string name="linkpay_price">Price (points)</string>
   <string name="linkpay_product">Product details</string>
-  <string name="linkpay_product_title">Πληροφορίες:</string>
+  <string name="linkpay_product_title">Details:</string>
   <string name="linkpay_prompt">Tip</string>
   <string name="linkpay_recharge">Topup</string>
   <string name="linkpay_request_exception">Linkpay request exception</string>
@@ -257,7 +257,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="linkpay_searching_payed">Checking payment status</string>
   <string name="linkpay_searching_record">Checking payment records</string>
   <string name="linkpay_send_sms_faild">SMS send failure!</string>
-  <string name="linkpay_send_sms_text_char">Dear Unicom user, please click "ΟΚ" to send SMS message to validate your phone number.</string>
+  <string name="linkpay_send_sms_text_char">Dear Unicom user, please click "OK" to send SMS message to validate your phone number.</string>
   <string name="linkpay_sendsms_fail">Failed to send SMS!</string>
   <string name="linkpay_sendsms_ok">SMS send successfully!</string>
   <string name="linkpay_sendsms_outoftime">SMS timeout!</string>
@@ -330,7 +330,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Forgot pattern password&lt;/u&gt;</string>
   <string name="login">Login</string>
   <string name="memu_refresh">Refresh</string>
-  <string name="mibi_license_message">Touch ΟΚ if you agree to the terms and conditions described in the %1$s.</string>
+  <string name="mibi_license_message">Touch OK if you agree to the terms and conditions described in the %1$s.</string>
   <string name="mibi_license_message_span">MiCredit User Agreement</string>
   <string name="mibi_license_title">User agreement</string>
   <string name="mili_center">MiCredit</string>
@@ -383,7 +383,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="progress_bankcall_card_creating">Generating order…</string>
   <string name="progress_bankcall_card_querying">Checking account type…</string>
   <string name="progress_creating">Retrieving order info…</string>
-  <string name="progress_downloading">Φορτώνει…</string>
+  <string name="progress_downloading">Loading…</string>
   <string name="progress_error_pay_summary">%1$s MiCredits added, but payment failed! Please try again later.</string>
   <string name="progress_error_pay_title">Payment failed</string>
   <string name="progress_error_recharge_summary">Top-up failed! Please try again later.</string>
@@ -435,7 +435,7 @@ We will check again within two working days."</string>
   <string name="security_setting">Security settings</string>
   <string name="summary_lockpattern">Require unique pattern lock for MiCredit</string>
   <string name="title_change_lockpattern">Change pattern lock</string>
-  <string name="title_discounts">Ντίσκοunts</string>
+  <string name="title_discounts">Discounts</string>
   <string name="title_gesture">Pattern lock</string>
   <string name="title_giftcard">Promotions</string>
   <string name="title_lockpattern">Pattern lock required</string>

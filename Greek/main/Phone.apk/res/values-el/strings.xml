@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="ContactScreen">Add/Επεξεργασία SIM Contact</string>
+  <string name="ContactScreen">Add/Edit SIM Contact</string>
   <string name="ExportContactScreen">Export phone contacts to SIM card</string>
   <string name="absent_num">ABSENT NUMBER</string>
   <string name="accessibility_call_muted">Call muted.</string>
@@ -26,7 +26,7 @@
   <string name="alert_dialog_dismiss">Dismiss</string>
   <string name="alert_dialog_in_ecm_call">The selected action is not available while in an emergency call</string>
   <string name="alert_dialog_no">No</string>
-  <string name="alert_dialog_ok">ΟΚ</string>
+  <string name="alert_dialog_ok">OK</string>
   <string name="alert_dialog_yes">Yes</string>
   <string name="allContactdeleteFailed">Failed to delete all contacts from SIM !!!</string>
   <string name="allContactdeleteSuccess">Successfully deleted all contacts from SIM card</string>
@@ -47,7 +47,7 @@
   <string name="antispam_notification_title">Unknown</string>
   <string name="antispam_provider">Identified by %s</string>
   <string name="apn_settings">Access Point Names</string>
-  <string name="areacode_required_accept_miui">ΟΚ</string>
+  <string name="areacode_required_accept_miui">OK</string>
   <string name="areacode_required_for_emergency_number_miui">Area code required for emergency calls</string>
   <string name="areacode_required_miui">Area code is required</string>
   <string name="atr_disable">Area Traffic Reports disabled</string>
@@ -177,7 +177,7 @@
   <string name="calling_via_template">Calling via %s</string>
   <string name="calling_via_template_miui">"Calling via ^1
 "</string>
-  <string name="cancel">Άκυρο</string>
+  <string name="cancel">Cancel</string>
   <string name="cancel_call">Cancel</string>
   <string name="card_01">Card 1</string>
   <string name="card_02">Card 2</string>
@@ -244,7 +244,7 @@
   <string name="clir_choices_hide_number_miui">Hide number</string>
   <string name="clir_choices_network_default_miui">Network default</string>
   <string name="clir_choices_show_number_miui">Show number</string>
-  <string name="close_dialog">ΟΚ</string>
+  <string name="close_dialog">OK</string>
   <string name="close_profile">Close</string>
   <string name="command_error_fdn_failure_miui">This operation is not allowed when FDN is enabled, please retry after FDN disabled.</string>
   <string name="command_error_generic_failure_miui">Failed to finish this operation, please retry later.</string>
@@ -311,7 +311,7 @@
   <string name="default_port">5060</string>
   <string name="default_preference_summary">&lt;Not set&gt;</string>
   <string name="default_transport">UDP</string>
-  <string name="delete">Διαγραφή</string>
+  <string name="delete">Delete</string>
   <string name="deleteAllSimEntries">Delete All SIM card contacts</string>
   <string name="deleteSimContacts">Deleting SIM card contacts...</string>
   <string name="delete_all_sim_contacts_miui">Delete all SIM card contacts</string>
@@ -380,9 +380,9 @@
   <string name="dtmf_tones_title_miui">DTMF Tones</string>
   <string name="duringcall">Operation is not permitted during call</string>
   <string name="ecm_exit_dialog">EcmExitDialog</string>
-  <string name="editContact">Επεξεργασία</string>
+  <string name="editContact">Edit</string>
   <string name="edit_custom_location_title_miui">Customize regional attribution, number attribution, wildcards # supported</string>
-  <string name="edit_fdn_contact">Επεξεργασία fixed dialing number</string>
+  <string name="edit_fdn_contact">Edit fixed dialing number</string>
   <string name="emergencyDialerIconLabel">Emergency Dialer</string>
   <string name="emergency_broadcast_disable">Emergency Broadcast disabled</string>
   <string name="emergency_broadcast_enable">Emergency Broadcast enabled</string>
@@ -574,9 +574,9 @@ Switch to the new provider anyway?"</string>
   <string name="manage_fdn_list_miui">FDN list</string>
   <string name="manage_fdn_list_sum_miui">Manage phone number list</string>
   <string name="menu_add">Add contact</string>
-  <string name="menu_delete">Διαγραφή contact</string>
+  <string name="menu_delete">Delete contact</string>
   <string name="menu_deselect_all">Deselect All</string>
-  <string name="menu_edit">Επεξεργασία contact</string>
+  <string name="menu_edit">Edit contact</string>
   <string name="menu_select_all">Select all</string>
   <string name="menu_select_title">%d selected</string>
   <string name="messageCFB">Number when busy</string>
@@ -661,7 +661,7 @@ Switch to the new provider anyway?"</string>
   <string name="nw_subset_unlock_success">SIM Network Subset unlock successful.</string>
   <string name="nw_unlock_failed">SIM Network unlock request unsuccessful.</string>
   <string name="nw_unlock_success">SIM Network unlock successful.</string>
-  <string name="ok">ΟΚ</string>
+  <string name="ok">OK</string>
   <string name="oldPin2Label">Old PIN2</string>
   <string name="oldPinLabel">Old PIN</string>
   <string name="old_pin2_hint_miui">Current PIN2</string>
@@ -691,7 +691,7 @@ Switch to the new provider anyway?"</string>
   <string name="onscreen_merge_calls_text_miui">Merge calls</string>
   <string name="onscreen_mute_text_miui">Mute</string>
   <string name="onscreen_note_text_miui">Note</string>
-  <string name="onscreen_send_flash_text_miui">Φλας</string>
+  <string name="onscreen_send_flash_text_miui">Flash</string>
   <string name="onscreen_speaker_text_miui">Speaker</string>
   <string name="onscreen_swap_calls_text_miui">Swap</string>
   <string name="onscreen_tools_off_miui">Tools</string>
@@ -778,7 +778,7 @@ Switch to the new provider anyway?"</string>
   <string name="preferred_network_mode_title">Network Mode</string>
   <string name="preferred_network_mode_wcdma_only_summary">Preferred network mode: WCDMA only</string>
   <string name="preferred_network_mode_wcdma_perf_summary">Preferred network mode: WCDMA preferred</string>
-  <string name="preferred_network_type_3g_only_warning_miui">"You selected 3G only as preferred network type, so there will be no signal if your SIM card has no 3G functionality! Click ΟΚ to continue."</string>
+  <string name="preferred_network_type_3g_only_warning_miui">"You selected 3G only as preferred network type, so there will be no signal if your SIM card has no 3G functionality! Click OK to continue."</string>
   <string name="preferred_network_type_cdma_miui">CDMA</string>
   <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_miui">3G preferred</string>
@@ -861,7 +861,7 @@ Switch to the new provider anyway?"</string>
   <string name="respond_via_sms_edittext_dialog_title">Quick response</string>
   <string name="respond_via_sms_setting_summary"/>
   <string name="respond_via_sms_setting_title">Quick responses</string>
-  <string name="respond_via_sms_setting_title_2">Επεξεργασία quick responses</string>
+  <string name="respond_via_sms_setting_title_2">Edit quick responses</string>
   <string name="response_error">Unexpected response from network.</string>
   <string name="restaurants_disable">Restaurants disabled</string>
   <string name="restaurants_enable">Restaurants enabled</string>
@@ -918,7 +918,7 @@ Switch to the new provider anyway?"</string>
   <string name="settings_label">Network settings</string>
   <string name="simContacts_airplaneMode">To import contacts from SIM card, please turn off Airplane mode.</string>
   <string name="simContacts_empty">No contacts on your SIM card.</string>
-  <string name="simContacts_emptyΦορτώνει">Reading from SIM card…</string>
+  <string name="simContacts_emptyLoading">Reading from SIM card…</string>
   <string name="simContacts_title">Select contacts to import</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Deselect all</string>
   <string name="sim_contact_dropdown_menu_select_all_miui">Select all</string>
@@ -999,7 +999,7 @@ Switch to the new provider anyway?"</string>
   <string name="sum_fdn_manage_list">Manage phone number list</string>
   <string name="sum_gsm_call_settings">Additional GSM only call settings</string>
   <string name="sum_hide_caller_id">Number hidden in outgoing calls</string>
-  <string name="sum_loading_settings">Φορτώνει settings…</string>
+  <string name="sum_loading_settings">Loading settings…</string>
   <string name="sum_search_networks">Search for all available networks</string>
   <string name="sum_select_automatically">Automatically select preferred network</string>
   <string name="sum_select_automatically_option_miui">Automatically select preferred network, %s</string>
@@ -1015,7 +1015,7 @@ Switch to the new provider anyway?"</string>
   <string name="t9_indexing_rebuilding_message">Rebuilding T9 Indexes, please wait...</string>
   <string name="technology_news_disable">Technology News disabled</string>
   <string name="technology_news_enable">Technology News enabled</string>
-  <string name="telocation_setting_miui">Τοποθεσία settings</string>
+  <string name="telocation_setting_miui">Location settings</string>
   <string name="telocation_setting_summary_countrycode_off">"Don't auto-add country code"</string>
   <string name="telocation_setting_summary_countrycode_on">Auto-add country code</string>
   <string name="telocation_setting_summary_teloc_off">Hide location</string>

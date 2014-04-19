@@ -10,7 +10,7 @@
         <item>Animation scale 10x</item>
     </string-array>
     <string-array name="apn_auth_entries">
-        <item>Κανένα</item>
+        <item>None</item>
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP or CHAP</item>
@@ -176,7 +176,7 @@
        <item>Phone</item>
        <item>SMS</item>
        <item>Browser</item>
-       <item>Κάμερα</item>
+       <item>Camera</item>
        <item>Albums</item>
        <item>Music</item>
        <item>E-mail</item>
@@ -201,7 +201,7 @@
         <item>Cool</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
-        <item>Κανένα</item>
+        <item>None</item>
         <item>Launch Recent panel</item>
         <item>Launch Voice assist</item>
         <item>Launch Google now</item>
@@ -287,7 +287,7 @@
         <item>Monkey</item>
     </string-array>
     <string-array name="vpn_states">
-        <item>Ντίσκοnnected</item>
+        <item>Disconnected</item>
         <item>Initializing…</item>
         <item>Connecting…</item>
         <item>Connected</item>
@@ -337,8 +337,8 @@
         <item>PIN from this device</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
-        <item>Κανένα</item>
-        <item>Εγχειρίδιο</item>
+        <item>None</item>
+        <item>Manual</item>
     </string-array>
     <string-array name="wifi_signal">
         <item>Poor</item>
@@ -364,8 +364,8 @@
         <item>Obtaining IP address…</item>
         <item>Connected</item>
         <item>Suspended</item>
-        <item>Ντίσκοnnecting…</item>
-        <item>Ντίσκοnnected</item>
+        <item>Disconnecting…</item>
+        <item>Disconnected</item>
         <item>Unsuccessful</item>
         <item>Blocked</item>
         <item>Temporarily avoiding poor connection</item>
@@ -378,8 +378,8 @@
         <item>Obtaining IP address from %1$s…</item>
         <item>Connected to %1$s</item>
         <item>Suspended</item>
-        <item>Ντίσκοnnecting from %1$s…</item>
-        <item>Ντίσκοnnected</item>
+        <item>Disconnecting from %1$s…</item>
+        <item>Disconnected</item>
         <item>Unsuccessful</item>
         <item>Blocked</item>
         <item>Temporarily avoiding poor connection</item>

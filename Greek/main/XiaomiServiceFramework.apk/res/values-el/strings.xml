@@ -58,7 +58,7 @@
   <string name="bind_weibo_description">Find phone contacts, friends and other information directly from your account</string>
   <string name="binded">Associated</string>
   <string name="btn_activate">Activate</string>
-  <string name="button_cancel">Άκυρο</string>
+  <string name="button_cancel">Cancel</string>
   <string name="captcha">Captcha code</string>
   <string name="check_phone_error_title">Failed to enable sync service</string>
   <string name="check_phone_io_error">Network error</string>
@@ -109,7 +109,7 @@
   <string name="forget_password">Forgot Password? </string>
   <string name="get_back_pwd">Recover account password</string>
   <string name="header_data_and_synchronization">Data &amp; Sync</string>
-  <string name="i_know">ΟΚ</string>
+  <string name="i_know">OK</string>
   <string name="input_captcha_hint">Enter captcha</string>
   <string name="input_password_hint">Input password</string>
   <string name="input_vcode_hint">Enter verfication code</string>
@@ -146,7 +146,7 @@
   <string name="micloud_app_data">MiCloud app backups</string>
   <string name="micloud_click_email">Click the link in the E-mail to activate your Xiaomi Account</string>
   <string name="micloud_click_email_to_valid">Click the activation link in the message sent to your inbox</string>
-  <string name="micloud_data_loading">Φορτώνει...</string>
+  <string name="micloud_data_loading">Loading...</string>
   <string name="micloud_delete_account">Delete account</string>
   <string name="micloud_dspt">Cloud services include MiCloud messaging, mobile sync, locating device and other features. You can also manage your data online at any time!</string>
   <string name="micloud_email">E-mail address</string>
@@ -175,7 +175,7 @@ To solve this, you can either clean out old files, or purchase additional storag
   <string name="micloud_intro_03_part_02">Mange your data and also locate, lock or erase device contents on i.xiaomi.com</string>
   <string name="micloud_is_what">What is MiCloud?</string>
   <string name="micloud_more">Learn more</string>
-  <string name="micloud_none">Κανένα</string>
+  <string name="micloud_none">None</string>
   <string name="micloud_password_confirm_hint">Confirm password</string>
   <string name="micloud_password_error_inconsistent">Password mismatch</string>
   <string name="micloud_password_req_notice">8~16 chars, contains digits, alphabet letters, case sensitive</string>

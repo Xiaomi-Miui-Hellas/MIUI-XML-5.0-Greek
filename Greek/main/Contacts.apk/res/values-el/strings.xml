@@ -38,7 +38,7 @@
   <string name="audio_chat">Voice chat</string>
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
-  <string name="batch_delete">Διαγραφή batch</string>
+  <string name="batch_delete">Delete batch</string>
   <string name="batch_delete_msg">"Delete %d contacts? 
 
 Contact data stored in your MiCloud account will also be deleted."</string>
@@ -55,7 +55,7 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="callAgain">Redial</string>
   <string name="callBack">Call back</string>
   <string name="callDetailTitle">Call details</string>
-  <string name="callΠληροφορίεςΔιάρκειαFormat" formatted="false">%s mins %s secs</string>
+  <string name="callDetailsDurationFormat" formatted="false">%s mins %s secs</string>
   <string name="callShortcutActivityTitle">Choose a number to call</string>
   <string name="call_assistant">Call %s</string>
   <string name="call_callback">Call callback</string>
@@ -87,7 +87,7 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="call_work_mobile">Call work mobile</string>
   <string name="call_work_pager">Call work pager</string>
   <string name="calllog_menu_blacklist">Add to blacklist</string>
-  <string name="calllog_menu_edit_before_call">Επεξεργασία before calling</string>
+  <string name="calllog_menu_edit_before_call">Edit before calling</string>
   <string name="calllog_menu_send_sms">Send a message</string>
   <string name="callrecordview_item_newcontact">New Contact</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sec</string>
@@ -99,7 +99,7 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Outgoing: "</string>
   <string name="callrecordview_menu_add_call_note">Add call note</string>
   <string name="callrecordview_menu_batch_delete">Batch delete</string>
-  <string name="callrecordview_menu_delete">Διαγραφή call log</string>
+  <string name="callrecordview_menu_delete">Delete call log</string>
   <string name="callrecordview_menu_delete_accepted">Clear log for received calls</string>
   <string name="callrecordview_menu_delete_all">Clear call log</string>
   <string name="callrecordview_menu_delete_called">Clear log for outgoing calls</string>
@@ -108,7 +108,7 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="callrecordview_menu_delete_new">Clear call log of new contacts</string>
   <string name="callrecordview_menu_delete_one">Remove from call log</string>
   <string name="callrecordview_menu_delete_stranger">Clear call log for unknown numbers</string>
-  <string name="callrecordview_menu_edit_call_note">Επεξεργασία call note</string>
+  <string name="callrecordview_menu_edit_call_note">Edit call note</string>
   <string name="callrecordview_menu_paste">Paste</string>
   <string name="callrecordview_menu_settings">Settings</string>
   <string name="callrecordview_menu_show">Call log filter</string>
@@ -176,14 +176,14 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="contact_detail_calllog_call_note_tips">Call note</string>
   <string name="contact_detail_calllog_call_record_tips">Call record</string>
   <string name="contact_directory_description">Directory %1$s</string>
-  <string name="contact_edit_title_edit">Επεξεργασία contact</string>
+  <string name="contact_edit_title_edit">Edit contact</string>
   <string name="contact_edit_title_insert">Create %s contact</string>
   <string name="contact_edit_title_readonly">Read-only contact</string>
   <string name="contact_editor_prompt_multiple_accounts">Please select contact account to save to</string>
   <string name="contact_editor_prompt_one_account">The new contact will be %1$s Sync</string>
   <string name="contact_editor_prompt_zero_accounts">Store in mobile or in a new online account</string>
   <string name="contact_is_readOnly">"Can't edit read-only contacts."</string>
-  <string name="contact_list_loading">Φορτώνει...</string>
+  <string name="contact_list_loading">Loading...</string>
   <string name="contact_pick_photo">Photo</string>
   <string name="contact_read_only">Not editable from this app.</string>
   <string name="contact_status_update_attribution">via %1$s</string>
@@ -196,7 +196,7 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="contactsList">Contacts</string>
   <string name="contacts_unavailable_add_account">Sign into an account</string>
   <string name="contacts_unavailable_create_contact">Create a new contact</string>
-  <string name="contacts_unavailable_import_contacts">Εισαγωγή επαφήςs from a file</string>
+  <string name="contacts_unavailable_import_contacts">Import contacts from a file</string>
   <string name="copy_text">Copy to clipboard</string>
   <string name="createContactShortcutSuccessful">Contact widget added to Home screen.</string>
   <string name="create_group_dialog_title">Create new group</string>
@@ -274,7 +274,7 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="device_import_account_dialog_title">Select account to import</string>
   <string name="device_import_account_dialog_title_suffix">"(found %1$s contacts)"</string>
   <string name="device_import_done_toast">%1$d contacts imported</string>
-  <string name="device_import_failed_message">Εισαγωγή απέτυχε!</string>
+  <string name="device_import_failed_message">Import failed!</string>
   <string name="device_import_local_account">Local account</string>
   <string name="device_import_message">Importing</string>
   <string name="device_import_progress_begin_message">Importing…</string>
@@ -290,19 +290,19 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="device_pairing_dialog_message">Pairing…</string>
   <string name="device_pairing_dialog_title">Pair devices</string>
   <string name="device_version_header_bluetooth">Make sure Bluetooth is enabled</string>
-  <string name="device_version_header_no_bluetooth">Εισαγωγή επαφήςs via SIM card</string>
+  <string name="device_version_header_no_bluetooth">Import contacts via SIM card</string>
   <string name="device_version_title">Select model</string>
   <string name="dial">Dial</string>
   <string name="dialerDialpadHintText">Dial to add a call</string>
   <string name="dialerIconLabel">Recent</string>
   <string name="dialerKeyboardHintText">Use keyboard to dial</string>
   <string name="dialer_addAnotherCall">Add call</string>
-  <string name="dialer_empty_text_loading">Φορτώνει...</string>
+  <string name="dialer_empty_text_loading">Loading...</string>
   <string name="dialer_empty_text_no_call_log">No calls</string>
   <string name="dialer_empty_text_no_search_result">No contacts found</string>
   <string name="dialer_returnToInCallScreen">Return to call in progress</string>
   <string name="dialer_useDtmfDialpad">Use touch tone keypad</string>
-  <string name="dialog_import">Εισαγωγή επαφήςs</string>
+  <string name="dialog_import">Import contacts</string>
   <string name="dialog_import_export">Import/export contacts</string>
   <string name="dialog_new_contact_account">Create contact under account</string>
   <string name="dialog_new_group_account">Create group under account</string>
@@ -331,10 +331,10 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="download_failed">Download failed!</string>
   <string name="download_preview_failed">Failed to load preview</string>
   <string name="duplicate_group_name">Group name already exists</string>
-  <string name="editContactΠεριγραφή">Επεξεργασία contact</string>
-  <string name="editGroupΠεριγραφή">Επεξεργασία group</string>
-  <string name="edit_contact">Επεξεργασία contact</string>
-  <string name="edit_contact_card_title">Επεξεργασία contact card</string>
+  <string name="editContactDescription">Edit contact</string>
+  <string name="editGroupDescription">Edit group</string>
+  <string name="edit_contact">Edit contact</string>
+  <string name="edit_contact_card_title">Edit contact card</string>
   <string name="email">E-mail</string>
   <string name="emailLabelsGroup">E-mail</string>
   <string name="email_custom">E-mail %s</string>
@@ -424,7 +424,7 @@ Reason: \"%s\""</string>
   <string name="imei">IMEI</string>
   <string name="import_all_sim_entries_miui">Import all contacts</string>
   <string name="import_all_vcard_string">Import all vCard files</string>
-  <string name="import_contact_card_button">Εισαγωγή επαφής</string>
+  <string name="import_contact_card_button">Import contact</string>
   <string name="import_failure_no_vcard_file">No vCard file found in storage.</string>
   <string name="import_from_other_phone">Import from other phone</string>
   <string name="import_from_sdcard">Import from storage</string>
@@ -439,9 +439,9 @@ Reason: \"%s\""</string>
   <string name="import_to_xiaomi_account_confirm">Import</string>
   <string name="import_to_xiaomi_account_progress_finish">Import successful!</string>
   <string name="import_to_xiaomi_account_progress_message">Importing…</string>
-  <string name="import_to_xiaomi_account_progress_title">Εισαγωγή επαφήςs to Xiaomi Account</string>
+  <string name="import_to_xiaomi_account_progress_title">Import contacts to Xiaomi Account</string>
   <string name="import_to_xiaomi_account_title">Do you want to import the following contacts into your Xiaomi Account?</string>
-  <string name="import_vcard_description">"Εισαγωγή επαφήςs from your phone's internal storage"</string>
+  <string name="import_vcard_description">"Import contacts from your phone's internal storage"</string>
   <string name="import_weibo_dialog_title">Import Weibo contacts</string>
   <string name="import_weibo_error_no_matched_contacts">No matching contacts.</string>
   <string name="import_weibo_error_no_network">Network error.</string>
@@ -457,8 +457,8 @@ Reason: \"%s\""</string>
   <string name="importing_vcard_canceled_title">Importing %s canceled</string>
   <string name="importing_vcard_description">Importing %s</string>
   <string name="importing_vcard_finished_title">Finished importing vCard %s</string>
-  <string name="insertContactΠεριγραφή">Create contact</string>
-  <string name="insertGroupΠεριγραφή">Create group</string>
+  <string name="insertContactDescription">Create contact</string>
+  <string name="insertGroupDescription">Create group</string>
   <string name="invalidContactMessage">"Contact doesn't exist"</string>
   <string name="keep_local">Keep local</string>
   <string name="keep_local_btn">"Use phone's internal storage."</string>
@@ -482,12 +482,12 @@ Reason: \"%s\""</string>
   <string name="list_filter_customize">Customize</string>
   <string name="list_filter_phones">All contacts with phone numbers</string>
   <string name="list_filter_single">Contact</string>
-  <string name="loading">Φορτώνει...</string>
-  <string name="loading_group_members">Φορτώνει group members…</string>
-  <string name="loading_groups">Φορτώνει groups…</string>
-  <string name="loading_recent">Φορτώνει recent contacts…</string>
+  <string name="loading">Loading...</string>
+  <string name="loading_group_members">Loading group members…</string>
+  <string name="loading_groups">Loading groups…</string>
+  <string name="loading_recent">Loading recent contacts…</string>
   <string name="loading_resource_detail_fail">Failed to load resource!</string>
-  <string name="loading_resource_detail_info">Φορτώνει resource info...</string>
+  <string name="loading_resource_detail_info">Loading resource info...</string>
   <string name="local_invisible_directory">Other</string>
   <string name="local_profile_title">My local profile</string>
   <string name="local_search_label">All contacts</string>
@@ -503,7 +503,7 @@ Reason: \"%s\""</string>
   <string name="menu_accounts">Accounts</string>
   <string name="menu_addStar">Add to favorites</string>
   <string name="menu_bar_group_add">Add</string>
-  <string name="menu_bar_group_delete">Διαγραφή</string>
+  <string name="menu_bar_group_delete">Delete</string>
   <string name="menu_bar_group_rename">Rename</string>
   <string name="menu_bar_group_ringtone">Group ringtone</string>
   <string name="menu_bar_group_ringtone_largeui">Ringtone</string>
@@ -523,9 +523,9 @@ Reason: \"%s\""</string>
   <string name="menu_display_all">Show all</string>
   <string name="menu_display_selected">Show selected</string>
   <string name="menu_doNotSave">Cancel</string>
-  <string name="menu_done">ΟΚ</string>
-  <string name="menu_editContact">Επεξεργασία</string>
-  <string name="menu_editGroup">Επεξεργασία</string>
+  <string name="menu_done">OK</string>
+  <string name="menu_editContact">Edit</string>
+  <string name="menu_editGroup">Edit</string>
   <string name="menu_help">Help</string>
   <string name="menu_import_export">Import/export</string>
   <string name="menu_joinAggregate">Merge</string>
@@ -571,7 +571,7 @@ Reason: \"%s\""</string>
   <string name="next_birthday">Next birthday: %s</string>
   <string name="nfc_vcard_file_name">Contact received over NFC</string>
   <string name="nicknameLabelsGroup">Nickname</string>
-  <string name="nickname_editor_title">Επεξεργασία nickname</string>
+  <string name="nickname_editor_title">Edit nickname</string>
   <string name="nickname_picker_name_column">Contact name</string>
   <string name="nickname_picker_nickname_column">Title</string>
   <string name="noAccounts">To create groups you need an account.</string>
@@ -626,7 +626,7 @@ To add a contact to your list of favorites:
   <string name="open_contact">View contact</string>
   <string name="option_delete_contact">Delete</string>
   <string name="option_delete_group">Delete</string>
-  <string name="option_edit_contact">Επεξεργασία</string>
+  <string name="option_edit_contact">Edit</string>
   <string name="option_not_in_group">Remove</string>
   <string name="option_not_star">Unfavorite</string>
   <string name="option_rename_group">Rename</string>
@@ -709,18 +709,18 @@ To add a contact to your list of favorites:
   <string name="preference_simple_mode_title">Simple mode</string>
   <string name="preference_smart_group_company_summary">Group contacts by company</string>
   <string name="preference_smart_group_company_title">By company</string>
-  <string name="preference_smart_group_frequency_summary">Γκρουπ κατά most recent</string>
+  <string name="preference_smart_group_frequency_summary">Group by most recent</string>
   <string name="preference_smart_group_frequency_title">By most recent</string>
-  <string name="preference_smart_group_location_summary">Γκρουπ κατά area code</string>
-  <string name="preference_smart_group_location_title">Κατά τοποθεσία</string>
+  <string name="preference_smart_group_location_summary">Group by area code</string>
+  <string name="preference_smart_group_location_title">By location</string>
   <string name="preference_smart_group_title">Smart groups</string>
   <string name="preference_telocation_summary_countrycode_off">"Don't auto-dial country code"</string>
   <string name="preference_telocation_summary_countrycode_on">Auto-dial country code</string>
   <string name="preference_telocation_summary_teloc_off">Hide contact location</string>
   <string name="preference_telocation_summary_teloc_on">Show contact location</string>
-  <string name="preference_telocation_title">Τοποθεσία</string>
+  <string name="preference_telocation_title">Location</string>
   <string name="preference_tone_title">Tones</string>
-  <string name="prepare_import">Εισαγωγή επαφήςs</string>
+  <string name="prepare_import">Import contacts</string>
   <string name="preview_contact_card_title">Importing contacts…</string>
   <string name="previous">Previous</string>
   <string name="private_num">Private number</string>
@@ -742,7 +742,7 @@ To add a contact to your list of favorites:
   <string name="recentCalls_addToContact">Add to contacts</string>
   <string name="recentCalls_callNumber">Call %s</string>
   <string name="recentCalls_deleteAll">Clear call log</string>
-  <string name="recentCalls_editNumberBeforeCall">Επεξεργασία number before call</string>
+  <string name="recentCalls_editNumberBeforeCall">Edit number before call</string>
   <string name="recentCalls_empty">Call log is empty.</string>
   <string name="recentCalls_removeFromRecentList">Remove from call log</string>
   <string name="recentCalls_shareVoicemail">Share voicemail</string>
@@ -787,13 +787,13 @@ Touch the Merge icon at the bottom to begin."</string>
   <string name="resource_comment_edit_comment">Add comments</string>
   <string name="resource_comment_edit_comment_waiting">Checking user history…</string>
   <string name="resource_comment_edit_text_default">Add a comment</string>
-  <string name="resource_comment_edit_title">Επεξεργασία comment: %1$s</string>
+  <string name="resource_comment_edit_title">Edit comment: %1$s</string>
   <string name="resource_comment_entry_tips">Show comments</string>
   <string name="resource_comment_expand_full_text">Show all text ▼</string>
   <string name="resource_comment_footer">Empty comments are not displayed.</string>
   <string name="resource_comment_good_comments">Positive comments</string>
   <string name="resource_comment_invalid">Touch stars to rate</string>
-  <string name="resource_comment_loading_list">Φορτώνει comments…</string>
+  <string name="resource_comment_loading_list">Loading comments…</string>
   <string name="resource_comment_name_default">User %1$s</string>
   <string name="resource_comment_no_average_score">No score</string>
   <string name="resource_comment_no_comment">No comments</string>
@@ -815,7 +815,7 @@ Touch the Merge icon at the bottom to begin."</string>
   <string name="resource_delta_update_failed">Update failed! The complete resource will now be downloaded</string>
   <string name="resource_delta_update_successful">Update successful，saving %1$s.</string>
   <string name="resource_delta_update_total">%1$d updates. Total saved %2$s</string>
-  <string name="resource_detail">Πληροφορίες</string>
+  <string name="resource_detail">Details</string>
   <string name="resource_detail_comment_title">Comments</string>
   <string name="resource_detail_jump_to_online_title">Online</string>
   <string name="resource_detail_jump_to_same_author_title">Same author</string>
@@ -853,13 +853,13 @@ Touch the Merge icon at the bottom to begin."</string>
   <string name="resource_get_auth_missing">The theme is not downloaded from official market, please download similar ones from official market.</string>
   <string name="resource_get_auth_retrieving">Retrieving authorisation...</string>
   <string name="resource_hint">Alert</string>
-  <string name="resource_import_failed">Εισαγωγή απέτυχε</string>
+  <string name="resource_import_failed">Import failed</string>
   <string name="resource_import_successful">Download complete</string>
   <string name="resource_importing">Importing…</string>
   <string name="resource_list_title">Latest selected</string>
   <string name="resource_local">Local %1$s</string>
   <string name="resource_menu_refresh">Refresh</string>
-  <string name="resource_mute">Κανένα</string>
+  <string name="resource_mute">None</string>
   <string name="resource_my">Local</string>
   <string name="resource_no_result">No result</string>
   <string name="resource_notification_default">Notifications</string>
@@ -893,7 +893,7 @@ Touch the Merge icon at the bottom to begin."</string>
   <string name="resource_share_text">"Here's a theme I thought you might like: %1$s! Link: %2$s"</string>
   <string name="resource_share_title">Share</string>
   <string name="resource_system_title">System resources</string>
-  <string name="resource_tip_select_ringtone">Κανένα selected</string>
+  <string name="resource_tip_select_ringtone">None selected</string>
   <string name="resource_title">Resource detail</string>
   <string name="resource_title_select_ringtone">Select tone</string>
   <string name="resource_trial_end_message">Trial of %1$s expired. If you like, please purchase it.</string>
@@ -905,7 +905,7 @@ Touch the Merge icon at the bottom to begin."</string>
 the content you're looking for is not currently available in your region."</string>
   <string name="resource_unknow_error">An unknown error occurred</string>
   <string name="resource_update">Update</string>
-  <string name="resource_user_know">ΟΚ</string>
+  <string name="resource_user_know">OK</string>
   <string name="resource_waiting_download">Waiting to download...</string>
   <string name="restore_nickname">Restore</string>
   <string name="ret_sign">"
@@ -953,7 +953,7 @@ the content you're looking for is not currently available in your region."</stri
   <string name="showAllContactsJoinItem">Show all contacts</string>
   <string name="simContacts_airplaneMode">To import contacts from your SIM card, please turn off Airplane mode.</string>
   <string name="simContacts_empty">No contacts found on SIM card.</string>
-  <string name="simContacts_emptyΦορτώνει">Φορτώνει contacts from SIM card…</string>
+  <string name="simContacts_emptyLoading">Loading contacts from SIM card…</string>
   <string name="simContacts_title">SIM card contacts</string>
   <string name="sim_capacity">View SIM Card Capacity</string>
   <string name="sim_capacity_content" formatted="false">Total capacity %d | %d used</string>
@@ -969,7 +969,7 @@ the content you're looking for is not currently available in your region."</stri
   <string name="sim_error_email_full">Not enough space on SIM card</string>
   <string name="sim_error_email_too_long">Email is too long</string>
   <string name="sim_error_generic_failure">An error occurred</string>
-  <string name="sim_error_not_ready">Φορτώνει SIM contacts…</string>
+  <string name="sim_error_not_ready">Loading SIM contacts…</string>
   <string name="sim_error_number_too_long">Number is too long</string>
   <string name="sim_error_password_error">The password you entered is incorrect</string>
   <string name="sim_error_storage_full">Storage is full</string>
@@ -988,8 +988,8 @@ the content you're looking for is not currently available in your region."</stri
   <string name="smart_group_frequency_4">Over 6 months</string>
   <string name="smart_group_frequency_label">By most recent</string>
   <string name="smart_group_label">Smart grouping</string>
-  <string name="smart_group_loading">Φορτώνει groups…</string>
-  <string name="smart_group_location_label">Κατά τοποθεσία</string>
+  <string name="smart_group_loading">Loading groups…</string>
+  <string name="smart_group_location_label">By location</string>
   <string name="smart_group_location_unavailable">No address</string>
   <string name="sms">Text message</string>
   <string name="sms_assistant">Text %s</string>
@@ -1015,7 +1015,7 @@ the content you're looking for is not currently available in your region."</stri
   <string name="sms_work_mobile">Text work mobile</string>
   <string name="sms_work_pager">Text work pager</string>
   <string name="social_widget_label">Contact</string>
-  <string name="social_widget_loading">Φορτώνει…</string>
+  <string name="social_widget_loading">Loading…</string>
   <string name="splitConfirmation">This contact will be separated into multiple contacts.</string>
   <string name="splitConfirmation_title">Separate contact?</string>
   <string name="starredList">Starred</string>

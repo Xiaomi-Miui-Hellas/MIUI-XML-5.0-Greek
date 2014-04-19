@@ -15,7 +15,7 @@
   <string name="button_pre">Back</string>
   <string name="can_not_find_explorer">FileExplorer not found, is the application installed?</string>
   <string name="can_not_send_this_file">Failed to send file!</string>
-  <string name="cancel">Άκυρο</string>
+  <string name="cancel">Cancel</string>
   <string name="cancel_receive">Cancel</string>
   <string name="cancel_send">Cancel</string>
   <string name="canceling">Cancelling</string>
@@ -26,7 +26,7 @@
   <string name="connecting">Connecting</string>
   <string name="continue_to_send">Continue sending</string>
   <string name="defalut_nameofnewfile">New folder</string>
-  <string name="delete">Διαγραφή</string>
+  <string name="delete">Delete</string>
   <string name="delete_history_message">Are you sure you want to delete all History?</string>
   <string name="device_default_name">Xiaomi phone</string>
   <string name="device_name">Device name</string>
@@ -36,7 +36,7 @@
   <string name="download_complete">%1$s | %2$s downloaded from: %3$s</string>
   <string name="download_failed_msg">An error occurred receiving file!</string>
   <string name="download_succeed">Download successfully</string>
-  <string name="editmode_menu_delete">Διαγραφή</string>
+  <string name="editmode_menu_delete">Delete</string>
   <string name="editmode_menu_share">Share</string>
   <string name="empty_share_history">No sharing history</string>
   <string name="error_bad_file">Corrupt file</string>
@@ -81,7 +81,7 @@
   <string name="input_device_name">Input device name</string>
   <string name="input_device_name_tip">Use MiTransfer to send files, for bluetooth interconnectivity and establishing shared hotspot. Other devices will see your device name.</string>
   <string name="load_file_error">Failed to load file!</string>
-  <string name="loading_file">Φορτώνει file...</string>
+  <string name="loading_file">Loading file...</string>
   <string name="login_failed">Xiaomi account login failed!</string>
   <string name="mishare_app_name">MiShare</string>
   <string name="miui_device_default_name">MiDevice</string>
@@ -97,11 +97,11 @@
   <string name="noti_wait_send">"Waiting to receive file(s), please ensure sender has enabled connection and can send file(s) "</string>
   <string name="notify_after_download">Notify after download</string>
   <string name="notify_after_restore">Notify after restore</string>
-  <string name="ok">ΟΚ</string>
+  <string name="ok">OK</string>
   <string name="online_file">MiDrive</string>
   <string name="only_support_single_share">Only single file sharing is supported!</string>
   <string name="open">Open</string>
-  <string name="operation_delete">Διαγραφή</string>
+  <string name="operation_delete">Delete</string>
   <string name="operation_goto_folder">Go to folder</string>
   <string name="operation_info">File info</string>
   <string name="operation_send">Send</string>
@@ -217,5 +217,5 @@ at [ %1$s ]"</string>
   <string name="wanna_receive">Receive</string>
   <string name="welcome_tip1">Transfer files quickly without mobile data connection</string>
   <string name="welcome_tip2">Quickly transfer pictures, music, contacts and much more!</string>
-  <string name="you_can">ΟΚ</string>
+  <string name="you_can">OK</string>
 </resources>

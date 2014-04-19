@@ -66,7 +66,7 @@
   <string name="cit_front_camera_check_summary">"Test steps:
 1. Click camera button to open system camera
 2. Click on camera
-3. Click on the system camera ΟΚ button, the system will automatically save the image
+3. Click on the system camera OK button, the system will automatically save the image
 4. Preview the picture, when happy you can delete it."</string>
   <string name="cit_front_camera_check_title"> Test front camera (front camera)</string>
   <string name="cit_gps_check_summary">This test will display GPS information</string>
@@ -117,8 +117,8 @@
   <string name="cit_light_sensor_check_title">Test Light Sensor</string>
   <string name="cit_magnetic_sensor_check_summary">Below is the current magnetometer values in X, Y, Z orientation</string>
   <string name="cit_magnetic_sensor_check_title">Test Magnometer</string>
-  <string name="cit_main_camera_check_summary">Test checkist:\n\n 1. Click the camera button to open the camera\n 2. Verify flash is turned on\n 3. Click on picture list\n 4. Click the ΟΚ button, this will automatically save the image\n 5. Check picture is displayed correctly and then delete</string>
-  <string name="cit_main_camera_check_title">Test Κάμερα (main camera)</string>
+  <string name="cit_main_camera_check_summary">Test checkist:\n\n 1. Click the camera button to open the camera\n 2. Verify flash is turned on\n 3. Click on picture list\n 4. Click the OK button, this will automatically save the image\n 5. Check picture is displayed correctly and then delete</string>
+  <string name="cit_main_camera_check_title">Test Camera (main camera)</string>
   <string name="cit_name">Hardware detection</string>
   <string name="cit_not_available">User version does not support this test, only factory version testing is available</string>
   <string name="cit_notificationlight">Notification indicator</string>
@@ -165,7 +165,7 @@
   <string name="cit_sim_state_network_locked">NetworkPIN locked</string>
   <string name="cit_sim_state_pin_required">PIN code required</string>
   <string name="cit_sim_state_puk_required">PUK code required</string>
-  <string name="cit_sim_state_ready">SIM card ΟΚ</string>
+  <string name="cit_sim_state_ready">SIM card OK</string>
   <string name="cit_sim_state_unkown">Unknown status error</string>
   <string name="cit_start_calibration">Start calibrating</string>
   <string name="cit_stop_calibration">Stop calibrating</string>
@@ -248,7 +248,7 @@
   <string name="cit_version_check_title">Test Version</string>
   <string name="cit_vga_camera_capture">Capture photo</string>
   <string name="cit_vga_camera_capture_fail">Failed to capture photo</string>
-  <string name="cit_vga_camera_delete">Διαγραφή photo</string>
+  <string name="cit_vga_camera_delete">Delete photo</string>
   <string name="cit_vga_camera_deleted">Photo has been deleted</string>
   <string name="cit_vibrator_check_summary">Test will perform a check on vibration(long and short)</string>
   <string name="cit_vibrator_check_title">Test Vibration</string>
