@@ -176,7 +176,7 @@
        <item>Phone</item>
        <item>SMS</item>
        <item>Browser</item>
-       <item>Camera</item>
+       <item>Κάμερα</item>
        <item>Albums</item>
        <item>Music</item>
        <item>E-mail</item>
@@ -338,7 +338,7 @@
     </string-array>
     <string-array name="wifi_proxy_settings">
         <item>Κανένα</item>
-        <item>Manual</item>
+        <item>Εγχειρίδιο</item>
     </string-array>
     <string-array name="wifi_signal">
         <item>Poor</item>

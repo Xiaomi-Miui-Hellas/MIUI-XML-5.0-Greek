@@ -8,7 +8,7 @@
   <string name="about_version_label">Version:</string>
   <string name="adjust_position_next_media_notice">Next</string>
   <string name="adjust_position_prev_media_notice">Prev</string>
-  <string name="airkan_control_device_des">You can control video playback via the button at the bottom</string>
+  <string name="airkan_control_device_des">You can control βίντεο playback via the button at the bottom</string>
   <string name="airkan_device_xiaomi_phone">Xiaomi</string>
   <string name="airkan_video_playing"/>
   <string name="airkan_video_playing_in">Video is playing...</string>
@@ -16,8 +16,8 @@
   <string name="buffering">Buffering...</string>
   <string name="buffering_video_netplay_label_v5">Buffering...</string>
   <string name="episode_prefix">"episode "</string>
-  <string name="loading_video_netplay_label">Loading, please wait...</string>
-  <string name="loading_video_netplay_label_v5">Loading stream, Please wait...</string>
+  <string name="loading_video_netplay_label">Φορτώνει, please wait...</string>
+  <string name="loading_video_netplay_label_v5">Φορτώνει stream, Please wait...</string>
   <string name="menu_item_about_label">About</string>
   <string name="menu_item_disable_3d_mode">Disable 3D</string>
   <string name="menu_item_disable_audio_enhance">Disable audio enhancer</string>
@@ -59,7 +59,7 @@
   <string name="video_info_video_coding_label">Video encoding format:</string>
   <string name="vp_VideoView_error_button">ΟΚ</string>
   <string name="vp_VideoView_error_network_not_available">Network unavailable</string>
-  <string name="vp_VideoView_error_text_invalid_progressive_playback">Sorry, the selected video format is not valid for streaming to this device</string>
-  <string name="vp_VideoView_error_text_unknown">Sorry, the selected video format cannot be played</string>
+  <string name="vp_VideoView_error_text_invalid_progressive_playback">Sorry, the selected βίντεο format is not valid for streaming to this device</string>
+  <string name="vp_VideoView_error_text_unknown">Sorry, the selected βίντεο format cannot be played</string>
   <string name="vp_VideoView_error_title">Video playback error!</string>
 </resources>

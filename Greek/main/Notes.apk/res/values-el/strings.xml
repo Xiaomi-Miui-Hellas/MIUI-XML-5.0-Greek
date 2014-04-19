@@ -16,7 +16,7 @@
   <string name="alert_title_edit_anyway">Confirm editing note, this may cause data loss, are you sure?</string>
   <string name="app_name">Notes</string>
   <string name="app_widget">Notes</string>
-  <string name="attachment_camera">Camera</string>
+  <string name="attachment_camera">Κάμερα</string>
   <string name="attachment_contact">Contact</string>
   <string name="attachment_gallery">Gallery</string>
   <string name="button_new_note">New Note</string>

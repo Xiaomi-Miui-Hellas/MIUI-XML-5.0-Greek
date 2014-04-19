@@ -181,5 +181,5 @@ Used"</string>
   <string name="traffic_setting_fragment_title">Data usage query settings</string>
   <string name="usage_sorted_activity_lable">Data usage</string>
   <string name="usage_sorted_empty_text">Empty</string>
-  <string name="usage_sorted_loading_text">Loading…</string>
+  <string name="usage_sorted_loading_text">Φορτώνει…</string>
 </resources>

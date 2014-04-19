@@ -41,7 +41,7 @@
   <string name="bookmark_confirm_delete_message">Selected message will be removed from Favorites</string>
   <string name="bookmark_empty">No Bookmarks</string>
   <string name="bookmark_list_title">Favorites</string>
-  <string name="cannot_add_picture_and_video">Cannot add video and picture to one slide.</string>
+  <string name="cannot_add_picture_and_video">Cannot add βίντεο and picture to one slide.</string>
   <string name="cannot_add_slide_anymore">Cannot add more slides.</string>
   <string name="cannot_forward_drm_obj">The DRM object included in the message cannot be forwarded.</string>
   <string name="cannot_get_details">Cannot get details</string>
@@ -140,7 +140,7 @@
   <string name="feedback_submit">Submit</string>
   <string name="festival">Recommended</string>
   <string name="festival_sms_category_count_format">(%s)</string>
-  <string name="festival_sms_loading">Loading...</string>
+  <string name="festival_sms_loading">Φορτώνει...</string>
   <string name="fetion_prefix">[Fetion]</string>
   <string name="file_share_message_description">I would like to share files with you</string>
   <string name="flatshow_page_no">%1$d</string>
@@ -168,9 +168,9 @@
   <string name="invalid_recipient_message">Please correct the recipient(s) or they will not receive the message.</string>
   <string name="kilobyte">KB</string>
   <string name="layout_selector_title">"Slideshow layout "</string>
-  <string name="loading_all_messages">Loading all messages...</string>
-  <string name="loading_conversations">Loading conversations...</string>
-  <string name="loading_mms">Loading MMS…</string>
+  <string name="loading_all_messages">Φορτώνει all messages...</string>
+  <string name="loading_conversations">Φορτώνει conversations...</string>
+  <string name="loading_mms">Φορτώνει MMS…</string>
   <string name="me">Me</string>
   <string name="menu_compose_new">Compose</string>
   <string name="menu_delete_messages">Delete messages</string>

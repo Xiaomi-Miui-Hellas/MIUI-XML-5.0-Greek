@@ -41,9 +41,9 @@
   <string name="download_success">Download complete!</string>
   <string name="fail_to_add_account">Failed to add account</string>
   <string name="live_wallpaper">Live wallpaper</string>
-  <string name="loading">Loading...</string>
+  <string name="loading">Φορτώνει...</string>
   <string name="loading_resource_detail_fail">Failed to load resource!</string>
-  <string name="loading_resource_detail_info">Loading...</string>
+  <string name="loading_resource_detail_info">Φορτώνει...</string>
   <string name="lockscreen_wallpaper">Lock screen</string>
   <string name="lockstyle_personal_settings">Customization</string>
   <string name="long_ringtone_resource">Long</string>
@@ -86,7 +86,7 @@
   <string name="resource_comment_footer">Empty comments are not displayed.</string>
   <string name="resource_comment_good_comments">Positive comments</string>
   <string name="resource_comment_invalid">Touch stars to give a rating</string>
-  <string name="resource_comment_loading_list">Loading comments…</string>
+  <string name="resource_comment_loading_list">Φορτώνει comments…</string>
   <string name="resource_comment_name_default">User %1$s</string>
   <string name="resource_comment_no_average_score">0.0</string>
   <string name="resource_comment_no_comment">No comments</string>
@@ -146,7 +146,7 @@
   <string name="resource_get_auth_missing">Theme was not downloaded from theme market, please download from official theme market.</string>
   <string name="resource_get_auth_retrieving">Retrieving authorisation...</string>
   <string name="resource_hint">Alert</string>
-  <string name="resource_import_failed">Import failed</string>
+  <string name="resource_import_failed">Εισαγωγή απέτυχε</string>
   <string name="resource_import_successful">Download completed</string>
   <string name="resource_importing">Importing</string>
   <string name="resource_list_title">Latest selected</string>
@@ -253,7 +253,7 @@
   <string name="to_activate_the_account">Please activate your Xiaomi account</string>
   <string name="wallpaper_crop">Crop</string>
   <string name="wallpaper_decoded_error">Failed to decode</string>
-  <string name="wallpaper_loading_text">Loading...</string>
+  <string name="wallpaper_loading_text">Φορτώνει...</string>
   <string name="wallpaper_set_as_both">Set as both</string>
   <string name="wallpaper_set_as_destop">Set as wallpaper</string>
   <string name="wallpaper_set_as_lockscreen">Set as lock screen</string>

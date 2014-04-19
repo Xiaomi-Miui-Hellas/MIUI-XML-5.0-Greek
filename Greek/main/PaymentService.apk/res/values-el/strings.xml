@@ -383,7 +383,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="progress_bankcall_card_creating">Generating order…</string>
   <string name="progress_bankcall_card_querying">Checking account type…</string>
   <string name="progress_creating">Retrieving order info…</string>
-  <string name="progress_downloading">Loading…</string>
+  <string name="progress_downloading">Φορτώνει…</string>
   <string name="progress_error_pay_summary">%1$s MiCredits added, but payment failed! Please try again later.</string>
   <string name="progress_error_pay_title">Payment failed</string>
   <string name="progress_error_recharge_summary">Top-up failed! Please try again later.</string>

@@ -164,7 +164,7 @@
   <string name="listen_to_music_online_settings">Listen to online music</string>
   <string name="listen_to_online_summary">Listen to music via mobile network or Wi-Fi</string>
   <string name="load_album_artist_failed">Failed to load album and artist List. Please try again.</string>
-  <string name="load_album_artist_in_process">Loading album and artist list...</string>
+  <string name="load_album_artist_in_process">Φορτώνει album and artist list...</string>
   <string name="load_album_failed">Failed to load album list, please try again</string>
   <string name="load_album_in_process">Load album list</string>
   <string name="load_artist_failed">Failed to load artist list, please try again</string>
@@ -175,7 +175,7 @@
   <string name="load_bill_in_process">Load billboard list</string>
   <string name="load_channel_failed">Failed to load channel list, please try again</string>
   <string name="load_channel_in_process">Load channel list</string>
-  <string name="loading">Loading</string>
+  <string name="loading">Φορτώνει</string>
   <string name="login">Login</string>
   <string name="login_first">You need to login to your Xiaomi Account first</string>
   <string name="lrc_progress_modify">Adjust lyrics scrolling speed</string>

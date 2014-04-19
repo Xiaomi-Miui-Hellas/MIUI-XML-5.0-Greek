@@ -58,7 +58,7 @@
   <string name="legal_workday_invalidate">Data expired (Alarm rings from Mon to Fri)</string>
   <string name="legal_workday_invalidate_message">(Data expired. Update in Settings)</string>
   <string name="legal_workday_message">" (Alarm off during holidays)"</string>
-  <string name="loading_ringtone">Loading ringtone…</string>
+  <string name="loading_ringtone">Φορτώνει ringtone…</string>
   <string name="menu_add_worldclock">Add clock</string>
   <string name="menu_desk_clock">Desk clock</string>
   <string name="menu_edit_systemtime">System time</string>

@@ -7,7 +7,7 @@
   <string name="app_cache_cleanup_indication">%s cache</string>
   <string name="app_cache_title">App cache</string>
   <string name="app_garbage_cleanup_indication">%s app junk</string>
-  <string name="app_garbage_path">Location:</string>
+  <string name="app_garbage_path">Τοποθεσία:</string>
   <string name="app_garbage_title">App junk</string>
   <string name="app_name">File Explorer</string>
   <string name="application_size_label">App</string>
@@ -104,7 +104,7 @@
   <string name="file_info_location">Path:</string>
   <string name="file_info_modified">Modified:</string>
   <string name="file_info_size">Size:</string>
-  <string name="file_loading">Loading...</string>
+  <string name="file_loading">Φορτώνει...</string>
   <string name="file_too_large">"The file is too large and can't be uploaded"</string>
   <string name="finished">Finished</string>
   <string name="folder_exist">The folder already exists</string>
@@ -137,8 +137,8 @@ Junk"</string>
   <string name="kuaipan_prompt">MiDrive Help</string>
   <string name="kuaipan_prompt_message">"The server is currently unavailable, please try again later"</string>
   <string name="kuaipan_tech_support">Technical support provided by Xiaomi</string>
-  <string name="load_err">Loading failed</string>
-  <string name="loading">Loading…</string>
+  <string name="load_err">Φορτώνει failed</string>
+  <string name="loading">Φορτώνει…</string>
   <string name="local_cache_size">Local cache size: %s</string>
   <string name="login_reg_content">MiDrive helps you store files and sync them between multiple devices.</string>
   <string name="login_reg_content0">MiDrive is your Cloud storage drive</string>

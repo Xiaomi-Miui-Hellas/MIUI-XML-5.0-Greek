@@ -118,7 +118,7 @@
   <string name="cit_magnetic_sensor_check_summary">Below is the current magnetometer values in X, Y, Z orientation</string>
   <string name="cit_magnetic_sensor_check_title">Test Magnometer</string>
   <string name="cit_main_camera_check_summary">Test checkist:\n\n 1. Click the camera button to open the camera\n 2. Verify flash is turned on\n 3. Click on picture list\n 4. Click the ΟΚ button, this will automatically save the image\n 5. Check picture is displayed correctly and then delete</string>
-  <string name="cit_main_camera_check_title">Test Camera (main camera)</string>
+  <string name="cit_main_camera_check_title">Test Κάμερα (main camera)</string>
   <string name="cit_name">Hardware detection</string>
   <string name="cit_not_available">User version does not support this test, only factory version testing is available</string>
   <string name="cit_notificationlight">Notification indicator</string>

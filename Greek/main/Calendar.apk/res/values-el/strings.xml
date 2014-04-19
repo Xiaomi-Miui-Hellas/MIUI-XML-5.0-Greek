@@ -115,12 +115,12 @@
   <string name="hint_attendees">Guests</string>
   <string name="hint_description">Περιγραφή</string>
   <string name="hint_what">Event name</string>
-  <string name="hint_where">Location</string>
+  <string name="hint_where">Τοποθεσία</string>
   <string name="huangli_bad_type"/>
   <string name="huangli_good_type"/>
   <string name="jump_date">Skip</string>
   <string name="jump_date_full">Skip to date</string>
-  <string name="loading">Loading…</string>
+  <string name="loading">Φορτώνει…</string>
   <string name="local_calendar_display_name">Local calendar</string>
   <string name="local_owner_account_name">Local account</string>
   <string name="lunar_date">Lunar Date</string>

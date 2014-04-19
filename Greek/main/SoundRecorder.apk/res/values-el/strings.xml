@@ -59,7 +59,7 @@
   <string name="preference_scenes">Settings for scenes</string>
   <string name="preference_silent_mode">Silent mode recording</string>
   <string name="record_list">Recordings list</string>
-  <string name="record_loading">Loading recording, please wait.</string>
+  <string name="record_loading">Φορτώνει recording, please wait.</string>
   <string name="record_name_hour">.</string>
   <string name="record_picker_title">Choose recording</string>
   <string name="record_saving">Saving recording, please wait!</string>

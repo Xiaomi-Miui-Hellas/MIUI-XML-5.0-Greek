@@ -258,8 +258,8 @@
   <string name="js_engine_flags">Set JS flags</string>
   <string name="loadSuspended">"The browser can't load this page because there's no Internet connection."</string>
   <string name="loadSuspendedTitle">No connection</string>
-  <string name="loading_rest_candidates">Loading rest candidates</string>
-  <string name="loading_video">Loading video…</string>
+  <string name="loading_rest_candidates">Φορτώνει rest candidates</string>
+  <string name="loading_video">Φορτώνει βίντεο…</string>
   <string name="local_bookmarks">Local</string>
   <string name="location">Address</string>
   <string name="max_tabs_warning">No more tabs available</string>
@@ -444,7 +444,7 @@
   <string name="pref_privacy_enable_geolocation">Enable location</string>
   <string name="pref_privacy_enable_geolocation_summary">Allow sites to request access to your location</string>
   <string name="pref_privacy_formdata_title">Form data</string>
-  <string name="pref_privacy_location_title">Location</string>
+  <string name="pref_privacy_location_title">Τοποθεσία</string>
   <string name="pref_privacy_security_title">Privacy &amp; security</string>
   <string name="pref_reading_mode_enabled_title">Reading mode</string>
   <string name="pref_reading_mode_enabled_title_summary">JavaScript must be enabled</string>
@@ -468,7 +468,7 @@
   <string name="pref_use_instant_search">Google instant search</string>
   <string name="pref_use_instant_search_summary">Use Google instant search to show results as you type (this may increase data usage).</string>
   <string name="pref_video_preload_dialogtitle">Video preloading...</string>
-  <string name="pref_video_preload_summary">Allow browser to preload video when server supports it</string>
+  <string name="pref_video_preload_summary">Allow browser to preload βίντεο when server supports it</string>
   <string name="pref_video_preload_title">Preload videos</string>
   <string name="pref_video_preload_value_never_summary">Never allow browser to preload videos</string>
   <string name="pref_volume_key_enabled">Volume keys</string>
@@ -489,7 +489,7 @@
   <string name="readmode_login">Account login</string>
   <string name="readmode_login_message">Subsequent chapters require log in before reading can be enabled</string>
   <string name="readmode_page_load_error">Failed to load page, please click Refresh to try again</string>
-  <string name="readmode_page_loading">Loading, please wait...</string>
+  <string name="readmode_page_loading">Φορτώνει, please wait...</string>
   <string name="readmode_pay">Subscribe to chapter</string>
   <string name="readmode_pay_message">Subsequent chapters require subscription before reading can be enabled</string>
   <string name="readmode_reach_last_page">Last page has been reached</string>
@@ -572,7 +572,7 @@
   <string name="tab_quicklinks">Quick links</string>
   <string name="tab_snapshots">Saved pages</string>
   <string name="tab_yellowpage">Popular</string>
-  <string name="title_bar_loading">Loading…</string>
+  <string name="title_bar_loading">Φορτώνει…</string>
   <string name="too_many_subwindows_dialog_message">Only one pop-up can be open at a time.</string>
   <string name="too_many_subwindows_dialog_title">Pop-up already open</string>
   <string name="too_many_windows_dialog_message">"Can't open a new tab until you close one."</string>
@@ -596,7 +596,7 @@
   <string name="webapp_bottom_bar_openbrowser">Open in browser</string>
   <string name="webapp_bottom_bar_showbar">Show bottom bar</string>
   <string name="webapp_dialog_title">Add app to your home screen</string>
-  <string name="webapp_splashview_loading">Loading, please wait…</string>
+  <string name="webapp_splashview_loading">Φορτώνει, please wait…</string>
   <string name="webapp_web_forward">Forward</string>
   <string name="webapp_web_goback">Back</string>
   <string name="website_settings_clear_all">Clear all</string>

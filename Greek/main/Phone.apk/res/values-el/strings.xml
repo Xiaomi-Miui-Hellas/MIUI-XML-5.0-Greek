@@ -918,7 +918,7 @@ Switch to the new provider anyway?"</string>
   <string name="settings_label">Network settings</string>
   <string name="simContacts_airplaneMode">To import contacts from SIM card, please turn off Airplane mode.</string>
   <string name="simContacts_empty">No contacts on your SIM card.</string>
-  <string name="simContacts_emptyLoading">Reading from SIM card…</string>
+  <string name="simContacts_emptyΦορτώνει">Reading from SIM card…</string>
   <string name="simContacts_title">Select contacts to import</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Deselect all</string>
   <string name="sim_contact_dropdown_menu_select_all_miui">Select all</string>
@@ -999,7 +999,7 @@ Switch to the new provider anyway?"</string>
   <string name="sum_fdn_manage_list">Manage phone number list</string>
   <string name="sum_gsm_call_settings">Additional GSM only call settings</string>
   <string name="sum_hide_caller_id">Number hidden in outgoing calls</string>
-  <string name="sum_loading_settings">Loading settings…</string>
+  <string name="sum_loading_settings">Φορτώνει settings…</string>
   <string name="sum_search_networks">Search for all available networks</string>
   <string name="sum_select_automatically">Automatically select preferred network</string>
   <string name="sum_select_automatically_option_miui">Automatically select preferred network, %s</string>
@@ -1015,7 +1015,7 @@ Switch to the new provider anyway?"</string>
   <string name="t9_indexing_rebuilding_message">Rebuilding T9 Indexes, please wait...</string>
   <string name="technology_news_disable">Technology News disabled</string>
   <string name="technology_news_enable">Technology News enabled</string>
-  <string name="telocation_setting_miui">Location settings</string>
+  <string name="telocation_setting_miui">Τοποθεσία settings</string>
   <string name="telocation_setting_summary_countrycode_off">"Don't auto-add country code"</string>
   <string name="telocation_setting_summary_countrycode_on">Auto-add country code</string>
   <string name="telocation_setting_summary_teloc_off">Hide location</string>

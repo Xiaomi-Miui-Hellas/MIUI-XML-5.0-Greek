@@ -65,7 +65,7 @@
   <string name="account_setup_basics_exchange_title">Add an Exchange account</string>
   <string name="account_setup_basics_exchange_title_alternate">Add an Exchange ActiveSync account</string>
   <string name="account_setup_basics_headline">E-mail account</string>
-  <string name="account_setup_basics_manual_setup_action">Manual setup</string>
+  <string name="account_setup_basics_manual_setup_action">Εγχειρίδιο setup</string>
   <string name="account_setup_basics_password_label">Password</string>
   <string name="account_setup_basics_title">Account setup</string>
   <string name="account_setup_check_settings_check_incoming_msg">Checking incoming server settings…</string>
@@ -420,7 +420,7 @@ CC: %4$s
   <string name="show_quick_text_list_dialog_action">Insert quick response</string>
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-  <string name="status_loading_messages">Loading messages…</string>
+  <string name="status_loading_messages">Φορτώνει messages…</string>
   <string name="status_network_error">Network error</string>
   <string name="subject_hint">Subject</string>
   <string name="system_account_create_failed">"Couldn't create the account. Try again."</string>
@@ -432,7 +432,7 @@ CC: %4$s
   <string name="waitinf_for_sync_message_1">Syncing...</string>
   <string name="waitinf_for_sync_message_2">Your inbox will appear soon.</string>
   <string name="widget_all_mail">Combined Inbox</string>
-  <string name="widget_loading">Loading…</string>
+  <string name="widget_loading">Φορτώνει…</string>
   <string name="widget_no_accounts">"You haven't set up an e-mail account yet."</string>
   <string name="widget_no_mailboxes">"This account isn't synced. Try again later."</string>
   <string name="widget_other_views">Touch icon to change.</string>
