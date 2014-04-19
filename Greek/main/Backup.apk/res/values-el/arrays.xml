@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="backup_dialog_content_type">
-        <item>Wi-Fi data</item>
-        <item>All programs</item>
+        <item>Δεδομένα Wi-Fi</item>
+        <item>Όλες οι εφαρμογές</item>
     </string-array>
     <string-array name="system_package_label">
 	<item>Browser</item>
@@ -14,37 +14,37 @@
 	<item>Weather</item>
     </string-array>
     <string-array name="system_data_label">
-        <item>Contacts</item>
-        <item>Call log</item>
-        <item>Messages</item>
-        <item>Multimedia Messages</item>
-        <item>System settings</item>
-        <item>Wi-Fi settings</item>
-        <item>Desktop layout</item>
-        <item>Alarm settings</item>
-        <item>Notes</item>
+        <item>Επαφές</item>
+        <item>Μητρώο</item>
+        <item>Μηνύματα</item>
+        <item>Μηνύματα πολυμέσων</item>
+        <item>Ρυθμίσεις συστήματος</item>
+        <item>Ρυθμίσεις Wi-Fi</item>
+        <item>Διάταξη επιφ.εργασίας</item>
+        <item>Αφύπνιση</item>
+        <item>Σημειώσεις</item>
         <item>DND</item>
-        <item>Account</item>
+        <item>Λογαριασμός</item>
     </string-array>
     <string-array name="app_type_desc">
-        <item>Data</item>
-        <item>Apps</item>
-        <item>Apps and Data</item>
+        <item>Δεδομένα</item>
+        <item>Εφαρμογές</item>
+        <item>Δεδομ. και Εφαρμ.</item>
     </string-array>
     <string-array name="cloud_data_label">
-        <item>Contacts</item>
-        <item>Call log</item>
-        <item>Messages</item>
-        <item>Wi-Fi settings</item>
-        <item>Notes</item>
+        <item>Επαφές</item>
+        <item>Μητρώο</item>
+        <item>Μηνύματα</item>
+        <item>Ρυθμίσεις WiFi</item>
+        <item>Σημειώσεις</item>
     </string-array>
     <string-array name="cloud_account_data">
-        <item>Contacts</item>
-        <item>Wi-Fi settings</item>
-        <item>Notes</item>
+        <item>Επαφές</item>
+        <item>Ρυθμίσεις Wi-Fi</item>
+        <item>Σημειώσεις</item>
     </string-array>
     <string-array name="cloud_sim_data">
-        <item>Call logs</item>
-        <item>Messages</item>
+        <item>Μητρώο</item>
+        <item>Μηνύματα</item>
     </string-array>
 </resources>
