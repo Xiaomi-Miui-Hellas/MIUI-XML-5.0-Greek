@@ -2862,7 +2862,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_save">Save</string>
   <string name="wifi_secured_first_item">Secured with %1$s</string>
   <string name="wifi_secured_second_item">, secured with %1$s</string>
-  <string name="wifi_security">Security</string>
+  <string name="wifi_security">Ασφάλεια</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_eap">802.1x EAP</string>

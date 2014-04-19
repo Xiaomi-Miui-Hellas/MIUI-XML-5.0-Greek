@@ -483,11 +483,11 @@ friends."</string>
   <string name="warn">Warning</string>
   <string name="weikan_weikan">Weikan TV</string>
   <string name="where_is_barcode">Where is the QR code?</string>
-  <string name="white_balance">White balance</string>
+  <string name="white_balance">Ισορροπία λευκού</string>
   <string name="widget_type">Choose images</string>
   <string name="widget_type_album">Choose an album</string>
   <string name="widget_type_photo">Choose an image</string>
   <string name="widget_type_shuffle">Shuffle all images</string>
-  <string name="width">Width</string>
+  <string name="width">Πλάτος</string>
   <string name="yes">Yes</string>
 </resources>
