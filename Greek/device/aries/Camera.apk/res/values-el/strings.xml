@@ -93,11 +93,11 @@
   <string name="error_fail_to_start_audio_capture">Σφάλμα καταγραφής ήχου: Το μικρόφωνο μπορεί να χρησιμοποιήται από άλλες εφαρμογές.</string>
   <string name="exposure_time">Χρόνος έκθεσης</string>
   <string name="file_size">Μέγεθος αρχείου</string>
-  <string name="find_cloud_album">Find a cloud album QR code</string>
-  <string name="find_market_qrcode">Find market QR code</string>
-  <string name="find_mecard_qrcode">Find visitor-card QR code</string>
-  <string name="find_other_qrcode">Find QR code</string>
-  <string name="find_qq_qrcode">Find a QQ QR code</string>
+  <string name="find_cloud_album">Εύρεση QR κωδικού σε άλμπουμ στο σύννεφο</string>
+  <string name="find_market_qrcode">Εύρεση QR κωδικού market</string>
+  <string name="find_mecard_qrcode">Εύρεση QR κωδικού κάρτας-επισκέπτη</string>
+  <string name="find_other_qrcode">Εύρεση QR κωδικού</string>
+  <string name="find_qq_qrcode">Εύρεση QR κωδικού QQ</string>
   <string name="find_web_qrcode">Find web site QR code</string>
   <string name="find_wechat_qrcode">Find a WeChat QR code</string>
   <string name="find_wifi_qrcode">Find a Wi-Fi QR code</string>
