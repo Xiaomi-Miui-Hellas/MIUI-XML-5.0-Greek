@@ -9,4 +9,4 @@ Thank you !
 
 Xiaomi-Miui Hellas TEAM
 
-Miui_Art => xiaomi-miui.gr <OWNER>
+Miui_Art => http://xiaomi-miui.gr <OWNER>
