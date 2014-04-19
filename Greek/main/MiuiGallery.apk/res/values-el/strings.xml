@@ -8,7 +8,7 @@
   <string name="add_account">Add account</string>
   <string name="add_sharer">Add sharer</string>
   <string name="add_to_cloud_album">Add to Cloud</string>
-  <string name="add_to_cloud_exceeded_the_size_message">File size is too large for MiCloud.</string>
+  <string name="add_to_cloud_exceeded_the_size_message">Μέγεθος αρχείου is too large for MiCloud.</string>
   <string name="add_to_cloud_fail_too_many_items">Failed to complete operation, too many items selected</string>
   <string name="add_to_cloud_failed_message_with_count">%2$s item(s) can not be added to cloud album: %1$s.</string>
   <string name="add_to_cloud_file_exist_message">Photo already exists in selected album.</string>
@@ -159,9 +159,9 @@ friends."</string>
   <string name="download_fail">Download failed!</string>
   <string name="download_fail_confirm_continue">Downloading %s failed. Continue?</string>
   <string name="duotone">Duo-tone</string>
-  <string name="duration">Duration</string>
-  <string name="edit">Edit</string>
-  <string name="edited_photo_bucket_name">Edited</string>
+  <string name="duration">Διάρκεια</string>
+  <string name="edit">Επεξεργασία</string>
+  <string name="edited_photo_bucket_name">Επεξεργασίαed</string>
   <string name="email_picker_title">Add shared e-mail</string>
   <string name="enable_cloud_for_sharing">Enable the MiCloud album to view shared pictures.</string>
   <string name="enter_email_hint">"Enter E-mail address "</string>
@@ -178,7 +178,7 @@ friends."</string>
   <string name="exit_share_failed">Exit album %1$s failed</string>
   <string name="exit_share_in_process">Trying to exit album, please wait...</string>
   <string name="exit_share_successfully">Exited album %1$s successfully</string>
-  <string name="exposure_time">Exposure time</string>
+  <string name="exposure_time">Χρόνος έκθεσης</string>
   <string name="external_sd_card">SD card</string>
   <string name="external_usb_device">USB device</string>
   <string name="external_usb_device_hm">External USB storage</string>
@@ -189,12 +189,12 @@ friends."</string>
   <string name="fail_to_pick_email">No valid E-mail selected</string>
   <string name="fail_to_sync_album">Failed to synchronize album to server. Please check your network connection!</string>
   <string name="file_not_exist_message">File does not exist.</string>
-  <string name="file_size">File size</string>
+  <string name="file_size">Μέγεθος αρχείου</string>
   <string name="filllight">Fill Light</string>
   <string name="fisheye">Fisheye</string>
-  <string name="flash">Flash</string>
+  <string name="flash">Φλας</string>
   <string name="flash_off">Χωρίς φλας</string>
-  <string name="flash_on">Flash fired</string>
+  <string name="flash_on">Φλας fired</string>
   <string name="flip">Flip</string>
   <string name="flip_tooltip">Drag photo to flip it</string>
   <string name="focal_length">Focal length</string>

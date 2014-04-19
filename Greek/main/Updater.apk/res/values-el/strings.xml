@@ -46,7 +46,7 @@
   <string name="download_whole_rom">Download full ROM (%s)</string>
   <string name="downloading_description">Downloading...</string>
   <string name="edit_comment">Add comment</string>
-  <string name="edit_comment_title">Edit comment</string>
+  <string name="edit_comment_title">Επεξεργασία comment</string>
   <string name="edit_text_default">Write a comment</string>
   <string name="emegency_build">Build:</string>
   <string name="exception_while_downloading">Error while downloading update</string>

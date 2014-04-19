@@ -71,7 +71,7 @@
   <string name="dirac_mode_in_ear">Xiaomi in-ear headphones</string>
   <string name="dirac_mode_off">Dirac Off</string>
   <string name="dirac_mode_piston_100">Xiaomi Piston headphones</string>
-  <string name="disconnect">Disconnect</string>
+  <string name="disconnect">Ντίσκοnnect</string>
   <string name="download">Download</string>
   <string name="download_album_settings">Auto download album art</string>
   <string name="download_album_summary">May cost more when used via mobile network, please consider using Wi-Fi</string>
@@ -123,7 +123,7 @@
   <string name="filter_by_duration_format">%2$dmin%5$2dsec</string>
   <string name="filter_by_duration_max">5 min</string>
   <string name="filter_by_duration_min">0 secs</string>
-  <string name="filter_by_duration_prefix">"Minimum Duration: "</string>
+  <string name="filter_by_duration_prefix">"Minimum Διάρκεια: "</string>
   <string name="filter_by_duration_summary">Filter length is too small for audio files</string>
   <string name="filter_by_folder">Filter by folder</string>
   <string name="filter_by_folder_summary_off">Not open, click on the folder, then filter folder</string>
@@ -134,7 +134,7 @@
   <string name="filter_by_size_prefix">"Minimum size:"</string>
   <string name="filter_by_size_summary">Filter is too small for audio files</string>
   <string name="filter_notification">Filter has been filtered, you can change these settings in the filter settings.</string>
-  <string name="find_ktv">Discover KTV</string>
+  <string name="find_ktv">Ντίσκοver KTV</string>
   <string name="folder_title_format" formatted="false">%s(%d)</string>
   <string name="folders_title">Folders</string>
   <string name="frequentlyplayed_title">Frequently played</string>
@@ -144,7 +144,7 @@
   <string name="higher_quality_music_summary">Listen to and download higher quality music</string>
   <string name="hot_artists">Hot Artists</string>
   <string name="i_know">ΟΚ</string>
-  <string name="id3_edit">Edit ID3 information</string>
+  <string name="id3_edit">Επεξεργασία ID3 information</string>
   <string name="id3_edit_failed">Failed to edit ID3 information</string>
   <string name="id3_modify_confirm_check">Confirm ID3 changes?</string>
   <string name="id3_modify_confirm_text">Save</string>
@@ -157,7 +157,7 @@
   <string name="ktv_and_room">%1$s %2$s</string>
   <string name="ktv_connected_alert_message">The songs you select will be added to the playlist named My KTV</string>
   <string name="ktv_connected_alert_titel">Connected to %1$s</string>
-  <string name="ktv_disconnect_alert_titel">Disconnect from %1$s?</string>
+  <string name="ktv_disconnect_alert_titel">Ντίσκοnnect from %1$s?</string>
   <string name="ktv_song_vod_fail">Failed to add %1$s</string>
   <string name="ktv_song_vod_success">%1$s added</string>
   <string name="ktv_unbind_message">"Failed to connect with KTV console. Make sure you're scanning the correct QR code."</string>
@@ -199,7 +199,7 @@
   <string name="mobile_connect_settings">Mobile network</string>
   <string name="modify_id3_for_list">The current list of songs ID3 information will be edited</string>
   <string name="modify_id3_for_selected">The selected songs ID3 information will be edited</string>
-  <string name="modify_meta">Edit Meta Info</string>
+  <string name="modify_meta">Επεξεργασία Meta Info</string>
   <string name="modify_tracks_id3_background">Modify selected songs ID3 information in background</string>
   <string name="more">More</string>
   <string name="music_browser_label">Music</string>

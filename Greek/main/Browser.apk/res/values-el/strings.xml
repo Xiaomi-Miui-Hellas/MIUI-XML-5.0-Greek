@@ -159,7 +159,7 @@
   <string name="download_complete">Download completed</string>
   <string name="download_default_path_txt">Remember this choice</string>
   <string name="download_dialog_default_path_invalid">Invalid download path, the default download path will be used</string>
-  <string name="download_dialog_file_length_hint_txt">File size:</string>
+  <string name="download_dialog_file_length_hint_txt">Μέγεθος αρχείου:</string>
   <string name="download_dialog_file_length_lessthan1kb">Less than 1K</string>
   <string name="download_dialog_file_length_nolength_error_txt">Failed to calculate file size</string>
   <string name="download_dialog_file_length_nolength_txt">Calculating file size</string>
@@ -187,9 +187,9 @@
   <string name="dump_dom_tree">Dump DOM tree to file</string>
   <string name="dump_nav">Dump navigation cache</string>
   <string name="dump_render_tree">Dump render tree to file</string>
-  <string name="edit">Edit</string>
-  <string name="edit_bookmark">Edit bookmark</string>
-  <string name="edit_folder">Edit folder</string>
+  <string name="edit">Επεξεργασία</string>
+  <string name="edit_bookmark">Επεξεργασία bookmark</string>
+  <string name="edit_folder">Επεξεργασία folder</string>
   <string name="empty_bookmarks_folder">No bookmarks.</string>
   <string name="empty_history">No browser history.</string>
   <string name="empty_snapshots_folder">No saved pages.</string>

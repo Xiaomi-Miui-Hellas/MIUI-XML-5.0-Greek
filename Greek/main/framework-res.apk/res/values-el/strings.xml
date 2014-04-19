@@ -874,8 +874,8 @@
     <string name="searchview_description_voice">Φωνητική αναζήτηση</string>
     <string name="enable_explore_by_touch_warning_title">Ενεργοποίηση Αναζήτησης μέσω αφής;</string>
     <string name="enable_explore_by_touch_warning_message">Η υπηρεσία %1$s απαιτεί ενεργοποίηση της Εξερεύνησης μέσω αφής. Όταν είναι ενεργοποιημένη η Εξερεύνηση μέσω αφής, μπορείτε να δείτε ή να ακούσετε περιγραφές για τις επιλογές που βρίσκονται κάτω από το δάχτυλό σας ή να κάνετε κινήσεις αλληλεπίδρασης με το τηλέφωνό σας.</string>
-    <string name="oneMonthDurationPast">πριν από 1 μήνα</string>
-    <string name="beforeOneMonthDurationPast">Παλαιότερα από 1 μήνα</string>
+    <string name="oneMonthΔιάρκειαPast">πριν από 1 μήνα</string>
+    <string name="beforeOneMonthΔιάρκειαPast">Παλαιότερα από 1 μήνα</string>
     <string name="last_month">Τελευταίος μήνας</string>
     <string name="older">Παλαιότερα</string>
     <string name="preposition_for_date">στις %s</string>

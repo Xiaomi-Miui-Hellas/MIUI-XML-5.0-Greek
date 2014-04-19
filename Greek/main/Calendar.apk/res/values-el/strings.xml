@@ -79,7 +79,7 @@
   <string name="edit_event_label">Πληροφορίες</string>
   <string name="edit_event_show_all">Show all</string>
   <string name="edit_event_to_label">To</string>
-  <string name="edit_label">Edit</string>
+  <string name="edit_label">Επεξεργασία</string>
   <string name="email_guests_label">E-mail guests</string>
   <string name="email_picker_label">E-mail with</string>
   <string name="email_subject_prefix">"Re: "</string>
@@ -88,7 +88,7 @@
   <string name="event_all_day_label">All day</string>
   <string name="event_create">New event</string>
   <string name="event_delete">Διαγραφή event</string>
-  <string name="event_edit">Edit event</string>
+  <string name="event_edit">Επεξεργασία event</string>
   <string name="event_hide_more">Hide</string>
   <string name="event_info_descrip">"Περιγραφή: "</string>
   <string name="event_info_organizer">Organizer:</string>
@@ -178,8 +178,8 @@
   <string name="quick_response_email_failed">Failed to find an e-mail app</string>
   <string name="quick_response_settings">Quick responses</string>
   <string name="quick_response_settings_edit_title">Quick response</string>
-  <string name="quick_response_settings_summary">Edit default responses when e-mailing guests</string>
-  <string name="quick_response_settings_title">Edit quick responses</string>
+  <string name="quick_response_settings_summary">Επεξεργασία default responses when e-mailing guests</string>
+  <string name="quick_response_settings_title">Επεξεργασία quick responses</string>
   <string name="reminders_label">Add reminder</string>
   <string name="repeats_label">Recurring</string>
   <string name="response_maybe">Maybe</string>

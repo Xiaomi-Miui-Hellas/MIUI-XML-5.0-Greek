@@ -58,7 +58,7 @@ touch it with the back of your phone"</string>
   <string name="diselect_all">Deselect all</string>
   <string name="display">Display</string>
   <string name="disturb_mode">Do not disturb</string>
-  <string name="edit_tag">Edit</string>
+  <string name="edit_tag">Επεξεργασία</string>
   <string name="edit_tag_content">touch it with the back of your phone</string>
   <string name="email_body">Message</string>
   <string name="email_subject">Subject</string>
@@ -176,7 +176,7 @@ touch the back of your phone to another tag."</string>
   <string name="unavailable_net">"Failed to install: Couldn't connect to network"</string>
   <string name="unavailable_storage">"Failed to install: Couldn't use your SD card"</string>
   <string name="unrecognized_tag">Unrecognized tag content</string>
-  <string name="update_config">Edit tasks</string>
+  <string name="update_config">Επεξεργασία tasks</string>
   <string name="user_configs">My tasks</string>
   <string name="vibrate_mode">Vibrate</string>
   <string name="vibrate_off">Vibrate off</string>

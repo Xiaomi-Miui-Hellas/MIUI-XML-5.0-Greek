@@ -55,7 +55,7 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="callAgain">Redial</string>
   <string name="callBack">Call back</string>
   <string name="callDetailTitle">Call details</string>
-  <string name="callΠληροφορίεςDurationFormat" formatted="false">%s mins %s secs</string>
+  <string name="callΠληροφορίεςΔιάρκειαFormat" formatted="false">%s mins %s secs</string>
   <string name="callShortcutActivityTitle">Choose a number to call</string>
   <string name="call_assistant">Call %s</string>
   <string name="call_callback">Call callback</string>
@@ -87,7 +87,7 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="call_work_mobile">Call work mobile</string>
   <string name="call_work_pager">Call work pager</string>
   <string name="calllog_menu_blacklist">Add to blacklist</string>
-  <string name="calllog_menu_edit_before_call">Edit before calling</string>
+  <string name="calllog_menu_edit_before_call">Επεξεργασία before calling</string>
   <string name="calllog_menu_send_sms">Send a message</string>
   <string name="callrecordview_item_newcontact">New Contact</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sec</string>
@@ -108,7 +108,7 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="callrecordview_menu_delete_new">Clear call log of new contacts</string>
   <string name="callrecordview_menu_delete_one">Remove from call log</string>
   <string name="callrecordview_menu_delete_stranger">Clear call log for unknown numbers</string>
-  <string name="callrecordview_menu_edit_call_note">Edit call note</string>
+  <string name="callrecordview_menu_edit_call_note">Επεξεργασία call note</string>
   <string name="callrecordview_menu_paste">Paste</string>
   <string name="callrecordview_menu_settings">Settings</string>
   <string name="callrecordview_menu_show">Call log filter</string>
@@ -176,7 +176,7 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="contact_detail_calllog_call_note_tips">Call note</string>
   <string name="contact_detail_calllog_call_record_tips">Call record</string>
   <string name="contact_directory_description">Directory %1$s</string>
-  <string name="contact_edit_title_edit">Edit contact</string>
+  <string name="contact_edit_title_edit">Επεξεργασία contact</string>
   <string name="contact_edit_title_insert">Create %s contact</string>
   <string name="contact_edit_title_readonly">Read-only contact</string>
   <string name="contact_editor_prompt_multiple_accounts">Please select contact account to save to</string>
@@ -331,10 +331,10 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="download_failed">Download failed!</string>
   <string name="download_preview_failed">Failed to load preview</string>
   <string name="duplicate_group_name">Group name already exists</string>
-  <string name="editContactΠεριγραφή">Edit contact</string>
-  <string name="editGroupΠεριγραφή">Edit group</string>
-  <string name="edit_contact">Edit contact</string>
-  <string name="edit_contact_card_title">Edit contact card</string>
+  <string name="editContactΠεριγραφή">Επεξεργασία contact</string>
+  <string name="editGroupΠεριγραφή">Επεξεργασία group</string>
+  <string name="edit_contact">Επεξεργασία contact</string>
+  <string name="edit_contact_card_title">Επεξεργασία contact card</string>
   <string name="email">E-mail</string>
   <string name="emailLabelsGroup">E-mail</string>
   <string name="email_custom">E-mail %s</string>
@@ -524,8 +524,8 @@ Reason: \"%s\""</string>
   <string name="menu_display_selected">Show selected</string>
   <string name="menu_doNotSave">Cancel</string>
   <string name="menu_done">ΟΚ</string>
-  <string name="menu_editContact">Edit</string>
-  <string name="menu_editGroup">Edit</string>
+  <string name="menu_editContact">Επεξεργασία</string>
+  <string name="menu_editGroup">Επεξεργασία</string>
   <string name="menu_help">Help</string>
   <string name="menu_import_export">Import/export</string>
   <string name="menu_joinAggregate">Merge</string>
@@ -571,7 +571,7 @@ Reason: \"%s\""</string>
   <string name="next_birthday">Next birthday: %s</string>
   <string name="nfc_vcard_file_name">Contact received over NFC</string>
   <string name="nicknameLabelsGroup">Nickname</string>
-  <string name="nickname_editor_title">Edit nickname</string>
+  <string name="nickname_editor_title">Επεξεργασία nickname</string>
   <string name="nickname_picker_name_column">Contact name</string>
   <string name="nickname_picker_nickname_column">Title</string>
   <string name="noAccounts">To create groups you need an account.</string>
@@ -626,7 +626,7 @@ To add a contact to your list of favorites:
   <string name="open_contact">View contact</string>
   <string name="option_delete_contact">Delete</string>
   <string name="option_delete_group">Delete</string>
-  <string name="option_edit_contact">Edit</string>
+  <string name="option_edit_contact">Επεξεργασία</string>
   <string name="option_not_in_group">Remove</string>
   <string name="option_not_star">Unfavorite</string>
   <string name="option_rename_group">Rename</string>
@@ -742,7 +742,7 @@ To add a contact to your list of favorites:
   <string name="recentCalls_addToContact">Add to contacts</string>
   <string name="recentCalls_callNumber">Call %s</string>
   <string name="recentCalls_deleteAll">Clear call log</string>
-  <string name="recentCalls_editNumberBeforeCall">Edit number before call</string>
+  <string name="recentCalls_editNumberBeforeCall">Επεξεργασία number before call</string>
   <string name="recentCalls_empty">Call log is empty.</string>
   <string name="recentCalls_removeFromRecentList">Remove from call log</string>
   <string name="recentCalls_shareVoicemail">Share voicemail</string>
@@ -787,7 +787,7 @@ Touch the Merge icon at the bottom to begin."</string>
   <string name="resource_comment_edit_comment">Add comments</string>
   <string name="resource_comment_edit_comment_waiting">Checking user history…</string>
   <string name="resource_comment_edit_text_default">Add a comment</string>
-  <string name="resource_comment_edit_title">Edit comment: %1$s</string>
+  <string name="resource_comment_edit_title">Επεξεργασία comment: %1$s</string>
   <string name="resource_comment_entry_tips">Show comments</string>
   <string name="resource_comment_expand_full_text">Show all text ▼</string>
   <string name="resource_comment_footer">Empty comments are not displayed.</string>
@@ -859,7 +859,7 @@ Touch the Merge icon at the bottom to begin."</string>
   <string name="resource_list_title">Latest selected</string>
   <string name="resource_local">Local %1$s</string>
   <string name="resource_menu_refresh">Refresh</string>
-  <string name="resource_mute">None</string>
+  <string name="resource_mute">Κανένα</string>
   <string name="resource_my">Local</string>
   <string name="resource_no_result">No result</string>
   <string name="resource_notification_default">Notifications</string>
@@ -893,7 +893,7 @@ Touch the Merge icon at the bottom to begin."</string>
   <string name="resource_share_text">"Here's a theme I thought you might like: %1$s! Link: %2$s"</string>
   <string name="resource_share_title">Share</string>
   <string name="resource_system_title">System resources</string>
-  <string name="resource_tip_select_ringtone">None selected</string>
+  <string name="resource_tip_select_ringtone">Κανένα selected</string>
   <string name="resource_title">Resource detail</string>
   <string name="resource_title_select_ringtone">Select tone</string>
   <string name="resource_trial_end_message">Trial of %1$s expired. If you like, please purchase it.</string>

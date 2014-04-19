@@ -7,7 +7,7 @@
   <string name="action_close">Close</string>
   <string name="action_lock_screen">Lock screen</string>
   <string name="action_open_camera">Camera</string>
-  <string name="action_open_flashlight">Flashlight</string>
+  <string name="action_open_flashlight">Φλαςlight</string>
   <string name="action_open_or_close_motion">On/Off Motion</string>
   <string name="action_open_other_app">Other app</string>
   <string name="action_open_sound_recorder">Reocrd sound</string>

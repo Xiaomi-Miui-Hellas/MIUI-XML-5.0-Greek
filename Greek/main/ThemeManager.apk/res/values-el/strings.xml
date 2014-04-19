@@ -80,7 +80,7 @@
   <string name="resource_comment_edit_comment">Add comments</string>
   <string name="resource_comment_edit_comment_waiting">Checking whether you have used</string>
   <string name="resource_comment_edit_text_default">Write a comment</string>
-  <string name="resource_comment_edit_title">Edit comment: %1$s</string>
+  <string name="resource_comment_edit_title">Επεξεργασία comment: %1$s</string>
   <string name="resource_comment_entry_tips">View comments</string>
   <string name="resource_comment_expand_full_text">Expand full-text</string>
   <string name="resource_comment_footer">Empty comments are not displayed.</string>
@@ -152,7 +152,7 @@
   <string name="resource_list_title">Latest selected</string>
   <string name="resource_local">Local %1$s</string>
   <string name="resource_menu_refresh">Refresh</string>
-  <string name="resource_mute">None</string>
+  <string name="resource_mute">Κανένα</string>
   <string name="resource_my">Local</string>
   <string name="resource_no_result">No result</string>
   <string name="resource_notification_default">Notifications</string>

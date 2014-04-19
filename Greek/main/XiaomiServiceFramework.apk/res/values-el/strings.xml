@@ -175,7 +175,7 @@ To solve this, you can either clean out old files, or purchase additional storag
   <string name="micloud_intro_03_part_02">Mange your data and also locate, lock or erase device contents on i.xiaomi.com</string>
   <string name="micloud_is_what">What is MiCloud?</string>
   <string name="micloud_more">Learn more</string>
-  <string name="micloud_none">None</string>
+  <string name="micloud_none">Κανένα</string>
   <string name="micloud_password_confirm_hint">Confirm password</string>
   <string name="micloud_password_error_inconsistent">Password mismatch</string>
   <string name="micloud_password_req_notice">8~16 chars, contains digits, alphabet letters, case sensitive</string>

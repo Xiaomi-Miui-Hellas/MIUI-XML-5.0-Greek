@@ -52,7 +52,7 @@
   <string name="top_status_online_media">Online media</string>
   <string name="video_info_audio_bitrate_label">Audio bitrate:</string>
   <string name="video_info_audio_coding_label">Audio encoding format:</string>
-  <string name="video_info_audio_null">None</string>
+  <string name="video_info_audio_null">Κανένα</string>
   <string name="video_info_frame_rate_label">Framerate:</string>
   <string name="video_info_length_label">Length:</string>
   <string name="video_info_resolution_label">Video resolution:</string>

@@ -43,7 +43,7 @@
   <string name="download_fail_ok">ΟΚ</string>
   <string name="download_line1">From: \"%1$s\"</string>
   <string name="download_line2">Filename: %1$s</string>
-  <string name="download_line3">File size: %1$s</string>
+  <string name="download_line3">Μέγεθος αρχείου: %1$s</string>
   <string name="download_line4"/>
   <string name="download_line5">Receiving file...</string>
   <string name="download_ok">ΟΚ</string>
