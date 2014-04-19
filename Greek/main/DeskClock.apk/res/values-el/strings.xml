@@ -83,7 +83,7 @@
   <string name="stopwatch_lap_empty_text">No laps</string>
   <string name="stopwatch_title">Stopwatch</string>
   <string name="system_time_setting">Time settings</string>
-  <string name="time">Time</string>
+  <string name="time">Ώρα</string>
   <string name="timer_alert_alert_silenced">Timer stopped after %d minutes.</string>
   <string name="timer_continue">Continue</string>
   <string name="timer_got_it">OK</string>

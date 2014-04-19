@@ -1024,7 +1024,7 @@ the content you're looking for is not currently available in your region."</stri
   <string name="status_away">Away</string>
   <string name="status_busy">Busy</string>
   <string name="strequentList">Favorites</string>
-  <string name="success_message_import_from_account">Imported successfully</string>
+  <string name="success_message_import_from_account">Εισαγωγή επιτυχής</string>
   <string name="summary_kind_title">Summary</string>
   <string name="t9_search_guide">Quickly find people using your dialler pad</string>
   <string name="t9_search_guide_pinyin">Type 7 and 5 to search Steve Jobs</string>
