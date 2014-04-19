@@ -381,7 +381,7 @@ friends."</string>
   <string name="screensaver_path">Screensaver album:</string>
   <string name="screensaver_path_not_set">Not set</string>
   <string name="sd_not_available">SD card unmounted or unavailable</string>
-  <string name="seconds">seconds</string>
+  <string name="seconds">δευτερόλεπτα</string>
   <string name="select_album">Select album</string>
   <string name="select_all">Select all</string>
   <string name="select_image">Select photo</string>
@@ -431,7 +431,7 @@ friends."</string>
   <string name="slideshow_category">Slideshow</string>
   <string name="slideshow_dream_name">Slideshow</string>
   <string name="slideshow_interval">Slideshow time interval</string>
-  <string name="slideshow_interval_dialog_title">Slideshow time interval must be greater than 0 seconds</string>
+  <string name="slideshow_interval_dialog_title">Slideshow time interval must be greater than 0 δευτερόλεπτα</string>
   <string name="slideshow_interval_invalid">Invalid time interval setting, must be between 1 and 3600. Default time interval will now be used</string>
   <string name="slideshow_repeat_mode">Repeat</string>
   <string name="slideshow_time_select_title">Select Slideshow Time</string>

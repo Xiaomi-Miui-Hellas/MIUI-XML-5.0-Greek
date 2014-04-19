@@ -34,7 +34,7 @@
   <string name="bankcall_xiaomi_company">Xiaomi Corporation (Beijing)</string>
   <string name="btn_back">Return</string>
   <string name="btn_call">Call</string>
-  <string name="btn_count_down_auto">Inquire after %1$s seconds</string>
+  <string name="btn_count_down_auto">Inquire after %1$s δευτερόλεπτα</string>
   <string name="btn_delete_record">Delete</string>
   <string name="btn_mili_center_recharge">Top up MiCredit</string>
   <string name="btn_net_connection_retry">Retry</string>

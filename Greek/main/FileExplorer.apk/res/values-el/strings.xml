@@ -52,7 +52,7 @@
   <string name="confirm">OK</string>
   <string name="confirm_know">OK</string>
   <string name="copy_failed">Failed to copy</string>
-  <string name="count_down_time">Start after %d seconds</string>
+  <string name="count_down_time">Start after %d δευτερόλεπτα</string>
   <string name="create_kuaipan_shortcut_pref">Create a shortcut to the desktop</string>
   <string name="create_new_folder_desctiption">Creating new folder...</string>
   <string name="create_new_folder_failed">Failed to create folder %1$s</string>

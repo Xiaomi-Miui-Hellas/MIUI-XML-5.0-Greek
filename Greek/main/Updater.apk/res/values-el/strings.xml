@@ -13,7 +13,7 @@
   <string name="apply_update_dialog_cancel_button">Cancel</string>
   <string name="apply_update_dialog_update_button">Update</string>
   <string name="apply_update_fail">System update failed</string>
-  <string name="apply_update_timer">Update completed，device will reboot in %d seconds</string>
+  <string name="apply_update_timer">Update completed，device will reboot in %d δευτερόλεπτα</string>
   <string name="apply_upload_info_message">Clicking Update now will automatically restart the phone to apply the update</string>
   <string name="apply_upload_info_message_manually">After shutdown, you can manually enter Recovery to apply %s in SD Card. If you want to backup, you may perform it and then return to system update.</string>
   <string name="applying_rom_message">Applying update</string>

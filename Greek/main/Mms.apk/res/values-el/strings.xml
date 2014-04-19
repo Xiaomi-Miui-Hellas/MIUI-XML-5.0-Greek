@@ -114,7 +114,7 @@
   <string name="duration_not_a_number">Duration must be a number</string>
   <string name="duration_sec">Duration (%s sec)</string>
   <string name="duration_selector_title">"Duration for slide "</string>
-  <string name="duration_zero">Duration must be greater than zero seconds</string>
+  <string name="duration_zero">Duration must be greater than zero δευτερόλεπτα</string>
   <string name="edit">Επεξεργασία</string>
   <string name="edit_nickname_for_nocontact">No recipients found. Please have at least one recipient to edit nicknames.</string>
   <string name="edit_nickname_for_nocontact_by_robot">Please have at least one recipient to edit nicknames.</string>
