@@ -366,7 +366,7 @@ Try again in %d seconds."</string>
   <string name="lunar_zheng"/>
   <string name="memory_clear_nothing_result">No memory to clear</string>
   <string name="memory_clear_result">"%1$s Free | %2$s available"</string>
-  <string name="minutes">%d minutes</string>
+  <string name="minutes">%d λεπτά</string>
   <string name="miui_copyright_title">Copyright</string>
   <string name="miui_device_name">Android</string>
   <string name="miui_mibi_license_title">Mi Credit User agreement</string>
