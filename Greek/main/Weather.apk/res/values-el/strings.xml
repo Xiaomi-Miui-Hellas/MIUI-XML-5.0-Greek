@@ -53,7 +53,7 @@
   <string name="aqi_quality_index_unhealthy">unhealthy</string>
   <string name="button_allow">Allow</string>
   <string name="button_not_allow">Deny</string>
-  <string name="cancel">Cancel</string>
+  <string name="cancel">Άκυρο</string>
   <string name="enable_gps">GPS</string>
   <string name="enable_notification">Open location notification</string>
   <string name="enable_notification_city">Have opened %s weather notification, system notification will be sent when unexpected weather such as rain, snow and temperature change occurs.</string>

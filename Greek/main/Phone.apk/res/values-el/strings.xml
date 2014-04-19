@@ -177,7 +177,7 @@
   <string name="calling_via_template">Calling via %s</string>
   <string name="calling_via_template_miui">"Calling via ^1
 "</string>
-  <string name="cancel">Cancel</string>
+  <string name="cancel">Άκυρο</string>
   <string name="cancel_call">Cancel</string>
   <string name="card_01">Card 1</string>
   <string name="card_02">Card 2</string>

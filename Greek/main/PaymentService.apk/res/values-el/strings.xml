@@ -59,7 +59,7 @@
   <string name="button_recharge">Top up</string>
   <string name="button_recharge_pay">Confirm</string>
   <string name="button_retry">Retry</string>
-  <string name="cancel">Cancel</string>
+  <string name="cancel">Άκυρο</string>
   <string name="change_security_lock">Change security lock</string>
   <string name="colon">": "</string>
   <string name="detail_consume_account">Customer ID</string>

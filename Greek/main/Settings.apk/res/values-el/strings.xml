@@ -519,7 +519,7 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="camera_key_action_shortcut_wake">Lock/Wake device</string>
   <string name="camera_key_action_title">MI Button</string>
   <string name="camera_key_action_toggle_title">Trigger toggle</string>
-  <string name="cancel">Cancel</string>
+  <string name="cancel">Άκυρο</string>
   <string name="cancel_alert">Discard your changes?</string>
   <string name="cancel_button">Cancel</string>
   <string name="cancel_optimize">Cancel</string>

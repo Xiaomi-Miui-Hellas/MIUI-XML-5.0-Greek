@@ -68,7 +68,7 @@
   <string name="camera_path">/DCIM/Camera</string>
   <string name="camera_setas_wallpaper">Wallpaper</string>
   <string name="camera_view_none_message">Captured photos will be displayed here.</string>
-  <string name="cancel">Cancel</string>
+  <string name="cancel">Άκυρο</string>
   <string name="cancel_hint">Operation is canceled</string>
   <string name="cannot_delete_sharer_photo">Cannot delete %s item(s) uploaded by other users.</string>
   <string name="cannot_remove_creator">Cannot remove owner</string>

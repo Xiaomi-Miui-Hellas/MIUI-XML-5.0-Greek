@@ -25,12 +25,12 @@
   <string name="auto">Αυτόματο</string>
   <string name="bg_replacement_message">"Τοποθετήστε τη συσκευή και
 Βγείτε από το καρέ για μια στιγμή"</string>
-  <string name="camera_disabled">Camera has been disabled because of security policies.</string>
-  <string name="camera_error_title">Camera error</string>
-  <string name="camera_label">Camera</string>
-  <string name="camera_settings_label">Camera settings</string>
-  <string name="can_not_play_video">Unlock screen to view playback</string>
-  <string name="cancel">Cancel</string>
+  <string name="camera_disabled">Η κάμερα έχει απενεργοποιηθεί λόγο ρυθμίσεων ασφαλείας.</string>
+  <string name="camera_error_title">Σφάλμα κάμερας</string>
+  <string name="camera_label">Κάμερα</string>
+  <string name="camera_settings_label">Ρυθμίσεις κάμερας</string>
+  <string name="can_not_play_video">Ξεκλειδώστε την οθόνη για προβολή αναπαραγωγής</string>
+  <string name="cancel">Άκυρο</string>
   <string name="cannot_connect_camera_once">"Can't connect to camera"</string>
   <string name="cannot_connect_camera_twice">"Still can't connect to camera. Try restarting your phone and see if the problem persists."</string>
   <string name="clear_effects">Clear effects</string>
