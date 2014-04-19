@@ -463,7 +463,6 @@
   <string name="pref_setting_title">Page settings</string>
   <string name="pref_text_zoom">Text scaling</string>
   <string name="pref_ua_mione_entry">MiOne</string>
-  <string name="pref_ua_mione_value">4</string>
   <string name="pref_ua_string">User agent string</string>
   <string name="pref_ua_title">User agent management</string>
   <string name="pref_use_instant_search">Google instant search</string>
