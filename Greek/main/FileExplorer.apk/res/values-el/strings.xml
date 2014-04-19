@@ -104,7 +104,7 @@
   <string name="file_info_location">Path:</string>
   <string name="file_info_modified">Modified:</string>
   <string name="file_info_size">Size:</string>
-  <string name="file_loading">Loading...</string>
+  <string name="file_loading">Φορτώνει...</string>
   <string name="file_too_large">"The file is too large and can't be uploaded"</string>
   <string name="finished">Finished</string>
   <string name="folder_exist">The folder already exists</string>

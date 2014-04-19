@@ -1624,7 +1624,7 @@ try the following:
   <string name="perm_hips_wifi_network_desc">Wi-Fi Network</string>
   <string name="perm_hips_wifi_network_hint">%1$s apps are allowed to access Internet through WIFI network</string>
   <string name="perm_invalid_input">Invalid input</string>
-  <string name="perm_loading">Loading...</string>
+  <string name="perm_loading">Φορτώνει...</string>
   <string name="perm_log">Logs</string>
   <string name="perm_log_clear_content">All logs will be erased. Would you like to enable it?</string>
   <string name="perm_log_clear_title">Clear logs</string>
@@ -1812,7 +1812,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
   <string name="power_mode_internet">2G/3G</string>
   <string name="power_mode_screen_brightness">Brightness</string>
   <string name="power_mode_screen_brightness_automatic">Automatic: %1$d%%</string>
-  <string name="power_mode_screen_brightness_manual">Manual: %1$d%%</string>
+  <string name="power_mode_screen_brightness_manual">Εγχειρίδιο: %1$d%%</string>
   <string name="power_mode_select_desc">Choose the mode that meets your individual needs</string>
   <string name="power_mode_select_title">Power mode</string>
   <string name="power_mode_sleep">Sleep</string>

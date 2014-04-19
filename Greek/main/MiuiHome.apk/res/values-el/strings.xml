@@ -168,7 +168,7 @@
   <string name="status_bar_toggle_shutdown">Power</string>
   <string name="status_bar_toggle_sync">Sync</string>
   <string name="status_bar_toggle_sync_auto">Αυτόματο sync</string>
-  <string name="status_bar_toggle_sync_manual">Manual sync</string>
+  <string name="status_bar_toggle_sync_manual">Εγχειρίδιο sync</string>
   <string name="status_bar_toggle_syncing">Syncing</string>
   <string name="status_bar_toggle_torch">Torch</string>
   <string name="status_bar_toggle_vibrate">Vibrate</string>

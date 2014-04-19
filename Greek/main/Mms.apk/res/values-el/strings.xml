@@ -140,7 +140,7 @@
   <string name="feedback_submit">Submit</string>
   <string name="festival">Recommended</string>
   <string name="festival_sms_category_count_format">(%s)</string>
-  <string name="festival_sms_loading">Loading...</string>
+  <string name="festival_sms_loading">Φορτώνει...</string>
   <string name="fetion_prefix">[Fetion]</string>
   <string name="file_share_message_description">I would like to share files with you</string>
   <string name="flatshow_page_no">%1$d</string>
