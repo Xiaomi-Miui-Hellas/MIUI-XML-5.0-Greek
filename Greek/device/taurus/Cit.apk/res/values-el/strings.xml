@@ -11,18 +11,18 @@
   <string name="cit_accelermeter_sensor_check_summary">Η οθόνη θα προβάλει X, Y, Z acceleration (Σημείωση: Όταν η συσκευή κάνει κυκλική κίνηση οι τιμές θα αλλάηξουν με βάση τον προσανατολισμό</string>
   <string name="cit_accelermeter_sensor_check_title">Δοκιμή Accelerometer</string>
   <string name="cit_audio_loopback_check_one_title">Δοκιμή μικροφώνου στον δέκτη</string>
-  <string name="cit_audio_loopback_check_summary_first">Test will perform loopback test of the main microphone</string>
-  <string name="cit_audio_loopback_check_summary_second">Turn the phone over and test the other microphones loopback</string>
-  <string name="cit_audio_loopback_check_two_title">Test Microphone to speaker</string>
-  <string name="cit_audio_loopback_dualmic_earpiece_title">Test Call audio</string>
-  <string name="cit_audio_loopback_next">Next</string>
-  <string name="cit_audio_loopback_previous">Previous</string>
-  <string name="cit_audio_loopback_summary_dualmic_earpiece">"Call test, speak using phone will output via main microphone and voicew will be heard directly from handset."</string>
-  <string name="cit_battery_temp_fail">Battery test failed with (value=%d)</string>
-  <string name="cit_battery_temp_pass">Battery test passed</string>
-  <string name="cit_batterylight_blue">Blue</string>
-  <string name="cit_batterylight_green">Green</string>
-  <string name="cit_batterylight_red">Red</string>
+  <string name="cit_audio_loopback_check_summary_first">Θα δοκιμαστεί η επιστροφή του κεντρικού μικροφώνου</string>
+  <string name="cit_audio_loopback_check_summary_second">Αναποδογυρίστε τη συσκευή και δοκιμάστε την επιστροφή από τα άλλα μικρόφωνα</string>
+  <string name="cit_audio_loopback_check_two_title">Δοκιμή μικροφώνου σε ηχείο</string>
+  <string name="cit_audio_loopback_dualmic_earpiece_title">Δοκιμή Ήχου σε κλήση</string>
+  <string name="cit_audio_loopback_next">Επόμενο</string>
+  <string name="cit_audio_loopback_previous">Προηγούμενο</string>
+  <string name="cit_audio_loopback_summary_dualmic_earpiece">"Δοκιμή κλήσης, μιλώντας στη συσκευή θα περάσει ο ήχος από το κεντρικό μικρόφωνο και θα ακουστεί απευθείας."</string>
+  <string name="cit_battery_temp_fail">Δοκιμή μπαταρίας απέτυχε με (τιμή=%d)</string>
+  <string name="cit_battery_temp_pass">Δοκιμή μπαταρίας πέτυχε</string>
+  <string name="cit_batterylight_blue">Μπλε</string>
+  <string name="cit_batterylight_green">Πράσινο</string>
+  <string name="cit_batterylight_red">Κόκκινο</string>
   <string name="cit_batterylight_rgb">RGB</string>
   <string name="cit_blue_tooth_address_check_summary">Test will display the devices current Bluetooth MAC address</string>
   <string name="cit_blue_tooth_address_check_title">Test Bluetooth address</string>
