@@ -366,7 +366,7 @@ friends."</string>
   <string name="rotate">Rotate</string>
   <string name="rotate_tooltip">Drag photo to rotate it</string>
   <string name="saturation">Saturation</string>
-  <string name="save">Save</string>
+  <string name="save">Αποθήκευση</string>
   <string name="save_error">"Couldn't save cropped image."</string>
   <string name="save_photo">Save edited photo?</string>
   <string name="saving_failure">Photo cannot be saved</string>

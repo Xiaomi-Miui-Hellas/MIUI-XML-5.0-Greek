@@ -356,7 +356,7 @@ Report bugs and send feedback directly to Xiaomi.”</string>
   <string name="restore_blocked_message">Restore blocked message</string>
   <string name="restore_to_phone_memory_failed">Failed to restore to phone memory!</string>
   <string name="restored_to_phone_memory">"Restored to phone's memory"</string>
-  <string name="save">Save</string>
+  <string name="save">Αποθήκευση</string>
   <string name="save_ringtone">Save as ringtone</string>
   <string name="save_to_sim">Save to SIM card</string>
   <string name="save_to_sim_failed">Failed to save to SIM! restored_to_phone_memory </string>
