@@ -178,7 +178,7 @@ friends."</string>
   <string name="exit_share_failed">Exit album %1$s failed</string>
   <string name="exit_share_in_process">Trying to exit album, please wait...</string>
   <string name="exit_share_successfully">Exited album %1$s successfully</string>
-  <string name="exposure_time">Exposure time</string>
+  <string name="exposure_time">Χρόνος έκθεσης</string>
   <string name="external_sd_card">SD card</string>
   <string name="external_usb_device">USB device</string>
   <string name="external_usb_device_hm">External USB storage</string>
@@ -189,7 +189,7 @@ friends."</string>
   <string name="fail_to_pick_email">No valid E-mail selected</string>
   <string name="fail_to_sync_album">Failed to synchronize album to server. Please check your network connection!</string>
   <string name="file_not_exist_message">File does not exist.</string>
-  <string name="file_size">File size</string>
+  <string name="file_size">Μέγεθος αρχείου</string>
   <string name="filllight">Fill Light</string>
   <string name="fisheye">Fisheye</string>
   <string name="flash">Flash</string>
