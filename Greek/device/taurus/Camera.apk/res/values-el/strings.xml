@@ -6,7 +6,6 @@
   <string name="accessibility_camera_auto_flashmode">Αυτόματο φλας</string>  <string name="accessibility_camera_flash_closemode">Χωρίς φλας</string>
   <string name="accessibility_camera_flashmode">Πάντα με φλας</string>
   <string name="accessibility_camera_switch_back_state">Εναλλαγή κάμερας (τρέχον η πίσω κάμερα)</string>
-  <string name="accessibility_camera_switch_back_state">Switch camera (currently using back camera)</string>
   <string name="accessibility_camera_switch_front_state">Εναλλαγή κάμερας (τρέχον η εμπρόσθια κάμερα)</string>
   <string name="accessibility_close_more_ptions">Απενεργοποίηση επιπλέον επιλογών</string>
   <string name="accessibility_more_ptions_closed">Επιπλέον επιλογές απενεργοποιήθηκαν</string>
@@ -122,7 +121,7 @@
   <string name="import_contact">Εισαγωγή επαφής</string>
   <string name="import_fail">Εισαγωγή απέτυχε</string>
   <string name="iso">ISO</string>
-  <string name="launch_market">Εκκίνηση app store</string></string>
+  <string name="launch_market">Εκκίνηση app store</string>
   <string name="launch_qq">Εκκίνηση QQ</string>
   <string name="launch_wechat">Εκκίνηση WeChat</string>
   <string name="loading">Φορτώνει...</string>
