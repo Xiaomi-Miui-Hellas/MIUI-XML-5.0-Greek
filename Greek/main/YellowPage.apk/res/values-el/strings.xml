@@ -26,7 +26,7 @@
   <string name="contact_detail_calllog_call_record_tips">Call log</string>
   <string name="custom_mark_category">Custom</string>
   <string name="data_error">Sorry, current service is not available, please try again later</string>
-  <string name="delete">Delete</string>
+  <string name="delete">Διαγραφή</string>
   <string name="express_inqiury_select_logistics">Select courier</string>
   <string name="express_inquiry">Tracking</string>
   <string name="express_inquiry_button_text">Track</string>
@@ -125,7 +125,7 @@ Please your check tracking number."</string>
 Total amount: RMB %3$s"</string>
   <string name="recharge_user_confirm_title">Confirm</string>
   <string name="remind_another_time">"Don't remind me"</string>
-  <string name="remind_user_confirm">OK</string>
+  <string name="remind_user_confirm">ΟΚ</string>
   <string name="remind_user_suspect_number_message">"Criminals may steal other people's identities for fraud, if in doubt, please call back to verify the caller. Banks, e-commerce companies and courier companies will not ask for your password or bank card information."</string>
   <string name="remind_user_suspect_number_title">Beware Fraudulent Calls</string>
   <string name="scan">Scan</string>

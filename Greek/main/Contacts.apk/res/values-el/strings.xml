@@ -38,7 +38,7 @@
   <string name="audio_chat">Voice chat</string>
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
-  <string name="batch_delete">Delete batch</string>
+  <string name="batch_delete">Διαγραφή batch</string>
   <string name="batch_delete_msg">"Delete %d contacts? 
 
 Contact data stored in your MiCloud account will also be deleted."</string>
@@ -55,7 +55,7 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="callAgain">Redial</string>
   <string name="callBack">Call back</string>
   <string name="callDetailTitle">Call details</string>
-  <string name="callDetailsDurationFormat" formatted="false">%s mins %s secs</string>
+  <string name="callΠληροφορίεςDurationFormat" formatted="false">%s mins %s secs</string>
   <string name="callShortcutActivityTitle">Choose a number to call</string>
   <string name="call_assistant">Call %s</string>
   <string name="call_callback">Call callback</string>
@@ -99,7 +99,7 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Outgoing: "</string>
   <string name="callrecordview_menu_add_call_note">Add call note</string>
   <string name="callrecordview_menu_batch_delete">Batch delete</string>
-  <string name="callrecordview_menu_delete">Delete call log</string>
+  <string name="callrecordview_menu_delete">Διαγραφή call log</string>
   <string name="callrecordview_menu_delete_accepted">Clear log for received calls</string>
   <string name="callrecordview_menu_delete_all">Clear call log</string>
   <string name="callrecordview_menu_delete_called">Clear log for outgoing calls</string>
@@ -331,8 +331,8 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="download_failed">Download failed!</string>
   <string name="download_preview_failed">Failed to load preview</string>
   <string name="duplicate_group_name">Group name already exists</string>
-  <string name="editContactDescription">Edit contact</string>
-  <string name="editGroupDescription">Edit group</string>
+  <string name="editContactΠεριγραφή">Edit contact</string>
+  <string name="editGroupΠεριγραφή">Edit group</string>
   <string name="edit_contact">Edit contact</string>
   <string name="edit_contact_card_title">Edit contact card</string>
   <string name="email">E-mail</string>
@@ -457,8 +457,8 @@ Reason: \"%s\""</string>
   <string name="importing_vcard_canceled_title">Importing %s canceled</string>
   <string name="importing_vcard_description">Importing %s</string>
   <string name="importing_vcard_finished_title">Finished importing vCard %s</string>
-  <string name="insertContactDescription">Create contact</string>
-  <string name="insertGroupDescription">Create group</string>
+  <string name="insertContactΠεριγραφή">Create contact</string>
+  <string name="insertGroupΠεριγραφή">Create group</string>
   <string name="invalidContactMessage">"Contact doesn't exist"</string>
   <string name="keep_local">Keep local</string>
   <string name="keep_local_btn">"Use phone's internal storage."</string>
@@ -503,7 +503,7 @@ Reason: \"%s\""</string>
   <string name="menu_accounts">Accounts</string>
   <string name="menu_addStar">Add to favorites</string>
   <string name="menu_bar_group_add">Add</string>
-  <string name="menu_bar_group_delete">Delete</string>
+  <string name="menu_bar_group_delete">Διαγραφή</string>
   <string name="menu_bar_group_rename">Rename</string>
   <string name="menu_bar_group_ringtone">Group ringtone</string>
   <string name="menu_bar_group_ringtone_largeui">Ringtone</string>
@@ -523,7 +523,7 @@ Reason: \"%s\""</string>
   <string name="menu_display_all">Show all</string>
   <string name="menu_display_selected">Show selected</string>
   <string name="menu_doNotSave">Cancel</string>
-  <string name="menu_done">OK</string>
+  <string name="menu_done">ΟΚ</string>
   <string name="menu_editContact">Edit</string>
   <string name="menu_editGroup">Edit</string>
   <string name="menu_help">Help</string>
@@ -815,7 +815,7 @@ Touch the Merge icon at the bottom to begin."</string>
   <string name="resource_delta_update_failed">Update failed! The complete resource will now be downloaded</string>
   <string name="resource_delta_update_successful">Update successful，saving %1$s.</string>
   <string name="resource_delta_update_total">%1$d updates. Total saved %2$s</string>
-  <string name="resource_detail">Details</string>
+  <string name="resource_detail">Πληροφορίες</string>
   <string name="resource_detail_comment_title">Comments</string>
   <string name="resource_detail_jump_to_online_title">Online</string>
   <string name="resource_detail_jump_to_same_author_title">Same author</string>
@@ -905,7 +905,7 @@ Touch the Merge icon at the bottom to begin."</string>
 the content you're looking for is not currently available in your region."</string>
   <string name="resource_unknow_error">An unknown error occurred</string>
   <string name="resource_update">Update</string>
-  <string name="resource_user_know">OK</string>
+  <string name="resource_user_know">ΟΚ</string>
   <string name="resource_waiting_download">Waiting to download...</string>
   <string name="restore_nickname">Restore</string>
   <string name="ret_sign">"

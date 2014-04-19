@@ -42,7 +42,7 @@
   <string name="button_backup">Δημιουργία αντίγραφου</string>
   <string name="button_cancel">Άκυρο</string>
   <string name="button_continue">Continue</string>
-  <string name="button_delete">Delete</string>
+  <string name="button_delete">Διαγραφή</string>
   <string name="button_finish">Τέλος</string>
   <string name="button_next">Επόμενο</string>
   <string name="button_ok">Εντάξει</string>
@@ -86,7 +86,7 @@ Ok to cancel backup"</string>
   <string name="cloud_app_no_wifi_connect">No Wi-Fi connection available</string>
   <string name="cloud_app_other_devices">Other devices</string>
   <string name="cloud_app_remove_cancel">Άκυρο deletion</string>
-  <string name="cloud_app_remove_cancel_prompt_message">"Delete incomplete backup, press OK
+  <string name="cloud_app_remove_cancel_prompt_message">"Delete incomplete backup, press ΟΚ
 to cancel"</string>
   <string name="cloud_app_remove_cancel_prompt_title">Stop deletion</string>
   <string name="cloud_app_remove_error">Failed to delete!</string>
@@ -96,7 +96,7 @@ to cancel"</string>
   <string name="cloud_app_restore_action_bar_title">%1$s of data has been backed up</string>
   <string name="cloud_app_restore_app_and_data">Restore apps and user data</string>
   <string name="cloud_app_restore_cancel">Άκυρο restore</string>
-  <string name="cloud_app_restore_cancel_prompt_message">"Restore incomplete, press OK
+  <string name="cloud_app_restore_cancel_prompt_message">"Restore incomplete, press ΟΚ
 to cancel restore"</string>
   <string name="cloud_app_restore_cancel_prompt_title">Cancel restore</string>
   <string name="cloud_app_restore_data">Restore previously installed apps</string>
@@ -133,7 +133,7 @@ to cancel restore"</string>
   <string name="data_no_enough_space">Not enough free internal storage space, free some space and try again</string>
   <string name="data_no_enough_space_message">Restore may fail, please clear some Internal storage and try again</string>
   <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
-  <string name="delete">Delete</string>
+  <string name="delete">Διαγραφή</string>
   <string name="delete_backup_process">Deleting backup(s)...</string>
   <string name="delete_failed_backup_confirm">The backup has an error, cannot restore from this backup</string>
   <string name="dir_date_format">yyyy-MM-dd_HH-mm-ss</string>
@@ -141,7 +141,7 @@ to cancel restore"</string>
   <string name="enable_encrypt">Enable now</string>
   <string name="enable_encrypt_fail">Enabling encryption failed</string>
   <string name="enable_encrypt_indicator">Backup is not encrypted, click to enable.</string>
-  <string name="enable_encrypt_ok">OK</string>
+  <string name="enable_encrypt_ok">ΟΚ</string>
   <string name="enable_encrypt_summery1">"System will encrypt your local backup based on Xiaomi account, you need to log in to your Xiaomi account when removing data or using other devices to restore   the backup."</string>
   <string name="enable_encrypt_summery2">"The new backup will be automatically encrypted. You need to log into your Xiaomi account when removing data or using other devices to restore the backup."</string>
   <string name="enable_encrypt_title">Enable Encryption</string>
@@ -164,7 +164,7 @@ to cancel restore"</string>
   <string name="local_select_account_contact">Select account</string>
   <string name="local_select_sysdata">System</string>
   <string name="local_select_userapp">Apps</string>
-  <string name="menu_patch_delete">Delete backup(s)</string>
+  <string name="menu_patch_delete">Διαγραφή backup(s)</string>
   <string name="miliao_account_guide">MiTalk account upgraded to Xiaomi account\n Enjoy all Xiaomi online services</string>
   <string name="miliao_account_login">Login to MiTalk</string>
   <string name="mms_title">Multimedia Messaging</string>
@@ -223,12 +223,12 @@ to cancel restore"</string>
   <string name="task_canceled">Cancelled</string>
   <string name="task_canceled_all_local">Cancel task</string>
   <string name="task_canceled_local">The following %s task was cancelled</string>
-  <string name="task_cloud_backup_cancel_dialog">Backup not yet completed\nClick OK to cancel this task</string>
+  <string name="task_cloud_backup_cancel_dialog">Backup not yet completed\nClick ΟΚ to cancel this task</string>
   <string name="task_failed">Failed</string>
   <string name="task_failed_all_local">Task failed</string>
   <string name="task_failed_local">The task %s has failed to complete</string>
   <string name="task_finished">Completed</string>
-  <string name="task_local_backup_cancel_dialog">Backup not yet completed\nClick OK to cancel this task</string>
+  <string name="task_local_backup_cancel_dialog">Backup not yet completed\nClick ΟΚ to cancel this task</string>
   <string name="task_pending">Pending</string>
   <string name="task_post_running">Post-processing</string>
   <string name="task_pre_running">Προτετοιμασία</string>
@@ -237,11 +237,11 @@ to cancel restore"</string>
   <string name="task_restore_cancel_progress">Ακύρωση...</string>
   <string name="task_restore_finished_local">Δεν υπάρχει ανάγκη για επαναφορά</string>
   <string name="task_restore_none">Restore not needed</string>
-  <string name="task_running_backup_dialog">Η διαδικασία αντιγραφής είναι σε εξέλιξη, δείτε την πατώντας OK.</string>
+  <string name="task_running_backup_dialog">Η διαδικασία αντιγραφής είναι σε εξέλιξη, δείτε την πατώντας ΟΚ.</string>
   <string name="task_running_backup_hint">Η υπηρεσία εκτελείται στο προσκήνιο, δοκιμάστε πάλι!</string>
-  <string name="task_running_dialog">Η διαδικασία αντιγράφου και επαναφοράς εκτελείται δείτε την πατώντας OK</string>
+  <string name="task_running_dialog">Η διαδικασία αντιγράφου και επαναφοράς εκτελείται δείτε την πατώντας ΟΚ</string>
   <string name="task_running_hint">Η υπηρεσία εκτελείται στο προσκήνιο δοκιμάστε πάλι να επαναφέρετε αυτό το αντίγραφο!</string>
-  <string name="task_running_restore_dialog">Η διαδικασία επαναφοράς είναι σε εξέλιξη, δείτε την πατώντας OK.</string>
+  <string name="task_running_restore_dialog">Η διαδικασία επαναφοράς είναι σε εξέλιξη, δείτε την πατώντας ΟΚ.</string>
   <string name="task_running_restore_hint">Η υπηρεσία εκτελείται στο προσκήνιο, δοκιμάστε πάλι!</string>
   <string name="task_service_not_launched">Η υπηρεσία δε ξεκίνησε παρακαλώ περιμένετε!</string>
   <string name="task_stopped_exception">Η διεργασία ματαιώθηκε</string>

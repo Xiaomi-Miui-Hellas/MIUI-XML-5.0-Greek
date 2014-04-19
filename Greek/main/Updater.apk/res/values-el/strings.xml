@@ -39,7 +39,7 @@
   <string name="current_version_update_monthly_build">Current version (Update to Monthly build)</string>
   <string name="daily_build">Daily Build</string>
   <string name="dialog_no">No</string>
-  <string name="dialog_ok">OK</string>
+  <string name="dialog_ok">ΟΚ</string>
   <string name="dialog_yes">Yes</string>
   <string name="download_current_rom">Download latest full ROM</string>
   <string name="download_ota_rom">Download the OTA update (%s)</string>

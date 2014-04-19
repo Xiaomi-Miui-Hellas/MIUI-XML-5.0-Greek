@@ -7,7 +7,7 @@
   <string name="adjust_traffic_carrier_summary_two_day_before">Updated 2 days ago</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Updated yesterday at %s</string>
   <string name="adjust_traffic_data">Set data usage</string>
-  <string name="app_detail">Details</string>
+  <string name="app_detail">Πληροφορίες</string>
   <string name="app_mobile">DATA</string>
   <string name="app_name">Data usage</string>
   <string name="app_version">Version</string>
@@ -37,7 +37,7 @@ Usage in excess of your carrier plan's data limits can result in steep overage c
   <string name="data_usage_warning_title">Data usage warning</string>
   <string name="declaration_dialog_msg">This feature can help you track your usage, but is not guaranteed to prevent additional charges. For best results, set a conservative limit.</string>
   <string name="deleted_apps">Deleted Apps</string>
-  <string name="detail_app_button">Details</string>
+  <string name="detail_app_button">Πληροφορίες</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
   <string name="firewall_activity_lable">Restrict data usage by app</string>
@@ -88,7 +88,7 @@ Used"</string>
   <string name="network_control">View app settings</string>
   <string name="notification_content_title">Used %1$s while locked</string>
   <string name="notification_title">%1$s-%2$s: about %3$s used</string>
-  <string name="ok_button">OK</string>
+  <string name="ok_button">ΟΚ</string>
   <string name="per_month_pkg_traffic_settings">Set data limit</string>
   <string name="permit_running_network">Allow background data</string>
   <string name="person_hotpot">Mobile hotspots</string>

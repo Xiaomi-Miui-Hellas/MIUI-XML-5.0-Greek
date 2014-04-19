@@ -11,7 +11,7 @@
   <string name="alert_message_delete_notes">Are you sure you want to delete the selected %1$s notes?</string>
   <string name="alert_message_discard_changes">Discard all changes?</string>
   <string name="alert_message_edit_anyway">The note contains unsupported content, editing it may result in data loss.</string>
-  <string name="alert_title_delete">Delete selected notes</string>
+  <string name="alert_title_delete">Διαγραφή selected notes</string>
   <string name="alert_title_discard">Discard changes?</string>
   <string name="alert_title_edit_anyway">Confirm editing note, this may cause data loss, are you sure?</string>
   <string name="app_name">Notes</string>
@@ -21,7 +21,7 @@
   <string name="attachment_gallery">Gallery</string>
   <string name="button_new_note">New Note</string>
   <string name="call_record_folder_name">Call notes</string>
-  <string name="close">Close</string>
+  <string name="close">Κλείσιμο</string>
   <string name="default_folder_name">Notes</string>
   <string name="dlg_desc_confirm_alarm_silent">Alarm clock and notes will not sound in silent mode when turned off.</string>
   <string name="dlg_title_confirm_alarm_silent">Do you want to silence alarms in silent mode?</string>
@@ -48,7 +48,7 @@
   <string name="info_note_enter_desktop">Note added to home</string>
   <string name="login_sync">Login &amp; sync</string>
   <string name="menu_create_folder">New Folder</string>
-  <string name="menu_delete">Delete</string>
+  <string name="menu_delete">Διαγραφή</string>
   <string name="menu_discard">Discard</string>
   <string name="menu_folder_change_name">Change folder name</string>
   <string name="menu_font_size">Font size</string>

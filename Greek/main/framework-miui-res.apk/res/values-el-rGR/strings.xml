@@ -471,7 +471,7 @@ Try again in %d seconds."</string>
   <string name="united_nations_day"/>
   <string name="unknown">Άγνωστος αριθμός</string>
   <string name="unknown_caller">Άγνωστος καλούντας</string>
-  <string name="unlock_string">OK</string>
+  <string name="unlock_string">ΟΚ</string>
   <string name="unlocking_sim_card">Unlocking SIM card</string>
   <string name="unlockscreen_low_battery">Connect your charger</string>
   <string name="unlockscreen_recharge_completed">Charged</string>
@@ -480,7 +480,7 @@ Try again in %d seconds."</string>
   <string name="user_agreement2">" User agreement"</string>
   <string name="user_agreement3">" and "</string>
   <string name="user_agreement4">Privacy policy</string>
-  <string name="user_agreement5">，Click OK shows that you agree to and are willing to comply with the above content, click Cancel to exit.</string>
+  <string name="user_agreement5">，Click ΟΚ shows that you agree to and are willing to comply with the above content, click Cancel to exit.</string>
   <string name="v5_date_picker_label_day"/>
   <string name="v5_date_picker_label_month"/>
   <string name="v5_date_picker_label_year"/>

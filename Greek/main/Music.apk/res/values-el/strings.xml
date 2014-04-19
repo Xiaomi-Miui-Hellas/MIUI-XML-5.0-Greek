@@ -111,7 +111,7 @@
   <string name="eq_preset_select">Choose a preset</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Equalizer</string>
-  <string name="equalizer_delete">Delete</string>
+  <string name="equalizer_delete">Διαγραφή</string>
   <string name="equalizer_delete_success">Equalizer profile successfully removed</string>
   <string name="equalizer_save_success">Equalizer profile saved</string>
   <string name="expired">Expired</string>
@@ -143,12 +143,12 @@
   <string name="higher_quality_music">High quality music</string>
   <string name="higher_quality_music_summary">Listen to and download higher quality music</string>
   <string name="hot_artists">Hot Artists</string>
-  <string name="i_know">OK</string>
+  <string name="i_know">ΟΚ</string>
   <string name="id3_edit">Edit ID3 information</string>
   <string name="id3_edit_failed">Failed to edit ID3 information</string>
   <string name="id3_modify_confirm_check">Confirm ID3 changes?</string>
   <string name="id3_modify_confirm_text">Save</string>
-  <string name="impunity_declaration">The online music you are about to use is from Baidu Online Music Service. Click \"OK\" to accept and use, click \"Cancel\" to exit.</string>
+  <string name="impunity_declaration">The online music you are about to use is from Baidu Online Music Service. Click \"ΟΚ\" to accept and use, click \"Cancel\" to exit.</string>
   <string name="impunity_declaration_title">Declaration</string>
   <string name="keep_quit_position_settings">Store last position</string>
   <string name="keep_quit_position_summary">Stores track of last position upon re-launch of the application</string>

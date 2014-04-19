@@ -3,10 +3,10 @@
   <string name="FMRecording_reach_storage_threshold">Recording has stopped. Your SD card storage space is low.</string>
   <string name="access_sd_fail">"Couldn't access SD card."</string>
   <string name="alert_dialog_cancel">Άκυρο</string>
-  <string name="alert_dialog_ok">OK</string>
+  <string name="alert_dialog_ok">ΟΚ</string>
   <string name="alert_invalid_frequency">Invalid frequency.</string>
   <string name="alert_message_delete_station">This preset will be deleted.</string>
-  <string name="alert_title_delete">Delete station?</string>
+  <string name="alert_title_delete">Διαγραφή station?</string>
   <string name="alert_title_new_station">New station</string>
   <string name="alert_title_save_station">Save station - %s</string>
   <string name="app_name">FM Radio</string>
@@ -19,7 +19,7 @@
   <string name="auto_select_af">Alternate frequency</string>
   <string name="auto_select_af_summary">When signal becomes too weak, tune in to an alternate frequency that provides the same station</string>
   <string name="button_text_stop">Stop</string>
-  <string name="context_menu_item_delete">Delete</string>
+  <string name="context_menu_item_delete">Διαγραφή</string>
   <string name="context_menu_item_edit">Edit</string>
   <string name="context_menu_item_favorite">Add to presets</string>
   <string name="context_menu_item_unfavorite">Remove from presets</string>
@@ -58,7 +58,7 @@
   <string name="input_station">Radio frequency (MHz)</string>
   <string name="label_recording">Recording: %s</string>
   <string name="menu_add_list">Add list</string>
-  <string name="menu_delete">Delete</string>
+  <string name="menu_delete">Διαγραφή</string>
   <string name="menu_edit">Edit</string>
   <string name="menu_exit">Exit</string>
   <string name="menu_new_station">Add new station</string>
@@ -94,7 +94,7 @@
   <string name="no_storage">Mount SD card before recording begins.</string>
   <string name="pre_station">Previous station</string>
   <string name="preparing_sd">Preparing SD card</string>
-  <string name="preset_delete">Delete</string>
+  <string name="preset_delete">Διαγραφή</string>
   <string name="preset_replace">Replace</string>
   <string name="preset_tune">Tune</string>
   <string name="presetlist_autoselect_title">Confirm Auto-Select</string>

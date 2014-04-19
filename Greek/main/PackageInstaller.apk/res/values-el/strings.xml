@@ -13,7 +13,7 @@
   <string name="dlg_app_replacement_statement">"The application you are installing will replace another application. All previous user data will be saved."</string>
   <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) will replace the current version (%3$s). User’s contents will be retained. Are you sure you wish to install?"</string>
   <string name="dlg_app_replacement_title">Replace application</string>
-  <string name="dlg_ok">OK</string>
+  <string name="dlg_ok">ΟΚ</string>
   <string name="dlg_sys_app_replacement_statement">"This is a system application. Do you still want to replace it? All previous user data will be saved."</string>
   <string name="done">Done</string>
   <string name="high_risk_perms">High-risk Permissions</string>
@@ -36,7 +36,7 @@
   <string name="low_risk_perms">Low-risk Permissions</string>
   <string name="manage_applications">Manage applications</string>
   <string name="manage_device_administrators">Manage device Administrators</string>
-  <string name="ok">OK</string>
+  <string name="ok">ΟΚ</string>
   <string name="other_relative">Other permissions</string>
   <string name="out_of_space_dlg_text">%1$s could not be installed. Free up some space and try again.</string>
   <string name="out_of_space_dlg_title">Out of space</string>

@@ -51,7 +51,7 @@
   <string name="check_all">Select all</string>
   <string name="chenghu_disable_mms">Cannot use nicknames in Mms</string>
   <string name="class_0_message_activity">Class 0 message</string>
-  <string name="close">Close</string>
+  <string name="close">Κλείσιμο</string>
   <string name="compressing">Picture too large. Compressing…</string>
   <string name="confirm">Confirm</string>
   <string name="confirm_add_blacklist_dialog_dspt">Add number to blacklist?</string>
@@ -68,7 +68,7 @@
   <string name="confirm_export_dialog_title">Remove private contact</string>
   <string name="confirm_no_block_positive">"Don't block and restore"</string>
   <string name="confirm_no_block_title">"Don't block number and restore all the messages?"</string>
-  <string name="confirm_rate_limit">A large number of multimedia messages are being sent. Is this OK?</string>
+  <string name="confirm_rate_limit">A large number of multimedia messages are being sent. Is this ΟΚ?</string>
   <string name="confirm_restore_all_title">Restore all messages from this number？</string>
   <string name="confirm_restore_positive">Restore</string>
   <string name="confirm_restore_title">Restore all selected messages?</string>
@@ -88,13 +88,13 @@
   <string name="conversation_style">bubble</string>
   <string name="converting_to_picture_message">Converting to multimedia message…</string>
   <string name="converting_to_text_message">Converting to text message…</string>
-  <string name="copy_message_text">Copy text</string>
+  <string name="copy_message_text">Αντιγραφή κειμένου</string>
   <string name="copy_message_text_success">Message copied successfully!</string>
   <string name="copy_to_sdcard">Save attachment</string>
   <string name="copy_to_sdcard_fail">Unable to save attachment</string>
   <string name="copy_to_sdcard_success">Attachment saved</string>
   <string name="database_corruption">Database corrupted, recreating database</string>
-  <string name="delete">Delete</string>
+  <string name="delete">Διαγραφή</string>
   <string name="delete_bookmark">Remove from Favorites</string>
   <string name="delete_message">Delete</string>
   <string name="delete_phrase">Delete phrase</string>
@@ -397,7 +397,7 @@ Report bugs and send feedback directly to Xiaomi.”</string>
   <string name="sim_card2">SIM 2</string>
   <string name="sim_card_cloud">%s (Cloud Message)</string>
   <string name="sim_copy_to_phone_memory">Copy to phone memory</string>
-  <string name="sim_delete">Delete</string>
+  <string name="sim_delete">Διαγραφή</string>
   <string name="sim_empty">No messages on the SIM card.</string>
   <string name="sim_full_body">Delete some messages to make room for more.</string>
   <string name="sim_full_title">SIM card full</string>
@@ -472,5 +472,5 @@ Report bugs and send feedback directly to Xiaomi.”</string>
   <string name="view_bookmark">View original message</string>
   <string name="view_message_details">View details</string>
   <string name="wap_push_title">"[WAP Push] "</string>
-  <string name="yes">OK</string>
+  <string name="yes">ΟΚ</string>
 </resources>

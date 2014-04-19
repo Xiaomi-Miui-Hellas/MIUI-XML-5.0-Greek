@@ -45,12 +45,12 @@
   <string name="cleaning">Cleaning...</string>
   <string name="cleanup_complete">Cleanup successful</string>
   <string name="cleanup_stopped">Cleanup stopped</string>
-  <string name="close">Close</string>
+  <string name="close">Κλείσιμο</string>
   <string name="compress_fail">Compression failed, destination already exists</string>
   <string name="compress_message">Compress to:</string>
   <string name="compress_title">Compress</string>
-  <string name="confirm">OK</string>
-  <string name="confirm_know">OK</string>
+  <string name="confirm">ΟΚ</string>
+  <string name="confirm_know">ΟΚ</string>
   <string name="copy_failed">Failed to copy</string>
   <string name="count_down_time">Start after %d seconds</string>
   <string name="create_kuaipan_shortcut_pref">Create a shortcut to the desktop</string>
@@ -188,7 +188,7 @@ Junk"</string>
   <string name="operation_create_folder">New folder</string>
   <string name="operation_create_folder_message">Enter folder name</string>
   <string name="operation_decompressing">Decompressing...</string>
-  <string name="operation_delete">Delete</string>
+  <string name="operation_delete">Διαγραφή</string>
   <string name="operation_delete_confirm_message">Confirm Deletion?</string>
   <string name="operation_delete_confirm_message_folder">"Deleting the folder will also delete all files within it."</string>
   <string name="operation_deleting">Deleting...</string>
@@ -196,7 +196,7 @@ Junk"</string>
   <string name="operation_download_link">Generate download link</string>
   <string name="operation_favorite">Add to Favorites</string>
   <string name="operation_hide_sys">Hide hidden files</string>
-  <string name="operation_info">Details</string>
+  <string name="operation_info">Πληροφορίες</string>
   <string name="operation_move">Move</string>
   <string name="operation_moving">Moving...</string>
   <string name="operation_moving_detail">Moving files (%1$d/%2$d)</string>

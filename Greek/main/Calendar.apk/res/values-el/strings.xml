@@ -66,7 +66,7 @@
   <string name="delete_label">Delete</string>
   <string name="delete_recurring_event_title">Delete %s?</string>
   <string name="delete_this_event_title">Delete this event?</string>
-  <string name="description_label">Description</string>
+  <string name="description_label">Περιγραφή</string>
   <string name="directory_searching_fmt">Searching %s...</string>
   <string name="discard_label">Cancel</string>
   <string name="dismiss_all_label">Dismiss all</string>
@@ -76,7 +76,7 @@
   <string name="edit_event_all_day_label">All day</string>
   <string name="edit_event_calendar_label">Calendar</string>
   <string name="edit_event_from_label">From</string>
-  <string name="edit_event_label">Details</string>
+  <string name="edit_event_label">Πληροφορίες</string>
   <string name="edit_event_show_all">Show all</string>
   <string name="edit_event_to_label">To</string>
   <string name="edit_label">Edit</string>
@@ -87,10 +87,10 @@
   <string name="event_account">Calendar account</string>
   <string name="event_all_day_label">All day</string>
   <string name="event_create">New event</string>
-  <string name="event_delete">Delete event</string>
+  <string name="event_delete">Διαγραφή event</string>
   <string name="event_edit">Edit event</string>
   <string name="event_hide_more">Hide</string>
-  <string name="event_info_descrip">"Description: "</string>
+  <string name="event_info_descrip">"Περιγραφή: "</string>
   <string name="event_info_organizer">Organizer:</string>
   <string name="event_info_reminders_label">Reminders</string>
   <string name="event_info_repeat">"Recurring: "</string>
@@ -113,7 +113,7 @@
   <string name="gou_piao_window_start_time">Tickets can be purchased at the station from %s</string>
   <string name="hide_controls">Hide controls</string>
   <string name="hint_attendees">Guests</string>
-  <string name="hint_description">Description</string>
+  <string name="hint_description">Περιγραφή</string>
   <string name="hint_what">Event name</string>
   <string name="hint_where">Location</string>
   <string name="huangli_bad_type"/>

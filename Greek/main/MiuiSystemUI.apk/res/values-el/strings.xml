@@ -88,7 +88,7 @@
   <string name="dlg_confirm_kill_storage_users_text">If you turn on USB storage, some applications you are using will stop and may be unavailable until you turn off USB storage.</string>
   <string name="dlg_confirm_kill_storage_users_title">Turn on USB storage</string>
   <string name="dlg_error_title">USB operation unsuccessful</string>
-  <string name="dlg_ok">OK</string>
+  <string name="dlg_ok">ΟΚ</string>
   <string name="drive_mode_tip">Car mode enabled - Please drive carefully</string>
   <string name="ext_media_badremoval_notification_message">Unmount SD card storage before removing to avoid data loss.</string>
   <string name="ext_media_badremoval_notification_title">SD card storage unexpectedly removed</string>

@@ -109,7 +109,7 @@
   <string name="forget_password">Forgot Password? </string>
   <string name="get_back_pwd">Recover account password</string>
   <string name="header_data_and_synchronization">Data &amp; Sync</string>
-  <string name="i_know">OK</string>
+  <string name="i_know">ΟΚ</string>
   <string name="input_captcha_hint">Enter captcha</string>
   <string name="input_password_hint">Input password</string>
   <string name="input_vcode_hint">Enter verfication code</string>

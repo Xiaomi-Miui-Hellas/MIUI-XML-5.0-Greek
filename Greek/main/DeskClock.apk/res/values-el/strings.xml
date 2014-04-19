@@ -39,7 +39,7 @@
   <string name="default_alarm_title">Default ringtone</string>
   <string name="default_label">Alarm</string>
   <string name="delelte_selected_timezone">Are you sure you wish to delete the selected timezone(s)?</string>
-  <string name="delete">Delete</string>
+  <string name="delete">Διαγραφή</string>
   <string name="delete_alarm">Delete alarm</string>
   <string name="delete_alarm_confirm">Delete this alarm?</string>
   <string name="delete_timezone_title">Delete timezone</string>
@@ -86,7 +86,7 @@
   <string name="time">Time</string>
   <string name="timer_alert_alert_silenced">Timer stopped after %d minutes.</string>
   <string name="timer_continue">Continue</string>
-  <string name="timer_got_it">OK</string>
+  <string name="timer_got_it">ΟΚ</string>
   <string name="timer_message">%1$d minutes</string>
   <string name="timer_message_with_hour">%1$d hours and %2$d minutes</string>
   <string name="timer_start_alarm">Start Timer</string>

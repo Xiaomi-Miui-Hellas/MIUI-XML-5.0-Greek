@@ -15,7 +15,7 @@
   <string name="cant_remove_retained_app">Unable to uninstall customised application</string>
   <string name="cant_remove_system_app">Unable to remove system application</string>
   <string name="chooser_wallpaper">Select wallpaper from</string>
-  <string name="confirm_btn_label">OK</string>
+  <string name="confirm_btn_label">ΟΚ</string>
   <string name="default_folder_title_game">Games</string>
   <string name="default_folder_title_recommend">Recommended</string>
   <string name="default_folder_title_security">Security Center</string>

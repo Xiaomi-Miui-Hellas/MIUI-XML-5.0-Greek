@@ -143,7 +143,7 @@
   <string name="create_shortcut_bookmark">Add shortcut to home</string>
   <string name="current_page">"from "</string>
   <string name="defaultBookmarksUpButton">Bookmarks</string>
-  <string name="delete">Delete</string>
+  <string name="delete">Διαγραφή</string>
   <string name="delete_bookmark">Delete bookmark</string>
   <string name="delete_bookmark_warning">Delete bookmark \"%s\"?</string>
   <string name="delete_folder">Delete folder</string>
@@ -207,7 +207,7 @@
   <string name="folder_name">Folder name</string>
   <string name="forward">Forward</string>
   <string name="general_set_default_browser_dialog_close_txt">Close</string>
-  <string name="general_set_default_browser_dialog_ok_txt">OK</string>
+  <string name="general_set_default_browser_dialog_ok_txt">ΟΚ</string>
   <string name="general_set_default_browser_dialog_summary">Use MIUI-integrated apps for faster and smoother performance</string>
   <string name="general_set_default_browser_title">Set as default browser</string>
   <string name="geolocation_permissions_prompt_dont_share">Decline</string>
@@ -218,7 +218,7 @@
   <string name="geolocation_permissions_prompt_toast_disallowed">This site cannot access your location. Change this on the Settings &gt; Advanced &gt; Website screen.</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Cancel</string>
   <string name="geolocation_settings_page_dialog_message">Clear location access for this website?</string>
-  <string name="geolocation_settings_page_dialog_ok_button">OK</string>
+  <string name="geolocation_settings_page_dialog_ok_button">ΟΚ</string>
   <string name="geolocation_settings_page_summary_allowed">This site can currently access your location</string>
   <string name="geolocation_settings_page_summary_not_allowed">"This site can't currently access your location"</string>
   <string name="geolocation_settings_page_title">Clear location access</string>
@@ -236,7 +236,7 @@
   <string name="http">http://</string>
   <string name="import_bookmarks_dialog_add">Add bookmarks to Google account</string>
   <string name="import_bookmarks_dialog_confirm_add">Add bookmarks currently on this device and begin syncing bookmarks with %s?</string>
-  <string name="import_bookmarks_dialog_confirm_delete">Delete bookmarks currently on this device and begin syncing bookmarks with %s?</string>
+  <string name="import_bookmarks_dialog_confirm_delete">Διαγραφή bookmarks currently on this device and begin syncing bookmarks with %s?</string>
   <string name="import_bookmarks_dialog_delete_select_account">Delete bookmarks currently on this device and begin syncing with Google account</string>
   <string name="import_bookmarks_dialog_description">"Bookmarks on this device are not yet associated with a Google account. Save these bookmarks by adding them to an account. Delete these bookmarks if you don't want to sync them."</string>
   <string name="import_bookmarks_dialog_import">Add your Android bookmarks to bookmarks for %s</string>
@@ -274,7 +274,7 @@
   <string name="menu_hv_swap2">Switch to vertical screen</string>
   <string name="menu_preferences">Settings</string>
   <string name="menu_save_bandwidth_mode_close_toast">Mobile data cap disabled</string>
-  <string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">OK</string>
+  <string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">ΟΚ</string>
   <string name="menu_save_bandwidth_mode_first_clicked_txt">"Don't use mobile network to preload pages or automatically display images"</string>
   <string name="menu_save_bandwidth_mode_open_toast">Mobile data cap enabled</string>
   <string name="menu_save_snapshot">Save for offline reading</string>
@@ -303,7 +303,7 @@
   <string name="not_enough_disk_space_alert">Insufficient disk space</string>
   <string name="not_remind_again">Remember my choice</string>
   <string name="notif_install_successful">Download complete</string>
-  <string name="ok">OK</string>
+  <string name="ok">ΟΚ</string>
   <string name="open_all_bookmarks">Open all</string>
   <string name="open_all_in_new_window">Open all in new tabs</string>
   <string name="open_bookmark">Open</string>
@@ -384,7 +384,7 @@
   <string name="pref_extras_website_settings">Website settings</string>
   <string name="pref_extras_website_settings_summary">Advanced settings for individual websites</string>
   <string name="pref_file_downlaod_save_is_reset_default_settings">Restore default download folder path settings</string>
-  <string name="pref_file_downlaod_save_reset_default_settings">Restore defaults</string>
+  <string name="pref_file_downlaod_save_reset_default_settings">Επαναφορά προκαθορισμένων</string>
   <string name="pref_file_download_save_modify_default_path">Modify download folder path</string>
   <string name="pref_file_download_save_title">Download and save file</string>
   <string name="pref_fling_on_border_enabled">Swipe from edge</string>
@@ -512,7 +512,7 @@
   <string name="rlz_access_point">Y1</string>
   <string name="same_bookmarks_warning">This bookmark already exists</string>
   <string name="same_folder_name_warning">This folder already exists</string>
-  <string name="save">OK</string>
+  <string name="save">ΟΚ</string>
   <string name="save_bookmark">Save bookmark</string>
   <string name="save_dialog_title">Save</string>
   <string name="save_file_already_exist_alert_message">File already exists, would you like to overwrite it?</string>
@@ -602,10 +602,10 @@
   <string name="website_settings_clear_all">Clear all</string>
   <string name="website_settings_clear_all_dialog_cancel_button">Cancel</string>
   <string name="website_settings_clear_all_dialog_message">Delete all website data and location permissions?</string>
-  <string name="website_settings_clear_all_dialog_ok_button">OK</string>
+  <string name="website_settings_clear_all_dialog_ok_button">ΟΚ</string>
   <string name="webstorage_clear_data_dialog_cancel_button">Cancel</string>
   <string name="webstorage_clear_data_dialog_message">Delete all data stored by this website?</string>
-  <string name="webstorage_clear_data_dialog_ok_button">OK</string>
+  <string name="webstorage_clear_data_dialog_ok_button">ΟΚ</string>
   <string name="webstorage_clear_data_title">Clear stored data</string>
   <string name="webstorage_origin_summary_mb_stored">MB stored on your phone</string>
   <string name="webstorage_outofspace_notification_text">Touch to free up space.</string>

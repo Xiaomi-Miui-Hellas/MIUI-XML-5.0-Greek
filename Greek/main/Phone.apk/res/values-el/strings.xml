@@ -26,7 +26,7 @@
   <string name="alert_dialog_dismiss">Dismiss</string>
   <string name="alert_dialog_in_ecm_call">The selected action is not available while in an emergency call</string>
   <string name="alert_dialog_no">No</string>
-  <string name="alert_dialog_ok">OK</string>
+  <string name="alert_dialog_ok">ΟΚ</string>
   <string name="alert_dialog_yes">Yes</string>
   <string name="allContactdeleteFailed">Failed to delete all contacts from SIM !!!</string>
   <string name="allContactdeleteSuccess">Successfully deleted all contacts from SIM card</string>
@@ -47,7 +47,7 @@
   <string name="antispam_notification_title">Unknown</string>
   <string name="antispam_provider">Identified by %s</string>
   <string name="apn_settings">Access Point Names</string>
-  <string name="areacode_required_accept_miui">OK</string>
+  <string name="areacode_required_accept_miui">ΟΚ</string>
   <string name="areacode_required_for_emergency_number_miui">Area code required for emergency calls</string>
   <string name="areacode_required_miui">Area code is required</string>
   <string name="atr_disable">Area Traffic Reports disabled</string>
@@ -244,7 +244,7 @@
   <string name="clir_choices_hide_number_miui">Hide number</string>
   <string name="clir_choices_network_default_miui">Network default</string>
   <string name="clir_choices_show_number_miui">Show number</string>
-  <string name="close_dialog">OK</string>
+  <string name="close_dialog">ΟΚ</string>
   <string name="close_profile">Close</string>
   <string name="command_error_fdn_failure_miui">This operation is not allowed when FDN is enabled, please retry after FDN disabled.</string>
   <string name="command_error_generic_failure_miui">Failed to finish this operation, please retry later.</string>
@@ -311,7 +311,7 @@
   <string name="default_port">5060</string>
   <string name="default_preference_summary">&lt;Not set&gt;</string>
   <string name="default_transport">UDP</string>
-  <string name="delete">Delete</string>
+  <string name="delete">Διαγραφή</string>
   <string name="deleteAllSimEntries">Delete All SIM card contacts</string>
   <string name="deleteSimContacts">Deleting SIM card contacts...</string>
   <string name="delete_all_sim_contacts_miui">Delete all SIM card contacts</string>
@@ -574,7 +574,7 @@ Switch to the new provider anyway?"</string>
   <string name="manage_fdn_list_miui">FDN list</string>
   <string name="manage_fdn_list_sum_miui">Manage phone number list</string>
   <string name="menu_add">Add contact</string>
-  <string name="menu_delete">Delete contact</string>
+  <string name="menu_delete">Διαγραφή contact</string>
   <string name="menu_deselect_all">Deselect All</string>
   <string name="menu_edit">Edit contact</string>
   <string name="menu_select_all">Select all</string>
@@ -661,7 +661,7 @@ Switch to the new provider anyway?"</string>
   <string name="nw_subset_unlock_success">SIM Network Subset unlock successful.</string>
   <string name="nw_unlock_failed">SIM Network unlock request unsuccessful.</string>
   <string name="nw_unlock_success">SIM Network unlock successful.</string>
-  <string name="ok">OK</string>
+  <string name="ok">ΟΚ</string>
   <string name="oldPin2Label">Old PIN2</string>
   <string name="oldPinLabel">Old PIN</string>
   <string name="old_pin2_hint_miui">Current PIN2</string>
@@ -778,7 +778,7 @@ Switch to the new provider anyway?"</string>
   <string name="preferred_network_mode_title">Network Mode</string>
   <string name="preferred_network_mode_wcdma_only_summary">Preferred network mode: WCDMA only</string>
   <string name="preferred_network_mode_wcdma_perf_summary">Preferred network mode: WCDMA preferred</string>
-  <string name="preferred_network_type_3g_only_warning_miui">"You selected 3G only as preferred network type, so there will be no signal if your SIM card has no 3G functionality! Click OK to continue."</string>
+  <string name="preferred_network_type_3g_only_warning_miui">"You selected 3G only as preferred network type, so there will be no signal if your SIM card has no 3G functionality! Click ΟΚ to continue."</string>
   <string name="preferred_network_type_cdma_miui">CDMA</string>
   <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_miui">3G preferred</string>

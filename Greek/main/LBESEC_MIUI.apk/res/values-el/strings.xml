@@ -207,7 +207,7 @@
   <string name="Privacy_App_Installed">Configure permission</string>
   <string name="Privacy_App_Launch">Launch</string>
   <string name="Privacy_App_Log">Logs</string>
-  <string name="Privacy_App_Manage">Details</string>
+  <string name="Privacy_App_Manage">Πληροφορίες</string>
   <string name="Privacy_App_Trust">I trust this App</string>
   <string name="Privacy_App_TrustDialog_Content">MIUI will not ask your for confirmation of any security and privacy related operations from this App.</string>
   <string name="Privacy_App_TrustDialog_Title">Trust this App</string>
