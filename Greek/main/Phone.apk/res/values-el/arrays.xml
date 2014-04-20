@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="list_language_entries">
-        <item>English</item>
-        <item>French</item>
-        <item>Spanish</item>
-        <item>Japanese</item>
-        <item>Korean</item>
-        <item>Chinese</item>
-        <item>Hebrew</item>
+        <item>Αγγλικά</item>
+        <item>Γαλλικά</item>
+        <item>Ισπανικά</item>
+        <item>Ιαπωνικά</item>
+        <item>Κορεάτικα</item>
+        <item>Κινέζικα</item>
+        <item>Εβραϊκά</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
-        <item>Home only</item>
-        <item>Automatic</item>
+        <item>Μόνο 3G-WCDMA</item>
+        <item>Αυτόματο</item>
     </string-array>
     <string-array name="tty_mode_entries">
         <item>TTY Off</item>
@@ -20,12 +20,12 @@
         <item>TTY VCO</item>
     </string-array>
     <string-array name="dtmf_tone_entries">
-        <item>Normal</item>
-        <item>Long</item>
+        <item>Κανονικός</item>
+        <item>Μακρύς</item>
     </string-array>
     <string-array name="voicemail_notification_vibrate_when_entries">
-        <item>Always</item>
-        <item>Only when silent</item>
-        <item>Never</item>
+        <item>Πάντα</item>
+        <item>Μόνο κατά τη σίγαση</item>
+        <item>Ποτέ</item>
     </string-array>
 </resources>
