@@ -13,16 +13,16 @@
 	    "position": 0
         },
         {
-            "title":"ibuygou",
-            "url":"http://www.ibuygou.com/reg/?uid=C2368D3D45705A56E51EC5940E187F8D/",
-            "thumbnail":"ibuy.png",
+            "title":"miui-hellas",
+            "url":"https://xiaomi-miui.gr/",
+            "thumbnail":"miui-hellas.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "iBuyGou",
-            "isDelete": true,
-            "movable": true,
-            "position": 3
+	    "displayName": "Xiaomi-Miui Hellas",
+            "isDelete": false,
+            "movable": false,
+            "position": 1
         },
         {
             "title":"miui-cz-sk",
@@ -58,7 +58,7 @@
 	    "displayName": "MIUIAndroid",
 	    "isDelete": true,
 	    "movable": true,
-	    "position": 1
+	    "position": 3
         },
         {
             "title":"Facebook",
