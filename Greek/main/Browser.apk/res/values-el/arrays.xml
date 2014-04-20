@@ -18,7 +18,7 @@
     </string-array>
     <string-array name="pref_default_zoom_choices">
         <item>Μικρό</item>
-        <item>Μέτριο/item>
+        <item>Μέτριο</item>
         <item>Μεγάλο</item>
     </string-array>
     <string-array name="pref_development_ua_choices">
