@@ -10,11 +10,6 @@
         <item>Απόκρυψη αριθμού</item>
         <item>Εμφάνιση αριθμού</item>
     </string-array>
-    <string-array name="clir_values">
-        <item>ΠΡΟΕΠΙΛΟΓΗ</item>
-        <item>ΑΠΟΚΡΥΨΗ</item>
-        <item>ΕΜΦΑΝΙΣΗ</item>
-    </string-array>
     <string-array name="list_language_entries">
         <item>Αγγλικά</item>
         <item>Γαλλικά</item>
@@ -33,10 +28,6 @@
         <item>Μόνο σε σίγαση</item>
         <item>Ποτέ</item>
     </string-array>
-    <string-array name="voicemail_notification_vibrate_when_values">
-        <item>πάντα</item>
-        <item>σίγαση</item>
-        <item>ποτέ</item>
     <string-array name="clir_values_miui">
         <item>ΠΡΟΕΠΙΛΟΓΗ</item>
         <item>ΑΠΟΚΡΥΨΗ</item>
