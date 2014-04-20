@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mobile_operator_display_names">
+        <item>Cosmote</item>
+        <item>Wind GR</item>
+        <item>Vodafone GR</item>
+    </string-array>
+    <string-array name="mobile_operator_numeric_values">
+        <item>20201</item>
+        <item>20210</item>
+        <item>20205</item>
+    </string-array>
+    <string-array name="mobile_operator_numeric_equivalencies">
+        <item>20201</item>
+        <item>20210</item>
+        <item>20205</item>
+    </string-array>
+</resources>
