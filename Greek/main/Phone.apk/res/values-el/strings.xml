@@ -312,7 +312,6 @@
   <string name="page_info">Page info</string>
   <string name="page_info_address">Address:</string>
   <string name="page_info_view">View page info</string>
-  <string name="password">Password</string>
   <string name="permission_preload_label">Preload results</string>
   <string name="picasa">Picasa</string>
   <string name="popup_window_attempt">Allow this site to open a pop-up window?</string>
@@ -582,7 +581,6 @@
   <string name="url_hint">Εύρεση ή εισαγωγή ιστοσελίδας</string>
   <string name="user_defined_webpage">Πρόσθεση ιστοσελίδας</string>
   <string name="user_defined_webpage_title">Πρόσθεση ιστοσελίδας στην αρχική σελίδα</string>
-  <string name="username">Ονομα</string>
   <string name="view_certificate">Προβολή πιστοποιητικού</string>
   <string name="warning">Προειδοποίηση</string>
   <string name="webapp_add_to_desktop">Πρόσθεση στην αρχική οθόνη</string>
