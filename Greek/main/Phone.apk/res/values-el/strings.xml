@@ -365,7 +365,6 @@
  <string name="disable_sim_pin_miui">Απενεργοποίηση κωδικού PIN</string>
  <string name="display_name_summary">&lt; Same as username></string>
  <string name="display_name_title">Display name</string>
- <string name="domain_address">SipDomain</string>
  <string name="domain_address_title">Εξυπηρετητής</string>
  <string name="doneButton">Έτοιμο</string>
  <string name="dtmf_tone_enable_title">Ήχος αγγίγματος πληκτρολογίου</string>
@@ -884,7 +883,6 @@ Switch to the new provider anyway?"</string>
   <string name="select_automatically">Choose automatically</string>
   <string name="sendSms">Send SMS</string>
  <string name="send_button">Αποστολή</string>
-  <string name="send_keepalive">SendKeepAlive</string>
   <string name="separate_from_conference_miui">Single Call</string>
   <string name="set_preferred_network_type_when_data_enabled_miui">Preferred network type only available when data is disabled</string>
   <string name="set_primary">SetPrimary</string>
@@ -922,7 +920,6 @@ Switch to the new provider anyway?"</string>
  <string name="sim_unlock_status_text">Επιβεβαίωση PIN…</string>
   <string name="sim_ndp_dismiss_text">Dismiss</string>
  <string name="sim_unlock_unlock_text">Ξεκλείδωμα</string>
-  <string name="sim_pin_change_miui">Change SIM PIN</string>
   <string name="sim_unlock_failed">SIM SIM unlock request failed.</string>
   <string name="sim_unlock_success">SIM SIM unlock successful.</string>
   <string name="sip_account_list">SIP accounts</string>
