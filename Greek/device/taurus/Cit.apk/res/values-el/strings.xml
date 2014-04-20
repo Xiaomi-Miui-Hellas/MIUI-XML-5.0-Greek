@@ -113,11 +113,11 @@
   <string name="cit_lcdlight_brightness_min">Ελάχ.</string>
   <string name="cit_leds_check_summary">Θα γίνει έλεγχος φωτισμού, ρεύματος και των LED flash</string>
   <string name="cit_leds_check_title">Δοκιμή LED</string>
-  <string name="cit_light_sensor_check_summary">The following light sensor DAC information was found</string>
-  <string name="cit_light_sensor_check_title">Test Light Sensor</string>
-  <string name="cit_magnetic_sensor_check_summary">Below is the current magnetometer values in X, Y, Z orientation</string>
-  <string name="cit_magnetic_sensor_check_title">Test Magnometer</string>
-  <string name="cit_main_camera_check_summary">Test checkist:\n\n 1. Click the camera button to open the camera\n 2. Verify flash is turned on\n 3. Click on picture list\n 4. Click the OK button, this will automatically save the image\n 5. Check picture is displayed correctly and then delete</string>
+  <string name="cit_light_sensor_check_summary">Βρέθηκαν οι παρακάτω πληροφορίες για αισθητήρα φωτός DAC</string>
+  <string name="cit_light_sensor_check_title">Δοκιμή Αισθητήρα Φωτός</string>
+  <string name="cit_magnetic_sensor_check_summary">Παρακάτω είναι οι τρέχουσες τιμές σε Χ, Υ, Ζ του προσανατολισμού του μαγνητόμετρου</string>
+  <string name="cit_magnetic_sensor_check_title">Δοκιμή Μαγνητόμετρου</string>
+  <string name="cit_main_camera_check_summary">Λίστα δοκιμών:\n\n 1. Κλικ στο κουμπί κάμερας για να την ανοίξετε\n 2. Επιβεβαιώστε ότι το φλας είναι ενεργό\n 3. Επιλέξτε την λίστα εικόνων\n 4. Click the OK button, this will automatically save the image\n 5. Check picture is displayed correctly and then delete</string>
   <string name="cit_main_camera_check_title">Test Camera (main camera)</string>
   <string name="cit_name">Hardware detection</string>
   <string name="cit_not_available">User version does not support this test, only factory version testing is available</string>
