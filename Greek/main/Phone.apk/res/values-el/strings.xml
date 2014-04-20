@@ -17,7 +17,6 @@
  <string name="administrative_disable">Διαχείριση απενεργοποιημένη</string>
  <string name="administrative_enable">Διαχείριση ενεργοποιημένη</string>
  <string name="advanced_settings">Για προχωρημένους</string>
- <string name="advanced_settings_container">advanced settings container</string>
  <string name="advanced_settings_hide">▽ Απόκρυψη όλων</string>
  <string name="advanced_settings_show">▷ Προβολή όλων</string>
  <string name="advertisements_disable">Διαφημίσεις απενεργοποιημένες</string>
@@ -56,7 +55,6 @@
  <string name="audio_mode_earpiece">Ακουστικά</string>
  <string name="audio_mode_speaker">Ηχείο</string>
  <string name="audio_mode_wired_headset">Ενσύρματα ακουστικά</string>
- <string name="auth_username">AuthUserName</string>
  <string name="auth_username_summary">Όνομα χρήστη για ταυτοποίηση</string>
  <string name="auth_username_title">Όνομα χρήστη</string>
  <string name="auto_answer_delay_entries_delay_10s_miui">10s</string>
@@ -365,7 +363,6 @@
   <string name="disable_pin_ok">SIM PIN disabled</string>
  <string name="disable_sim_pin">Απενεργοποίηση SIM PIN</string>
  <string name="disable_sim_pin_miui">Απενεργοποίηση κωδικού PIN</string>
- <string name="display_name">Όνομα</string>
  <string name="display_name_summary">&lt; Same as username></string>
  <string name="display_name_title">Display name</string>
  <string name="domain_address">SipDomain</string>
@@ -717,7 +714,6 @@ Switch to the new provider anyway?"</string>
   <string name="ota_unsuccessful">"Your phone did not activate. You may need to find an area with better coverage (near a window, or outside). Try again or call customer service for more options."</string>
  <string name="other_settings">Άλλες ρυθμίσεις κλήσεων</string>
  <string name="other_settings_miui">Λοιπές ρυθμίσεις</string>
- <string name="password">Κωδικός</string>
  <string name="password_title">Κωδικός</string>
  <string name="pause_prompt_no">Όχι</string>
  <string name="pause_prompt_str">"Αποστολή ήχων"</string>
@@ -753,7 +749,6 @@ Switch to the new provider anyway?"</string>
  <string name="pin_progress_unlock_icc_miui">Ξεκλείδωμα κάρτας SIM </string>
   <string name="place_a_call1">Subscription 1</string>
   <string name="place_a_call2">Subscription 2</string>
- <string name="port">Θύρα</string>
  <string name="port_title">Αριθμός θύρας</string>
  <string name="pref_custom_location_summary_miui">Customise regional attribution and number attribution</string>
  <string name="pref_custom_location_title_miui">Customise attribution</string>
@@ -794,7 +789,6 @@ Switch to the new provider anyway?"</string>
   <string name="progress_dialog_exiting_ecm">Exiting Emergency Callback Mode</string>
   <string name="prompt">Prompt</string>
   <string name="prompt_user">Prompt User</string>
- <string name="proxy_address">Διέθυνση Proxy</string>
   <string name="proxy_address_title">Outbound proxy address</string>
   <string name="pstn_phone">Cell phone call</string>
   <string name="puk2_blocked">PUK2 is permanently blocked.</string>
@@ -846,7 +840,6 @@ Switch to the new provider anyway?"</string>
   <string name="requesting_ruim_unlock">Requesting UIM UIM unlock…</string>
  <string name="requesting_sim_unlock">Αίτηση ξεκλειδώματος της κάρτας SIM </string>
  <string name="requesting_unlock">Αίτημα για ξεκλείδωμα του δικτύου </string>
-  <string name="requesting_unlock">Requesting Network unlock...</string>
   <string name="reset_my_choice_hint">You can use the Call Settings to change which Internet calling account to use by default when placing calls, by selecting a different account under Internet call settings</string>
   <string name="respond_via_sms_canned_response_1">"Can't talk now. What's up?"</string>
   <string name="respond_via_sms_canned_response_1_miui">"I'm sorry I can't answer the phone right now. I'll get back to you later."</string>
@@ -892,7 +885,6 @@ Switch to the new provider anyway?"</string>
   <string name="sendSms">Send SMS</string>
  <string name="send_button">Αποστολή</string>
   <string name="send_keepalive">SendKeepAlive</string>
-  <string name="send_keepalive_title">Send keep-alive</string>
   <string name="separate_from_conference_miui">Single Call</string>
   <string name="set_preferred_network_type_when_data_enabled_miui">Preferred network type only available when data is disabled</string>
   <string name="set_primary">SetPrimary</string>
@@ -931,17 +923,13 @@ Switch to the new provider anyway?"</string>
   <string name="sim_ndp_dismiss_text">Dismiss</string>
  <string name="sim_unlock_unlock_text">Ξεκλείδωμα</string>
   <string name="sim_pin_change_miui">Change SIM PIN</string>
-  <string name="sim_pin_toggle_miui">Lock SIM card</string>
   <string name="sim_unlock_failed">SIM SIM unlock request failed.</string>
   <string name="sim_unlock_success">SIM SIM unlock successful.</string>
   <string name="sip_account_list">SIP accounts</string>
  <string name="sip_accounts">Λογαριασμοί κλήσεων Internet SIP </string>
  <string name="sip_accounts_title">Λογαριασμοί</string>
   <string name="sip_add_account_tip_text">Please add a SIP account to use Internet calling</string>
-  <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-  <string name="sip_always">SIP_ALWAYS</string>
  <string name="sip_always_send_keepalive">Αποστολή πάντα</string>
-  <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
   <string name="sip_call_options_entry_1">For all calls when data network is available</string>
  <string name="sip_call_options_entry_2">Μόνο για κλήσεις διαδικτύου</string>
  <string name="sip_call_options_entry_3">Να ερωτούμε για κάθε κλήση</string>
@@ -1034,7 +1022,6 @@ Switch to the new provider anyway?"</string>
  <string name="throttle_time_frame">Περίοδος χρήσης δεδομένων</string>
   <string name="throttle_time_frame_subtext">"%1$d٪ of cycle elapsed. Next period starts in %2$d days (%3$s)"</string>
   <string name="title_data_settings">Data Settings</string>
- <string name="transport">Πρωτόκολλο</string>
  <string name="transport_title">Πρωτόκολλο</string>
   <string name="tty_mode_entries_full_miui">TTY Full</string>
   <string name="tty_mode_entries_hco_miui">TTY HCO</string>
@@ -1058,7 +1045,6 @@ Switch to the new provider anyway?"</string>
  <string name="updating_fdn_contact">Updating fixed dialing number FDN </string>
  <string name="updating_settings">Ενημέρωση ρυθμίσεων</string>
  <string name="updating_title">Ενημέρωση ρυθμίσεων κλήσης</string>
- <string name="username">Όνομα χρήστη</string>
  <string name="username_title">Όνομα χρήστη</string>
  <string name="ussdRunning">Εκτέλεση USSD κώδικα…</string>
   <string name="vibrate_on_ring_title">Vibrate when ringing</string>
