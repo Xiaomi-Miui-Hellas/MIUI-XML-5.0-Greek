@@ -54,7 +54,6 @@
   <string name="empty_file_notification_sent">Bluetooth: Η απομακρυσμένη συσκευή απέρριψε το αρχείο μηδενικού μεγέθους %1$s</string>
   <string name="enabling_progress_content">Ενεργοποίηση Bluetooth…</string>
   <string name="enabling_progress_title">Παρακαλώ περιμένετε…</string>
-  <string name="ErrorTooManyRequests">Πραγματοποιείται επεξεργασία πάρα πολλών αιτημάτων Προσπαθήστε ξανά αργότερα </string>
   <string name="ftp_acceptance_dialog_header">Πρόσβαση στο φάκελο τηλεφώνου</string>
   <string name="ftp_acceptance_dialog_title">%1$s  επιθυμεί να αποκτήσει πρόσβαση στους φακέλους του τηλεφώνου σας. Να επιτραπεί πρόσβαση %2$s;</string>
   <string name="ftp_acceptance_timeout_message">Έληξε χρόνος αποδοχής σύνδεσης με %1$s</string>
