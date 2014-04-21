@@ -506,8 +506,8 @@ Try again in %d seconds."</string>
   <string name="winter_solstice"/>
   <string name="yellow_page_module_sms_sent">SMS message sent.</string>
   <string name="yellow_page_sms_disabled_in_privacy_mode">Unable to send SMS message in Guest mode</string>
-  <string name="yellow_page_sms_send_failed">Αποτυχία αποστολής μυνήματος SMS!</string>
+  <string name="yellow_page_sms_send_failed">Αποτυχία αποστολής μηνύματος SMS!</string>
   <string name="yellow_page_sms_sending">Αποστολή…</string>
-  <string name="yellow_page_unable_send_sms">Αδύνατη η αποστολή SMS μυνήματος!</string>
+  <string name="yellow_page_unable_send_sms">Αδύνατη η αποστολή SMS μηνύματος!</string>
   <string name="yesterday">Εχθές</string>
 </resources>
