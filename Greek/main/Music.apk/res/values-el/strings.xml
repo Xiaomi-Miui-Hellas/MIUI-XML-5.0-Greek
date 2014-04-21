@@ -147,7 +147,7 @@
   <string name="id3_edit">Edit ID3 information</string>
   <string name="id3_edit_failed">Failed to edit ID3 information</string>
   <string name="id3_modify_confirm_check">Confirm ID3 changes?</string>
-  <string name="id3_modify_confirm_text">Save</string>
+  <string name="id3_modify_confirm_text">Αποθήκευση</string>
   <string name="impunity_declaration">The online music you are about to use is from Baidu Online Music Service. Click \"OK\" to accept and use, click \"Cancel\" to exit.</string>
   <string name="impunity_declaration_title">Declaration</string>
   <string name="keep_quit_position_settings">Store last position</string>
@@ -209,7 +209,7 @@
   <string name="music_open_other_connect">Download music using mobile data connection</string>
   <string name="music_picker_title">Select song</string>
   <string name="music_quality">Music quality</string>
-  <string name="music_settings">Settings</string>
+  <string name="music_settings">Ρυθμίσεις</string>
   <string name="network_error">No network connection, please check your network settings</string>
   <string name="new_albums">New Albums</string>
   <string name="new_equalizer_name_template">New EQ profile %d</string>

@@ -24,7 +24,7 @@
     <string name="event_edit">Edit event</string>
     <string name="event_delete">Delete event</string>
     <string name="goto_today">Today</string>
-    <string name="menu_preferences">Settings</string>
+    <string name="menu_preferences">Ρυθμίσεις</string>
     <string name="menu_select_visible_calendars">Calendars to display</string>
     <string name="search">Search</string>
     <string name="hide_controls">Hide controls</string>
@@ -117,7 +117,7 @@
     <string name="change_response_title">Change response</string>
     <string name="menu_general_preferences">General settings</string>
     <string name="menu_about_preferences">About Calendar</string>
-    <string name="preferences_title">Settings</string>
+    <string name="preferences_title">Ρυθμίσεις</string>
     <string name="preferences_general_title">Calendar view setting</string>
     <string name="preferences_reminder_title">Notification &amp; reminders</string>
     <string name="preferences_hide_declined_title">Hide declined events</string>

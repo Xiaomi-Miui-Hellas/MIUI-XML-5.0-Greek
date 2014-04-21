@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Downloads</string>
-    <string name="download_title">Downloads</string>
+    <string name="app_label">Λήψεις</string>
+    <string name="download_title">Λήψεις</string>
     <string name="download_title_sorted_by_date">Downloads - Sorted by date</string>
     <string name="download_title_sorted_by_size">Downloads - Sorted by size</string>
     <string name="no_downloads">No downloads</string>
@@ -39,7 +39,7 @@
     <string name="download_pending">Download pending</string>
     <string name="download_info_start_deleted_tasks">Delete downloads</string>
     <string name="download_info_count_deleted_tasks">%s downloads removed</string>
-    <string name="menu_preferences">Settings</string>
+    <string name="menu_preferences">Ρυθμίσεις</string>
     <string name="menu_enter_edit_mode">Editor</string>
     <string name="delete_downloads_records">Delete downloads</string>
     <string name="pause_download">Pause</string>
@@ -56,7 +56,7 @@
     <string name="delete_the_downloaded_file">Delete the downloaded files.</string>
     <string name="downloads_operating">Operating…</string>
     <string name="select_operation_items">Please select operation items</string>
-    <string name="preferences_title">Settings</string>
+    <string name="preferences_title">Ρυθμίσεις</string>
     <string name="pref_download_settings_title">Data usage</string>
     <string name="pref_title_enable_max_bytes_popup">Data download prompt</string>
     <string name="pref_summary_enable_max_bytes_popup">"Under the operator's network, prompt pops up if file size exceeds the limit"</string>
@@ -66,7 +66,7 @@
     <string name="download_in_process">Downloading</string>
     <string name="download_complete">Downloaded</string>
     <string name="retry_after_network_available">Please retry while network connection is available</string>
-    <string name="editmode_menu_share">Share</string>
+    <string name="editmode_menu_share">Διαμοιρασμός</string>
     <string name="editmode_menu_delete">Delete</string>
     <string name="all_downloads">All downloads</string>
     <string name="app_downloads">%s downloads</string>
