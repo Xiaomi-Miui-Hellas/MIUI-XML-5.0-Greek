@@ -153,7 +153,7 @@
   <string name="resource_local">Local %1$s</string>
   <string name="resource_menu_refresh">Refresh</string>
   <string name="resource_mute">None</string>
-  <string name="resource_my">Local</string>
+  <string name="resource_my">Τοπικά</string>
   <string name="resource_no_result">No result</string>
   <string name="resource_notification_default">Notifications</string>
   <string name="resource_on_trial">Trying: %1$s</string>
@@ -247,7 +247,7 @@
   <string name="theme_select_others">Others</string>
   <string name="third_party_pickers_activity_title">Set %1$s</string>
   <string name="title_component">Mix</string>
-  <string name="title_local">Local</string>
+  <string name="title_local">Τοπικά</string>
   <string name="title_online">Online</string>
   <string name="title_system_resource">System resources</string>
   <string name="to_activate_the_account">Please activate your Xiaomi account</string>

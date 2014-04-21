@@ -35,7 +35,7 @@
     <string name="auto_silence_title">Auto-silence</string>
     <string name="auto_silence_summary">Alarms will silence after %d minutes</string>
     <string name="auto_silence_never">Never</string>
-    <string name="done">Done</string>
+    <string name="done">Έγινε</string>
     <string name="revert">Revert</string>
     <string name="delete">Delete</string>
     <string name="alarm_volume_title">Alarm volume</string>

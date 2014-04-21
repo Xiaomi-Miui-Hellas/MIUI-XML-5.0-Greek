@@ -491,7 +491,7 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="button_text_a_key_optimize">Optimize now</string>
   <string name="button_text_cancel">Άκυρο</string>
   <string name="button_text_delete">Delete</string>
-  <string name="button_text_done">Done</string>
+  <string name="button_text_done">Έγινε</string>
   <string name="button_text_fix">Fix</string>
   <string name="button_text_quick_scan">Start scan</string>
   <string name="button_text_security">Security</string>
@@ -1265,7 +1265,7 @@ Ready to start? Touch Next."</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Try again in %d seconds.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too many incorrect attempts!</string>
   <string name="lockpattern_tutorial_cancel_label">Άκυρο</string>
-  <string name="lockpattern_tutorial_continue_label">Next</string>
+  <string name="lockpattern_tutorial_continue_label">Επόμενο</string>
   <string name="log_count">(%d)</string>
   <string name="lte_ram_dump_off">Turn off lte ram dump</string>
   <string name="lte_ram_dump_on">Turn on lte ram dump</string>
@@ -1382,7 +1382,7 @@ Select your computer’s operating system:"</string>
   <string name="msd_help_title">MTP Help</string>
   <string name="msd_install">Reinstall the driver.</string>
   <string name="msd_install_finish">ΟΚ</string>
-  <string name="msd_install_next">Next</string>
+  <string name="msd_install_next">Επόμενο</string>
   <string name="msd_install_retry_linux">"If your computer does not detect MI 2,
 Try the following:
 1) Use installation tools sudo aptitude install mtpfs libfuse-dev libmad0-dev
@@ -1420,8 +1420,8 @@ try the following:
   <string name="networks">Operator selection</string>
   <string name="new_backup_pw_prompt">Type a new password for full backups here</string>
   <string name="new_bw_list_button">Προσθήκη επαφής</string>
-  <string name="next_button_label">Next</string>
-  <string name="next_label">Next</string>
+  <string name="next_button_label">Επόμενο</string>
+  <string name="next_label">Επόμενο</string>
   <string name="nfc_category_title">NFC</string>
   <string name="nfc_quick_toggle_summary">Allow data exchange when phone touches another device</string>
   <string name="nfc_quick_toggle_title">NFC</string>
@@ -1599,7 +1599,7 @@ try the following:
   <string name="perm_hips_security_prompt_accept">Allow (%d)</string>
   <string name="perm_hips_security_prompt_accept_root">Allow</string>
   <string name="perm_hips_security_prompt_caption">Security warning</string>
-  <string name="perm_hips_security_prompt_next">Next</string>
+  <string name="perm_hips_security_prompt_next">Επόμενο</string>
   <string name="perm_hips_security_prompt_reject">Deny (%d)</string>
   <string name="perm_hips_security_prompt_remember">Remember my choice</string>
   <string name="perm_hips_security_prompt_root_caption">Important warning</string>
@@ -1917,7 +1917,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
   <string name="protection_perm">Permission setting</string>
   <string name="protection_sms">SMS filter</string>
   <string name="provider_label">Push subscriptions</string>
-  <string name="proxy_action_text">Done</string>
+  <string name="proxy_action_text">Έγινε</string>
   <string name="proxy_clear_text">Clear</string>
   <string name="proxy_defaultView_text">Restore defaults</string>
   <string name="proxy_error">Attention</string>
@@ -2619,7 +2619,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="virus_scan_file_type_virus_apk">Virus (install pkg)</string>
   <string name="virus_scan_file_type_virus_installed">Virus (installed app)</string>
   <string name="virus_scan_find">%d risk(s) discovered</string>
-  <string name="virus_scan_finish">Done</string>
+  <string name="virus_scan_finish">Έγινε</string>
   <string name="virus_scan_finish_text">OK, the bad stuff is gone!</string>
   <string name="virus_scan_guard_provider_missed">Virus scanner has been compromised. You need to factory reset your phone.</string>
   <string name="virus_scan_installed_package">%s (installed app)</string>
@@ -2898,7 +2898,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different Wi-Fi network.</string>
   <string name="wifi_setup_detail">Network details</string>
   <string name="wifi_setup_eap_not_supported">"You can't configure an EAP Wi-Fi connection during setup. After setup, you can do that in Settings &gt; Wireless &amp; networks\u0090"</string>
   <string name="wifi_setup_forget">Forget</string>
-  <string name="wifi_setup_next">Next</string>
+  <string name="wifi_setup_next">Επόμενο</string>
   <string name="wifi_setup_not_connected">Not connected</string>
   <string name="wifi_setup_refresh_list">Refresh list</string>
   <string name="wifi_setup_save">Save</string>
@@ -3012,7 +3012,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different Wi-Fi network.</string>
   <string name="wimax_settings_summary">Set up &amp; manage 4G network and modem</string>
   <string name="window_animation_scale_title">Window animation scale</string>
   <string name="wireless_networks_settings_title">Wireless &amp; networks</string>
-  <string name="work_done">Done</string>
+  <string name="work_done">Έγινε</string>
   <string name="wps_category">WPS Security</string>
   <string name="wps_connect_summary">Make sure router supports WPS mode</string>
   <string name="wps_connect_title">Connect using WPS</string>

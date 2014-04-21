@@ -11,7 +11,7 @@
   <string name="app_name">Transfer</string>
   <string name="back">Back</string>
   <string name="button_last">Start now</string>
-  <string name="button_next">Next</string>
+  <string name="button_next">Επόμενο</string>
   <string name="button_pre">Back</string>
   <string name="can_not_find_explorer">FileExplorer not found, is the application installed?</string>
   <string name="can_not_send_this_file">Failed to send file!</string>

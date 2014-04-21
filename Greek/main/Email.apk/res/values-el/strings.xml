@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_action_mode_done">Έγινε</string>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_up_description">Navigate up</string>
     <string name="abc_action_menu_overflow_description">More options</string>
@@ -72,11 +72,11 @@
     <string name="permission_access_provider_label">Access KingSoft email provider data</string>
     <string name="permission_access_provider_desc">Allows the app to access your email database, including received messages, sent messages, usernames, and passwords.</string>
     <string name="debug_title">Debug</string>
-    <string name="next_action">Next</string>
+    <string name="next_action">Επόμενο</string>
     <string name="okay_action">ΟΚ</string>
     <string name="cancel_action">Άκυρο</string>
-    <string name="previous_action">Previous</string>
-    <string name="done_action">Done</string>
+    <string name="previous_action">Προηγούμενο</string>
+    <string name="done_action">Έγινε</string>
     <string name="create_action">Create new</string>
     <string name="quick_responses_empty_view">No quick responses.</string>
     <string name="account_settings_action">Account settings</string>
@@ -537,7 +537,7 @@ CC: %4$s
     <string name="move_to_selection_dialog_title">Moved to another folder</string>
     <string name="search_title">Unified Email</string>
     <string name="search_results_loaded">%1$d</string>
-    <string name="network_error">No connection</string>
+    <string name="network_error">Χωρίς σύνδεση</string>
     <string name="load_more">Load more</string>
     <string name="load_attachment">@string/load_more</string>
     <string name="shortcut_name_title">Name folder shortcut</string>

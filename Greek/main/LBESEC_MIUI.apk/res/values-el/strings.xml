@@ -190,7 +190,7 @@
   <string name="HIPS_SecurityPrompt_Accept">Allowed (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Allow</string>
   <string name="HIPS_SecurityPrompt_Caption">Security Warning</string>
-  <string name="HIPS_SecurityPrompt_Next">Next</string>
+  <string name="HIPS_SecurityPrompt_Next">Επόμενο</string>
   <string name="HIPS_SecurityPrompt_ROOT_Caption">Important Warning</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step1">Do you wish to allow %1$s to get ROOT permission?</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step2">ROOT permission may cause system instability</string>

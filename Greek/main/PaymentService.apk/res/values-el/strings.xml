@@ -38,9 +38,9 @@
   <string name="btn_delete_record">Delete</string>
   <string name="btn_mili_center_recharge">Top up MiCredit</string>
   <string name="btn_net_connection_retry">Retry</string>
-  <string name="btn_next">Next</string>
+  <string name="btn_next">Επόμενο</string>
   <string name="btn_other_bankcard">Use another card</string>
-  <string name="btn_prev">Previous</string>
+  <string name="btn_prev">Προηγούμενο</string>
   <string name="btn_query">Inquire</string>
   <string name="btn_recharge_confirm">Confirm purchase</string>
   <string name="btn_recharge_large">Top up</string>
@@ -54,7 +54,7 @@
   <string name="button_call">Call</string>
   <string name="button_cancel">Άκυρο</string>
   <string name="button_confirm">Confirm</string>
-  <string name="button_next">Next</string>
+  <string name="button_next">Επόμενο</string>
   <string name="button_pay">Confirm</string>
   <string name="button_recharge">Top up</string>
   <string name="button_recharge_pay">Confirm</string>
@@ -225,8 +225,8 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="linkpay_id">ID:</string>
   <string name="linkpay_mobile_calls_pay">China unicom mobile pre-paid gaming platform.</string>
   <string name="linkpay_morethen_300_thismonth">Sorry, your payments have exceeded 300 yuan this month!</string>
-  <string name="linkpay_next_step">Next</string>
-  <string name="linkpay_next_step_btn">Next</string>
+  <string name="linkpay_next_step">Επόμενο</string>
+  <string name="linkpay_next_step_btn">Επόμενο</string>
   <string name="linkpay_no_payment">Unpaid</string>
   <string name="linkpay_ordernum">Order no:</string>
   <string name="linkpay_paidamount_title">Payment amount: </string>
@@ -326,7 +326,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Try again in %d seconds.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Too many incorrect attempts!&lt;/font&gt;</string>
   <string name="lockpattern_tutorial_cancel_label">Άκυρο</string>
-  <string name="lockpattern_tutorial_continue_label">Next</string>
+  <string name="lockpattern_tutorial_continue_label">Επόμενο</string>
   <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Forgot pattern password&lt;/u&gt;</string>
   <string name="login">Login</string>
   <string name="memu_refresh">Refresh</string>

@@ -107,7 +107,7 @@
   <string name="discard_message_reason">Your message will be discarded because it has no valid recipients.</string>
   <string name="discard_slideshow">Discard slideshow</string>
   <string name="dl_failure_notification">Download of message %1$s from %2$s was unsuccessful.</string>
-  <string name="done">Done</string>
+  <string name="done">Έγινε</string>
   <string name="download">Λήψη</string>
   <string name="download_later">Currently unable to download. Please try again later.</string>
   <string name="downloading">Downloading</string>
