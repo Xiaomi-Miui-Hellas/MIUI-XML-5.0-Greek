@@ -93,7 +93,7 @@
     <string name="edit_label">Edit</string>
     <string name="delete_label">Delete</string>
     <string name="save_label">Done</string>
-    <string name="discard_label">Cancel</string>
+    <string name="discard_label">Άκυρο</string>
     <string name="snooze_all_label">Snooze all</string>
     <string name="dismiss_all_label">Dismiss all</string>
     <string name="snooze_label">Snooze</string>

@@ -3,7 +3,7 @@
   <string name="account_and_synchronization">Account &amp; Sync</string>
   <string name="account_setting">Account settings</string>
   <string name="add">Add</string>
-  <string name="add_to">Add to</string>
+  <string name="add_to">Προσθήκη σε</string>
   <string name="add_to_favorite">Add to Favorites</string>
   <string name="add_to_playlist">Add to Playlist</string>
   <string name="add_tracks">Add songs</string>
@@ -33,7 +33,7 @@
   <string name="billboard">Billboard</string>
   <string name="bind_baidu_account_setting">Bind Baidu Account</string>
   <string name="bind_baidu_account_summary">Add playlists and other services by binding Baidu music account</string>
-  <string name="buffering">Buffering...</string>
+  <string name="buffering">Buffering…</string>
   <string name="cancel">Άκυρο</string>
   <string name="cancel_sleep_mode">Sleep timer stopped</string>
   <string name="cancle_warining">Sleep Mode stopped</string>
@@ -72,7 +72,7 @@
   <string name="dirac_mode_off">Dirac Off</string>
   <string name="dirac_mode_piston_100">Xiaomi Piston headphones</string>
   <string name="disconnect">Disconnect</string>
-  <string name="download">Download</string>
+  <string name="download">Λήψη</string>
   <string name="download_album_settings">Auto download album art</string>
   <string name="download_album_summary">May cost more when used via mobile network, please consider using Wi-Fi</string>
   <string name="download_all_album">Download album art(s)</string>
@@ -164,7 +164,7 @@
   <string name="listen_to_music_online_settings">Listen to online music</string>
   <string name="listen_to_online_summary">Listen to music via mobile network or Wi-Fi</string>
   <string name="load_album_artist_failed">Failed to load album and artist List. Please try again.</string>
-  <string name="load_album_artist_in_process">Loading album and artist list...</string>
+  <string name="load_album_artist_in_process">Loading album and artist list…</string>
   <string name="load_album_failed">Failed to load album list, please try again</string>
   <string name="load_album_in_process">Load album list</string>
   <string name="load_artist_failed">Failed to load artist list, please try again</string>
@@ -181,7 +181,7 @@
   <string name="lrc_progress_modify">Adjust lyrics scrolling speed</string>
   <string name="lrc_progress_modify_helper">Adjust the lyrics scrolling speed by dragging up or down</string>
   <string name="lrc_search_failed">Lyrics not found!</string>
-  <string name="lrc_searching">Searching for lyrics...</string>
+  <string name="lrc_searching">Searching for lyrics…</string>
   <string name="lrc_select">Select lyrics</string>
   <string name="lyric_and_album">Lyrics and Albums</string>
   <string name="lyric_display_settings">Display lyrics</string>
@@ -258,9 +258,9 @@
   <string name="recentlyplayed_title">Recently played</string>
   <string name="recommend">Recommend</string>
   <string name="refresh_finish">Refreshed successfully</string>
-  <string name="refresh_in_processing">Refreshing...</string>
+  <string name="refresh_in_processing">Refreshing…</string>
   <string name="refresh_media_db">Refresh</string>
-  <string name="refresh_start">Refresh started, please wait...</string>
+  <string name="refresh_start">Refresh started, please wait…</string>
   <string name="remove_from_favorite">Remove from Favorites</string>
   <string name="remove_item">Remove</string>
   <string name="rename_album_menu">Rename album</string>
@@ -274,8 +274,8 @@
   <string name="ringtone_set">\"%s\" set as phone ringtone.</string>
   <string name="save">Αποθήκευση</string>
   <string name="scan_barcode_to_connect">"Align the KTV console's QR code in the frame to scan"</string>
-  <string name="scanning">Scanning SD card...</string>
-  <string name="scanning_nosdcard">Scanning USB storage...</string>
+  <string name="scanning">Scanning SD card…</string>
+  <string name="scanning_nosdcard">Scanning USB storage…</string>
   <string name="screen_bright_wake">Screen stays awake</string>
   <string name="screen_bright_wake_summary">Backlight remains active when this setting is enabled</string>
   <string name="sdcard_busy_message">Sorry, your SD card is busy.</string>

@@ -52,7 +52,7 @@
   <string name="btn_wait_confirm">Waiting</string>
   <string name="btn_wait_confirm_count">Waiting（%1$s）</string>
   <string name="button_call">Call</string>
-  <string name="button_cancel">Cancel</string>
+  <string name="button_cancel">Άκυρο</string>
   <string name="button_confirm">Confirm</string>
   <string name="button_next">Next</string>
   <string name="button_pay">Confirm</string>
@@ -149,7 +149,7 @@ If you need any further support please call Customer Services: 400 612 5880"</st
   <string name="hfb_instruct">"Please follow 10658008
 SMS confirmation and click 'purchase complete', thank you!"</string>
   <string name="hfb_main_title">Complete Payment</string>
-  <string name="hfb_network_progress">Requesting payment, please wait for network...</string>
+  <string name="hfb_network_progress">Requesting payment, please wait for network…</string>
   <string name="hfb_order_price">Order total:</string>
   <string name="hfb_other_case">If you did not receive the SMS message from 10658008 please see help tips.</string>
   <string name="hfb_pad_info">Please follow %1$s SMS confirmation to confirm payment completion. Thank you!</string>
@@ -157,8 +157,8 @@ SMS confirmation and click 'purchase complete', thank you!"</string>
   <string name="hfb_pay_by_phone_hint">Pay with Chinese phone number</string>
   <string name="hfb_retry_receive">Retry</string>
   <string name="hfb_return">Back</string>
-  <string name="hfb_sms1_progress_label">SMS sending, please wait...</string>
-  <string name="hfb_sms2_progress_label">payment is being confirmed, please wait...</string>
+  <string name="hfb_sms1_progress_label">SMS sending, please wait…</string>
+  <string name="hfb_sms2_progress_label">payment is being confirmed, please wait…</string>
   <string name="hfb_sms_error">SMS send failure!</string>
   <string name="hfb_sms_pay">Note: Click "Confirm payment" to complete purchase and send SMS to 10658008 to complete the purchase. Payments charged at local call rates.</string>
   <string name="hfb_succ_label">Purchase completed</string>
@@ -166,7 +166,7 @@ SMS confirmation and click 'purchase complete', thank you!"</string>
 You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3$s"</string>
   <string name="hfb_tariff">Tarif information</string>
   <string name="hfb_trans_error_label">No previous transactions found</string>
-  <string name="hfb_trans_result_progress_label">Searching for previous transactions...</string>
+  <string name="hfb_trans_result_progress_label">Searching for previous transactions…</string>
   <string name="hfb_umpay_info">Call * 10658008 for  China Mobile Communications accounts to pay via SMS</string>
   <string name="hfb_upgrade_download_fail">Failed to download update, please try again later</string>
   <string name="hfb_upgrade_download_sucess">New version downloaded successfully!</string>
@@ -178,7 +178,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="linkpay_achieve_charge">Complete payment</string>
   <string name="linkpay_app_name">Linkpay</string>
   <string name="linkpay_back_game">Back to game</string>
-  <string name="linkpay_cancel">Cancel</string>
+  <string name="linkpay_cancel">Άκυρο</string>
   <string name="linkpay_charge_account">Topup account:</string>
   <string name="linkpay_charge_game">Topup game</string>
   <string name="linkpay_charge_money">Topup amount:</string>
@@ -299,7 +299,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="linkpay_wait_verificationcode_sms">Verification code has been sent via SMS, please wait.</string>
   <string name="linkpay_waiting_SMS_pay">SMS payment in progress</string>
   <string name="linkpay_waiting_detail_a">Waiting for verification</string>
-  <string name="linkpay_waiting_title">Please wait...</string>
+  <string name="linkpay_waiting_title">Please wait…</string>
   <string name="linkpay_wo_money_pay">WO Money payment</string>
   <string name="linkpay_wrong_channelid">Incorrect Channel ID</string>
   <string name="linkpay_you_not_unicon">Your SIM card is currently unavailable for SMS payment services!</string>
@@ -325,7 +325,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="lockpattern_settings_help_how_to_record">How to draw an unlock pattern</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Try again in %d seconds.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Too many incorrect attempts!&lt;/font&gt;</string>
-  <string name="lockpattern_tutorial_cancel_label">Cancel</string>
+  <string name="lockpattern_tutorial_cancel_label">Άκυρο</string>
   <string name="lockpattern_tutorial_continue_label">Next</string>
   <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Forgot pattern password&lt;/u&gt;</string>
   <string name="login">Login</string>
@@ -388,12 +388,12 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="progress_error_pay_title">Payment failed</string>
   <string name="progress_error_recharge_summary">Top-up failed! Please try again later.</string>
   <string name="progress_error_recharge_title">Top-up failed</string>
-  <string name="progress_loading">Processing...</string>
-  <string name="progress_msg_creating">Generating top-up order...</string>
-  <string name="progress_paytool_creating">Generating %1$s order...</string>
+  <string name="progress_loading">Processing…</string>
+  <string name="progress_msg_creating">Generating top-up order…</string>
+  <string name="progress_paytool_creating">Generating %1$s order…</string>
   <string name="progress_paytool_installing">Installing %1$s mobile security plugin…</string>
-  <string name="progress_prepaid_creating">Generating order...</string>
-  <string name="progress_querying">Processing...</string>
+  <string name="progress_prepaid_creating">Generating order…</string>
+  <string name="progress_querying">Processing…</string>
   <string name="progress_submit_hint">Top-up will be reflected in you account balance within 3 minutes.</string>
   <string name="progress_submit_recharge_summary">Adding Top-up for %1$s MiCredits.</string>
   <string name="progress_submit_title">Request submitted</string>
@@ -401,7 +401,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="progress_success_pay_title">%1$s MiCredit payment complete</string>
   <string name="progress_success_recharge_summary">Account balance: %1$s MiCredits.</string>
   <string name="progress_success_recharge_title">%1$s MiCredit top-up complete</string>
-  <string name="progress_voucher_creating">Adding MiCredit to your account, please wait...</string>
+  <string name="progress_voucher_creating">Adding MiCredit to your account, please wait…</string>
   <string name="progress_warning_check">"Payment hasn't reached your account yet. 
 We will check again within two working days."</string>
   <string name="progress_warning_contact_server">"Payment still hasn't reached your account. 

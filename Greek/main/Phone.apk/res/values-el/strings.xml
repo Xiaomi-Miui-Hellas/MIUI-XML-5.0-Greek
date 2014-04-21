@@ -40,7 +40,7 @@
     <string name="mmiStarted">MMI code started</string>
     <string name="ussdRunning">USSD code running…</string>
     <string name="mmiCancelled">MMI code canceled</string>
-    <string name="cancel">Cancel</string>
+    <string name="cancel">Άκυρο</string>
     <string name="enter_input">Input Required. Try again!!</string>
     <string name="manageConferenceLabel">Manage conference call</string>
     <string name="audio_mode_speaker">Speaker</string>
@@ -376,7 +376,7 @@ Next period starts in %2$d days (%3$s)"</string>
     <string name="tty_mode_option_summary">Set TTY mode</string>
     <string name="auto_retry_mode_title">Auto-retry</string>
     <string name="auto_retry_mode_summary">Enable Auto-retry mode</string>
-    <string name="menu_add">Add contact</string>
+    <string name="menu_add">Προσθήκη επαφής</string>
     <string name="menu_edit">Επεξεργασία contact</string>
     <string name="menu_delete">Διαγραφή contact</string>
     <string name="get_pin2">Type PIN2</string>
@@ -625,7 +625,7 @@ Try again or call customer service for more options."</string>
     <string name="alert_dialog_ok">OK</string>
     <string name="close_profile">Close</string>
     <string name="primary_account_summary_with">Primary account. %s</string>
-    <string name="registration_status_checking_status">Checking status...</string>
+    <string name="registration_status_checking_status">Checking status…</string>
     <string name="registration_status_registering">Registering…</string>
     <string name="registration_status_still_trying">Still trying…</string>
     <string name="registration_status_not_receiving">Not receiving calls.</string>
@@ -687,7 +687,7 @@ Try again or call customer service for more options."</string>
     <string name="respond_via_sms_canned_response_2">"I'll call you right back."</string>
     <string name="respond_via_sms_canned_response_3">"I'll call you later."</string>
     <string name="respond_via_sms_canned_response_4">"Can't talk now. Call me later?"</string>
-    <string name="respond_via_sms_custom_message">Write your own...</string>
+    <string name="respond_via_sms_custom_message">Write your own…</string>
     <string name="respond_via_sms_setting_title">Quick responses</string>
     <string name="respond_via_sms_setting_title_2">Edit quick responses</string>
     <string name="respond_via_sms_setting_summary" />
@@ -739,12 +739,12 @@ Try again or call customer service for more options."</string>
     <string name="place_a_call3">Subscription 3</string>
     <string name="count_down">Seconds:</string>
     <string name="call_number">To:</string>
-    <string name="cancel_call">Cancel</string>
+    <string name="cancel_call">Άκυρο</string>
     <string name="set_subscription_error_atleast_one">Select atleast one subscription</string>
     <string name="sub_1">SUB 1</string>
     <string name="sub_2">SUB 2</string>
     <string name="sub_3">SUB 3</string>
-    <string name="set_uicc_subscription_progress">Set subscription in progress...</string>
+    <string name="set_uicc_subscription_progress">Set subscription in progress…</string>
     <string name="set_sub_success">Set subscription success</string>
     <string name="set_sub_failed">Set subscription failed</string>
     <string name="set_sub_1">Subscription 1:</string>

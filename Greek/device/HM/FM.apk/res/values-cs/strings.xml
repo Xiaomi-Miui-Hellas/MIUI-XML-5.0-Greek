@@ -17,7 +17,7 @@
   <string name="btn_ok">OK</string>
   <string name="btn_cancel">Zrušit</string>
   <string name="dlg_progress_title">Vyhledat</string>
-  <string name="dlg_progress_text">Vyhledávání...</string>
+  <string name="dlg_progress_text">Vyhledávání…</string>
   <string name="dlg_addedit_station_name">Název:</string>
   <string name="dlg_addedit_station_freq">Frekvence:</string>
   <string name="dlg_addedit_title_edit">Upravit stanici</string>
@@ -46,7 +46,7 @@
   <string name="empty_list">Žádné stanice</string>
   <string name="fm_recorder_name">Nahrávání FM</string>
   <string name="toast_recording_lost_warning">Vaše nahrávka bude ztracena, protože jste odpojili SD kartu!</string>
-  <string name="toast_start_recording">Nahrávání...</string>
+  <string name="toast_start_recording">Nahrávání…</string>
   <string name="toast_sdcard_missing">Chybí SD karta!</string>
   <string name="toast_sdcard_insufficient_space">Nedostatečné volné místo na SD kartě!</string>
   <string name="toast_recorder_internal_error">Nastala chyba při nahrávání!</string>
@@ -70,14 +70,14 @@
   <string name="FMR_Status_Stereomono_text">Stereo/Mono:</string>
   <string name="FMR_Stereomono_stereo">Stereo</string>
   <string name="FMR_Stereomono_mono">Mono</string>
-  <string name="FMR_Status_Stereomono">kontrola...</string>
+  <string name="FMR_Status_Stereomono">kontrola…</string>
   <string name="FMR_Status_RSSI_text">RSSI (dBm):</string>
-  <string name="FMR_Status_RSSI">kontrola...</string>
+  <string name="FMR_Status_RSSI">kontrola…</string>
   <string name="FMR_Status_Caparray_text">CapArray (pF):</string>
-  <string name="FMR_Status_Caparray">kontrola...</string>
+  <string name="FMR_Status_Caparray">kontrola…</string>
   <string name="FMR_RDS_text">RDS</string>
   <string name="FMR_RDS_Ratio_text">Poměr:</string>
-  <string name="FMR_RDS_Ratio">kontrola...</string>
+  <string name="FMR_RDS_Ratio">kontrola…</string>
   <string name="FMR_RDS_PS_text">PS:</string>
   <string name="FMR_RDS_PS">Žádný.</string>
   <string name="FMR_RDS_RT_text">RT:</string>

@@ -33,7 +33,7 @@
     <string name="resource_pack_confirm">"Even though you've already purchased %1$d components in this theme, it's still cheaper if you buy the full bundle."</string>
     <string name="resource_pack_warning">"You've already purchased %1$d components in this theme. It's cheaper if you buy the remaining components individually."</string>
     <string name="resource_title">Resource detail</string>
-    <string name="resource_download">Download</string>
+    <string name="resource_download">Λήψη</string>
     <string name="resource_downloading">Downloading</string>
     <string name="resource_waiting_download">Waiting</string>
     <string name="resource_import_successful">Download complete</string>
@@ -50,7 +50,7 @@
     <string name="online_no_network">"Couldn't connect to network"</string>
     <string name="online_search_hint">Search for online resources</string>
     <string name="loading">Loading…</string>
-    <string name="download_failed">Download failed</string>
+    <string name="download_failed">Αποτυχία λήψης</string>
     <string name="download_preview_failed">Failed to load preview</string>
     <string name="resource_delete_confirm">Delete these resources?</string>
     <string name="all_resources">All</string>
@@ -99,7 +99,7 @@ the content you're looking for is not currently available in your region."</stri
     <string name="resource_tip_select_ringtone">None selected</string>
     <string name="loading_resource_detail_info">Loading…</string>
     <string name="loading_resource_detail_fail">Failed to load resource</string>
-    <string name="resource_expand_full_text">Expand</string>
+    <string name="resource_expand_full_text">Εμφάνιση</string>
     <string name="resource_account_login">Sign in</string>
     <string name="resource_account_switch">Switch</string>
     <string name="resource_account_login_title">Sign in</string>
@@ -210,7 +210,7 @@ the content you're looking for is not currently available in your region."</stri
     <string name="menu_removeStar">Remove from favorites</string>
     <string name="menu_editContact">Edit</string>
     <string name="menu_deleteContact">Delete</string>
-    <string name="menu_copy">Copy</string>
+    <string name="menu_copy">Αντιγραφή</string>
     <string name="menu_create_contact_shortcut">Place on Home screen</string>
     <string name="menu_call">Call contact</string>
     <string name="menu_sendSMS">Text contact</string>
@@ -238,7 +238,7 @@ the content you're looking for is not currently available in your region."</stri
     <string name="multipleContactDeleteConfirmation">Deleting this contact will delete information from multiple accounts.</string>
     <string name="deleteConfirmation">This contact will be deleted.</string>
     <string name="menu_done">OK</string>
-    <string name="menu_doNotSave">Cancel</string>
+    <string name="menu_doNotSave">Άκυρο</string>
     <string name="menu_discard">Discard</string>
     <string name="label_notes">Notes</string>
     <string name="label_sip_address">Internet call</string>
@@ -472,7 +472,7 @@ Reason: \"%s\""</string>
     <string name="call_disambig_title">Choose number</string>
     <string name="call_settings">Settings</string>
     <string name="sms_disambig_title">Choose number</string>
-    <string name="make_primary">Remember this choice</string>
+    <string name="make_primary">Θυμήσου την επιλογή</string>
     <string name="quickcontact_missing_app">No app was found to handle this action</string>
     <string name="missing_name">(No name)</string>
     <string name="menu_accounts">Accounts</string>
@@ -710,7 +710,7 @@ Choose one of the following options:"</string>
     <string name="description_call_log_outgoing_call">Outgoing call</string>
     <string name="description_call_log_missed_call">Missed call</string>
     <string name="description_call_log_voicemail">Voicemail</string>
-    <string name="description_add_contact">Add contact</string>
+    <string name="description_add_contact">Προσθήκη επαφής</string>
     <string name="description_view_contact">View contact %1$s</string>
     <string name="description_call">Call %1$s</string>
     <string name="description_send_text_message">Send text message to %1$s</string>
@@ -775,7 +775,7 @@ Choose one of the following options:"</string>
     <string name="dialer_empty_text_no_call_log">No recent contacts</string>
     <string name="callrecordview_menu_settings">Settings</string>
     <string name="callrecordview_menu_show">Filter</string>
-    <string name="callrecordview_menu_paste">Paste</string>
+    <string name="callrecordview_menu_paste">Επικόλληση</string>
     <string name="openDialKeyboard">Dial pad</string>
     <string name="t9_search_guide_pinyin">Enter 7 and 9 to search Steve Wozniak</string>
     <string name="t9_search_guide_zhuyin">Enter 7 and 9 to search Steve Wozniak</string>

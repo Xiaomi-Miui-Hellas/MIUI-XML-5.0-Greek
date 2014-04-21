@@ -32,7 +32,7 @@
   <string name="attach_take_photo">Capture picture</string>
   <string name="attach_video">Videos</string>
   <string name="back_to_message_list">back to message list</string>
-  <string name="batch_adding_progress_message">Adding...</string>
+  <string name="batch_adding_progress_message">Adding…</string>
   <string name="batch_delete_confirm_dialog_message">Are you sure you wish to delete the selected %1$s message(s)?</string>
   <string name="batch_deleting_message_progress_message">Deleting selected message(s)</string>
   <string name="batch_deleting_progress_message">Deleting selected message thread(s)</string>
@@ -77,7 +77,7 @@
   <string name="context_menu_browse_web">Browse</string>
   <string name="context_menu_call">Call</string>
   <string name="context_menu_contact">Contact: %1$s</string>
-  <string name="context_menu_copy">Copy</string>
+  <string name="context_menu_copy">Αντιγραφή</string>
   <string name="context_menu_copy_notice">Selection copied to clipboard</string>
   <string name="context_menu_new_contact">New contact</string>
   <string name="context_menu_send_mail">Send E-mail</string>
@@ -108,7 +108,7 @@
   <string name="discard_slideshow">Discard slideshow</string>
   <string name="dl_failure_notification">Download of message %1$s from %2$s was unsuccessful.</string>
   <string name="done">Done</string>
-  <string name="download">Download</string>
+  <string name="download">Λήψη</string>
   <string name="download_later">Currently unable to download. Please try again later.</string>
   <string name="downloading">Downloading</string>
   <string name="duration_not_a_number">Duration must be a number</string>
@@ -140,7 +140,7 @@
   <string name="feedback_submit">Submit</string>
   <string name="festival">Recommended</string>
   <string name="festival_sms_category_count_format">(%s)</string>
-  <string name="festival_sms_loading">Φορτώνει...</string>
+  <string name="festival_sms_loading">Φορτώνει…</string>
   <string name="fetion_prefix">[Fetion]</string>
   <string name="file_share_message_description">I would like to share files with you</string>
   <string name="flatshow_page_no">%1$d</string>
@@ -168,8 +168,8 @@
   <string name="invalid_recipient_message">Please correct the recipient(s) or they will not receive the message.</string>
   <string name="kilobyte">KB</string>
   <string name="layout_selector_title">"Slideshow layout "</string>
-  <string name="loading_all_messages">Loading all messages...</string>
-  <string name="loading_conversations">Loading conversations...</string>
+  <string name="loading_all_messages">Loading all messages…</string>
+  <string name="loading_conversations">Loading conversations…</string>
   <string name="loading_mms">Loading MMS…</string>
   <string name="me">Me</string>
   <string name="menu_compose_new">Compose</string>
@@ -240,13 +240,13 @@
   <string name="mx_reactivate">Re-activate cloud messaging</string>
   <string name="mx_recommend_msg">Enable Cloud Messaging to send free messages</string>
   <string name="mx_warning_notice">An SMS will be sent to activate cloud messaging. Normal carrier data rates may apply</string>
-  <string name="need_download">Waiting for sync...</string>
+  <string name="need_download">Waiting for sync…</string>
   <string name="new_message">New message</string>
   <string name="new_message_arrived">New message arrived</string>
   <string name="new_phrase">New phrase</string>
   <string name="new_phrase_hint">Enter new phrase</string>
   <string name="nickname_placeholder">Nickname</string>
-  <string name="no">Cancel</string>
+  <string name="no">Άκυρο</string>
   <string name="no_block_button_msg">"Don’t block messages from this number"</string>
   <string name="no_conversations">No conversations</string>
   <string name="no_subject">(No subject)</string>
@@ -320,7 +320,7 @@ Report bugs and send feedback directly to Xiaomi.”</string>
   <string name="pref_title_vcard">Send via vCard</string>
   <string name="pref_title_wake_up_screen">Screen-wake</string>
   <string name="preferences_title">Settings</string>
-  <string name="prepare_send">Preparing to send...</string>
+  <string name="prepare_send">Preparing to send…</string>
   <string name="preview">Preview</string>
   <string name="preview_slideshow">Preview</string>
   <string name="priority_high">High</string>
@@ -332,7 +332,7 @@ Report bugs and send feedback directly to Xiaomi.”</string>
   <string name="private_new_notification">New private message notification</string>
   <string name="private_protect">Protect private messages</string>
   <string name="private_settings">Private Setting</string>
-  <string name="processing">Processing...</string>
+  <string name="processing">Processing…</string>
   <string name="prvate_contact">Private Contact</string>
   <string name="rate_limit_surpassed">Confirm</string>
   <string name="received_label">"Received: "</string>
@@ -413,7 +413,7 @@ Report bugs and send feedback directly to Xiaomi.”</string>
   <string name="sms_rejected_title">Text message rejected</string>
   <string name="sp_conversation_title">Notification messages</string>
   <string name="sp_mark_as_read">Mark all messages as read?</string>
-  <string name="sp_mark_as_read_progress">Marking all message as read...</string>
+  <string name="sp_mark_as_read_progress">Marking all message as read…</string>
   <string name="sp_mark_as_read_title">Mark all messages read</string>
   <string name="status_failed">Unsuccessful</string>
   <string name="status_label">"Status: "</string>

@@ -23,7 +23,7 @@
   <string name="setup_complete_start">Start using your phone</string>
   <string name="setup_complete_summary">Setup complete! Enjoy using MIUI!</string>
   <string name="shutdown">Shutdown</string>
-  <string name="sim_card_detection_dialog_message">Detecting SIM card, please wait...</string>
+  <string name="sim_card_detection_dialog_message">Detecting SIM card, please wait…</string>
   <string name="sim_card_detection_info">"Unable to setup Xiaomi account without a SIM card. You need a SIM card to use account synchronization, phone tracking etc."</string>
   <string name="sim_card_detection_label">Detect SIM card</string>
   <string name="sim_card_detection_status_absent">SIM card not detected!</string>

@@ -218,7 +218,7 @@
   <string name="backup_erase_dialog_message">Stop backing up your Wi-Fi passwords, bookmarks, other settings, and app data, plus erase all copies on Google servers?</string>
   <string name="backup_erase_dialog_title"/>
   <string name="backup_lock_settings_picker_title">Choose backup lock</string>
-  <string name="backup_pw_cancel_button_text">Cancel</string>
+  <string name="backup_pw_cancel_button_text">Άκυρο</string>
   <string name="backup_pw_set_button_text">Set backup password</string>
   <string name="backup_section_title">Backup &amp; restore</string>
   <string name="band_mode_failed">Unsuccessful</string>
@@ -412,7 +412,7 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="bluetooth_opp_profile_summary_use_for">Use for file transfer</string>
   <string name="bluetooth_pairing">Pairing…</string>
   <string name="bluetooth_pairing_accept">Pair</string>
-  <string name="bluetooth_pairing_decline">Cancel</string>
+  <string name="bluetooth_pairing_decline">Άκυρο</string>
   <string name="bluetooth_pairing_device_down_error_message">"Can't communicate with %1$s."</string>
   <string name="bluetooth_pairing_error_message">"Couldn't pair with %1$s."</string>
   <string name="bluetooth_pairing_pin_error_message">"Couldn't pair with %1$s because of an incorrect PIN or passkey."</string>
@@ -489,7 +489,7 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="button_start_optimize">Check</string>
   <string name="button_text_a_key_clean_up">Clean up</string>
   <string name="button_text_a_key_optimize">Optimize now</string>
-  <string name="button_text_cancel">Cancel</string>
+  <string name="button_text_cancel">Άκυρο</string>
   <string name="button_text_delete">Delete</string>
   <string name="button_text_done">Done</string>
   <string name="button_text_fix">Fix</string>
@@ -521,9 +521,9 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="camera_key_action_toggle_title">Trigger toggle</string>
   <string name="cancel">Άκυρο</string>
   <string name="cancel_alert">Discard your changes?</string>
-  <string name="cancel_button">Cancel</string>
-  <string name="cancel_optimize">Cancel</string>
-  <string name="cancel_scan">Cancel</string>
+  <string name="cancel_button">Άκυρο</string>
+  <string name="cancel_optimize">Άκυρο</string>
+  <string name="cancel_scan">Άκυρο</string>
   <string name="cant_sync_dialog_message">Sync for this item is currently disabled. To change this setting, temporarily turn on background data and automatic sync.</string>
   <string name="cant_sync_dialog_title">"Can't manually sync"</string>
   <string name="carrier_enabled">APN enable/disable</string>
@@ -538,7 +538,7 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="check_all">Select all</string>
   <string name="check_nothing">Deselect all</string>
   <string name="checkbox_notification_same_as_incoming_call">Use incoming call volume for notifications</string>
-  <string name="checking">Checking...</string>
+  <string name="checking">Checking…</string>
   <string name="choose_timezone">Choose time zone</string>
   <string name="clean_confirm_title">Delete selected files?</string>
   <string name="cleaner">Cleaner</string>
@@ -799,7 +799,7 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="display_preview_label">Preview:</string>
   <string name="display_settings">Display</string>
   <string name="display_settings_title">Display</string>
-  <string name="dlg_cancel">Cancel</string>
+  <string name="dlg_cancel">Άκυρο</string>
   <string name="dlg_confirm_unmount_text">If you unmount the USB storage, some apps you are using will stop and may be unavailable until you remount the USB storage.</string>
   <string name="dlg_confirm_unmount_title">Unmount USB storage?</string>
   <string name="dlg_error_unmount_text">"Couldn't unmount USB storage. Try again later."</string>
@@ -856,7 +856,7 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="dolby_eq_enter_alert_title">Turn on Dolby music</string>
   <string name="dolby_ieq_flat">Off</string>
   <string name="dolby_ieq_focused">Focused</string>
-  <string name="dolby_ieq_open">Open</string>
+  <string name="dolby_ieq_open">Άνοιγμα</string>
   <string name="dolby_ieq_rich">Rich</string>
   <string name="dolby_mode_movie">Video</string>
   <string name="dolby_mode_music">Music</string>
@@ -950,14 +950,14 @@ Some apps may not work until updated by their developers."</string>
   <string name="filter_dlg_title">Choose filter options</string>
   <string name="finish_application">End</string>
   <string name="finish_button_label">Finish</string>
-  <string name="finish_checking_memory">Finish checking memory condition...</string>
-  <string name="finish_checking_protection">Finish checking realtime protection...</string>
-  <string name="finish_checking_trash">Finish checking application cache...</string>
-  <string name="finish_checking_virus">Finishing up...</string>
-  <string name="finish_optimize_memory">Finish optimizing memory condition...</string>
-  <string name="finish_optimize_protection">Finish optimizing realtime protection...</string>
-  <string name="finish_optimize_trash">Finish optimizing application cache...</string>
-  <string name="finish_optimizing_virus">Finishing up...</string>
+  <string name="finish_checking_memory">Finish checking memory condition…</string>
+  <string name="finish_checking_protection">Finish checking realtime protection…</string>
+  <string name="finish_checking_trash">Finish checking application cache…</string>
+  <string name="finish_checking_virus">Finishing up…</string>
+  <string name="finish_optimize_memory">Finish optimizing memory condition…</string>
+  <string name="finish_optimize_protection">Finish optimizing realtime protection…</string>
+  <string name="finish_optimize_trash">Finish optimizing application cache…</string>
+  <string name="finish_optimizing_virus">Finishing up…</string>
   <string name="firewall_action">Block actions</string>
   <string name="firewall_log">Firewall log</string>
   <string name="firewall_settings">Do not disturb settings</string>
@@ -1209,7 +1209,7 @@ Ready to start? Touch Next."</string>
   <string name="lock_setup">Setup is complete.</string>
   <string name="lock_sounds_enable_title">Screen lock sound</string>
   <string name="lock_title">Securing your phone</string>
-  <string name="lockpassword_cancel_label">Cancel</string>
+  <string name="lockpassword_cancel_label">Άκυρο</string>
   <string name="lockpassword_choose_lock_generic_header">Unlock selection</string>
   <string name="lockpassword_choose_your_password_header">Choose your password</string>
   <string name="lockpassword_choose_your_pattern_header">Choose your pattern</string>
@@ -1264,7 +1264,7 @@ Ready to start? Touch Next."</string>
   <string name="lockpattern_settings_title">Unlock pattern</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Try again in %d seconds.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too many incorrect attempts!</string>
-  <string name="lockpattern_tutorial_cancel_label">Cancel</string>
+  <string name="lockpattern_tutorial_cancel_label">Άκυρο</string>
   <string name="lockpattern_tutorial_continue_label">Next</string>
   <string name="log_count">(%d)</string>
   <string name="lte_ram_dump_off">Turn off lte ram dump</string>
@@ -1411,7 +1411,7 @@ try the following:
   <string name="multi_touch_points_preference">Reboot to enable</string>
   <string name="musicfx_title">Music effects</string>
   <string name="nearby_wifi">Available networks</string>
-  <string name="need_check">Some items can be optimized...</string>
+  <string name="need_check">Some items can be optimized…</string>
   <string name="network_assistant">Data usage</string>
   <string name="network_detail">%s Network details</string>
   <string name="network_settings_title">Mobile networks</string>
@@ -1419,7 +1419,7 @@ try the following:
   <string name="networkid_label">Network ID:</string>
   <string name="networks">Operator selection</string>
   <string name="new_backup_pw_prompt">Type a new password for full backups here</string>
-  <string name="new_bw_list_button">Add contact</string>
+  <string name="new_bw_list_button">Προσθήκη επαφής</string>
   <string name="next_button_label">Next</string>
   <string name="next_label">Next</string>
   <string name="nfc_category_title">NFC</string>
@@ -1449,7 +1449,7 @@ try the following:
   <string name="open_wifi_connect_summary">Tap to manage</string>
   <string name="open_wifi_connect_title">Connect to open network %1$s</string>
   <string name="opt_accept_whitelist">Accept calls from numbers on exceptions list</string>
-  <string name="opt_cancel_desc">Cancel</string>
+  <string name="opt_cancel_desc">Άκυρο</string>
   <string name="opt_clean_garbage">Cleared %dMB</string>
   <string name="opt_disabled_autorun">Disabled %d startup programs</string>
   <string name="opt_done_desc">Complete</string>
@@ -1475,7 +1475,7 @@ try the following:
   <string name="opt_score_desc">pts</string>
   <string name="opt_state_done">Complete</string>
   <string name="opt_state_pause">Pause</string>
-  <string name="opt_state_running">Optimizing...</string>
+  <string name="opt_state_running">Optimizing…</string>
   <string name="opt_virus_scan">Scan now</string>
   <string name="opt_virus_suggest">%d suspicious files found! Please scan for viruses immediately</string>
   <string name="opt_waiting">Waiting</string>
@@ -1509,7 +1509,7 @@ try the following:
   <string name="optimize_title_cache">Cache</string>
   <string name="optimize_title_residual">Residuals</string>
   <string name="optimizing">Optimizing</string>
-  <string name="optimizing_virus">Removing viruses...</string>
+  <string name="optimizing_virus">Removing viruses…</string>
   <string name="other_relative">Other permissions</string>
   <string name="owner_info_settings_edit_text_hint">Type text to display on the lock screen</string>
   <string name="owner_info_settings_summary"/>
@@ -1527,7 +1527,7 @@ try the following:
   <string name="perm_app_title">Manage App Permissions</string>
   <string name="perm_auto_start">Manage Autostart Apps</string>
   <string name="perm_auto_start_desc">Enable or disable autostart app feature</string>
-  <string name="perm_canceling">Cancelling...</string>
+  <string name="perm_canceling">Cancelling…</string>
   <string name="perm_check">Check</string>
   <string name="perm_clean">Clean</string>
   <string name="perm_configuration">Settings</string>
@@ -1624,7 +1624,7 @@ try the following:
   <string name="perm_hips_wifi_network_desc">Wi-Fi Network</string>
   <string name="perm_hips_wifi_network_hint">%1$s apps are allowed to access Internet through WIFI network</string>
   <string name="perm_invalid_input">Invalid input</string>
-  <string name="perm_loading">Φορτώνει...</string>
+  <string name="perm_loading">Φορτώνει…</string>
   <string name="perm_log">Logs</string>
   <string name="perm_log_clear_content">All logs will be erased. Would you like to enable it?</string>
   <string name="perm_log_clear_title">Clear logs</string>
@@ -1633,7 +1633,7 @@ try the following:
   <string name="perm_mian_name">Permission</string>
   <string name="perm_monitored_app">Monitored apps (%1$d)</string>
   <string name="perm_notice">Alert of Security</string>
-  <string name="perm_operating">Operating...</string>
+  <string name="perm_operating">Operating…</string>
   <string name="perm_optimize">Optimize</string>
   <string name="perm_privacy_app_count">%1$d permissions</string>
   <string name="perm_privacy_app_finish">Finish</string>
@@ -1752,7 +1752,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
   <string name="power_consume_rank_title">Battery use</string>
   <string name="power_consume_total_hardware">Hardware: %1$d%%</string>
   <string name="power_consume_total_software">Apps: %1$d%%</string>
-  <string name="power_customizer_cancel">Cancel</string>
+  <string name="power_customizer_cancel">Άκυρο</string>
   <string name="power_customizer_delete">Delete</string>
   <string name="power_customizer_my_mode">Custom</string>
   <string name="power_customizer_ok">OK</string>
@@ -1765,7 +1765,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
   <string name="power_customizer_user_define_summary">User defined settings</string>
   <string name="power_dialog_auto_clean_memory_summary">When device is locked, clean up cached processes that are consuming power</string>
   <string name="power_dialog_auto_clean_memory_title">Clean memory automatically</string>
-  <string name="power_dialog_cancel">Cancel</string>
+  <string name="power_dialog_cancel">Άκυρο</string>
   <string name="power_dialog_cpu_state_balance">Balance</string>
   <string name="power_dialog_cpu_state_balance_desc">Only increase CPU performance as needed</string>
   <string name="power_dialog_cpu_state_performance">Performance</string>
@@ -1938,7 +1938,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
   <string name="proxy_warning_limited_support">The HTTP proxy is used by the browser but may not be used by the other apps.</string>
   <string name="quick_clean">Clean up</string>
   <string name="quick_launch_assign_application">Assign app</string>
-  <string name="quick_launch_clear_cancel_button">Cancel</string>
+  <string name="quick_launch_clear_cancel_button">Άκυρο</string>
   <string name="quick_launch_clear_dialog_message">Your shortcut for %1$s (%2$s) will be cleared.</string>
   <string name="quick_launch_clear_dialog_title">Clear</string>
   <string name="quick_launch_clear_ok_button">OK</string>
@@ -1950,10 +1950,10 @@ Note: Apps with the permission may cause system instability, loss of personal da
   <string name="quick_launch_title">Quick launch</string>
   <string name="quick_optimize">Optimize</string>
   <string name="quick_scan_apk_list_item_version_hit">Version: %s</string>
-  <string name="quick_scan_cleaning_title">Cleaning...</string>
-  <string name="quick_scan_doing_title">Scanning...</string>
+  <string name="quick_scan_cleaning_title">Cleaning…</string>
+  <string name="quick_scan_doing_title">Scanning…</string>
   <string name="quick_scan_done_title">Scan completed!</string>
-  <string name="quick_scan_list_loading_hits">Scanning...</string>
+  <string name="quick_scan_list_loading_hits">Scanning…</string>
   <string name="quick_scan_result_summary">Cleaning will start in %d secs</string>
   <string name="quick_scan_result_title">%s items found</string>
   <string name="radioInfo_cid">CID</string>
@@ -1981,7 +1981,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
   <string name="radioInfo_service_out">Out of service</string>
   <string name="radioInfo_unknown">unknown</string>
   <string name="radio_controls_summary">Manage Wi-Fi, Bluetooth, airplane mode, mobile networks, &amp; VPNs</string>
-  <string name="radio_controls_title">More...</string>
+  <string name="radio_controls_title">More…</string>
   <string name="radio_info_band_mode_label">Select radio band</string>
   <string name="radio_info_call_redirect_label">Call redirect:</string>
   <string name="radio_info_call_status_label">Call status:</string>
@@ -2038,7 +2038,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
 
  "</string>
   <string name="reset_app_preferences_title">Reset app preferences?</string>
-  <string name="residual_cancel">Cancel</string>
+  <string name="residual_cancel">Άκυρο</string>
   <string name="residual_clean">Clean</string>
   <string name="residual_tips_hints">%s residual files found</string>
   <string name="restore_default_apn">Restoring default APN settings.</string>
@@ -2071,7 +2071,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
   <string name="save_button">Save</string>
   <string name="scan_done">Scan complete</string>
   <string name="scan_list_label">Scan results:</string>
-  <string name="scanning_virus">Scanning...</string>
+  <string name="scanning_virus">Scanning…</string>
   <string name="score">Score</string>
   <string name="score_good_state">Phone is already optimized</string>
   <string name="score_need_optimize">Optimization recommended</string>
@@ -2176,7 +2176,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
   <string name="select_subscription">Select Subscription</string>
   <string name="service_background_processes">%1$s free</string>
   <string name="service_client_name">%1$s</string>
-  <string name="service_foreground_processes">%1$s used</string>
+  <string name="service_foreground_processes">%1$s σε χρήση</string>
   <string name="service_manage">Setup</string>
   <string name="service_manage_description">%1$s: currently in use. Touch Settings to control it.</string>
   <string name="service_process_name">%1$s</string>
@@ -2235,7 +2235,7 @@ Possibly incorrect PIN."</string>
   <string name="sim_change_succeeded">SIM PIN changed successfully</string>
   <string name="sim_disable_sim_lock">Unlock SIM card</string>
   <string name="sim_enable_sim_lock">Lock SIM card</string>
-  <string name="sim_enter_cancel">Cancel</string>
+  <string name="sim_enter_cancel">Άκυρο</string>
   <string name="sim_enter_new">New SIM PIN</string>
   <string name="sim_enter_ok">OK</string>
   <string name="sim_enter_old">Old SIM PIN</string>
@@ -2259,7 +2259,7 @@ Attempts Remaining :"</string>
   <string name="sim_pins_dont_match">"PINs don't match"</string>
   <string name="sim_reenter_new">Re-type new PIN</string>
   <string name="sim_status_title">SIM status</string>
-  <string name="skip_button_label">Cancel</string>
+  <string name="skip_button_label">Άκυρο</string>
   <string name="skip_label">Skip</string>
   <string name="skip_step">Skip this step</string>
   <string name="slot_status_title">IMEI information</string>
@@ -2287,12 +2287,12 @@ Attempts Remaining :"</string>
   <string name="spellchecker_security_warning">This spell checker may be able to collect all the text you type, including personal data like passwords and credit card numbers. It comes from the app %1$s. Use this spell checker?</string>
   <string name="spellcheckers_settings_title">Spell checker</string>
   <string name="ssid_label">SSID:</string>
-  <string name="start_checking_memory">Checking memory condition...</string>
-  <string name="start_checking_protection">Checking realtime protection...</string>
-  <string name="start_checking_trash">Checking application cache...</string>
-  <string name="start_optimize_memory">Optimizing memory condition...</string>
-  <string name="start_optimize_protection">Optimizing realtime protection...</string>
-  <string name="start_optimize_trash">Optimizing application cache...</string>
+  <string name="start_checking_memory">Checking memory condition…</string>
+  <string name="start_checking_protection">Checking realtime protection…</string>
+  <string name="start_checking_trash">Checking application cache…</string>
+  <string name="start_optimize_memory">Optimizing memory condition…</string>
+  <string name="start_optimize_protection">Optimizing realtime protection…</string>
+  <string name="start_optimize_trash">Optimizing application cache…</string>
   <string name="status_awake_time">Awake time</string>
   <string name="status_bar_settings">Status bar</string>
   <string name="status_bt_address">Bluetooth address</string>
@@ -2623,8 +2623,8 @@ Add a word by touching the Add (+) button"</string>
   <string name="virus_scan_finish_text">OK, the bad stuff is gone!</string>
   <string name="virus_scan_guard_provider_missed">Virus scanner has been compromised. You need to factory reset your phone.</string>
   <string name="virus_scan_installed_package">%s (installed app)</string>
-  <string name="virus_scan_is_cloud_scanning">Scanning MiCloud...</string>
-  <string name="virus_scan_is_scanning">Scanning...</string>
+  <string name="virus_scan_is_cloud_scanning">Scanning MiCloud…</string>
+  <string name="virus_scan_is_scanning">Scanning…</string>
   <string name="virus_scan_judge_is_virus">Check apps for viruses before installation</string>
   <string name="virus_scan_last_risk">Suspicious apps discovered in the most recent scan have not been not removed.</string>
   <string name="virus_scan_last_scan_date">Most recent scan was %d days ago</string>
@@ -2639,14 +2639,14 @@ Add a word by touching the Add (+) button"</string>
   <string name="virus_scan_list_empty_content">No suspicious items detected.</string>
   <string name="virus_scan_list_item_risk">Risk</string>
   <string name="virus_scan_list_item_virus">Virus</string>
-  <string name="virus_scan_list_loading_hits">Scanning...</string>
+  <string name="virus_scan_list_loading_hits">Scanning…</string>
   <string name="virus_scan_monitoring">Install monitor</string>
   <string name="virus_scan_never_scaned">Scan recommended</string>
   <string name="virus_scan_not_found_risk">not found risk</string>
   <string name="virus_scan_not_found_virus">not found virus</string>
   <string name="virus_scan_others_title">Related settings</string>
   <string name="virus_scan_package_label_unknown">unknown</string>
-  <string name="virus_scan_parpare">Starting engine...</string>
+  <string name="virus_scan_parpare">Starting engine…</string>
   <string name="virus_scan_risk_button_name">Risk</string>
   <string name="virus_scan_risk_list_empty">No risks detected.</string>
   <string name="virus_scan_risk_title">%d suspicious apps detected</string>
@@ -2675,7 +2675,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="virus_scanner_provider">Definitions provided by %s</string>
   <string name="virus_scanner_scan">Touch to scan</string>
   <string name="virus_scanner_scanning">Scanning…</string>
-  <string name="virus_scanner_select_Cancel">Cancel</string>
+  <string name="virus_scanner_select_Cancel">Άκυρο</string>
   <string name="virus_scanner_select_OK">OK</string>
   <string name="virus_scanner_select_lib">Select virus definitions</string>
   <string name="virus_scanner_select_multi">Selecting more than one set of definitions will slow down installation and scanning.</string>
@@ -2711,7 +2711,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="volume_ring_mute">Mute ringtone &amp; notifications</string>
   <string name="volume_system_description">System volume, for camera Shutter, Lock screen and Other System Notification</string>
   <string name="volume_voice_description">Voice volume</string>
-  <string name="vpn_cancel">Cancel</string>
+  <string name="vpn_cancel">Άκυρο</string>
   <string name="vpn_configure">Configuration</string>
   <string name="vpn_connect">Connect</string>
   <string name="vpn_connect_to">Connect to %s</string>
@@ -2775,7 +2775,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_advanced_titlebar">Advanced Wi-Fi</string>
   <string name="wifi_api_test">Wi-Fi API</string>
   <string name="wifi_auto_connect">Auto connect</string>
-  <string name="wifi_cancel">Cancel</string>
+  <string name="wifi_cancel">Άκυρο</string>
   <string name="wifi_certificate">Certificate</string>
   <string name="wifi_config_info">Wi-Fi config</string>
   <string name="wifi_connect">Connect</string>
@@ -2797,7 +2797,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_eap_method">EAP method</string>
   <string name="wifi_eap_user_cert">User certificate</string>
   <string name="wifi_empty_list_wifi_off">To see available networks, turn Wi-Fi on.</string>
-  <string name="wifi_empty_list_wifi_on">Searching for Wi-Fi networks...</string>
+  <string name="wifi_empty_list_wifi_on">Searching for Wi-Fi networks…</string>
   <string name="wifi_enable">Enable Wi-Fi</string>
   <string name="wifi_enable_watchdog_service_summary">Avoid poor connections</string>
   <string name="wifi_error">Error</string>
@@ -2816,7 +2816,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_ip_settings_invalid_gateway">Type a valid gateway address.</string>
   <string name="wifi_ip_settings_invalid_ip_address">Type a valid IP address.</string>
   <string name="wifi_ip_settings_invalid_network_prefix_length">Type a network prefix length between 0 and 32.</string>
-  <string name="wifi_ip_settings_menu_cancel">Cancel</string>
+  <string name="wifi_ip_settings_menu_cancel">Άκυρο</string>
   <string name="wifi_ip_settings_menu_save">Save</string>
   <string name="wifi_menu_advanced">Advanced</string>
   <string name="wifi_menu_connect">Connect to network</string>
@@ -2889,7 +2889,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_settings_title">Wi-Fi settings</string>
   <string name="wifi_setup_add_network">Add network</string>
   <string name="wifi_setup_back">Back</string>
-  <string name="wifi_setup_cancel">Cancel</string>
+  <string name="wifi_setup_cancel">Άκυρο</string>
   <string name="wifi_setup_connect">Connect</string>
   <string name="wifi_setup_description_connected">Touch &lt;b&gt;Next&lt;/b&gt;" to continue with setup.
 
@@ -2954,7 +2954,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different Wi-Fi network.</string>
   <string name="wifi_signal">Signal strength</string>
   <string name="wifi_speed">Link speed</string>
   <string name="wifi_ssid">Network SSID</string>
-  <string name="wifi_starting">Turning Wi-Fi on...</string>
+  <string name="wifi_starting">Turning Wi-Fi on…</string>
   <string name="wifi_state_disabled">Disabled</string>
   <string name="wifi_state_disabling">Disabling</string>
   <string name="wifi_state_enabled">Enabled</string>
@@ -2963,7 +2963,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different Wi-Fi network.</string>
   <string name="wifi_state_unknown">Unknown</string>
   <string name="wifi_status">Status</string>
   <string name="wifi_status_test">Wi-Fi status</string>
-  <string name="wifi_stopping">Turning off Wi-Fi...</string>
+  <string name="wifi_stopping">Turning off Wi-Fi…</string>
   <string name="wifi_tether_checkbox_text">Portable Wi-Fi hotspot</string>
   <string name="wifi_tether_configure_ap_text">Set up Wi-Fi hotspot</string>
   <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
@@ -2974,7 +2974,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different Wi-Fi network.</string>
   <string name="wifi_unspecified">(unspecified)</string>
   <string name="wifi_update">Refresh stats</string>
   <string name="wifi_wapi_as_cert">AS Certificate</string>
-  <string name="wifi_wapi_cert_cancel_button">Cancel</string>
+  <string name="wifi_wapi_cert_cancel_button">Άκυρο</string>
   <string name="wifi_wapi_cert_create_subdir">Create a directory</string>
   <string name="wifi_wapi_cert_delet_subdir">Select a suit certificate</string>
   <string name="wifi_wapi_cert_install">Install WAPI Certificate</string>
@@ -3006,7 +3006,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different Wi-Fi network.</string>
   <string name="wifi_wps_onstart_pbc">Press the Wi-Fi Protected Setup button on your router. It may be called \"WPS\" or contain this symbol:</string>
   <string name="wifi_wps_onstart_pin">Enter pin %1$s on your Wi-Fi router. The setup can take up-to two minutes to complete.</string>
   <string name="wifi_wps_overlap_error">Another Wi-Fi protected session was detected. Try again in a few minutes.</string>
-  <string name="wifi_wps_setup_msg">Starting WPS...</string>
+  <string name="wifi_wps_setup_msg">Starting WPS…</string>
   <string name="wifi_wps_setup_title">Wi-Fi WPS Setup</string>
   <string name="wimax_settings">4G settings</string>
   <string name="wimax_settings_summary">Set up &amp; manage 4G network and modem</string>

@@ -81,7 +81,7 @@
     <string name="remind_ringtone">Ringtone</string>
     <string name="keep_screen_on">Keep screen on</string>
     <string name="start_up">Start up</string>
-    <string name="cancel">Cancel</string>
+    <string name="cancel">Άκυρο</string>
     <string name="timer_message_with_hour">%1$d hours and %2$d minutes</string>
     <string name="timer_message">%1$d minutes</string>
     <string name="shutdown_alarm_title">Shutdown alarm</string>

@@ -29,7 +29,7 @@
   <string name="Dashboard_Perm_SU_Switch">ROOT Permission</string>
   <string name="Dashboard_Su_Enable_Content">Enabling it will allow apps to request ROOT permission. Note: Apps with the permission may cause system instability, even loss of personal data, system or hardware damage, please be cautions. Are you sure you wish to enable it?</string>
   <string name="Dashboard_Su_Enable_Title">ROOT Permission</string>
-  <string name="Generic_Canceling">Cancelling...</string>
+  <string name="Generic_Canceling">Cancelling…</string>
   <string name="Generic_Check">Check</string>
   <string name="Generic_Clean">Clean</string>
   <string name="Generic_Configuration">Settings</string>
@@ -39,9 +39,9 @@
   <string name="Generic_Good">Good</string>
   <string name="Generic_HideSystemApp">Hide System Apps</string>
   <string name="Generic_InvalidInput">Invalid input</string>
-  <string name="Generic_Loading">Loading...</string>
+  <string name="Generic_Loading">Loading…</string>
   <string name="Generic_MonitoredApp">Monitored Apps (%1$d)</string>
-  <string name="Generic_Operating">Operating...</string>
+  <string name="Generic_Operating">Operating…</string>
   <string name="Generic_Optimize">Optimize</string>
   <string name="Generic_Service_Disabled">Service is turned off</string>
   <string name="Generic_Service_Enabled">Service is active</string>

@@ -8,9 +8,9 @@
   <string name="aqi_quality_index_light_pollution">Light pollution</string>
   <string name="aqi_quality_index_moderate">Moderate</string>
   <string name="aqi_quality_index_unhealthy">Unhealthy</string>
-  <string name="buffering">Buffering...</string>
-  <string name="cancel_action">Cancel</string>
-  <string name="cancel_btn_label">Cancel</string>
+  <string name="buffering">Buffering…</string>
+  <string name="cancel_action">Άκυρο</string>
+  <string name="cancel_btn_label">Άκυρο</string>
   <string name="cant_remove_folder">Unable to remove non-empty folder</string>
   <string name="cant_remove_retained_app">Unable to uninstall customised application</string>
   <string name="cant_remove_system_app">Unable to remove system application</string>
@@ -48,14 +48,14 @@
   <string name="free_style_edit_tab_widget">Widgets</string>
   <string name="free_style_enter_tip">Slide down with two fingers to switch to MiSpace</string>
   <string name="free_style_exit_tip">Slide up with two fingers to exit MiSpace</string>
-  <string name="free_style_londing_text">Preparing MiSpace...</string>
+  <string name="free_style_londing_text">Preparing MiSpace…</string>
   <string name="gadget_clear_button_label">Task Cleaner</string>
   <string name="gadget_clock_12_label">Clock 2x1</string>
   <string name="gadget_clock_22_label">Clock 2x2</string>
   <string name="gadget_clock_24_label">Clock 4x2</string>
   <string name="gadget_error_text">Problem loading widget</string>
   <string name="gadget_google_search_label">Google Search</string>
-  <string name="gadget_load_error">Widget loading...</string>
+  <string name="gadget_load_error">Widget loading…</string>
   <string name="gadget_photo_22_label">Photoframe 2x2</string>
   <string name="gadget_photo_24_label">Photoframe 4x2</string>
   <string name="gadget_photo_44_label">Photoframe 4x4</string>
@@ -63,7 +63,7 @@
   <string name="gadget_weather_aqi_title">Air quality</string>
   <string name="gadget_weather_download_message">Download package: %1$s. size: %2$s. Please try again after download completes</string>
   <string name="gadget_weather_download_start">start</string>
-  <string name="gadget_weather_download_title">Download</string>
+  <string name="gadget_weather_download_title">Λήψη</string>
   <string name="gadget_weather_downloading">Package is downloading. Please try again download completes</string>
   <string name="gadget_weather_loading">No weather data</string>
   <string name="gadget_weather_low_temp">Low temp</string>
@@ -81,7 +81,7 @@
   <string name="home_indicator">bottom_point</string>
   <string name="install">Install</string>
   <string name="invalid_contact_shortcut">Invalid contact shortcut</string>
-  <string name="loading_desktop">Loading launcher...</string>
+  <string name="loading_desktop">Loading launcher…</string>
   <string name="maml_component_customization_title">Component Settings</string>
   <string name="menu_add">Add</string>
   <string name="menu_back_desktop">Back to home</string>

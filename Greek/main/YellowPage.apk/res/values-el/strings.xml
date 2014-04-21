@@ -73,7 +73,7 @@ Please your check tracking number."</string>
   <string name="navigation_search_automatically_positioned_city">Current city</string>
   <string name="navigation_search_hot_cities">Popular</string>
   <string name="navigation_search_no_city_list">No City data found!</string>
-  <string name="navigation_search_positioning">Locating...</string>
+  <string name="navigation_search_positioning">Locating…</string>
   <string name="navigation_search_positioning_failed">Failed to locate city</string>
   <string name="network_unavaliable">Network unavailable, please check network settings</string>
   <string name="order_empty_hint">No orders</string>
