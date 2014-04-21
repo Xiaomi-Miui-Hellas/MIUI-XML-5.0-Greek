@@ -84,7 +84,7 @@
   <string name="description_direction_left">Slide left for %s.</string>
   <string name="description_direction_up">Slide up for %s.</string>
   <string name="description_target_search">Search</string>
-  <string name="dismount_storage">No</string>
+  <string name="dismount_storage">Όχι</string>
   <string name="dlg_confirm_kill_storage_users_text">If you turn on USB storage, some applications you are using will stop and may be unavailable until you turn off USB storage.</string>
   <string name="dlg_confirm_kill_storage_users_title">Turn on USB storage</string>
   <string name="dlg_error_title">USB operation unsuccessful</string>

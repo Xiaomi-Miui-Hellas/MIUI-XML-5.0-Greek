@@ -372,7 +372,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="prepaid_error_denomination">Select amount</string>
   <string name="prepaid_error_password">Card password invalid.</string>
   <string name="prepaid_number_edit_hint">Number</string>
-  <string name="prepaid_password_edit_hint">Password</string>
+  <string name="prepaid_password_edit_hint">Κωδικός</string>
   <string name="prepaid_picker_hint_1_1">1.</string>
   <string name="prepaid_picker_hint_1_2">Only supports one-time charge;</string>
   <string name="prepaid_picker_hint_2_1">2.</string>
@@ -443,7 +443,7 @@ We will check again within two working days."</string>
   <string name="title_myaccount">My account: %s</string>
   <string name="title_nopassword">"Don't require for small payments"</string>
   <string name="title_nopassword_dialog">Daily limit</string>
-  <string name="title_password">Password</string>
+  <string name="title_password">Κωδικός</string>
   <string name="title_password_threshold">Daily limit = %1$s yuan</string>
   <string name="title_pay_record">Payment records</string>
   <string name="title_recharge">Top up MiCredit</string>

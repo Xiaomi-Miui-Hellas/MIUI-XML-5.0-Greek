@@ -211,11 +211,11 @@ To solve this, you can either clean out old files, or purchase additional storag
   <string name="noRemind">No reminder</string>
   <string name="nobind">No authorised</string>
   <string name="other_settings">Other settings</string>
-  <string name="password">Password</string>
+  <string name="password">Κωδικός</string>
   <string name="prev">Back</string>
   <string name="process_result">Sync details:</string>
   <string name="quick_login_step2_title">Login security</string>
-  <string name="quick_login_title">Password</string>
+  <string name="quick_login_title">Κωδικός</string>
   <string name="reg_by_email_failure">Registration failed: %1$s</string>
   <string name="reg_failed">Registration failed</string>
   <string name="reg_success">Registration complete</string>

@@ -13,8 +13,8 @@
   <string name="app">Start app</string>
   <string name="app_center">App center</string>
   <string name="app_name">PonPonTile</string>
-  <string name="auto_brightness">Auto-brightness</string>
-  <string name="auto_brightness_on_off">Auto-brightness %s</string>
+  <string name="auto_brightness">Αυτόματη φωτεινότητα</string>
+  <string name="auto_brightness_on_off">Αυτόματη φωτεινότητα %s</string>
   <string name="available_networks">Available networks</string>
   <string name="avg_read_tag">Avg reads per day:</string>
   <string name="back_to_home">Back</string>
@@ -104,7 +104,7 @@ touch it with the back of your phone"</string>
   <string name="no_available_networks">No networks available</string>
   <string name="no_available_networks_summary">Try again after connecting to WLAN</string>
   <string name="no_available_xiaomi_shop">Failed to open Xiaomi market</string>
-  <string name="not_save_btn">No</string>
+  <string name="not_save_btn">Όχι</string>
   <string name="notification_value">Notifications %s%%</string>
   <string name="null_task">No tasks</string>
   <string name="off">Off</string>

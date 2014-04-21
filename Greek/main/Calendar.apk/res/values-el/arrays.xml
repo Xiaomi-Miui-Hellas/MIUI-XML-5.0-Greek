@@ -143,7 +143,7 @@
         <item>No response</item>
         <item>Yes</item>
         <item>Maybe</item>
-        <item>No</item>
+        <item>Όχι</item>
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>Only this event</item>

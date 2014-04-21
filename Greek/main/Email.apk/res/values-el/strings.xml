@@ -127,7 +127,7 @@ CC: %4$s
     <string name="account_setup_basics_headline">Email account</string>
     <string name="accounts_welcome">You can set up your account in just a few steps.</string>
     <string name="account_setup_basics_email_label">Email address</string>
-    <string name="account_setup_basics_password_label">Password</string>
+    <string name="account_setup_basics_password_label">Κωδικός</string>
     <string name="account_setup_basics_manual_setup_action">Manual setup</string>
     <string name="account_setup_username_password_toast">Type a valid email address and password.</string>
     <string name="account_duplicate_dlg_title">Duplicate account</string>
@@ -148,7 +148,7 @@ CC: %4$s
     <string name="account_setup_incoming_title">Account setup</string>
     <string name="account_setup_incoming_headline">Incoming server settings</string>
     <string name="account_setup_incoming_username_label">Username</string>
-    <string name="account_setup_incoming_password_label">Password</string>
+    <string name="account_setup_incoming_password_label">Κωδικός</string>
     <string name="account_setup_incoming_server_label">Server</string>
     <string name="account_setup_incoming_port_label">Port</string>
     <string name="account_setup_incoming_security_label">Security type</string>
@@ -169,7 +169,7 @@ CC: %4$s
     <string name="account_setup_outgoing_security_label">Security type</string>
     <string name="account_setup_outgoing_require_login_label">Require signin</string>
     <string name="account_setup_outgoing_username_label">Username</string>
-    <string name="account_setup_outgoing_password_label">Password</string>
+    <string name="account_setup_outgoing_password_label">Κωδικός</string>
     <string name="account_setup_exchange_certificate_title">Client certificate</string>
     <string name="account_setup_exchange_select_certificate">Select</string>
     <string name="account_setup_exchange_use_certificate">Use client certificate</string>
@@ -513,10 +513,10 @@ CC: %4$s
     <string name="message_invite_label_attending">Going?</string>
     <string name="message_invite_accept">Yes</string>
     <string name="message_invite_tentative">Maybe</string>
-    <string name="message_invite_decline">No</string>
+    <string name="message_invite_decline">Όχι</string>
     <string name="enumeration_comma">", "</string>
     <string name="yes">Yes</string>
-    <string name="no">No</string>
+    <string name="no">Όχι</string>
     <string name="ok">ΟΚ</string>
     <string name="cancel">Άκυρο</string>
     <string name="clear">Clear</string>

@@ -69,7 +69,7 @@
     <string name="view_event_response_label">Attending?</string>
     <string name="response_yes">Yes</string>
     <string name="response_maybe">Maybe</string>
-    <string name="response_no">No</string>
+    <string name="response_no">Όχι</string>
     <string name="email_guests_label">Email guests</string>
     <string name="email_picker_label">Email with</string>
     <string name="email_subject_prefix">"Re: "</string>

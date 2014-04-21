@@ -36,7 +36,7 @@
     <string name="resource_download">Λήψη</string>
     <string name="resource_downloading">Downloading</string>
     <string name="resource_waiting_download">Waiting</string>
-    <string name="resource_import_successful">Download complete</string>
+    <string name="resource_import_successful">Λήψη ολοκληρώθηκε</string>
     <string name="resource_import_failed">Import failed</string>
     <string name="resource_delta_update_successful">Update successful</string>
     <string name="resource_delta_update_failed">Update failed: Downloading theme again…</string>

@@ -53,10 +53,10 @@
 "</string>
     <string name="send_button">Send</string>
     <string name="pause_prompt_yes">Yes</string>
-    <string name="pause_prompt_no">No</string>
+    <string name="pause_prompt_no">Όχι</string>
     <string name="wild_prompt_str">Replace wild character with</string>
     <string name="modify_call_prompt_yes">Yes</string>
-    <string name="modify_call_prompt_no">No</string>
+    <string name="modify_call_prompt_no">Όχι</string>
     <string name="modify_call_failure_str">"Modify Call request failed
 "</string>
     <string name="modify_call_option_title">Which type of call?</string>
@@ -553,7 +553,7 @@ Attempts Remaining :"</string>
     <string name="managed_roaming_title_sub3">Managed Roaming (SUB3)</string>
     <string name="managed_roaming_dialog_content">Network with Limited Service found. Do you want to initiate a Network Search?</string>
     <string name="managed_roaming_dialog_ok_button">Yes</string>
-    <string name="managed_roaming_dialog_cancel_button">No</string>
+    <string name="managed_roaming_dialog_cancel_button">Όχι</string>
     <string name="ota_title_activate">Activate your phone</string>
     <string name="ota_touch_activate">"A special call needs to be made to activate your phone service. 
 
@@ -584,7 +584,7 @@ Try again or call customer service for more options."</string>
     <string name="alert_dialog_in_ecm_call">"The selected action isn't available while in an emergency call."</string>
     <string name="progress_dialog_exiting_ecm">Exiting Emergency Callback mode</string>
     <string name="alert_dialog_yes">Yes</string>
-    <string name="alert_dialog_no">No</string>
+    <string name="alert_dialog_no">Όχι</string>
     <string name="alert_dialog_dismiss">Dismiss</string>
     <string name="voicemail_provider">Service</string>
     <string name="voicemail_settings">Setup</string>
@@ -641,7 +641,7 @@ Try again or call customer service for more options."</string>
     <string name="sip_edit_new_title">SIP account details</string>
     <string name="domain_address_title">Server</string>
     <string name="username_title">Username</string>
-    <string name="password_title">Password</string>
+    <string name="password_title">Κωδικός</string>
     <string name="display_name_title">Display name</string>
     <string name="proxy_address_title">Outbound proxy address</string>
     <string name="port_title">Port number</string>

@@ -25,7 +25,7 @@
   <string name="connect_confirm">%1$s is requesting connection</string>
   <string name="connecting">Connecting</string>
   <string name="continue_to_send">Continue sending</string>
-  <string name="defalut_nameofnewfile">New folder</string>
+  <string name="defalut_nameofnewfile">Νέος φάκελος</string>
   <string name="delete">Διαγραφή</string>
   <string name="delete_history_message">Are you sure you want to delete all History?</string>
   <string name="device_default_name">Xiaomi phone</string>
@@ -186,7 +186,7 @@ at [ %1$s ]"</string>
   <string name="summary_step_one">Send pictures, music, contacts and various other files</string>
   <string name="summary_step_two">Invite friends to install MiShare</string>
   <string name="support_tip">MiShare will provide instructions</string>
-  <string name="title_createfolder">New folder</string>
+  <string name="title_createfolder">Νέος φάκελος</string>
   <string name="title_selectfile_num">Selected %s files</string>
   <string name="title_step_one">1. Files can be transferred quickly without using mobile data</string>
   <string name="title_step_three">3. Share files with friends</string>
