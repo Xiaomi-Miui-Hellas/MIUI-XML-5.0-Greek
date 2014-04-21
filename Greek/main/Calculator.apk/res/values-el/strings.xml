@@ -41,7 +41,7 @@
     <string name="factorial">!</string>
     <string name="basic">Basic panel</string>
     <string name="advanced">Advanced panel</string>
-    <string name="clear_history">Clear history</string>
+    <string name="clear_history">>Καθαρισμός ιστορικού</string>
     <string name="text_copied_toast">Text copied.</string>
     <string name="standard">standard</string>
     <string name="scientific">scientific</string>

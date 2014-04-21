@@ -37,7 +37,7 @@
     <string name="select_synced_calendars_title">Calendars to sync</string>
     <string name="select_synced_calendars_button">Calendars to sync</string>
     <string name="hint_what">Event reminder content</string>
-    <string name="hint_where">Location</string>
+    <string name="hint_where">Τοποθεσία</string>
     <string name="hint_description">Description</string>
     <string name="hint_attendees">Guests</string>
     <string name="creating_event">Event created</string>

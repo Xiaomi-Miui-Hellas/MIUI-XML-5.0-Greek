@@ -891,7 +891,7 @@ Choose one of the following options:"</string>
     <string name="preference_contacts_display">Display preferences</string>
     <string name="preference_contacts_more">Organize contacts</string>
     <string name="preference_contacts_filter">Configure contact lists</string>
-    <string name="preference_telocation_title">Location</string>
+    <string name="preference_telocation_title">Τοποθεσία</string>
     <string name="preference_telocation_summary_teloc_on">Show contact location</string>
     <string name="preference_telocation_summary_teloc_off">Hide contact location</string>
     <string name="preference_telocation_summary_countrycode_on">Auto-dial country code</string>
