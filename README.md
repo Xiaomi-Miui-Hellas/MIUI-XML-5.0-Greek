@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/Xiaomi-Miui-Hellas/MIUI-XML-5.0-Greek/master/Greek/main/Browser.apk/assets/quicklinks4-el-rGR/miui-hellas.png "Xiaomi Miui Hellas Logo")
+
 MIUI-XML-5.0-Greek
 ==================
 
