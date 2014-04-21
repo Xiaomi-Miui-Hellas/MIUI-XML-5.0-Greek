@@ -33,7 +33,7 @@
     <string name="callFailed_unobtainable_number">Invalid number</string>
     <string name="confCall">Conference call</string>
     <string name="call_lost">Call has been lost.</string>
-    <string name="callUnanswered_forwarded">Call Unanswered sjhdjskdjhskjhdk hsand Forwarded</string>
+    <string name="callUnanswered_forwarded">Call Unanswered and Forwarded</string>
     <string name="retry">Retry</string>
     <string name="call_lost_title">Call Lost</string>
     <string name="ok">OK</string>
