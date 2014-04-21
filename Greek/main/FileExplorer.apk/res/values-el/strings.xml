@@ -101,7 +101,7 @@
     <string name="operation_download_link">Generate download link</string>
     <string name="ui_filechange_btn_download">Download files</string>
     <string name="show_message">You need to download this file before you can open it.</string>
-    <string name="ui_main_progress_txt_open_file">Downloading…</string>
+    <string name="ui_main_progress_txt_open_file">Λαμβάνει…</string>
     <string name="networkView_notConnected">No network available.</string>
     <string name="ui_main_toast_favorite_removed">Unstarred</string>
     <string name="ui_main_toast_operation_failed">Failed to unstar %1$s</string>
@@ -215,7 +215,7 @@ Free space added %1$s"</string>
     <string name="transing">Sending…</string>
     <string name="finished">Complete</string>
     <string name="uploading">Uploading…</string>
-    <string name="downloading">Downloading…</string>
+    <string name="downloading">Λαμβάνει…</string>
     <string name="waiting">Waiting…</string>
     <string name="wait_wifi">Waiting for WLAN…</string>
     <string name="wait_net">Waiting for the network…</string>

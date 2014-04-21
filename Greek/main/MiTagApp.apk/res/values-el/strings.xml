@@ -21,7 +21,7 @@
   <string name="bluetooth">Bluetooth</string>
   <string name="body_characters">%d/650</string>
   <string name="brightness">Brightness</string>
-  <string name="btn_install">Install</string>
+  <string name="btn_install">Εγκατάσταση</string>
   <string name="btn_start">Start</string>
   <string name="btn_write">Write</string>
   <string name="bump_erase">"To erase a tag,
@@ -55,7 +55,7 @@ touch it with the back of your phone"</string>
   <string name="detect_empty_tag">Empty tag detected</string>
   <string name="detect_tag">Tag detected</string>
   <string name="dialog_select_account">Select account</string>
-  <string name="diselect_all">Deselect all</string>
+  <string name="diselect_all">Αποεπιλογή όλων</string>
   <string name="display">Display</string>
   <string name="disturb_mode">Do not disturb</string>
   <string name="edit_tag">Edit</string>

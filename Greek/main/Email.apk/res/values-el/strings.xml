@@ -402,7 +402,7 @@ CC: %4$s
     <string name="reply">Reply</string>
     <string name="reply_all">Reply all</string>
     <string name="resume_draft">Edit</string>
-    <string name="forward">Forward</string>
+    <string name="forward">Προώθηση</string>
     <string name="menu_compose">Compose</string>
     <string name="menu_change_folders">Change folders</string>
     <string name="menu_move_to">Move to</string>
@@ -463,7 +463,7 @@ CC: %4$s
     <string name="contextmenu_help">Help</string>
     <string name="contextmenu_feedback">Send feedback</string>
     <string name="str_select_all">Select all</string>
-    <string name="str_select_none">Deselect all</string>
+    <string name="str_select_none">Αποεπιλογή όλων</string>
     <string name="content_description">%1$s about %2$s, %3$s on %4$s, %5$s</string>
     <string name="content_description_today">%1$s about %2$s, %3$s at %4$s, %5$s</string>
     <string name="read_string">conversation read</string>
@@ -709,7 +709,7 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
     <string name="att_mgr_no_attachment">No attachments!</string>
     <string name="zip_viewer_no_file">No files!</string>
     <string name="sharing">Share</string>
-    <string name="forward_attachment">Forward</string>
+    <string name="forward_attachment">Προώθηση</string>
     <string name="sort_attachment">Sort by</string>
     <string name="search_attachment">Search</string>
     <string name="select_no_file">No selected attachment to share</string>

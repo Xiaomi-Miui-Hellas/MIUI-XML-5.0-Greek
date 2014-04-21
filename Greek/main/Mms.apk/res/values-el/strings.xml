@@ -175,7 +175,7 @@
   <string name="menu_compose_new">Compose</string>
   <string name="menu_delete_messages">Delete messages</string>
   <string name="menu_edit">Επεξεργασία</string>
-  <string name="menu_forward">Forward</string>
+  <string name="menu_forward">Προώθηση</string>
   <string name="menu_lock">Lock</string>
   <string name="menu_new_manual">Enter number manually</string>
   <string name="menu_pick_from_contact">Select from contacts</string>
@@ -272,7 +272,7 @@
   <string name="pref_advanced_settings_title">Advanced settings</string>
   <string name="pref_collapse_sp_messages_summary">Combine service provider message into same entry</string>
   <string name="pref_edit_smsc_address">SMS centre number</string>
-  <string name="pref_forward_title">Forward</string>
+  <string name="pref_forward_title">Προώθηση</string>
   <string name="pref_key_mx_feedback">Submit feedback</string>
   <string name="pref_messages_to_save">Set number of messages to save</string>
   <string name="pref_mms_settings_title">Multimedia message (MMS) settings</string>

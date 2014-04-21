@@ -33,7 +33,7 @@
   <string name="failed_to_drop">Failed to move!</string>
   <string name="failed_to_drop_widget_invalid">Invalid Widget</string>
   <string name="failed_to_drop_widget_nospace">Failed to move, not enough space!</string>
-  <string name="folder_name">Folder</string>
+  <string name="folder_name">Φάκελος</string>
   <string name="frame_load_failed">Invalid photo frame, failed to load frame!</string>
   <string name="free_style_apps_title">Select application</string>
   <string name="free_style_drawer_title">All applications</string>
@@ -79,7 +79,7 @@
   <string name="guide_install_app_title">Install app</string>
   <string name="guide_tips_editing_mode">Hold widget below to drag it onto the screen</string>
   <string name="home_indicator">bottom_point</string>
-  <string name="install">Install</string>
+  <string name="install">Εγκατάσταση</string>
   <string name="invalid_contact_shortcut">Invalid contact shortcut</string>
   <string name="loading_desktop">Loading launcher…</string>
   <string name="maml_component_customization_title">Component Settings</string>

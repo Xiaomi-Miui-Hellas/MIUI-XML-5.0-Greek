@@ -996,7 +996,7 @@ Try again or call customer service for more options."</string>
     <string name="manage_fdn_list_sum_miui">Manage your Fixed Dialing Numbers list</string>
     <string name="menu_select_title">%d selected</string>
     <string name="menu_select_all">Select all</string>
-    <string name="menu_deselect_all">Deselect all</string>
+    <string name="menu_deselect_all">Αποεπιλογή όλων</string>
     <string name="mismatch_pin2_miui">"PIN2s don't match"</string>
     <string name="mismatch_pin_miui">"PINs don't match"</string>
     <string name="mobile_networks_miui">Mobile networks</string>
@@ -1068,7 +1068,7 @@ Your SIM card will be erased after another failed attempt."</string>
     <string name="set_smsc_address_error_miui">Failed to set number</string>
     <string name="set_smsc_address_timeout_miui">Connection timed out</string>
     <string name="set_smsc_address_title_miui">Set SMS center number</string>
-    <string name="sim_contact_dropdown_menu_deselect_all_miui">Deselect all</string>
+    <string name="sim_contact_dropdown_menu_deselect_all_miui">Αποεπιλογή όλων</string>
     <string name="sim_contact_dropdown_menu_select_all_miui">Select all</string>
     <string name="sim_contact_name_miui">Name</string>
     <string name="sim_contact_number_miui">Number</string>

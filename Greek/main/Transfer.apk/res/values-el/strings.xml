@@ -71,7 +71,7 @@
   <string name="get_share_failed">Failed to share!</string>
   <string name="goback">Go back</string>
   <string name="guide_label">Transfer guide</string>
-  <string name="hint_createfolder">Folder name</string>
+  <string name="hint_createfolder">Όνομα φακέλου</string>
   <string name="history">Transfer history</string>
   <string name="history_all">All history</string>
   <string name="history_receive">Received history</string>
@@ -196,7 +196,7 @@ at [ %1$s ]"</string>
   <string name="trans_paused">Transfer paused</string>
   <string name="transfer_history">Transfer history</string>
   <string name="trasfer_list">Transfer list</string>
-  <string name="unselect_all">Deselect all</string>
+  <string name="unselect_all">Αποεπιλογή όλων</string>
   <string name="upload_complete">%1$s | %2$s Completed</string>
   <string name="upload_failed_msg">Failed to upload file!</string>
   <string name="use_start">Start now</string>

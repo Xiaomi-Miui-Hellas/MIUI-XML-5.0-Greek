@@ -536,7 +536,7 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="change_password">Change password</string>
   <string name="change_security_lock">More screen locks</string>
   <string name="check_all">Select all</string>
-  <string name="check_nothing">Deselect all</string>
+  <string name="check_nothing">Αποεπιλογή όλων</string>
   <string name="checkbox_notification_same_as_incoming_call">Use incoming call volume for notifications</string>
   <string name="checking">Checking…</string>
   <string name="choose_timezone">Choose time zone</string>
@@ -1178,7 +1178,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="license_title">License</string>
   <string name="link_speed_label">Link speed:</string>
   <string name="list_sub_view_item_clean">Clean</string>
-  <string name="list_sub_view_item_install">Install</string>
+  <string name="list_sub_view_item_install">Εγκατάσταση</string>
   <string name="list_sub_view_item_lock">Locked</string>
   <string name="list_sub_view_item_unlock">Unlocked</string>
   <string name="list_sub_view_item_view">Detail</string>
@@ -2978,7 +2978,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different Wi-Fi network.</string>
   <string name="wifi_wapi_cert_create_subdir">Create a directory</string>
   <string name="wifi_wapi_cert_delet_subdir">Select a suit certificate</string>
   <string name="wifi_wapi_cert_install">Install WAPI Certificate</string>
-  <string name="wifi_wapi_cert_install_button">Install</string>
+  <string name="wifi_wapi_cert_install_button">Εγκατάσταση</string>
   <string name="wifi_wapi_cert_mgmt_as_dont_exist">AS certificate not found, please check and try again</string>
   <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">The AS certificate format is wrong! Please install right as certificate</string>
   <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Please input the AS certificate name</string>
