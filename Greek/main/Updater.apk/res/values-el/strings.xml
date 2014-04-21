@@ -149,7 +149,7 @@
   <string name="update_comment_title">Τα σχόλια σας</string>
   <string name="update_feedback">Four-grid Update Feedback</string>
   <string name="update_feedback_expired">"It's a shame that you missed the Update Feedback! Please submit poll again next Tuesday"</string>
-  <string name="update_feel">1. Πώς νιώθετε;</string>
+  <string name="update_feel">1. Πώς νιώθετε?</string>
   <string name="update_general">Όχι άσχημα</string>
   <string name="update_happy">Χαρούμενος/η</string>
   <string name="update_monthly_build_only">Αναβάθμιση σε μηνιαία έκδοση μόνο</string>
@@ -166,7 +166,7 @@
   <string name="view_install_log">Εμφάνιση αρχείου καταγραφής σφάλματος</string>
   <string name="view_upgrade_tutorial">Εμφάνιση οδηγού</string>
   <string name="weekly_build">Εβδομαδιαία έκδοση</string>
-  <string name="wifi_not_available_body">Προτείνεται να χρησιμοποιήσετε Wi-Fi για να κάνετε λήψη των αναβαθμίσεων μια και τα τα αρχεία ενδέχεται να είναι μεγάλα σε μέγεθος. Δεν χρησιμοποιείτε Wi-Fi αυτή τη στιγμή, είστε σίγουροι ότι θέλετε να συνεχίσετε;</string>
+  <string name="wifi_not_available_body">Προτείνεται να χρησιμοποιήσετε Wi-Fi για να κάνετε λήψη των αναβαθμίσεων μια και τα τα αρχεία ενδέχεται να είναι μεγάλα σε μέγεθος. Δεν χρησιμοποιείτε Wi-Fi αυτή τη στιγμή, είστε σίγουροι ότι θέλετε να συνεχίσετε?</string>
   <string name="wifi_not_available_title">Δεν υπάρχει Wi-Fi σύνδεση</string>
   <string name="worst_update">3. Η χειρότερη αναβάθμιση</string>
 </resources>
