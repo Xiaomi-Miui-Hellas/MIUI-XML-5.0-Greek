@@ -428,11 +428,11 @@
   <string name="pref_privacy_clear_cookies_dlg">Διαγραφή όλων των cookies?</string>
   <string name="pref_privacy_clear_cookies_summary">Καθαρισμός όλων των cookies του πλοηγού</string>
   <string name="pref_privacy_clear_form_data">Καθαρισμός δεδομένων φορμών</string>
-  <string name="pref_privacy_clear_form_data_dlg">Delete all saved form data?</string>
-  <string name="pref_privacy_clear_form_data_summary">Clear all saved form data</string>
+  <string name="pref_privacy_clear_form_data_dlg">>Διαγραφή όλων των αποθηκευμένων δεδομένων φορμών?<?</string>
+  <string name="pref_privacy_clear_form_data_summary">Καθαρισμός όλων των αποθηκευμένων δεδμένων φορμών</string>
   <string name="pref_privacy_clear_geolocation_access">Καθαρισμός πρόσβασης τοποθεσίας</string>
-  <string name="pref_privacy_clear_geolocation_access_dlg">Clear website location access?</string>
-  <string name="pref_privacy_clear_geolocation_access_summary">Clear location access for all websites</string>
+  <string name="pref_privacy_clear_geolocation_access_dlg">Καθαρισμός πρόσβασης τοποθεσίας από σελίδες?</string>
+  <string name="pref_privacy_clear_geolocation_access_summary">Καθαρισμός πρόσβασης τοποθεσίας από όλες τις σελίδες</string>
   <string name="pref_privacy_clear_history">Clear history</string>
   <string name="pref_privacy_clear_history_by_group_dlg">Delete browsing history?</string>
   <string name="pref_privacy_clear_history_dlg">Delete history?</string>
