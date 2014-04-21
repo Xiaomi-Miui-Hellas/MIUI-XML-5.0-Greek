@@ -110,7 +110,7 @@
   <string name="spaceIsLow_content">Τελειώνει ο διαθέσιμος χώρος στην κάρτα SD σας. Αλλάξτε την ποιότητα ή διαγράψτε μερικές φωτογραφίες ή άλλα αρχεία.</string>
   <string name="stat_notif_frequency">: %1$s MHz</string>
   <string name="stat_notif_tx_frequency">FM Μετάδοση σε: %1$s</string>
-  <string name="station_check_favorite">Προσθήκη σε αγαπημένα</string>
+  <string name="station_check_favorite">Προσθήκη στους σελιδοδείκτες</string>
   <string name="station_edit">Επεξεργασία</string>
   <string name="station_freq_format">%sMHz</string>
   <string name="station_move">Μετακίνηση</string>
