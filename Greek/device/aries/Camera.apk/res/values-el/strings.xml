@@ -125,8 +125,8 @@
   <string name="launch_market">Εκκίνηση app store</string>
   <string name="launch_qq">Εκκίνηση QQ</string>
   <string name="launch_wechat">Εκκίνηση WeChat</string>
-  <string name="loading">Φορτώνει...</string>
-  <string name="loading_video">Φορτώνει βίντεο...</string>
+  <string name="loading">Φορτώνει…</string>
+  <string name="loading_video">Φορτώνει βίντεο…</string>
   <string name="location">Τοποθεσία</string>
   <string name="locations">Τοποθεσίες</string>
   <string name="maker">Δημιουργός</string>
@@ -148,7 +148,7 @@
   <string name="pano_how_to_use_prompt">Ακουμπήστε το κουμπί κλείστρου για να τραβήξετε φωτογραφία πανόραμα.</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Συνεχίστε να κινείτε τη συσκευή</string>
   <string name="pano_how_to_use_prompt_to_move">Μετακινείτε την συσκευή απαλότερα</string>
-  <string name="pano_review_saving_indication_str">Αποθηκεύει...</string>
+  <string name="pano_review_saving_indication_str">Αποθηκεύει…</string>
   <string name="pano_too_fast_prompt">Κινείστε πολύ γρήγορα</string>
   <string name="path">Path</string>
   <string name="people">Άτομα</string>
@@ -389,7 +389,7 @@
   <string name="pref_video_time_lapse_frame_interval_entry_90">3 δευτερόλεπτα διαφορά (90 φορές)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">30 δευτερόλεπτα διαφορά (900 φορές)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Διαφορά time lapse</string>
-  <string name="preparing_sd">Προετοιμασία εσωτερικής μνήμης...</string>
+  <string name="preparing_sd">Προετοιμασία εσωτερικής μνήμης…</string>
   <string name="qq_details">Πληροφορίες QQ:</string>
   <string name="qr_code_details">"Πληροφορίες QR κωδικού: "</string>
   <string name="record_back_pressed_hint">Ακουμπήστε ξανά για να σταματήσει η εγγραφή</string>
@@ -455,7 +455,7 @@
   <string name="video_snapshot_hint">Λήψη φωτογραφίας κατά την διάρκεια εγγραφής βίντεο απλά πατώντας στην οθόνη προεπισκόπισης.</string>
   <string name="videocamera_settings_label">Ρυθμίσεις βίντεο</string>
   <string name="visit_cloud_album">Επίσκεψη άλμπουμ σύννεφου</string>
-  <string name="wait">Παρακαλώ περιμένετε...</string>
+  <string name="wait">Παρακαλώ περιμένετε…</string>
   <string name="web_url_apk_warning">Ο επιλεγμένος QR κωδικός περιέχει μια εφαρμογή που ενδέχεται να προκαλέσει προβλήματα, παρακαλώ αναζητήστε την εφαρμογή από το PlayStore</string>
   <string name="web_url_warning">Ο QR κωδικός για σελίδα ενδέχεται να προκαλέσει προβλήματα, ο MIUI browser θα αναλύσει τον QR κωδικό για την ασφάλειά σας.</string>
   <string name="website_details">"Πληροφορίες σελίδας: "</string>
@@ -466,7 +466,7 @@
   <string name="wifi_connect_fail">Το χρονικό όριο σύνδεσης σε δίκτυο Wi-Fi έληξη ή υπάρχει σφάλμα</string>
   <string name="wifi_connect_not_found">"Δεν βρέθηκε Wi-Fi δίκτυο"</string>
   <string name="wifi_connect_success">Επιτυχής σύνδεση σε δίκτυο Wi-Fi</string>
-  <string name="wifi_connecting">Wi-Fi συνδέεται...</string>
+  <string name="wifi_connecting">Wi-Fi συνδέεται…</string>
   <string name="wifi_details">Πληροφορίες δικτύου Wi-Fi:</string>
   <string name="wifi_open_fail">Αδύνατο το άνοιγμα δικτύου Wi-Fi</string>
   <string name="wifi_pwd">Κωδικός:</string>

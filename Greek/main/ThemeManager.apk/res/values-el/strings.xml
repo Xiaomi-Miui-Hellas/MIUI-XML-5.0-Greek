@@ -15,7 +15,7 @@
   <string name="backup_theme_dialog_message">"Backup the current theme to %1$s"</string>
   <string name="backup_theme_dialog_ok">Backup</string>
   <string name="backup_theme_name">My backup</string>
-  <string name="backup_theme_progress_message">Backing up theme files, please wait...</string>
+  <string name="backup_theme_progress_message">Backing up theme files, please wait…</string>
   <string name="backup_theme_success_message">Theme backup successful</string>
   <string name="basic_info">Basic info</string>
   <string name="change_wallpaper">Wallpaper</string>
@@ -26,7 +26,7 @@
   <string name="component_select_title">Selected %1$s components</string>
   <string name="component_settings_title">Customize theme</string>
   <string name="default_name">Default</string>
-  <string name="deleting">Deleting...</string>
+  <string name="deleting">Deleting…</string>
   <string name="description_author">Author:</string>
   <string name="description_designer">Designer:</string>
   <string name="description_download">Download:</string>
@@ -41,9 +41,9 @@
   <string name="download_success">Download complete!</string>
   <string name="fail_to_add_account">Failed to add account</string>
   <string name="live_wallpaper">Live wallpaper</string>
-  <string name="loading">Φορτώνει...</string>
+  <string name="loading">Φορτώνει…</string>
   <string name="loading_resource_detail_fail">Failed to load resource!</string>
-  <string name="loading_resource_detail_info">Loading...</string>
+  <string name="loading_resource_detail_info">Loading…</string>
   <string name="lockscreen_wallpaper">Lock screen</string>
   <string name="lockstyle_personal_settings">Customization</string>
   <string name="long_ringtone_resource">Long</string>
@@ -93,7 +93,7 @@
   <string name="resource_comment_publish">Submit</string>
   <string name="resource_comment_rate">Rating:</string>
   <string name="resource_comment_score_count">%1$s users</string>
-  <string name="resource_comment_sending">Sending comment...</string>
+  <string name="resource_comment_sending">Sending comment…</string>
   <string name="resource_comment_title">Comments: %1$s</string>
   <string name="resource_comment_upload_data_invalid">Sorry, comment is invalid</string>
   <string name="resource_comment_upload_failed">Failed to send comment</string>
@@ -140,11 +140,11 @@
   <string name="resource_exchange_wrong_format_by_local">Invalid code entered</string>
   <string name="resource_exchange_wrong_format_by_server">Code could not be validated. Please check your code and try again.</string>
   <string name="resource_expand_full_text">Εμφάνιση</string>
-  <string name="resource_get_auth_checking">Checking authorisation...</string>
+  <string name="resource_get_auth_checking">Checking authorisation…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Theme cannot run on the current device. You have reached the maximum of 10 Xiaomi accounts. Please try another account.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Authorisation limit reached!</string>
   <string name="resource_get_auth_missing">Theme was not downloaded from theme market, please download from official theme market.</string>
-  <string name="resource_get_auth_retrieving">Retrieving authorisation...</string>
+  <string name="resource_get_auth_retrieving">Retrieving authorisation…</string>
   <string name="resource_hint">Alert</string>
   <string name="resource_import_failed">Import failed</string>
   <string name="resource_import_successful">Λήψη ολοκληρώθηκε</string>
@@ -199,7 +199,7 @@
   <string name="resource_unknow_error">Unknown error occurred.</string>
   <string name="resource_update">Update</string>
   <string name="resource_user_know">OK</string>
-  <string name="resource_waiting_download">Waiting to download...</string>
+  <string name="resource_waiting_download">Waiting to download…</string>
   <string name="restore_default_theme_alert">You may be a victim of theme counterfeiting, please browse the theme market to purchase or re-download.</string>
   <string name="sdcard_not_mounted_dialog_message">"SD card not available, please add one now."</string>
   <string name="sdcard_not_mounted_dialog_title">SD card not detected</string>
@@ -214,7 +214,7 @@
   <string name="theme_batch_updating_text">%1$d themes are being updated</string>
   <string name="theme_changed_failed_message">Failed to apply %1$s theme.</string>
   <string name="theme_changed_message">Successfully applied %1$s.</string>
-  <string name="theme_changing_dialog_title">Applying theme, please wait...</string>
+  <string name="theme_changing_dialog_title">Applying theme, please wait…</string>
   <string name="theme_component_title_alarm">Alarm</string>
   <string name="theme_component_title_alarmstyle">Alarm style</string>
   <string name="theme_component_title_all">Theme</string>
@@ -253,7 +253,7 @@
   <string name="to_activate_the_account">Please activate your Xiaomi account</string>
   <string name="wallpaper_crop">Crop</string>
   <string name="wallpaper_decoded_error">Failed to decode</string>
-  <string name="wallpaper_loading_text">Loading...</string>
+  <string name="wallpaper_loading_text">Loading…</string>
   <string name="wallpaper_set_as_both">Set as both</string>
   <string name="wallpaper_set_as_destop">Ορισμός ως φόντο</string>
   <string name="wallpaper_set_as_lockscreen">Set as lock screen</string>

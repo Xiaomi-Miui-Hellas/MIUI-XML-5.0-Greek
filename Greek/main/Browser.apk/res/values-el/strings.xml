@@ -164,16 +164,16 @@
   <string name="download_dialog_file_length_nolength_error_txt">Αποτυχία υπολογισμού μεγέθους αρχείου</string>
   <string name="download_dialog_file_length_nolength_txt">Υπολογισμός μεγέθους αρχείου</string>
   <string name="download_failed">Αποτυχία λήψης</string>
-  <string name="download_no_sdcard_dlg_msg">USB storage is required to download %s.</string>
-  <string name="download_no_sdcard_dlg_title">USB storage unavailable</string>
-  <string name="download_pending">Starting download...</string>
+  <string name="download_no_sdcard_dlg_msg">Απαιτείται αποθηκευτικό μέσο USB για λήψη %s.</string>
+  <string name="download_no_sdcard_dlg_title">Αποθηκευτικό μέσο USB μη διαθέσιμο</string>
+  <string name="download_pending">Starting download…</string>
   <string name="download_sdcard_busy_dlg_msg">The USB storage is busy. To allow downloads, touch Turn Off USB Storage in the notification.</string>
-  <string name="download_sdcard_busy_dlg_title">USB storage unavailable</string>
+  <string name="download_sdcard_busy_dlg_title">Αποθηκευτικό μέσο USB μη διαθέσιμο</string>
   <string name="download_video_alert_message">Downloading videos over your current network may significantly increase your mobile data usage.</string>
   <string name="download_video_alert_title">Download alert</string>
   <string name="download_video_menu_dialog_positive_txt">Install</string>
   <string name="download_video_menu_dialog_summary">MIUI Video is required before using this function</string>
-  <string name="download_video_menu_dialog_title">Installing...</string>
+  <string name="download_video_menu_dialog_title">Installing…</string>
   <string name="download_video_menu_video_version_low">You need to the update MiuiVideo.</string>
   <string name="download_video_no_title_default_name">Unnamed video</string>
   <string name="download_video_please_download_market">Please install MiApps before using this function.</string>
@@ -181,7 +181,7 @@
   <string name="download_video_start_down_toast">Download %1$s video(s)</string>
   <string name="download_video_unseleted_all">Deselect all</string>
   <string name="downloaded">Downloaded!</string>
-  <string name="downloading">Downloading...</string>
+  <string name="downloading">Downloading…</string>
   <string name="dump_counters">Dump V8 counters</string>
   <string name="dump_display_tree">Dump display tree to file</string>
   <string name="dump_dom_tree">Dump DOM tree to file</string>
@@ -398,7 +398,7 @@
   <string name="pref_general_sync_title">Sync</string>
   <string name="pref_general_title">General</string>
   <string name="pref_gesture_title">Gestures</string>
-  <string name="pref_images_preload_dialogtitle">Images preloading...</string>
+  <string name="pref_images_preload_dialogtitle">Images preloading…</string>
   <string name="pref_images_preload_summary">" Allow browser to preload images when supported by server"</string>
   <string name="pref_images_preload_title">Preload images</string>
   <string name="pref_images_preload_value_always_summary">Always Allow browser to preload images when supported by server</string>
@@ -467,7 +467,7 @@
   <string name="pref_ua_title">User agent management</string>
   <string name="pref_use_instant_search">Google instant search</string>
   <string name="pref_use_instant_search_summary">Use Google instant search to show results as you type (this may increase data usage).</string>
-  <string name="pref_video_preload_dialogtitle">Video preloading...</string>
+  <string name="pref_video_preload_dialogtitle">Video preloading…</string>
   <string name="pref_video_preload_summary">Allow browser to preload video when server supports it</string>
   <string name="pref_video_preload_title">Preload videos</string>
   <string name="pref_video_preload_value_never_summary">Never allow browser to preload videos</string>
@@ -489,7 +489,7 @@
   <string name="readmode_login">Account login</string>
   <string name="readmode_login_message">Subsequent chapters require log in before reading can be enabled</string>
   <string name="readmode_page_load_error">Failed to load page, please click Refresh to try again</string>
-  <string name="readmode_page_loading">Loading, please wait...</string>
+  <string name="readmode_page_loading">Loading, please wait…</string>
   <string name="readmode_pay">Subscribe to chapter</string>
   <string name="readmode_pay_message">Subsequent chapters require subscription before reading can be enabled</string>
   <string name="readmode_reach_last_page">Last page has been reached</string>

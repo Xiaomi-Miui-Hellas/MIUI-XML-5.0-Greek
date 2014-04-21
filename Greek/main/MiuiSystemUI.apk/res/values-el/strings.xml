@@ -137,7 +137,7 @@
   <string name="notification_icon_filter_mode_white_list">Whitelist</string>
   <string name="notification_icon_filter_other_list">Application list</string>
   <string name="notification_icon_filter_settings">Notifications</string>
-  <string name="notification_icon_filter_settings_loading">Loading, please wait...</string>
+  <string name="notification_icon_filter_settings_loading">Loading, please wait…</string>
   <string name="notification_icon_filter_show">Show notifications in status bar</string>
   <string name="notification_icon_filter_summary">Disabling this option will make notifications of all apps show in the upper left of status bar.</string>
   <string name="notification_icon_filter_title">Hide notification</string>
@@ -177,9 +177,9 @@
   <string name="screenshot_saved_text">Touch to view your screenshot.</string>
   <string name="screenshot_saved_title">Screenshot captured.</string>
   <string name="screenshot_saving_text">Screenshot is being saved.</string>
-  <string name="screenshot_saving_ticker">Saving screenshot...</string>
-  <string name="screenshot_saving_title">Saving screenshot...</string>
-  <string name="settings_all_app_display_loading">Loading, please wait...</string>
+  <string name="screenshot_saving_ticker">Saving screenshot…</string>
+  <string name="screenshot_saving_title">Saving screenshot…</string>
+  <string name="settings_all_app_display_loading">Loading, please wait…</string>
   <string name="settings_custom_notification">Custom notification Settings</string>
   <string name="settings_expandable_under_fullscreen">Expandable on full-screen</string>
   <string name="settings_expandable_under_fullscreen_summary">by sliding down from the top of screen</string>
@@ -197,7 +197,7 @@
   <string name="settings_toggle">Toggles</string>
   <string name="settings_toggle_collapse_after_clicked">Collapse when clicked</string>
   <string name="settings_toggle_layout_style">Toggle layout style</string>
-  <string name="settings_toggle_layout_style_applying">Changing toggle style...</string>
+  <string name="settings_toggle_layout_style_applying">Changing toggle style…</string>
   <string name="settings_toggle_layout_style_compact">Compact</string>
   <string name="settings_toggle_layout_style_single_page">Page</string>
   <string name="settings_toggle_position">"Customize toggles' position"</string>

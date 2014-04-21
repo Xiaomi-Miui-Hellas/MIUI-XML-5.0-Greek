@@ -24,11 +24,11 @@
   <string name="check_update">Έλεγχος για αναβάθμιση</string>
   <string name="check_update_policy">Έλεγχος για αναβαθμίσεις</string>
   <string name="check_update_when_wifi_available">Μόνο με Wi-Fi</string>
-  <string name="checking_for_updates">Έλεγχος για αναβαθμίσεις...</string>
+  <string name="checking_for_updates">Έλεγχος για αναβαθμίσεις…</string>
   <string name="choose_recommend">Παρακαλώ επιλέξτε πότε να προτείνεται</string>
   <string name="comment_invalid">Αγγίξτε τα αστέρια για να δώσετε μια βαθμολογία</string>
   <string name="comment_publish">Υποβολή</string>
-  <string name="comment_sending">Αποστολή σχολίου...</string>
+  <string name="comment_sending">Αποστολή σχολίου…</string>
   <string name="comment_upload_failed">Αποτυχία αποστολής σχολίου</string>
   <string name="comment_upload_hint">Ευχαριστούμε για τα σχόλιά σας</string>
   <string name="comment_upload_not_logined">Εισέλθετε πριν αποστείλετε σχόλια</string>
@@ -43,7 +43,7 @@
   <string name="download_current_rom">Λήψη της τελευταίας ROM</string>
   <string name="download_ota_rom">Λήψη της ΟΤΑ (%s)</string>
   <string name="download_whole_rom">Λήψη της ROM (%s)</string>
-  <string name="downloading_description">Λήψη...</string>
+  <string name="downloading_description">Λήψη…</string>
   <string name="edit_comment">Προσθήκη σχολίου</string>
   <string name="edit_comment_title">Επεξεργασία σχολίου</string>
   <string name="edit_text_default">Γράψε ένα σχόλιο</string>
@@ -125,7 +125,7 @@
   <string name="sign_in_info_rank_more">"Η κατάταξη αναβάθμισής σας είναι μετά %1$s Πάνω από %2$s χρήστες έχουν εγγραφεί στο MIUI %3$s"</string>
   <string name="sign_in_info_total_more">"Η κατάταξη αναβάθμισής σας είναι μετά %1$s Πάνω από %2$s χρήστες έχουν εγγραφεί στο MIUI %3$s"</string>
   <string name="sina_share_fail">Η αποστολή απέτυχε!</string>
-  <string name="sina_share_pendding">Αποστολή...</string>
+  <string name="sina_share_pendding">Αποστολή…</string>
   <string name="sina_share_success">Στάλθηκε επιτυχώς!</string>
   <string name="sina_token_expired_warning">Ο Weibo λογαριασμός σας έχει λήξει, παρακαλώ επανασυνδεθείτε</string>
   <string name="sina_token_invalid_warning">Ο Weibo λογαριασμός σας δεν είναι σωστός, παρακαλώ επανασυνδεθείτε</string>
@@ -133,7 +133,7 @@
   <string name="start_update">Έναρξη αναβάθμισης</string>
   <string name="submit">Υποβολή</string>
   <string name="submit_fail">Αποτυχία υποβολής</string>
-  <string name="submit_progress">Υποβολή...</string>
+  <string name="submit_progress">Υποβολή…</string>
   <string name="submit_success">Υποβλήθηκε επιτυχώς, ευχαριστούμε!</string>
   <string name="system_backup_apply_helper">Η συσκευή θα επανεκκινήσει αυτόματα για να γίνει εφαρμογή της αναβάθμισης</string>
   <string name="system_backup_ask">Ρώτα ξανά</string>
@@ -161,7 +161,7 @@
   <string name="upgrade_close">Κλείσιμο</string>
   <string name="upgrade_kernel">Ο τρέχων πυρήνας χρειάζεται αναβάθμιση</string>
   <string name="upgrade_kernel_msg">"Η τρέχουσα έκδοση του πυρήνα δεν ταιριάζει με την MIUI ROM. Χρειάζετε να αναβαθμίσετε τον πυρήνα χειροκίνητα. Παρακαλώ παραπεμφθείτε στον οδηγό αναβάθμισης:"</string>
-  <string name="verify_and_apply_dialog_message">Επαλήθευση MD5 checksum...</string>
+  <string name="verify_and_apply_dialog_message">Επαλήθευση MD5 checksum…</string>
   <string name="verify_and_apply_dialog_title">Έλεγχος πληρότητας αρχείου</string>
   <string name="view_install_log">Εμφάνιση αρχείου καταγραφής σφάλματος</string>
   <string name="view_upgrade_tutorial">Εμφάνιση οδηγού</string>

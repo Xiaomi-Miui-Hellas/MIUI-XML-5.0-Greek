@@ -50,7 +50,7 @@
   <string name="earphone">Earphone</string>
   <string name="input_phone">Input phone</string>
   <string name="long_click">Press and hold</string>
-  <string name="no_usage">...</string>
+  <string name="no_usage">…</string>
   <string name="rank_prefix">"Rank: "</string>
   <string name="rank_suffix">points</string>
   <string name="recommend">Recommend</string>

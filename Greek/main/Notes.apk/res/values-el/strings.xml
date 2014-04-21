@@ -71,7 +71,7 @@
   <string name="notealert_enter">Take a look</string>
   <string name="notealert_ok">Got it</string>
   <string name="notelist_menu_new">Add note</string>
-  <string name="notelist_string_info">...</string>
+  <string name="notelist_string_info">…</string>
   <string name="notify_alarm_action_mute">Mute</string>
   <string name="notify_alarm_action_view">View</string>
   <string name="notify_alarm_title">Alarm reminder</string>
@@ -88,7 +88,7 @@
   <string name="preferences_title">Settings</string>
   <string name="search">Notes</string>
   <string name="search_hint">Search notes</string>
-  <string name="search_label">Searching notes...</string>
+  <string name="search_label">Searching notes…</string>
   <string name="search_setting_description">Search for text within notes</string>
   <string name="select_account_prompt">Enable note synchronisation</string>
   <string name="snippet_image_stub">[Image]</string>

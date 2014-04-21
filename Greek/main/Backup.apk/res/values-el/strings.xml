@@ -13,7 +13,7 @@
   <string name="auto_backup_date">Συχνότητα (σε μέρες)</string>
   <string name="auto_backup_only_wifi">Αυτόματα αντίγραφα μόνο όταν υπάρχει σύνδεση Wi-Fi</string>
   <string name="auto_backup_open">Ενεργοποίηση αυτόματου αντιγράφου</string>
-  <string name="auto_backup_progress">Εκτέλεση αυτόματου αντιγράφου παρακαλώ περιμένετε ...</string>
+  <string name="auto_backup_progress">Εκτέλεση αυτόματου αντιγράφου παρακαλώ περιμένετε …</string>
   <string name="auto_backup_select_user_apps">Επιλογή εφαρμογών</string>
   <string name="auto_backup_selected_user_apps">Επιλεγμένες εφαρμογές</string>
   <string name="auto_backup_setting">Ρυθμίσεις αυτόματου αντιγράφου</string>
@@ -33,7 +33,7 @@
   <string name="backup_items_app_tailer">"  Δεδομένα εφαρμογών "</string>
   <string name="backup_items_sysdata_tailer">"  Δεδομένα συστήματος, "</string>
   <string name="backup_new">Νέο:</string>
-  <string name="backup_progress">Αντιγραφή...</string>
+  <string name="backup_progress">Αντιγραφή…</string>
   <string name="backup_recently">"  (Τελευταίο) "</string>
   <string name="backup_report">Προβολή λεπτομερειών</string>
   <string name="backup_update">Ενημέρωση</string>
@@ -57,11 +57,11 @@
 Ok για ακύρωση της διαδικασίας"</string>
   <string name="cloud_app_backup_cancel_prompt_title">Ακύρωση Αντιγραφής</string>
   <string name="cloud_app_backup_date">"Αντιγράφηκε την "</string>
-  <string name="cloud_app_backup_pending">Σε αναμονή...</string>
-  <string name="cloud_app_backup_progress">Δημιουργία αντιγράφων...</string>
+  <string name="cloud_app_backup_pending">Σε αναμονή…</string>
+  <string name="cloud_app_backup_progress">Δημιουργία αντιγράφων…</string>
   <string name="cloud_app_backup_summary">Αυτόματα αντίγραφα ασφαλείας εφαρμογών και δεδομένων χρήστη όταν η συσκευή φορτίζει και είναι συνδεδεμένη σε δίκτυο Wi-Fi</string>
   <string name="cloud_app_backup_title">Αντίγραφο MiCloud</string>
-  <string name="cloud_app_check_data">Αναζήτηση δεδομένων από το MiCloud...</string>
+  <string name="cloud_app_check_data">Αναζήτηση δεδομένων από το MiCloud…</string>
   <string name="cloud_app_check_data_fail">Αποτυχία εύρεσης δεδομένων από το MiCloud</string>
   <string name="cloud_app_check_data_timeout">Αδυναμία αναζήτησης δεδομένων από το MiCloud</string>
   <string name="cloud_app_current_device">Τρέχουσα συσκευή</string>
@@ -75,7 +75,7 @@ Ok για ακύρωση της διαδικασίας"</string>
   <string name="cloud_app_invalid_op">"Δεν μπορείτε να δείτε τα δεδομένα στο cloud κατά την διάρκεια της αντιγραφής ή της ανάκτησης."</string>
   <string name="cloud_app_invalid_op_when_removing">"Δεν μπορείτε να δείτε τα δεδομένα στο MiCloud κατά την διάρκεια της διαγραφής!"</string>
   <string name="cloud_app_just_show_in_current_device">Εμφάνιση μόνο των εφαρμογών που είναι στη συσκευή</string>
-  <string name="cloud_app_load_data">Αναζήτηση λίστας αντιγράφων δεδομένων...</string>
+  <string name="cloud_app_load_data">Αναζήτηση λίστας αντιγράφων δεδομένων…</string>
   <string name="cloud_app_load_data_timeout">Τέλος χρόνου αναζήτησης από το MiCloud</string>
   <string name="cloud_app_loading_with_mobile_network_prompt">"Θα γίνει χρήση δεδομένων κινητής τηλεφωνίας. Θέλετε να συνεχίσετε?"</string>
   <string name="cloud_app_mine">Κατεβασμένες εφαρμογές</string>
@@ -90,8 +90,8 @@ Ok για ακύρωση της διαδικασίας"</string>
 για ακύρωση"</string>
   <string name="cloud_app_remove_cancel_prompt_title">Σταμάτημα διαγραφής</string>
   <string name="cloud_app_remove_error">Αποτυχία διαγραφής!</string>
-  <string name="cloud_app_remove_pending">Αναμονή διαγραφής...</string>
-  <string name="cloud_app_remove_progress">Διαγραφή...</string>
+  <string name="cloud_app_remove_pending">Αναμονή διαγραφής…</string>
+  <string name="cloud_app_remove_progress">Διαγραφή…</string>
   <string name="cloud_app_remove_prompt">%1$s από δεδομένα θα διαγραφεί. Θέλετε να συνεχίσετε?</string>
   <string name="cloud_app_restore_action_bar_title">%1$s από τα δεδομένα έχει αντιγραφεί</string>
   <string name="cloud_app_restore_app_and_data">Ανάκτηση δεδομένων και εφαρμογών</string>
@@ -102,8 +102,8 @@ to cancel restore"</string>
   <string name="cloud_app_restore_data">Ανάκτηση εφαρμογών που προηγουμένως εγκαταστάθηκαν</string>
   <string name="cloud_app_restore_data_title">Ανάκτηση δεδομένων χρήστη</string>
   <string name="cloud_app_restore_error">Αποτυχία ανάκτησης!</string>
-  <string name="cloud_app_restore_pending">Αναμονή για ολοκλήρωση ανάκτησης...</string>
-  <string name="cloud_app_restore_progress">Ανάκτηση...</string>
+  <string name="cloud_app_restore_pending">Αναμονή για ολοκλήρωση ανάκτησης…</string>
+  <string name="cloud_app_restore_progress">Ανάκτηση…</string>
   <string name="cloud_app_restore_prompt">Η ανάκτηση θα επικαλύψει τα τοπικά σας δεδομένα και τις εφαρμογές με αυτά που υπάρχουν στο Cloud.</string>
   <string name="cloud_app_restore_query_error_prompt">"Αποτυχία λήψης δεδομένων από το MiCloud. Οι εφαρμογές και τα δεδομένα θα ανακτηθούν αυτόματα όταν η συσκευή θα μπορέσει να συνδεθεί."</string>
   <string name="cloud_app_restore_success">Οι εφαρμογές ανακτήθηκαν!</string>
@@ -189,7 +189,7 @@ to cancel restore"</string>
   <string name="restore_failed">Η επαναφορά απέτυχε!</string>
   <string name="restore_finished">Η επαναφορά ολοκληρώθηκε</string>
   <string name="restore_launcher_layout_hit">(Σημείωση: αποθήκευση θέσης εικονιδίων)</string>
-  <string name="restore_progress">Επαναφορά...</string>
+  <string name="restore_progress">Επαναφορά…</string>
   <string name="restore_report">Αναφορά επαναφοράς</string>
   <string name="restore_telephony_hit">(Σημείωση: Η διαδικασία ανάκαμψης θα επανεκκινήσει την εφαρμογή του τηλεφώνου)</string>
   <string name="retry">Επανάληψη</string>
@@ -217,7 +217,7 @@ to cancel restore"</string>
   <string name="succeed">Επιτυχής δημιουργία αντιγράφων</string>
   <string name="system_backup">Αντίγραφα</string>
   <string name="system_backup_info">Ρυθμίσεις συστήματος, διάταξη επιφ. εργασίας κτλ.</string>
-  <string name="task_backup_cancel_progress">Ακύρωση αντιγράφου...</string>
+  <string name="task_backup_cancel_progress">Ακύρωση αντιγράφου…</string>
   <string name="task_backup_finished_local">Το αντίγραφο δημιουργήθηκε</string>
   <string name="task_canceled">Ακυρώθηκε</string>
   <string name="task_canceled_all_local">Ακύρωση διεργασίας</string>
@@ -233,7 +233,7 @@ to cancel restore"</string>
   <string name="task_pre_running">Προετοιμασία</string>
   <string name="task_progress">Πρόοδος</string>
   <string name="task_restore_cancel_dialog">Η επαναφορά δεν ολοκληρώθηκε, η ακύρωση ίσως επιφέρει απώλεια δεδομένων</string>
-  <string name="task_restore_cancel_progress">Ακύρωση...</string>
+  <string name="task_restore_cancel_progress">Ακύρωση…</string>
   <string name="task_restore_finished_local">Δεν υπάρχει ανάγκη για επαναφορά</string>
   <string name="task_restore_none">Restore not needed</string>
   <string name="task_running_backup_dialog">Η διαδικασία αντιγραφής είναι σε εξέλιξη, δείτε την πατώντας OK.</string>

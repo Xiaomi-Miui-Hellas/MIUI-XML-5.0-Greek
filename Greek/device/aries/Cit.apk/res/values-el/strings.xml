@@ -31,10 +31,10 @@
   <string name="cit_bluetooth_address_open_error">Αδύνατη λήψη πληροφοριών Bluetooth address</string>
   <string name="cit_bluetooth_not_support">Το τηλέφωνο δεν υποστηρίζει Bluetooth συσκευή</string>
   <string name="cit_bluetooth_scan_retry">Σάρωση ξανά</string>
-  <string name="cit_bluetooth_scanning">Αναζήτηση για συσκευές Bluetooth...</string>
+  <string name="cit_bluetooth_scanning">Αναζήτηση για συσκευές Bluetooth…</string>
   <string name="cit_bluetooth_scanning_bluetooth_done">Σάρωση ολοκληρώθηκε</string>
   <string name="cit_bluetooth_scanning_bluetooth_error">Συνέβει σφάλμα στο άνοιγμα Bluetooth συσκευών</string>
-  <string name="cit_bluetooth_scanning_opening_bluetooth">Άνοιγμα Bluetooth συσκευών...</string>
+  <string name="cit_bluetooth_scanning_opening_bluetooth">Άνοιγμα Bluetooth συσκευών…</string>
   <string name="cit_button_light_off">Απενεργοποίηση φωτός στο κουμπί</string>
   <string name="cit_button_light_on">Ενεργοποίηση φωτός στο κουμπί</string>
   <string name="cit_calibration_fail">Η βαθμονόμηση απέτυχε</string>
@@ -61,7 +61,7 @@
   <string name="cit_fm_not_supported">Το FM Ράδιο δεν υποστηρίζεται από την συσκευή σας</string>
   <string name="cit_fm_open_1">FM - 88.5</string>
   <string name="cit_fm_open_2">FM - 107.9</string>
-  <string name="cit_fm_open_bluetooth">Bluetooth ενεργοποιείται...</string>
+  <string name="cit_fm_open_bluetooth">Bluetooth ενεργοποιείται…</string>
   <string name="cit_fm_start_service">Ενεργοποίηση Ράδιο</string>
   <string name="cit_front_camera_check_summary">"Στάδια δοκιμής:
 1. Κλικ στο κουμπί τις κάμερας για να ανοίξετε την κάμερα συστήματος
@@ -128,7 +128,7 @@
   <string name="cit_pass">Pass</string>
   <string name="cit_play_sd_mp3_summary">Η δοκιμή θα αναπαράγει το music.mp3 που βρίσκεται στο γονικό φάκελο της κάρτας SD</string>
   <string name="cit_play_sd_mp3_title">Δοκιμή αναπαραγωγής MP3</string>
-  <string name="cit_playing_sd_mp3">αναπαράγεται το music.mp3...</string>
+  <string name="cit_playing_sd_mp3">αναπαράγεται το music.mp3…</string>
   <string name="cit_pointer_location_title">Δοκιμή Οθόνης Αφής</string>
   <string name="cit_power_check_summary">Η δοκιμή θα εμφανίσει το διαθέσιμο υπόλοιπο μπαταρίας</string>
   <string name="cit_power_check_title">Δοκιμή Ενέργειας</string>
@@ -178,7 +178,7 @@
   <string name="cit_tool_log_bugreport">Αναφορά Bug</string>
   <string name="cit_tool_log_dmesg">DMESG</string>
   <string name="cit_tool_log_file_not_exist">%s δεν υπάρχει</string>
-  <string name="cit_tool_log_generate_bugreport">Παράγεται αναφορά bug...</string>
+  <string name="cit_tool_log_generate_bugreport">Παράγεται αναφορά bug…</string>
   <string name="cit_tool_log_kmsg">Τελευταίο αργείο καταγραφής kernel</string>
   <string name="cit_tool_log_logcat">Αρχείκο καταγραφής ADB</string>
   <string name="cit_tool_log_modem">Αρχείο καταγραφής Modem</string>
@@ -266,7 +266,7 @@
   <string name="cit_wifi_ap_scan_check_summary">Η δοκιμή θα εμφανίσει μια λίστα με όλα τα διαθέσιμα Wi-Fi access points</string>
   <string name="cit_wifi_ap_scan_check_title">Δοκιμή έρευνας Wi-Fi access point</string>
   <string name="cit_wifi_ap_scan_retry">Σαρώστε ξανά</string>
-  <string name="cit_wifi_ap_scanning">Αναζήτηση για Access points...</string>
+  <string name="cit_wifi_ap_scanning">Αναζήτηση για Access points…</string>
   <string name="cit_wifi_fail_to_scan">Αδύνατη εύρεση κάποιου δικτύου Wi-Fi</string>
   <string name="cit_wifi_state_refresh">Ανανέωση</string>
 </resources>

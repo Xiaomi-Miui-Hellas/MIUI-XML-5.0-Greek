@@ -625,7 +625,7 @@ Try again or call customer service for more options."</string>
     <string name="alert_dialog_ok">OK</string>
     <string name="close_profile">Close</string>
     <string name="primary_account_summary_with">Primary account. %s</string>
-    <string name="registration_status_checking_status">Checking status...</string>
+    <string name="registration_status_checking_status">Checking status…</string>
     <string name="registration_status_registering">Registering…</string>
     <string name="registration_status_still_trying">Still trying…</string>
     <string name="registration_status_not_receiving">Not receiving calls.</string>
@@ -687,7 +687,7 @@ Try again or call customer service for more options."</string>
     <string name="respond_via_sms_canned_response_2">"I'll call you right back."</string>
     <string name="respond_via_sms_canned_response_3">"I'll call you later."</string>
     <string name="respond_via_sms_canned_response_4">"Can't talk now. Call me later?"</string>
-    <string name="respond_via_sms_custom_message">Write your own...</string>
+    <string name="respond_via_sms_custom_message">Write your own…</string>
     <string name="respond_via_sms_setting_title">Quick responses</string>
     <string name="respond_via_sms_setting_title_2">Edit quick responses</string>
     <string name="respond_via_sms_setting_summary" />
@@ -744,7 +744,7 @@ Try again or call customer service for more options."</string>
     <string name="sub_1">SUB 1</string>
     <string name="sub_2">SUB 2</string>
     <string name="sub_3">SUB 3</string>
-    <string name="set_uicc_subscription_progress">Set subscription in progress...</string>
+    <string name="set_uicc_subscription_progress">Set subscription in progress…</string>
     <string name="set_sub_success">Set subscription success</string>
     <string name="set_sub_failed">Set subscription failed</string>
     <string name="set_sub_1">Subscription 1:</string>

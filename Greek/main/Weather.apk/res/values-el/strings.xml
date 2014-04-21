@@ -10,10 +10,10 @@
   <string name="act_find_city_null_data">Κανένα αποτέλεσμα.</string>
   <string name="act_find_city_title">Προσθήκη τοποθεσίας</string>
   <string name="act_init_dialog_finish">Παγκόσμιες πληροφορίες καιρού προστέθηκαν.</string>
-  <string name="act_set_city_find_side">Εύρεση πόλης...</string>
+  <string name="act_set_city_find_side">Εύρεση πόλης…</string>
   <string name="act_set_city_find_side_error">Αποτυχία εύρεσης.</string>
   <string name="act_set_city_find_side_on">Άνοιγμα τοποθεσίας</string>
-  <string name="act_set_city_re_find_side">Εντοπισμός...</string>
+  <string name="act_set_city_re_find_side">Εντοπισμός…</string>
   <string name="act_weather_aqi_share">Διαμοιρασμός</string>
   <string name="act_weather_aqi_title">Ευρετήριο ποιότητας αέρα</string>
   <string name="act_weather_cycle_link_china">Κινέζικο δίκτυο καιρού</string>
@@ -64,7 +64,7 @@
   <string name="format_date_week">EEE</string>
   <string name="format_date_wmd">M/d EEE</string>
   <string name="install_tencent">Λήψη εφαρμογής Weibo</string>
-  <string name="loading_weather">Φόρτωση καιρού...</string>
+  <string name="loading_weather">Φόρτωση καιρού…</string>
   <string name="local_city">Τοπικές πόλεις</string>
   <string name="location_allow_err">Αποτυχία εντοπισμού.</string>
   <string name="location_management">Τοποθεσίες</string>
@@ -78,7 +78,7 @@
   <string name="menu_more">Λεπτομέρειες</string>
   <string name="menu_notification">Ειδοποιήσεις</string>
   <string name="menu_reload">Ανανέωση</string>
-  <string name="menu_reloading">Ενημέρωση...</string>
+  <string name="menu_reloading">Ενημέρωση…</string>
   <string name="menu_send_sms">Αποστολή</string>
   <string name="menu_settings">Ρυθμίσεις</string>
   <string name="menu_share">Διαμοιρασμός</string>
@@ -108,7 +108,7 @@
 Σημερινός %1$s's καιρός is %2$s, %3$s, %4$s. %5$s."</string>
   <string name="share_weather_title">Διαμοιρασμός πληροφοριών καιρού</string>
   <string name="sina_share_fail">Η αποστολή απέτυχε!</string>
-  <string name="sina_share_pendding">Αποστολή...</string>
+  <string name="sina_share_pendding">Αποστολή…</string>
   <string name="sina_share_success">Διαμοιράστηκε επιτυχώς!</string>
   <string name="sina_token_expired_warning">Ο Weibo λογαριασμός έχει λήξει, παρακαλώ επανασυνδεθείτε</string>
   <string name="sina_token_invalid_warning">Ο Weibo λογαριασμός είναι λανθασμένος, παρακαλώ δοκιμάστε ξανά</string>

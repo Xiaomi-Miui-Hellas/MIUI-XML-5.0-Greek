@@ -2,7 +2,7 @@
 <resources>
   <string name="activate">Ενεργοποίηση</string>
   <string name="activate_fail_notification_title">Παρακαλώ ενεργοποιήστε ξανά την υπηρεσία συγχρονισμού Xiaomi</string>
-  <string name="activating">Ενεργοποίηση...</string>
+  <string name="activating">Ενεργοποίηση…</string>
   <string name="alarm_message_12_hour_formate">aah:mm</string>
   <string name="alwaysUsePrompt">Ορισμός ως προεπιλογή (καμία ερώτηση την επόμενη φορά)</string>
   <string name="android_lockscreen_glogin_instructions">Για ξεκλείδωμα εισέλθετε στο λογαριασμό σας</string>
@@ -278,7 +278,7 @@
   <string name="experimental_validate">Validate</string>
   <string name="experimental_validate_fail">Validation failed, please try again</string>
   <string name="experimental_validate_password">Password</string>
-  <string name="experimental_validate_progress">Validating...</string>
+  <string name="experimental_validate_progress">Validating…</string>
   <string name="experimental_validate_thanks">Ευχαριστούμε!</string>
   <string name="experimental_validate_username">Xiaomi ID</string>
   <string name="experimental_validate_warning">Your every exploration helps MIUI become better!</string>
@@ -413,7 +413,7 @@ Try again in %d seconds."</string>
   <string name="puk_operation_failed">PUK operation failed.</string>
   <string name="reboot_confirm">Phone will be restarted</string>
   <string name="reboot_confirm_title">Are you sure you want to restart your phone?</string>
-  <string name="reboot_progress">Restarting...</string>
+  <string name="reboot_progress">Restarting…</string>
   <string name="retrocession_day"/>
   <string name="return_to_me_message">Please return to owner.</string>
   <string name="reverse_all">Clear all</string>
