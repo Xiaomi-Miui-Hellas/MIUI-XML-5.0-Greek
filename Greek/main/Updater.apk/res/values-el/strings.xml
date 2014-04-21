@@ -52,8 +52,6 @@
   <string name="expect">4. Προσδοκίες</string>
   <string name="experimental_build">Πειραματική έκδοση</string>
   <string name="confirm_download_cancelation_dialog_message">Είστε σίγουροι ότι θέλετε να ακυρώσετε την τρέχουσα λήψη?</string>
-  <string name="current_version_text">Τρέχουσα έκδοση </string>
-  <string name="edit_comment_title">Τροποποίηση σχολίου</string>
   <string name="file_not_found_error_message">Το ζητούμενο αρχείο δεν βρέθηκε στον διακομιστή</string>
   <string name="finish">Τέλος</string>
   <string name="finish_download">Η λήψη ολοκληρώθηκε</string>
