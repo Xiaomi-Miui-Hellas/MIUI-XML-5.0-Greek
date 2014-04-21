@@ -72,7 +72,7 @@
   <string name="menu_save_station_presets">Προσθήκη σε σταθμούς</string>
   <string name="menu_scan_for_preset">Αναζήτηση για σταθμούς</string>
   <string name="menu_scan_start">Αναζήτηση σταθμών</string>
-  <string name="menu_scan_stop">Τέλος αναζήτησης</string>
+  <string name="menu_scan_stop">Τέλος Αναζήτησης</string>
   <string name="menu_select_station">Επιλέξτε σταθμό</string>
   <string name="menu_settings">Ρυθμίσεις</string>
   <string name="menu_sleep">Xρονοδιακόπτης ύπνου</string>
