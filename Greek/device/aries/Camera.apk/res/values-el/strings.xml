@@ -192,7 +192,7 @@
   <string name="pref_camera_contrast_entry_level7">Επίπεδο 7</string>
   <string name="pref_camera_contrast_entry_level8">Επίπεδο 8</string>
   <string name="pref_camera_contrast_entry_level9">Επίπεδο 9</string>
-  <string name="pref_camera_contrast_title">Κοντράστ</string>
+  <string name="pref_camera_contrast_title">Αντίθεση</string>
   <string name="pref_camera_current_k_value">Τρέχουσα τιμή</string>
   <string name="pref_camera_default_suffix">" (προκαθορισμένο)"</string>
   <string name="pref_camera_denoise_title">Λειτουργία Αποθορύβησης</string>

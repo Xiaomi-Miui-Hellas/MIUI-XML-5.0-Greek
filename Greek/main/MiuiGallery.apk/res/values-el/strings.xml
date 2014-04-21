@@ -122,7 +122,7 @@ friends."</string>
   <string name="context_menu_add_contact">Add to contacts</string>
   <string name="context_menu_copy">Αντιγραφή</string>
   <string name="context_menu_copy_notice">Selection copied to clipboard</string>
-  <string name="contrast">Contrast</string>
+  <string name="contrast">Αντίθεση</string>
   <string name="create_new_cloud_folder">Create new Cloud folder</string>
   <string name="crop">Crop</string>
   <string name="crop_fail_to_load_image">Failed to load image for crop.</string>
