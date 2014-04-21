@@ -285,7 +285,7 @@ Next period starts in %2$d days (%3$s)"</string>
     <string name="bf_news_settings">Business and Financial News</string>
     <string name="sports_news_settings">Sports News</string>
     <string name="entertainment_news_settings">Entertainment News</string>
-    <string name="enable_disable_local">Local</string>
+    <string name="enable_disable_local">Τοπικά</string>
     <string name="local_enable">Local news enabled</string>
     <string name="local_disable">Local news disabled</string>
     <string name="enable_disable_regional">Regional</string>
@@ -435,7 +435,7 @@ Next period starts in %2$d days (%3$s)"</string>
     <string name="pin2_attempts">"
 Attempts Remaining :"</string>
     <string name="pin2_unblocked">PIN2 Unblocked!</string>
-    <string name="doneButton">Done</string>
+    <string name="doneButton">Έγινε</string>
     <string name="caller_manage_header">Conference call %s</string>
     <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
     <string name="fake_phone_activity_infoText_text">Incoming phone number</string>
@@ -576,7 +576,7 @@ Try again or call customer service for more options."</string>
     <string name="ota_spc_failure">EXCESS SPC FAILURES</string>
     <string name="ota_call_end">Back</string>
     <string name="ota_try_again">Try again</string>
-    <string name="ota_next">Next</string>
+    <string name="ota_next">Επόμενο</string>
     <string name="ecm_exit_dialog">EcmExitDialog</string>
     <string name="phone_entered_ecm_text">Entered Emergency Callback Mode</string>
     <string name="phone_in_ecm_notification_title">Emergency Callback Mode</string>

@@ -10,7 +10,7 @@
         <item>SIP Phone</item>
         <item>Birthday</item>
         <item>Website</item>
-        <item>Address</item>
+        <item>Διεύθυνση</item>
         <item>Note</item>
     </string-array>
     <string-array name="font_size_names">

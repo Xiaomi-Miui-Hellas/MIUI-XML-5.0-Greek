@@ -77,7 +77,7 @@ touch it with the back of your phone"</string>
   <string name="error_password">Error password</string>
   <string name="failed_install">Failed to install</string>
   <string name="help_title">Help</string>
-  <string name="hint_input_address">Address</string>
+  <string name="hint_input_address">Διεύθυνση</string>
   <string name="hint_input_alarm_label">Enter alarm label</string>
   <string name="hint_input_message">Message</string>
   <string name="hint_input_phone">Enter phone number</string>

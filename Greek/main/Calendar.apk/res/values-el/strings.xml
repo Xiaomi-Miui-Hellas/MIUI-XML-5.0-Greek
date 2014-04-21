@@ -92,7 +92,7 @@
     <string name="edit_event_label">Details</string>
     <string name="edit_label">Edit</string>
     <string name="delete_label">Delete</string>
-    <string name="save_label">Done</string>
+    <string name="save_label">Έγινε</string>
     <string name="discard_label">Άκυρο</string>
     <string name="snooze_all_label">Snooze all</string>
     <string name="dismiss_all_label">Dismiss all</string>
@@ -267,5 +267,5 @@
     <string name="more_string">+%1$s</string>
     <string name="copy_email">Copy email address</string>
     <string name="copy_number">Copy phone number</string>
-    <string name="done">Next</string>
+    <string name="done">Επόμενο</string>
 </resources>

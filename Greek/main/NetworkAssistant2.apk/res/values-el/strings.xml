@@ -160,7 +160,7 @@ Used"</string>
   <string name="traffic_none">None</string>
   <string name="traffic_protection_data_usage_summary">"Usage in excess of your carrier plan's data limits can result in steep overage charges."</string>
   <string name="traffic_protection_label">Data usage warning</string>
-  <string name="traffic_protection_next">Next</string>
+  <string name="traffic_protection_next">Επόμενο</string>
   <string name="traffic_protection_summary">Set alerts for when your data usage reaches a certain level</string>
   <string name="traffic_protection_text_hint">Set a data usage limit</string>
   <string name="traffic_protection_unknown">&lt;u&gt;Set up later&lt;/u&gt;</string>

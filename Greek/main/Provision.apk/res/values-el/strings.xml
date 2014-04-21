@@ -5,7 +5,7 @@
   <string name="default_gprs_sim_name">Please input \"%s\" data plan limits</string>
   <string name="input_method">Input method</string>
   <string name="input_method_category">Select default input method</string>
-  <string name="next">Next</string>
+  <string name="next">Επόμενο</string>
   <string name="other_service_google_location">Google Location service</string>
   <string name="other_service_google_location_use">Location &amp; Google search</string>
   <string name="other_service_google_location_use_help">"Allow Google's location service to collect anonymous location data. Collection will occur even when no applications are running. To adjust this setting, go to Settings &gt; Location services"</string>

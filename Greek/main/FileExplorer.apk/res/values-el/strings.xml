@@ -254,13 +254,13 @@ Free space added %1$s"</string>
     <string name="header_text_scanning">Scanning…</string>
     <string name="header_text_scanned">Scan complete</string>
     <string name="header_text_cleaning">Cleaning…</string>
-    <string name="header_text_cleaned">Done</string>
+    <string name="header_text_cleaned">Έγινε</string>
     <string name="waiting_for_cleaning">Waiting…</string>
     <string name="item_name">Unnamed folder</string>
     <string name="waiting_for_scanning">Waiting…</string>
     <string name="scanned">Scan completed</string>
     <string name="cleaning">Cleaning…</string>
-    <string name="cleaned">Done</string>
+    <string name="cleaned">Έγινε</string>
     <string name="cleanup_stopped">Cleanup stopped</string>
     <string name="temp_file_title">Temporary files</string>
     <string name="thumbnail_title">Thumbnails</string>
@@ -282,7 +282,7 @@ Free space added %1$s"</string>
     <string name="app_garbage_path">Location:</string>
     <string name="give_up_cleaning">Άκυρο</string>
     <string name="restart_cleaning">Restart</string>
-    <string name="cleanup_complete">Done</string>
+    <string name="cleanup_complete">Έγινε</string>
     <string name="count_down_time">Starting in %d seconds</string>
     <string name="cancel_with_count_down">Cancel (%d)</string>
     <string name="garbage_size_metric">"Trash %s
