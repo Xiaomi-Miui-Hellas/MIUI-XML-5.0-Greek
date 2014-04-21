@@ -457,9 +457,9 @@ CC: %4$s
     <string name="contextmenu_dial_dot">Κλήση…</string>
     <string name="contextmenu_sms_dot">SMS…</string>
     <string name="contextmenu_add_contact">Προσθήκη επαφής</string>
-    <string name="contextmenu_send_mail">Send email</string>
-    <string name="contextmenu_map">Map</string>
-    <string name="contextmenu_sharelink">Share link</string>
+    <string name="contextmenu_send_mail">Αποστολή email</string>
+    <string name="contextmenu_map">Χάρτης</string>
+    <string name="contextmenu_sharelink">Διαμοιρασμός συνδέσμου</string>
     <string name="contextmenu_help">Help</string>
     <string name="contextmenu_feedback">Send feedback</string>
     <string name="str_select_all">Select all</string>

@@ -311,7 +311,7 @@
         <item>Device connected</item>
     </string-array>
     <string-array name="wifi_ap_security">
-        <item>Open</item>
+        <item>Άνοιγμα</item>
         <item>WPA PSK</item>
         <item>WPA2 PSK</item>
     </string-array>

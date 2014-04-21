@@ -45,7 +45,7 @@
     <string name="pause_download">Pause</string>
     <string name="resume_download">Resume</string>
     <string name="restart_download">Restart</string>
-    <string name="open_download">Open</string>
+    <string name="open_download">Άνοιγμα</string>
     <string name="paused_by_app">Paused manually</string>
     <string name="paused_queued_for_wifi">Waiting for WLAN connection</string>
     <string name="paused_waiting_for_network">Waiting for network connection</string>

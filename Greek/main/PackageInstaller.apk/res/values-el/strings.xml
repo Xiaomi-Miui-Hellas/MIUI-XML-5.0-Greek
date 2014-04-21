@@ -31,7 +31,7 @@
   <string name="install_failed_verify_failed">The package did not pass verification and cannot be installed.</string>
   <string name="install_failed_verify_timeout">A timeout occurred while trying to verify this package. Please try to install it again later.</string>
   <string name="installing">Installing...</string>
-  <string name="launch">Open</string>
+  <string name="launch">Άνοιγμα</string>
   <string name="lift_ban">Lift ban</string>
   <string name="low_risk_perms">Low-risk Permissions</string>
   <string name="manage_applications">Manage applications</string>
@@ -46,7 +46,7 @@
   <string name="perm_notice">Alert of Security</string>
   <string name="perm_privacy_app_finish">Finish</string>
   <string name="perm_privacy_app_installed">Installation successful!</string>
-  <string name="perm_privacy_app_launch">Open</string>
+  <string name="perm_privacy_app_launch">Άνοιγμα</string>
   <string name="perm_privacy_app_trust">I trust this app</string>
   <string name="perm_privacy_app_trust_summary">MIUI will monitor this app</string>
   <string name="perm_sysopt_boost_auto_start">Autostart permissions</string>

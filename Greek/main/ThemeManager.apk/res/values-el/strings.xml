@@ -255,7 +255,7 @@
   <string name="wallpaper_decoded_error">Failed to decode</string>
   <string name="wallpaper_loading_text">Loading...</string>
   <string name="wallpaper_set_as_both">Set as both</string>
-  <string name="wallpaper_set_as_destop">Set as wallpaper</string>
+  <string name="wallpaper_set_as_destop">Ορισμός ως φόντο</string>
   <string name="wallpaper_set_as_lockscreen">Set as lock screen</string>
   <string name="wallpaper_settings">Wallpaper settings</string>
 </resources>

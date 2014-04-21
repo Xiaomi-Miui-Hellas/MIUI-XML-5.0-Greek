@@ -856,7 +856,7 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="dolby_eq_enter_alert_title">Turn on Dolby music</string>
   <string name="dolby_ieq_flat">Off</string>
   <string name="dolby_ieq_focused">Focused</string>
-  <string name="dolby_ieq_open">Open</string>
+  <string name="dolby_ieq_open">Άνοιγμα</string>
   <string name="dolby_ieq_rich">Rich</string>
   <string name="dolby_mode_movie">Video</string>
   <string name="dolby_mode_music">Music</string>
