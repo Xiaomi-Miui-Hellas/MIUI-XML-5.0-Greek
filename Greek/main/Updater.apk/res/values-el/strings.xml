@@ -161,7 +161,6 @@
   <string name="update_success_title">Συγχαρητήρια. Η αναβάθμιση ολοκληρώθηκε</string>
   <string name="updater_finish_download">Η λήψη της ROM ολοκληρώθηκε</string>
   <string name="upgrade_close">Κλείσιμο</string>
-  <string name="worst_update">3. Worst update</string>
   <string name="upgrade_kernel">Ο τρέχων πυρήνας χρειάζεται αναβάθμιση</string>
   <string name="upgrade_kernel_msg">"Η τρέχουσα έκδοση του πυρήνα δεν ταιριάζει με την MIUI ROM. Χρειάζετε να αναβαθμίσετε τον πυρήνα χειροκίνητα. Παρακαλώ παραπεμφθείτε στον οδηγό αναβάθμισης:"</string>
   <string name="verify_and_apply_dialog_message">Επαλήθευση MD5 checksum...</string>
