@@ -139,7 +139,7 @@
   <string name="resource_exchange_window_title">Redeem code</string>
   <string name="resource_exchange_wrong_format_by_local">Invalid code entered</string>
   <string name="resource_exchange_wrong_format_by_server">Code could not be validated. Please check your code and try again.</string>
-  <string name="resource_expand_full_text">Expand</string>
+  <string name="resource_expand_full_text">Εμφάνιση</string>
   <string name="resource_get_auth_checking">Checking authorisation...</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Theme cannot run on the current device. You have reached the maximum of 10 Xiaomi accounts. Please try another account.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Authorisation limit reached!</string>

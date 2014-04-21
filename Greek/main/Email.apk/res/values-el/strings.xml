@@ -452,11 +452,11 @@ CC: %4$s
     <string name="saving">Saving…</string>
     <string name="choosertitle_sharevia">Share via</string>
     <string name="contextmenu_openlink">Open in Browser</string>
-    <string name="contextmenu_copy">Copy</string>
-    <string name="contextmenu_copylink">Copy link URL</string>
-    <string name="contextmenu_dial_dot">Dial…</string>
+    <string name="contextmenu_copy">Αντιγραφή</string>
+    <string name="contextmenu_copylink">Αντιγραφή συνδέσμου URL</string>
+    <string name="contextmenu_dial_dot">Κλήση…</string>
     <string name="contextmenu_sms_dot">SMS…</string>
-    <string name="contextmenu_add_contact">Add contact</string>
+    <string name="contextmenu_add_contact">Προσθήκη επαφής</string>
     <string name="contextmenu_send_mail">Send email</string>
     <string name="contextmenu_map">Map</string>
     <string name="contextmenu_sharelink">Share link</string>

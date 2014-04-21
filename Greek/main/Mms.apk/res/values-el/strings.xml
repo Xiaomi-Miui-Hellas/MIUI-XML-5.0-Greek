@@ -77,7 +77,7 @@
   <string name="context_menu_browse_web">Browse</string>
   <string name="context_menu_call">Call</string>
   <string name="context_menu_contact">Contact: %1$s</string>
-  <string name="context_menu_copy">Copy</string>
+  <string name="context_menu_copy">Αντιγραφή</string>
   <string name="context_menu_copy_notice">Selection copied to clipboard</string>
   <string name="context_menu_new_contact">New contact</string>
   <string name="context_menu_send_mail">Send E-mail</string>

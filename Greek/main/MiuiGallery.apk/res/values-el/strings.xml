@@ -120,7 +120,7 @@ friends."</string>
   <string name="confirm_download_video_title">Download video</string>
   <string name="contact_photo">Contact photo</string>
   <string name="context_menu_add_contact">Add to contacts</string>
-  <string name="context_menu_copy">Copy</string>
+  <string name="context_menu_copy">Αντιγραφή</string>
   <string name="context_menu_copy_notice">Selection copied to clipboard</string>
   <string name="contrast">Contrast</string>
   <string name="create_new_cloud_folder">Create new Cloud folder</string>

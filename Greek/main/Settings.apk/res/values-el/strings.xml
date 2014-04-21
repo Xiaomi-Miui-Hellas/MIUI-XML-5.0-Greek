@@ -1419,7 +1419,7 @@ try the following:
   <string name="networkid_label">Network ID:</string>
   <string name="networks">Operator selection</string>
   <string name="new_backup_pw_prompt">Type a new password for full backups here</string>
-  <string name="new_bw_list_button">Add contact</string>
+  <string name="new_bw_list_button">Προσθήκη επαφής</string>
   <string name="next_button_label">Next</string>
   <string name="next_label">Next</string>
   <string name="nfc_category_title">NFC</string>

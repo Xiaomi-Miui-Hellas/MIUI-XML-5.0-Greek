@@ -15,8 +15,8 @@
     <string name="menu_item_sort_type">Type</string>
     <string name="operation_favorite">Star</string>
     <string name="operation_unfavorite">Unstar</string>
-    <string name="operation_copy">Copy</string>
-    <string name="operation_paste">Paste</string>
+    <string name="operation_copy">Αντιγραφή</string>
+    <string name="operation_paste">Επικόλληση</string>
     <string name="operation_move">Cut</string>
     <string name="operation_send">Send</string>
     <string name="operation_rename">Rename</string>
@@ -108,7 +108,7 @@
     <string name="user_guide">Introduction to KuaiPan</string>
     <string name="user_guide_summary">A brief overview</string>
     <string name="rename_failed">Failed to rename %1$s</string>
-    <string name="directory_no_item">Empty folder</string>
+    <string name="directory_no_item">Άδειος φάκελος</string>
     <string name="error_open_file_failed_no_app_found">No app was found to handle this action.</string>
     <string name="no_enough_space">Not enough space</string>
     <string name="directory_info_divider">"  |  "</string>
