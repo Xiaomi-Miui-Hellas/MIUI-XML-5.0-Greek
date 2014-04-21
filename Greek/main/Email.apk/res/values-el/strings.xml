@@ -362,10 +362,7 @@ CC: %4$s
     <string name="protocol_pop3">pop3</string>
     <string name="protocol_eas">eas</string>
     <string name="application_mime_type">application/email-ls</string>
-    <string name="mock_content_provider">Mock Content Provider</string>
-    <string name="conversation_content_provider">Conversation Content Provider</string>
     <string name="contact_content_provider">Contact Content Provider</string>
-    <string name="account_cache_provider">Account Cache Provider</string>
     <string name="from">From</string>
     <string name="to">To</string>
     <string name="cc">Cc</string>
@@ -380,8 +377,6 @@ CC: %4$s
     <string name="discard">Discard</string>
     <string name="compose">Compose</string>
     <string name="formatted_subject">%1$s%2$s</string>
-    <string name="reply_subject_label">Re:</string>
-    <string name="forward_subject_label">Fwd:</string>
     <string name="reply_attribution" formatted="false">On %s, %s wrote:</string>
     <string name="forward_attribution">---------- Forwarded message ----------&lt;br>From: %1$s&lt;br>Date: %2$s&lt;br>Subject: %3$s&lt;br>To: %4$s&lt;br></string>
     <string name="forward_attribution_no_headers">---------- Forwarded message ----------</string>
@@ -425,10 +420,6 @@ CC: %4$s
     <string name="menu_move_to">Move to</string>
     <string name="menu_move_to_inbox">Move to Inbox</string>
     <string name="menu_manage_folders">Folder settings</string>
-    <string name="report_rendering_problem">Looks bad</string>
-    <string name="report_rendering_improvement">Looks good</string>
-    <string name="report_rendering_problem_desc">This message looks bad.</string>
-    <string name="report_rendering_improvement_desc">This message looks good.</string>
     <string name="menu_show_original">Revert auto-sizing</string>
     <string name="menu_settings">Settings</string>
     <string name="menu_search">Search</string>
@@ -598,7 +589,6 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
     <string name="auto_advance_summary">Choose which screen to show after you delete a message</string>
     <string name="auto_advance_help_title">"Set auto-advance preference
 (after you delete, etc.)"</string>
-    <string name="prefDefault_autoAdvance">list</string>
     <string name="clear_display_images_whitelist_title">Clear picture approvals</string>
     <string name="clear_display_images_whitelist_dialog_title">Clear picture approvals?</string>
     <string name="clear_display_images_whitelist_dialog_message">Stop displaying inline images from senders you previously allowed.</string>
@@ -624,7 +614,6 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
     <string name="silent_ringtone">Silent</string>
     <string name="preference_removal_action_title">Archive &amp; delete actions</string>
     <string name="prefDialogTitle_removal_action">Archive &amp; delete actions</string>
-    <string name="prefDefault_removal_action">archive</string>
     <string name="preferences_default_reply_all_title">Reply all</string>
     <string name="preferences_default_reply_all_summary">Use as default for message replies</string>
     <string name="preference_swipe_title_archive">Swipe to archive</string>
