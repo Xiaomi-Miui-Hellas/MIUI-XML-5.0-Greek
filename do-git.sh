@@ -7,6 +7,6 @@ sleep 1
 git commit -a
 git pull
 git push
-echo " "
+#echo " "
 echo "All done.."
-echo " "
+#echo " "
