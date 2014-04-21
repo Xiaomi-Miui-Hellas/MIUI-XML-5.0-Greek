@@ -17,17 +17,7 @@
     <string name="quoted_text_font_color_string">@color/gray_text_color</string>
     <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
     <string name="date">2888/88/88</string>
-    <string name="mailbox_name_server_inbox">Inbox</string>
-    <string name="mailbox_name_server_outbox">Outbox</string>
-    <string name="mailbox_name_server_drafts">Drafts</string>
-    <string name="mailbox_name_server_trash">Trash</string>
-    <string name="mailbox_name_server_sent">Sent</string>
-    <string name="mailbox_name_server_junk">Junk</string>
-    <string name="mailbox_name_server_starred">Starred</string>
-    <string name="mailbox_name_server_all_unread">Unread</string>
     <string name="email_package_name">com.android.email</string>
-    <string name="compose_help_context">compose</string>
-    <string name="wait_help_context">wait</string>
     <string name="main_help_context">ttl</string>
     <string name="trigger_save_char">s</string>
     <string name="trigger_compose_char">c</string>
@@ -74,10 +64,8 @@
     <string name="retry">Retry</string>
     <string name="search_hint">Search email</string>
     <string name="no_conversations">No messages.</string>
-    <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
     <string name="photo_view_count" formatted="false">%d of %d</string>
     <string name="done">Return</string>
-    <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
     <string name="app_name">Mail</string>
     <string name="permission_read_attachment_label">Read email attachments</string>
     <string name="permission_read_attachment_desc">Allows the app to read your email attachments.</string>
