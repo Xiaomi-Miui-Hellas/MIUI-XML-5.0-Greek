@@ -33,7 +33,6 @@
   <string name="comment_upload_hint">Ευχαριστούμε για τα σχόλιά σας</string>
   <string name="comment_upload_not_logined">Εισέλθετε πριν αποστείλετε σχόλια</string>
   <string name="comment_upload_success">Το σχόλιο στάλθηκε με επιτυχία!</string>
-<<<<<<< HEAD
   <string name="confirm_download_cancelation_dialog_message">Θέλετε στα σύγουρα να ακυρώσετε το τρέχων Download?</string>
   <string name="copy_install_log">Αντιγραφή στο πρόχειρο</string>
   <string name="current_version_text">Τρέχουσα έκδοση </string>
@@ -112,7 +111,6 @@
   <string name="sdcard_is_not_present_dialog_title">SD card not found</string>
   <string name="send_install_log">Send error log</string>
   <string name="send_install_log_error">Failed to send error log</string>
-=======
   <string name="confirm_download_cancelation_dialog_message">Είστε σίγουροι ότι θέλετε να ακυρώσετε την τρέχουσα λήψη;</string>
   <string name="copy_install_log">Αντιγραφή στο πρόχειρο</string>
   <string name="current_version_text">Τρέχουσα έκδοση </string>
@@ -193,7 +191,6 @@
   <string name="sdcard_is_not_present_dialog_title">Δεν βρέθηκε κάρτα SD</string>
   <string name="send_install_log">Στείλτε αρχείο καταγραφής σφάλματος</string>
   <string name="send_install_log_error">Αποτυχία αποστολής αρχείου καταγραφής σφάλματος</string>
->>>>>>> f24c8c52ae92b130dbad30776d533ab7ca6b02c4
   <string name="share">Διαμοιρασμός</string>
   <string name="share_qq">Δημοσιεύστε το μέσω Tencent weibo</string>
   <string name="share_sina">Δημοσιεύστε το μέσω Sina weibo</string>
@@ -240,7 +237,6 @@
   <string name="update_success_title">Συγχαρητήρια. Η αναβάθμιση ολοκληρώθηκε</string>
   <string name="updater_finish_download">Η λήψη της ROM ολοκληρώθηκε</string>
   <string name="upgrade_close">Κλείσιμο</string>
-<<<<<<< HEAD
   <string name="upgrade_kernel">Current kernel requires upgrade</string>
   <string name="upgrade_kernel_msg">"Current kernel version doesn't match the MIUI ROM. You need upgrade the kernel manually. Please refer to upgrade tutorial:"</string>
   <string name="verify_and_apply_dialog_message">Verifying MD5 checksum...</string>
@@ -251,7 +247,6 @@
   <string name="wifi_not_available_body">It is recommended to use Wi-Fi to download updates as file sizes can be large. You are not currently using Wi-Fi, are you sure you wish to continue?</string>
   <string name="wifi_not_available_title">Wi-Fi not connected</string>
   <string name="worst_update">3. Worst update</string>
-=======
   <string name="upgrade_kernel">Ο τρέχων πυρήνας χρειάζεται αναβάθμιση</string>
   <string name="upgrade_kernel_msg">"Η τρέχουσα έκδοση του πυρήνα δεν ταιριάζει με την MIUI ROM. Χρειάζετε να αναβαθμίσετε τον πυρήνα χειροκίνητα. Παρακαλώ παραπεμφθείτε στον οδηγό αναβάθμισης:"</string>
   <string name="verify_and_apply_dialog_message">Επαλήθευση MD5 checksum...</string>
@@ -262,5 +257,4 @@
   <string name="wifi_not_available_body">Προτείνεται να χρησιμοποιήσετε Wi-Fi για να κάνετε λήψη των αναβαθμίσεων μια και τα τα αρχεία ενδέχεται να είναι μεγάλα σε μέγεθος. Δεν χρησιμοποιείτε Wi-Fi αυτή τη στιγμή, είστε σίγουροι ότι θέλετε να συνεχίσετε;</string>
   <string name="wifi_not_available_title">Δεν υπάρχει Wi-Fi σύνδεση</string>
   <string name="worst_update">3. Η χειρότερη αναβάθμιση</string>
->>>>>>> f24c8c52ae92b130dbad30776d533ab7ca6b02c4
 </resources>
