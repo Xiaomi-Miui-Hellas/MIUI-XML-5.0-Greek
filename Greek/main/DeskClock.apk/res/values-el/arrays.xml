@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <integer-array name="alarm_repeat_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+    <integer-array name="alarm_repeat_type_no_workdays_values">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
     <string-array name="alarm_set">
         <item>Alarm set for less than 1 minute from now.</item>
         <item>Alarm set for %1$s from now.</item>
@@ -19,6 +32,15 @@
         <item>25 minutes</item>
         <item>30 minutes</item>
     </string-array>
+    <string-array name="snooze_duration_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
     <string-array name="auto_silence_entries">
         <item>Never</item>
         <item>1 minute</item>
@@ -29,10 +51,25 @@
         <item>25 minutes</item>
         <item>30 minutes</item>
     </string-array>
+    <string-array name="auto_silence_values">
+        <item>-1</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
     <string-array name="volume_button_setting_entries">
         <item>Do nothing</item>
         <item>Snooze</item>
         <item>Dismiss</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
     <string-array name="alarm_in_furture">
         <item>Alarm will sound in less than 1 minute</item>
