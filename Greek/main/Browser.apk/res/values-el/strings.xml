@@ -238,10 +238,10 @@
   <string name="import_bookmarks_dialog_confirm_add">Προσθήκη σελιδοδεικτών της συσκευής να συγχρονίζονται με %s?</string>
   <string name="import_bookmarks_dialog_confirm_delete">Διαγραφή σελιδοδεικτών της συσκευής και έναρξη συγχρονισμού με %s?</string>
   <string name="import_bookmarks_dialog_delete_select_account">Διαγραφή σελιδοδεικτών της συσκευής και έναρξη συγχρονισμού με λογαριασμό Google</string>
-  <string name="import_bookmarks_dialog_description">"Bookmarks on this device are not yet associated with a Google account. Save these bookmarks by adding them to an account. Delete these bookmarks if you don't want to sync them."</string>
-  <string name="import_bookmarks_dialog_import">Add your Android bookmarks to bookmarks for %s</string>
-  <string name="import_bookmarks_dialog_remove">Delete bookmarks</string>
-  <string name="import_bookmarks_dialog_select_add_account">Add bookmarks currently on this device and begin syncing with Google account</string>
+  <string name="import_bookmarks_dialog_description">"Οι Σελιδοδείκτες της συσκευής δεν έχουν συσχετιστεί με λογαριασμό Google. Αποθηκεύστε τους σελιδοδείκτες αυτούς προσθέτοντάς τους σε έναν λογαριασμό. Διαγράψτε τους εάν δεν θέλετε να τους συγχρονίσετε."</string>
+  <string name="import_bookmarks_dialog_import">Προσθέστε τους Android σελιδοδείκτες σε σελιδοδείκτες για %s</string>
+  <string name="import_bookmarks_dialog_remove">Διαγραφή σελιδοδεικτών</string>
+  <string name="import_bookmarks_dialog_select_add_account">Προσθήκη των σελιδοδεικτών της συσκευής και έναρξη συγχρονισμού με λογαριασμό Google</string>
   <string name="import_bookmarks_dialog_title">Sync with Google account</string>
   <string name="import_bookmarks_wizard_cancel">Άκυρο</string>
   <string name="import_bookmarks_wizard_done">Done</string>
