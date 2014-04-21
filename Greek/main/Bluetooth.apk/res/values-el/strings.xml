@@ -120,7 +120,7 @@
   <string name="status_bpp_aborted_by_printer">Η εκτύπωση απέτυχε, ματαιώθηκε από τον εκτυπωτή</string>
   <string name="status_bpp_canceled_by_user">Η εκτύπωση ακυρώθηκε από το χρήστη</string>
   <string name="status_bpp_cancelled_by_printer">Η εκτύπωση απέτυχε, ακυρώθηκε από τον εκτυπωτή</string>
-  <string name="status_bpp_disconnected">Η εκτύπωση απέτυχε, η συνδεση bluetooth χαθηκε</string>
+  <string name="status_bpp_disconnected">Η εκτύπωση απέτυχε, η σύνδεση bluetooth χάθηκε</string>
   <string name="status_bpp_door_open">Η εκτύπωση απέτυχε, λόγω ανοιχτής πόρτας-</string>
   <string name="status_bpp_marker_failure">Η εκτύπωση απέτυχε, marker failure</string>
   <string name="status_bpp_marker_supply_empty">Η εκτύπωση απέτυχε, marker supply empty</string>

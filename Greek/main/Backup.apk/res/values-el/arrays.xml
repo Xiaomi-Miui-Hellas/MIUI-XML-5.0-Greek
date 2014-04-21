@@ -35,7 +35,7 @@
         <item>Επαφές</item>
         <item>Μητρώο</item>
         <item>Μηνύματα</item>
-        <item>Ρυθμίσεις WiFi</item>
+        <item>Ρυθμίσεις Wi-Fi</item>
         <item>Σημειώσεις</item>
     </string-array>
     <string-array name="cloud_account_data">
