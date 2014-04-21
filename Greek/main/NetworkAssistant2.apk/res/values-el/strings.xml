@@ -14,7 +14,7 @@
   <string name="app_wifi">WLAN</string>
   <string name="background_traffic">Background %s</string>
   <string name="begin_date">Usage cycle reset date</string>
-  <string name="cancel_button">Cancel</string>
+  <string name="cancel_button">Άκυρο</string>
   <string name="daily_pkg_traffic">Set peak data usage limit</string>
   <string name="data_usage_correction_timeout_body">Touch to update manually.</string>
   <string name="data_usage_correction_timeout_title">Data usage sync timed out</string>

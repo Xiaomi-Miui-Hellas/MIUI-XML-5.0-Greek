@@ -117,7 +117,7 @@
   <string name="label_view">View</string>
   <string name="lockscreen_carrier_default">No service</string>
   <string name="mdb_entering">Entering MDB</string>
-  <string name="mdb_restore_cancel">Cancel</string>
+  <string name="mdb_restore_cancel">Άκυρο</string>
   <string name="mdb_restore_info1">"Will restore your phone's data"</string>
   <string name="mdb_restore_info2">"Please don't unplug USB connection"</string>
   <string name="mdb_restore_label">MDB Restore</string>

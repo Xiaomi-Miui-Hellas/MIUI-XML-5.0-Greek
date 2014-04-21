@@ -108,7 +108,7 @@
   <string name="discard_slideshow">Discard slideshow</string>
   <string name="dl_failure_notification">Download of message %1$s from %2$s was unsuccessful.</string>
   <string name="done">Done</string>
-  <string name="download">Download</string>
+  <string name="download">Λήψη</string>
   <string name="download_later">Currently unable to download. Please try again later.</string>
   <string name="downloading">Downloading</string>
   <string name="duration_not_a_number">Duration must be a number</string>
@@ -246,7 +246,7 @@
   <string name="new_phrase">New phrase</string>
   <string name="new_phrase_hint">Enter new phrase</string>
   <string name="nickname_placeholder">Nickname</string>
-  <string name="no">Cancel</string>
+  <string name="no">Άκυρο</string>
   <string name="no_block_button_msg">"Don’t block messages from this number"</string>
   <string name="no_conversations">No conversations</string>
   <string name="no_subject">(No subject)</string>

@@ -22,11 +22,11 @@
     <string name="operation_rename">Rename</string>
     <string name="operation_delete">Delete</string>
     <string name="operation_info">Details</string>
-    <string name="operation_cancel">Cancel</string>
+    <string name="operation_cancel">Άκυρο</string>
     <string name="operation_refresh">Refresh</string>
     <string name="operation_show_sys">Show hidden files</string>
     <string name="operation_hide_sys">"Don't show hidden files"</string>
-    <string name="cancel">Cancel</string>
+    <string name="cancel">Άκυρο</string>
     <string name="background">Download in background</string>
     <string name="no_file">Empty</string>
     <string name="tab_category">Categories</string>
@@ -167,7 +167,7 @@ the feature need network connect."</string>
     <string name="decompress_to_here">Extract to here;</string>
     <string name="decompress_to">Extract to…</string>
     <string name="decompress_confirm">Extract</string>
-    <string name="decompress_cancel">Cancel</string>
+    <string name="decompress_cancel">Άκυρο</string>
     <string name="kuaipan_prompt">Notice</string>
     <string name="kuaipan_prompt_message">"
  Unfortunately our server is down for maintenance at the moment. Please try again later…
@@ -222,7 +222,7 @@ Free space added %1$s"</string>
     <string name="wait_sdcard">Waiting for SD card…</string>
     <string name="paused">Paused</string>
     <string name="upload_failed">Upload failed</string>
-    <string name="download_failed">Download failed</string>
+    <string name="download_failed">Αποτυχία λήψης</string>
     <string name="operation_pause">Pause</string>
     <string name="operation_resume">Start</string>
     <string name="operation_pause_all">Pause all</string>
@@ -280,7 +280,7 @@ Free space added %1$s"</string>
     <string name="cancel_app_garbage_cleanup">Do not clean up</string>
     <string name="clean_app_garbage">Delete %d item(s)</string>
     <string name="app_garbage_path">Location:</string>
-    <string name="give_up_cleaning">Cancel</string>
+    <string name="give_up_cleaning">Άκυρο</string>
     <string name="restart_cleaning">Restart</string>
     <string name="cleanup_complete">Done</string>
     <string name="count_down_time">Starting in %d seconds</string>

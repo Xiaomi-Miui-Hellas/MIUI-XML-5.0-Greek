@@ -117,7 +117,7 @@
   <string name="resource_detail_recommend_other_themes">Users also liked</string>
   <string name="resource_detail_update_log_title">Updates</string>
   <string name="resource_detail_window_title">%1$s details</string>
-  <string name="resource_download">Download</string>
+  <string name="resource_download">Λήψη</string>
   <string name="resource_download_trial">Free trial</string>
   <string name="resource_downloaded_title">Downloaded resources</string>
   <string name="resource_downloading">Downloading</string>
@@ -147,7 +147,7 @@
   <string name="resource_get_auth_retrieving">Retrieving authorisation...</string>
   <string name="resource_hint">Alert</string>
   <string name="resource_import_failed">Import failed</string>
-  <string name="resource_import_successful">Download completed</string>
+  <string name="resource_import_successful">Λήψη ολοκληρώθηκε</string>
   <string name="resource_importing">Importing</string>
   <string name="resource_list_title">Latest selected</string>
   <string name="resource_local">Local %1$s</string>

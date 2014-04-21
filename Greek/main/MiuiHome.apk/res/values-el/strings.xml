@@ -9,8 +9,8 @@
   <string name="aqi_quality_index_moderate">Moderate</string>
   <string name="aqi_quality_index_unhealthy">Unhealthy</string>
   <string name="buffering">Buffering...</string>
-  <string name="cancel_action">Cancel</string>
-  <string name="cancel_btn_label">Cancel</string>
+  <string name="cancel_action">Άκυρο</string>
+  <string name="cancel_btn_label">Άκυρο</string>
   <string name="cant_remove_folder">Unable to remove non-empty folder</string>
   <string name="cant_remove_retained_app">Unable to uninstall customised application</string>
   <string name="cant_remove_system_app">Unable to remove system application</string>
@@ -63,7 +63,7 @@
   <string name="gadget_weather_aqi_title">Air quality</string>
   <string name="gadget_weather_download_message">Download package: %1$s. size: %2$s. Please try again after download completes</string>
   <string name="gadget_weather_download_start">start</string>
-  <string name="gadget_weather_download_title">Download</string>
+  <string name="gadget_weather_download_title">Λήψη</string>
   <string name="gadget_weather_downloading">Package is downloading. Please try again download completes</string>
   <string name="gadget_weather_loading">No weather data</string>
   <string name="gadget_weather_low_temp">Low temp</string>

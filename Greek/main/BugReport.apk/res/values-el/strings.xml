@@ -34,7 +34,7 @@
     <string name="discard_draft_dialog_title">Discard draft</string>
     <string name="discard_draft_dialog_content">This report has been modified, touch OK to discard your draft.</string>
     <string name="discard_draft_dialog_button_discard">OK</string>
-    <string name="discard_draft_dialog_button_cancel">Cancel</string>
+    <string name="discard_draft_dialog_button_cancel">Άκυρο</string>
     <string name="network_unavailable_dialog_title">Network unavailable</string>
     <string name="network_unavailable_dialog_content">"Your feedback will be sent when you're connected to a network"</string>
     <string name="network_unavailable_dialog_button_ok">OK</string>

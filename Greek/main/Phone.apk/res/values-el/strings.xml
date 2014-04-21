@@ -40,7 +40,7 @@
     <string name="mmiStarted">MMI code started</string>
     <string name="ussdRunning">USSD code running…</string>
     <string name="mmiCancelled">MMI code canceled</string>
-    <string name="cancel">Cancel</string>
+    <string name="cancel">Άκυρο</string>
     <string name="enter_input">Input Required. Try again!!</string>
     <string name="manageConferenceLabel">Manage conference call</string>
     <string name="audio_mode_speaker">Speaker</string>
@@ -739,7 +739,7 @@ Try again or call customer service for more options."</string>
     <string name="place_a_call3">Subscription 3</string>
     <string name="count_down">Seconds:</string>
     <string name="call_number">To:</string>
-    <string name="cancel_call">Cancel</string>
+    <string name="cancel_call">Άκυρο</string>
     <string name="set_subscription_error_atleast_one">Select atleast one subscription</string>
     <string name="sub_1">SUB 1</string>
     <string name="sub_2">SUB 2</string>

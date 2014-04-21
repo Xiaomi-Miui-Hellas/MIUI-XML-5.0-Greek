@@ -155,7 +155,7 @@ friends."</string>
   <string name="done">Done</string>
   <string name="doodle">Doodle</string>
   <string name="doodle_tooltip">Draw on photo to doodle</string>
-  <string name="download">Download</string>
+  <string name="download">Λήψη</string>
   <string name="download_fail">Download failed!</string>
   <string name="download_fail_confirm_continue">Downloading %s failed. Continue?</string>
   <string name="duotone">Duo-tone</string>

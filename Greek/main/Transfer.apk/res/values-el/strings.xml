@@ -16,8 +16,8 @@
   <string name="can_not_find_explorer">FileExplorer not found, is the application installed?</string>
   <string name="can_not_send_this_file">Failed to send file!</string>
   <string name="cancel">Άκυρο</string>
-  <string name="cancel_receive">Cancel</string>
-  <string name="cancel_send">Cancel</string>
+  <string name="cancel_receive">Άκυρο</string>
+  <string name="cancel_send">Άκυρο</string>
   <string name="canceling">Cancelling</string>
   <string name="choose_title">Select file</string>
   <string name="complete">Finished!</string>
@@ -32,7 +32,7 @@
   <string name="device_name">Device name</string>
   <string name="device_name_tip">Click Go to about phone and then edit device name.</string>
   <string name="doc">Files</string>
-  <string name="download">Download</string>
+  <string name="download">Λήψη</string>
   <string name="download_complete">%1$s | %2$s downloaded from: %3$s</string>
   <string name="download_failed_msg">An error occurred receiving file!</string>
   <string name="download_succeed">Download successfully</string>
@@ -41,7 +41,7 @@
   <string name="empty_share_history">No sharing history</string>
   <string name="error_bad_file">Corrupt file</string>
   <string name="error_connect_service">Could not connect to transfer service.</string>
-  <string name="error_download">Download failed</string>
+  <string name="error_download">Αποτυχία λήψης</string>
   <string name="error_general">General error occurred</string>
   <string name="error_info_cant_send_folder">Warning! Folders cannot be sent!</string>
   <string name="error_network">Network error occurred</string>

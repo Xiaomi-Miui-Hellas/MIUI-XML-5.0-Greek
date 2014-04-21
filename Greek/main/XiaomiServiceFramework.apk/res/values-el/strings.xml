@@ -58,7 +58,7 @@
   <string name="bind_weibo_description">Find phone contacts, friends and other information directly from your account</string>
   <string name="binded">Associated</string>
   <string name="btn_activate">Activate</string>
-  <string name="button_cancel">Cancel</string>
+  <string name="button_cancel">Άκυρο</string>
   <string name="captcha">Captcha code</string>
   <string name="check_phone_error_title">Failed to enable sync service</string>
   <string name="check_phone_io_error">Network error</string>
@@ -132,7 +132,7 @@
   <string name="micloud_account_not_actived">Account not activated</string>
   <string name="micloud_activate_account_fail_notify_title">Failed to activate your Xiaomi account</string>
   <string name="micloud_activate_account_success_notify_title">Successfully activated your Xiaomi account</string>
-  <string name="micloud_activate_back_btn">Cancel</string>
+  <string name="micloud_activate_back_btn">Άκυρο</string>
   <string name="micloud_activate_retry_btn">Retry activation</string>
   <string name="micloud_activating_account_notify_info">You are activating your Xiaomi account</string>
   <string name="micloud_activating_account_notify_title">Activating your Xiaomi account...</string>

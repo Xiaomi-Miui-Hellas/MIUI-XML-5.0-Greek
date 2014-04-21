@@ -52,7 +52,7 @@
   <string name="btn_wait_confirm">Waiting</string>
   <string name="btn_wait_confirm_count">Waiting（%1$s）</string>
   <string name="button_call">Call</string>
-  <string name="button_cancel">Cancel</string>
+  <string name="button_cancel">Άκυρο</string>
   <string name="button_confirm">Confirm</string>
   <string name="button_next">Next</string>
   <string name="button_pay">Confirm</string>
@@ -178,7 +178,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="linkpay_achieve_charge">Complete payment</string>
   <string name="linkpay_app_name">Linkpay</string>
   <string name="linkpay_back_game">Back to game</string>
-  <string name="linkpay_cancel">Cancel</string>
+  <string name="linkpay_cancel">Άκυρο</string>
   <string name="linkpay_charge_account">Topup account:</string>
   <string name="linkpay_charge_game">Topup game</string>
   <string name="linkpay_charge_money">Topup amount:</string>
@@ -325,7 +325,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="lockpattern_settings_help_how_to_record">How to draw an unlock pattern</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Try again in %d seconds.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Too many incorrect attempts!&lt;/font&gt;</string>
-  <string name="lockpattern_tutorial_cancel_label">Cancel</string>
+  <string name="lockpattern_tutorial_cancel_label">Άκυρο</string>
   <string name="lockpattern_tutorial_continue_label">Next</string>
   <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Forgot pattern password&lt;/u&gt;</string>
   <string name="login">Login</string>
