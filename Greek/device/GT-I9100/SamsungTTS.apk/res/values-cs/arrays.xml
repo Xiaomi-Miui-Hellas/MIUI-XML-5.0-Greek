@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+    <string-array name="voice_effects_entries">
+        <item>Normální</item>
+        <item>Hluboký hlas</item>
+        <item>Vysoký hlas</item>
+        <item>Slabý hlas</item>
+        <item>Silný hlas</item>
+        <item>Hlas robota</item>
+        <item>Efekt helia</item>
+    </string-array>
+</resources>
