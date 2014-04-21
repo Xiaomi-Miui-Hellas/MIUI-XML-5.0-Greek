@@ -223,7 +223,7 @@
   <string name="backup_section_title">Backup &amp; restore</string>
   <string name="band_mode_failed">Unsuccessful</string>
   <string name="band_mode_loading">Loading band list…</string>
-  <string name="band_mode_set">Set</string>
+  <string name="band_mode_set">Ορισμός</string>
   <string name="band_mode_succeeded">Successful</string>
   <string name="band_mode_title">Set GSM/UMTS band</string>
   <string name="baseband_version">Baseband version</string>
@@ -1336,8 +1336,8 @@ To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&g
   <string name="memory_size">Total space</string>
   <string name="memory_title">Available %1$s\u0009\u0009Total %2$s</string>
   <string name="menu_cancel">Discard</string>
-  <string name="menu_delete">Delete APN</string>
-  <string name="menu_edit">Edit</string>
+  <string name="menu_delete">Διαγραφή APN</string>
+  <string name="menu_edit">Επεξεργασία</string>
   <string name="menu_item_about_content">Security: %s</string>
   <string name="menu_item_about_summary">Version：%s</string>
   <string name="menu_item_about_title">About</string>
@@ -2725,8 +2725,8 @@ Add a word by touching the Add (+) button"</string>
   <string name="vpn_ipsec_server_cert">IPSec server certificate</string>
   <string name="vpn_ipsec_user_cert">IPSec user certificate</string>
   <string name="vpn_l2tp_secret">L2TP secret</string>
-  <string name="vpn_menu_delete">Delete profile</string>
-  <string name="vpn_menu_edit">Edit profile</string>
+  <string name="vpn_menu_delete">Διαγραφή profile</string>
+  <string name="vpn_menu_edit">Επεξεργασία profile</string>
   <string name="vpn_missing_cert">A certificate is missing. Please edit the profile.</string>
   <string name="vpn_mppe">PPP encryption (MPPE)</string>
   <string name="vpn_name">Name</string>

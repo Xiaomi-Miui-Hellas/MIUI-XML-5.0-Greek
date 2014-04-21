@@ -36,7 +36,7 @@
   <string name="low_battery_warning">Unexpected shutdown may result in lost recording, it is recommended to record only when battery is fully charged.</string>
   <string name="mark_now">(Current)</string>
   <string name="max_length_reached">Maximum length reached</string>
-  <string name="menu_settings">Settings</string>
+  <string name="menu_settings">Ρυθμίσεις</string>
   <string name="menu_view_record_list">My recordings</string>
   <string name="message_file_size_error">Recording has reached the maximum recording length supported for %s</string>
   <string name="minute">%d minute</string>

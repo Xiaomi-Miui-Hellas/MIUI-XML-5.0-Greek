@@ -174,7 +174,7 @@
   <string name="me">Me</string>
   <string name="menu_compose_new">Compose</string>
   <string name="menu_delete_messages">Delete messages</string>
-  <string name="menu_edit">Edit</string>
+  <string name="menu_edit">Επεξεργασία</string>
   <string name="menu_forward">Forward</string>
   <string name="menu_lock">Lock</string>
   <string name="menu_new_manual">Enter number manually</string>
@@ -390,7 +390,7 @@ Report bugs and send feedback directly to Xiaomi.”</string>
   <string name="service_message_not_found">Message expired or not available.</string>
   <string name="service_network_problem">Error network problem.</string>
   <string name="service_not_activated">Service not activated on network.</string>
-  <string name="set">Set</string>
+  <string name="set">Ορισμός</string>
   <string name="set_smsc_address_title_miui">Set SMS centre number</string>
   <string name="show_all_messages">Show all messages</string>
   <string name="sim_card1">SIM 1</string>

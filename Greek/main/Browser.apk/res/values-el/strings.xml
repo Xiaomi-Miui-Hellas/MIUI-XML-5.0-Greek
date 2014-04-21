@@ -269,7 +269,7 @@
   <string name="menu_download_video">Downloaded videos</string>
   <string name="menu_enable_night_mode">Enable night mode</string>
   <string name="menu_enable_save_bandwidth_mode">Enable mobile data cap</string>
-  <string name="menu_exit">Exit</string>
+  <string name="menu_exit">Έξοδος</string>
   <string name="menu_hv_swap">Switch to horizontal screen</string>
   <string name="menu_hv_swap2">Switch to vertical screen</string>
   <string name="menu_preferences">Settings</string>

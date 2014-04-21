@@ -99,7 +99,7 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Outgoing: "</string>
   <string name="callrecordview_menu_add_call_note">Add call note</string>
   <string name="callrecordview_menu_batch_delete">Batch delete</string>
-  <string name="callrecordview_menu_delete">Delete call log</string>
+  <string name="callrecordview_menu_delete">Διαγραφή call log</string>
   <string name="callrecordview_menu_delete_accepted">Clear log for received calls</string>
   <string name="callrecordview_menu_delete_all">Clear call log</string>
   <string name="callrecordview_menu_delete_called">Clear log for outgoing calls</string>
@@ -110,7 +110,7 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="callrecordview_menu_delete_stranger">Clear call log for unknown numbers</string>
   <string name="callrecordview_menu_edit_call_note">Edit call note</string>
   <string name="callrecordview_menu_paste">Paste</string>
-  <string name="callrecordview_menu_settings">Settings</string>
+  <string name="callrecordview_menu_settings">Ρυθμίσεις</string>
   <string name="callrecordview_menu_show">Call log filter</string>
   <string name="callrecordview_menu_show_accepted">Show received calls</string>
   <string name="callrecordview_menu_show_all">Show all calls</string>
@@ -205,7 +205,7 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="custom_list_filter">Define custom view</string>
   <string name="custom_nickname_hint">Enter nickname</string>
   <string name="date_picker_label">Remind me 3 days before and again on the day of</string>
-  <string name="date_time_set">Set</string>
+  <string name="date_time_set">Ορισμός</string>
   <string name="date_year_toggle">Add year</string>
   <string name="default_ringtone">Default ringtone</string>
   <string name="deleteConfirmation">This contact will be deleted.</string>
@@ -542,7 +542,7 @@ Reason: \"%s\""</string>
   <string name="menu_sendSMS">Text contact</string>
   <string name="menu_sendTextMessage">Send text message</string>
   <string name="menu_set_ring_tone">Set ringtone</string>
-  <string name="menu_settings">Settings</string>
+  <string name="menu_settings">Ρυθμίσεις</string>
   <string name="menu_share">Share</string>
   <string name="menu_show_all_calls">Show all calls</string>
   <string name="menu_show_voicemails_only">Show voicemails only</string>

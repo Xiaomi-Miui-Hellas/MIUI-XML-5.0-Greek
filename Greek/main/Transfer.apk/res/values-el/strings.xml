@@ -36,7 +36,7 @@
   <string name="download_complete">%1$s | %2$s downloaded from: %3$s</string>
   <string name="download_failed_msg">An error occurred receiving file!</string>
   <string name="download_succeed">Download successfully</string>
-  <string name="editmode_menu_delete">Delete</string>
+  <string name="editmode_menu_delete">Διαγραφή</string>
   <string name="editmode_menu_share">Share</string>
   <string name="empty_share_history">No sharing history</string>
   <string name="error_bad_file">Corrupt file</string>

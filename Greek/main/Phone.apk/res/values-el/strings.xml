@@ -377,8 +377,8 @@ Next period starts in %2$d days (%3$s)"</string>
     <string name="auto_retry_mode_title">Auto-retry</string>
     <string name="auto_retry_mode_summary">Enable Auto-retry mode</string>
     <string name="menu_add">Add contact</string>
-    <string name="menu_edit">Edit contact</string>
-    <string name="menu_delete">Delete contact</string>
+    <string name="menu_edit">Επεξεργασία contact</string>
+    <string name="menu_delete">Διαγραφή contact</string>
     <string name="get_pin2">Type PIN2</string>
     <string name="name">Name</string>
     <string name="number">Number</string>
