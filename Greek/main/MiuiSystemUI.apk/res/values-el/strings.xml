@@ -245,7 +245,7 @@
   <string name="status_bar_toggle_screen_button">Buttons</string>
   <string name="status_bar_toggle_screenshot">Screenshot</string>
   <string name="status_bar_toggle_sync_auto">Αυτόματο sync</string>
-  <string name="status_bar_toggle_sync_manual">Sync</string>
+  <string name="status_bar_toggle_sync_manual">Συγχρονισμός</string>
   <string name="status_bar_toggle_syncing">Syncing</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Wi-Fi hotspot</string>

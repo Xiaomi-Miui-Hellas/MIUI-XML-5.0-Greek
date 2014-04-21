@@ -48,7 +48,7 @@
   <string name="accessibility_system_title">System</string>
   <string name="accessibility_toggle_large_text_title">Large text</string>
   <string name="account_settings">Accounts</string>
-  <string name="account_sync_settings_title">Sync</string>
+  <string name="account_sync_settings_title">Συγχρονισμός</string>
   <string name="act_action_accept_accept">Apply</string>
   <string name="act_action_accept_mute">Silence messages</string>
   <string name="act_action_accept_reject">Divert messages</string>
@@ -397,7 +397,7 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="bluetooth_mas_acceptance_dialog_text">%1$s would like to access your messages. Give access to %2$s?</string>
   <string name="bluetooth_mas_remember_choice">"Don't ask again"</string>
   <string name="bluetooth_mas_request">Message Access request</string>
-  <string name="bluetooth_menu_advanced">Advanced</string>
+  <string name="bluetooth_menu_advanced">Προηγμένα</string>
   <string name="bluetooth_name_not_set">No name set, using account name</string>
   <string name="bluetooth_no_devices_found">No nearby Bluetooth devices were found.</string>
   <string name="bluetooth_not_discoverable">Make device discoverable</string>
@@ -737,7 +737,7 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="deep_clean_title_cache">Cache</string>
   <string name="deep_clean_title_large_file">Large files</string>
   <string name="deep_clean_title_residual">Residuals</string>
-  <string name="deep_cleaning">Advanced</string>
+  <string name="deep_cleaning">Προηγμένα</string>
   <string name="default_date_format">MM/dd/yyyy</string>
   <string name="default_input_method">Choose default input method</string>
   <string name="default_usb_mode">USB connection</string>
@@ -748,7 +748,7 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="dev_settings_warning_title">Allow development settings?</string>
   <string name="development_enable">Enable development</string>
   <string name="development_settings_summary">Set options for app development</string>
-  <string name="development_settings_title">Developer options</string>
+  <string name="development_settings_title">Επιλογές προγραμματιστή</string>
   <string name="device_additional_status">Additional Status Info</string>
   <string name="device_additional_status_summary">Phone number, Signal, IMEI, etc.</string>
   <string name="device_admin_add_title">Device administrator</string>
@@ -1348,7 +1348,7 @@ To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&g
   <string name="menu_item_shortcut_uninstall">Remove shortcut</string>
   <string name="menu_key">Menu key</string>
   <string name="menu_new">New APN</string>
-  <string name="menu_restore">Reset to default</string>
+  <string name="menu_restore">Επαναφορά στα προκαθορισμένα</string>
   <string name="menu_save">Αποθήκευση</string>
   <string name="menu_stats_last_unplugged">While last unplugged for %1$s</string>
   <string name="menu_stats_refresh">Refresh</string>
@@ -1821,7 +1821,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
   <string name="power_mode_sleep_never">Never</string>
   <string name="power_mode_switch_off">Off</string>
   <string name="power_mode_switch_on">On</string>
-  <string name="power_mode_synchronization">Sync</string>
+  <string name="power_mode_synchronization">Συγχρονισμός</string>
   <string name="power_mode_touch_with_ring">Sound notification on touch</string>
   <string name="power_mode_touch_with_vibration">Vibrate on touch</string>
   <string name="power_mode_vibration">Vibrate</string>
@@ -1880,7 +1880,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
   <string name="preference_change_password_title">Change password</string>
   <string name="preferred_app_settings">Default app settings</string>
   <string name="preferred_app_settings_default">Default</string>
-  <string name="preferred_app_settings_reset">Restore defaults</string>
+  <string name="preferred_app_settings_reset">Επαναφορά προκαθορισμένων</string>
   <string name="preferred_app_settings_reset_message">Are you sure want to restore default application Settings?</string>
   <string name="preferred_application_title">Preferred %s</string>
   <string name="preferred_application_warning_message">Replacing your default %1$s may increase power consumption, reduce speed, and can put phone contents at risk. Suggest using default %2$s.</string>
@@ -1919,7 +1919,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
   <string name="provider_label">Push subscriptions</string>
   <string name="proxy_action_text">Έγινε</string>
   <string name="proxy_clear_text">Clear</string>
-  <string name="proxy_defaultView_text">Restore defaults</string>
+  <string name="proxy_defaultView_text">Επαναφορά προκαθορισμένων</string>
   <string name="proxy_error">Attention</string>
   <string name="proxy_error_dismiss">ΟΚ</string>
   <string name="proxy_error_empty_host_set_port">The port field must be empty if the host field is empty.</string>
@@ -2043,7 +2043,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
   <string name="residual_tips_hints">%s residual files found</string>
   <string name="restore_default_apn">Restoring default APN settings.</string>
   <string name="restore_default_apn_completed">Reset default APN settings completed.</string>
-  <string name="restore_default_settings">Restore default settings</string>
+  <string name="restore_default_settings">Επαναφορά προκαθορισμένων ρυθμίσεων</string>
   <string name="retry">Retry</string>
   <string name="ring_volume_title">Ringer volume</string>
   <string name="ringtone_summary"/>
@@ -2818,7 +2818,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_ip_settings_invalid_network_prefix_length">Type a network prefix length between 0 and 32.</string>
   <string name="wifi_ip_settings_menu_cancel">Άκυρο</string>
   <string name="wifi_ip_settings_menu_save">Αποθήκευση</string>
-  <string name="wifi_menu_advanced">Advanced</string>
+  <string name="wifi_menu_advanced">Προηγμένα</string>
   <string name="wifi_menu_connect">Connect to network</string>
   <string name="wifi_menu_forget">Forget network</string>
   <string name="wifi_menu_modify">Modify network</string>
@@ -2843,7 +2843,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_p2p_disconnect_title">Disconnect?</string>
   <string name="wifi_p2p_failed_connect_message">"Couldn't connect."</string>
   <string name="wifi_p2p_failed_rename_message">Failed to rename device.</string>
-  <string name="wifi_p2p_menu_advanced">Advanced</string>
+  <string name="wifi_p2p_menu_advanced">Προηγμένα</string>
   <string name="wifi_p2p_menu_create_group">Create group</string>
   <string name="wifi_p2p_menu_remove_group">Remove group</string>
   <string name="wifi_p2p_menu_rename">Rename device</string>

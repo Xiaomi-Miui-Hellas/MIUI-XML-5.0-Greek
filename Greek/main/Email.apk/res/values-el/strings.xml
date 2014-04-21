@@ -71,7 +71,7 @@
     <string name="permission_read_attachment_desc">Allows the app to read your email attachments.</string>
     <string name="permission_access_provider_label">Access KingSoft email provider data</string>
     <string name="permission_access_provider_desc">Allows the app to access your email database, including received messages, sent messages, usernames, and passwords.</string>
-    <string name="debug_title">Debug</string>
+    <string name="debug_title">Αποσφαλμάτωση</string>
     <string name="next_action">Επόμενο</string>
     <string name="okay_action">ΟΚ</string>
     <string name="cancel_action">Άκυρο</string>

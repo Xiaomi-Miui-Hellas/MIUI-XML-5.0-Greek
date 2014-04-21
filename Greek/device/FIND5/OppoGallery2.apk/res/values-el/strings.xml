@@ -476,7 +476,7 @@
   <string name="pref_camera_zsl_title">ZSL</string>
   <string name="pref_exposure_default">0</string>
   <string name="pref_exposure_title">Exposure</string>
-  <string name="pref_restore_detail">Restore defaults</string>
+  <string name="pref_restore_detail">Επαναφορά προκαθορισμένων</string>
   <string name="pref_restore_title">Camera settings</string>
   <string name="pref_video_effect_default">none</string>
   <string name="pref_video_effect_title">Effects</string>

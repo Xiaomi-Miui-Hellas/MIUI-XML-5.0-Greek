@@ -835,7 +835,7 @@ Choose one of the following options:"</string>
     <string name="dirty_contacts_notification_title">Sync contacts?</string>
     <string name="dirty_contacts_notification_description">%d changes have not been synced with your Xiaomi Account.</string>
     <string name="dirty_contacts_notification_message">(You can disable this reminder in Settings)</string>
-    <string name="remind_btn_sync_now">Sync</string>
+    <string name="remind_btn_sync_now">Συγχρονισμός</string>
     <string name="remind_btn_ignore">Ignore</string>
     <string name="display_only_phones">Hide incomplete numbers</string>
     <string name="display_sim_contacts">Show SIM contacts</string>

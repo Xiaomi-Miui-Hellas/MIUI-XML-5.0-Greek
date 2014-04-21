@@ -25,7 +25,7 @@
   <string name="default_folder_name">Notes</string>
   <string name="dlg_desc_confirm_alarm_silent">Alarm clock and notes will not sound in silent mode when turned off.</string>
   <string name="dlg_title_confirm_alarm_silent">Do you want to silence alarms in silent mode?</string>
-  <string name="enable_sync">Sync</string>
+  <string name="enable_sync">Συγχρονισμός</string>
   <string name="enable_sync_desc">Notes can be synced with your Xiaomi account %1$s, sync now?</string>
   <string name="error_contact_not_exist">The contact does not exist</string>
   <string name="error_note_empty_for_clock">Sorry, clock cannot be set on an empty note</string>

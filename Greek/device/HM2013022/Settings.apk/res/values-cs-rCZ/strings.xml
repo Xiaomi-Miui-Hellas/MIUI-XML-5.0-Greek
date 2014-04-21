@@ -266,7 +266,7 @@ Toto nastavení se změní pro všechny uživatele tohoto zařízení."</string>
     <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_turning_off">Vypínání</string>
     <string name="gadget_state_turning_on">Zapínání</string>
-    <string name="gadget_sync">Sync</string>
+    <string name="gadget_sync">Συγχρονισμός</string>
     <string name="gadget_wifi">Wi-Fi</string>
     <string name="gemini_3g_disable_warning">3G není dostupné s touto SIM, což může zpomalit přenos dat. Můžete změnit nastavení 3G v Nastavení > Nastavení sítí > Mobilní sítě.</string>
     <string name="gemini_3g_disable_warning_case0">Je zapotřebí aktivovat data roaming pro tuto SIM což může zvýšit Vaše poplatky! Chcete aktivovat data roaming pro tuto SIM?</string>
