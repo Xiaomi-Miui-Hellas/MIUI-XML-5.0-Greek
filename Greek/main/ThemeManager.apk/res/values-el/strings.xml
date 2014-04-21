@@ -198,7 +198,7 @@
   <string name="resource_unable_to_access">"Currently available in your region/country."</string>
   <string name="resource_unknow_error">Unknown error occurred.</string>
   <string name="resource_update">Update</string>
-  <string name="resource_user_know">OK</string>
+  <string name="resource_user_know">ΟΚ</string>
   <string name="resource_waiting_download">Waiting to download…</string>
   <string name="restore_default_theme_alert">You may be a victim of theme counterfeiting, please browse the theme market to purchase or re-download.</string>
   <string name="sdcard_not_mounted_dialog_message">"SD card not available, please add one now."</string>

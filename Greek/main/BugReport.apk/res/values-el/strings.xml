@@ -33,15 +33,15 @@
     <string name="toast_feedback_pending_wlan">"Your feedback will be sent when you're connected to WLAN"</string>
     <string name="discard_draft_dialog_title">Discard draft</string>
     <string name="discard_draft_dialog_content">This report has been modified, touch OK to discard your draft.</string>
-    <string name="discard_draft_dialog_button_discard">OK</string>
+    <string name="discard_draft_dialog_button_discard">ΟΚ</string>
     <string name="discard_draft_dialog_button_cancel">Άκυρο</string>
     <string name="network_unavailable_dialog_title">Network unavailable</string>
     <string name="network_unavailable_dialog_content">"Your feedback will be sent when you're connected to a network"</string>
-    <string name="network_unavailable_dialog_button_ok">OK</string>
+    <string name="network_unavailable_dialog_button_ok">ΟΚ</string>
     <string name="wlan_unavailable_dialog_title">WLAN unavailable</string>
     <string name="wlan_unavailable_dialog_content">"%s is required for 2G/3G data, your feedback will be sent when you're connected to WLAN"</string>
     <string name="wlan_unavailable_dialog_button_sent">Send now</string>
-    <string name="wlan_unavailable_dialog_button_ok">OK</string>
+    <string name="wlan_unavailable_dialog_button_ok">ΟΚ</string>
     <string name="packaging_dialog_content">Generating report…</string>
     <string name="bugreport_feedback_from">From: %s</string>
 </resources>

@@ -106,7 +106,7 @@ friends."</string>
   <string name="cloudfolder_name_cannot_empty">Please enter a folder name.</string>
   <string name="cloudfolder_name_reserved">Folder name is reserved.</string>
   <string name="comfirm_delete_current_album">Delete the current album?</string>
-  <string name="confirm">OK</string>
+  <string name="confirm">ΟΚ</string>
   <string name="confirm_delete">Are you sure you wish to delete %s selected items?</string>
   <string name="confirm_delete_album" formatted="false">Are you sure you want to delete %s albums (including %s items)?</string>
   <string name="confirm_delete_cloud_all_item_page" formatted="false">%s picture(s) in %s album(s), are you sure you want to delete?</string>

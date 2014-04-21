@@ -73,7 +73,7 @@
     <string name="permission_access_provider_desc">Allows the app to access your email database, including received messages, sent messages, usernames, and passwords.</string>
     <string name="debug_title">Debug</string>
     <string name="next_action">Next</string>
-    <string name="okay_action">OK</string>
+    <string name="okay_action">ΟΚ</string>
     <string name="cancel_action">Άκυρο</string>
     <string name="previous_action">Previous</string>
     <string name="done_action">Done</string>
@@ -517,7 +517,7 @@ CC: %4$s
     <string name="enumeration_comma">", "</string>
     <string name="yes">Yes</string>
     <string name="no">No</string>
-    <string name="ok">OK</string>
+    <string name="ok">ΟΚ</string>
     <string name="cancel">Άκυρο</string>
     <string name="clear">Clear</string>
     <string name="actionbar_title_mail_aggregation">Mail aggregation:</string>

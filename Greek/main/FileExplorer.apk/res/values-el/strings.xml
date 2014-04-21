@@ -68,7 +68,7 @@
     <string name="operation_deleting">Deleting…</string>
     <string name="operation_pasting">Copying…</string>
     <string name="operation_moving">Moving…</string>
-    <string name="confirm_know">OK</string>
+    <string name="confirm_know">ΟΚ</string>
     <string name="error_info_cant_send_folder">This file type is not supported.</string>
     <string name="fail_to_create_folder">Failed to created folder: not enough space or the folder already exists.</string>
     <string name="fail_to_create_folder_unknown">Failed to create folder.</string>
@@ -149,7 +149,7 @@ the feature need network connect."</string>
     <string name="clean_message">%1$s of space freed.</string>
     <string name="trash_box_message1">Delete unnecessary files to free up space.</string>
     <string name="trash_box_message2">Clean up the recycle bin to free up space.</string>
-    <string name="close">Close</string>
+    <string name="close">Κλείσιμο</string>
     <string name="space_info">KuaiPan: %1$s available, %2$s in total</string>
     <string name="trash_box_capacity">Recycle bin %1$s</string>
     <string name="data_capacity">Data %1$s</string>

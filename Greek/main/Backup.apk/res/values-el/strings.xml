@@ -141,7 +141,7 @@ to cancel restore"</string>
   <string name="enable_encrypt">Ενεργοποίηση τώρα</string>
   <string name="enable_encrypt_fail">Η ενεργοποίηση της κρυπτογράφησης απέτυχε</string>
   <string name="enable_encrypt_indicator">Το αντίγραφο δεν είναι κρυπτογραφημένο κάντε κλικ για ενεργοποίηση </string>
-  <string name="enable_encrypt_ok">OK</string>
+  <string name="enable_encrypt_ok">ΟΚ</string>
   <string name="enable_encrypt_summery1">Το σύστημα θα κρυπτογραφήσει το αντίγραφο ασφαλείας στο λογαριασμό Xiaomi, Θα πρέπει να συνδεθείτε στο λογαριασμό σας Xiaomi κατά την αφαίρεση των δεδομένων ή με τη χρήση άλλων συσκευών για να επαναφέρετε το αντίγραφο ασφαλείας."</string>
   <string name="enable_encrypt_summery2">Το νέο αντίγραφο ασφαλείας θα είναι αυτομάτως κρυπτογραφημένο Θα πρέπει να συνδεθείτε στο λογαριασμό σας Xiaomi κατά την αφαίρεση των δεδομένων ή με τη χρήση άλλων συσκευών για να επαναφέρετε το αντίγραφο ασφαλείας </string>
   <string name="enable_encrypt_title">Η κρυπτογράφηση ενεργοποιήθηκε</string>

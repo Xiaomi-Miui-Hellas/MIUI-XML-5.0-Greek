@@ -35,7 +35,7 @@
   <string name="express_inquiry_delete_warning_multiple">Delete %d selected history entries?</string>
   <string name="express_inquiry_delete_warning_single">Delete selected entry?</string>
   <string name="express_inquiry_delivered">Delivered</string>
-  <string name="express_inquiry_history">History</string>
+  <string name="express_inquiry_history">Ιστορικό</string>
   <string name="express_inquiry_internal_failure">"An error occurred.
 Please your check tracking number."</string>
   <string name="express_inquiry_logistics_indication">Courier name</string>
@@ -125,7 +125,7 @@ Please your check tracking number."</string>
 Total amount: RMB %3$s"</string>
   <string name="recharge_user_confirm_title">Confirm</string>
   <string name="remind_another_time">"Don't remind me"</string>
-  <string name="remind_user_confirm">OK</string>
+  <string name="remind_user_confirm">ΟΚ</string>
   <string name="remind_user_suspect_number_message">"Criminals may steal other people's identities for fraud, if in doubt, please call back to verify the caller. Banks, e-commerce companies and courier companies will not ask for your password or bank card information."</string>
   <string name="remind_user_suspect_number_title">Beware Fraudulent Calls</string>
   <string name="scan">Scan</string>

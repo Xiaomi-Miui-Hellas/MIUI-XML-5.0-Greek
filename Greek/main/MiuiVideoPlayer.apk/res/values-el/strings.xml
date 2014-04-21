@@ -57,7 +57,7 @@
   <string name="video_info_length_label">Length:</string>
   <string name="video_info_resolution_label">Video resolution:</string>
   <string name="video_info_video_coding_label">Video encoding format:</string>
-  <string name="vp_VideoView_error_button">OK</string>
+  <string name="vp_VideoView_error_button">ΟΚ</string>
   <string name="vp_VideoView_error_network_not_available">Network unavailable</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Sorry, the selected video format is not valid for streaming to this device</string>
   <string name="vp_VideoView_error_text_unknown">Sorry, the selected video format cannot be played</string>

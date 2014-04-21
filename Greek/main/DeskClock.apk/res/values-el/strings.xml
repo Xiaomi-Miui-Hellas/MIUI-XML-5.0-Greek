@@ -74,7 +74,7 @@
     <string name="worldclock_empty_text">No clocks</string>
     <string name="alarmclock_empty_text">No alarms</string>
     <string name="stopwatch_lap_empty_text">No laps</string>
-    <string name="timer_got_it">OK</string>
+    <string name="timer_got_it">ΟΚ</string>
     <string name="timer_start_alarm">"Time's up!"</string>
     <string name="dialog_confirm_abort">Discard changes?</string>
     <string name="confirm_abort">Discard</string>

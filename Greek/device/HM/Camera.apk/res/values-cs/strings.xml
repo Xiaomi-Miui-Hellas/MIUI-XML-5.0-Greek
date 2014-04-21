@@ -65,7 +65,7 @@
     <string name="details_hms">%1$d:%2$02d:%3$02d</string>
     <string name="details_ms">%1$02d:%2$02d</string>
     <string name="details_title">%1$d z %2$d:</string>
-    <string name="dialog_ok">OK</string>
+    <string name="dialog_ok">ΟΚ</string>
     <string name="disable_video_snapshot_hint">Záznam videa není podporován v režimu speciálních efektů.</string>
     <string name="download_by_browser">Stáhnout pomocí prohlížeče</string>
     <string name="download_qq">Stáhnout QQ</string>
@@ -139,7 +139,7 @@
     <string name="no_thumbnail">Žádný náhled</string>
     <string name="not_enough_space">Vaše SD karta je plná.</string>
     <string name="not_selectable_in_scene_mode">Není možné vybrat v režimu scény.</string>
-    <string name="ok">OK</string>
+    <string name="ok">ΟΚ</string>
     <string name="orientation">Orientace</string>
     <string name="pano_dialog_panorama_failed">"Není možné uložit panoramatický snímek"</string>
     <string name="pano_dialog_prepare_preview">Příprava panoramatu</string>

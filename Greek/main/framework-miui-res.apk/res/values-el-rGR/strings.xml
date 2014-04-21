@@ -471,7 +471,7 @@ Try again in %d seconds."</string>
   <string name="united_nations_day"/>
   <string name="unknown">Άγνωστος αριθμός</string>
   <string name="unknown_caller">Άγνωστος καλούντας</string>
-  <string name="unlock_string">OK</string>
+  <string name="unlock_string">ΟΚ</string>
   <string name="unlocking_sim_card">Unlocking SIM card</string>
   <string name="unlockscreen_low_battery">Connect your charger</string>
   <string name="unlockscreen_recharge_completed">Charged</string>

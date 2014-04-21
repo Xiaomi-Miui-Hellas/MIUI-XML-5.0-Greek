@@ -78,7 +78,7 @@ Poznámka: Trojité poklepání funguje všude kromě klávesnice." </string>
     <string name="accessibility_toggle_speak_password_preference_title">Předčítat hesla</string>
     <string name="activity_not_found">Aplikace není nainstalovaná.</string>
     <string name="adjust_3d_depth_title">"Nastavit 3D hloubku ve hrách"</string>
-    <string name="agps_OK">OK</string>
+    <string name="agps_OK">ΟΚ</string>
     <string name="agps_disable_on_reboot">Deaktivovat po restartu</string>
     <string name="agps_disable_on_reboot_summary">Deaktivovat A-GPS po restartu</string>
     <string name="agps_enable_confirm">A-GPS vyžaduje internetové připojení pro stáhnutí potřebných dat, což může zvýšit vaše měsíční poplatky. Chcete pokračovat?</string>
@@ -244,7 +244,7 @@ Toto nastavení se změní pro všechny uživatele tohoto zařízení."</string>
     <string name="epo_expire_time_summary">Nedostupné</string>
     <string name="epo_expire_time_title">Čas vypršel</string>
     <string name="epo_info_title">Informace o EPO</string>
-    <string name="epo_ok_btn">OK</string>
+    <string name="epo_ok_btn">ΟΚ</string>
     <string name="epo_start_time_summary">Nedostupné</string>
     <string name="epo_start_time_title">Čas startu</string>
     <string name="epo_status_starting">Startování…</string>
@@ -326,7 +326,7 @@ Toto nastavení se změní pro všechny uživatele tohoto zařízení."</string>
     <string name="gemini_sim_tether_disassociate">Zrušit</string>
     <string name="gemini_sim_tether_info_title">Kontakty a SIM</string>
     <string name="gemini_sim_tether_no_assc_contacts">Kontakty jsou úspěšně propojené</string>
-    <string name="gemini_sim_tether_nocontact_confirm">OK</string>
+    <string name="gemini_sim_tether_nocontact_confirm">ΟΚ</string>
     <string name="gemini_sim_tether_nocontacts">Nejsou dostupné žádné kontakty ve Vašem telefonu. Zadejte nový kontakt nebo je importujte.</string>
     <string name="gemini_sim_tether_norecord">"S touto SIM nemáte spojené žádné číslo kontaktu.
 
@@ -432,7 +432,7 @@ Chcete použit čas z GPS?"</string>
     <string name="nfc_rw_tag_title">Zápis a čtení ze štítku</string>
     <string name="nfc_tag_mode_category">Režim štítek</string>
     <string name="not_installed">Není nainstalováno</string>
-    <string name="ok">OK</string>
+    <string name="ok">ΟΚ</string>
     <string name="outdoor_settings_title">Venku</string>
     <string name="outdoor_summary">Nejhlasitější zvonění a vibrace</string>
     <string name="overlay_display_devices_title">Simulovat druhý displej</string>

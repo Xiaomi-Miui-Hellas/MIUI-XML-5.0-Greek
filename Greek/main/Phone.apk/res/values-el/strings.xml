@@ -36,7 +36,7 @@
     <string name="callUnanswered_forwarded">Call Unanswered and Forwarded</string>
     <string name="retry">Retry</string>
     <string name="call_lost_title">Call Lost</string>
-    <string name="ok">OK</string>
+    <string name="ok">ΟΚ</string>
     <string name="mmiStarted">MMI code started</string>
     <string name="ussdRunning">USSD code running…</string>
     <string name="mmiCancelled">MMI code canceled</string>
@@ -183,7 +183,7 @@
     <string name="stk_cc_ss_to_ss_error">SS request modified to new SS request.</string>
     <string name="fdn_check_failure">"Your Phone app's Fixed Dialing Numbers setting is turned on. As a result, some call-related features aren't working."</string>
     <string name="radio_off_error">Turn on the radio before viewing these settings.</string>
-    <string name="close_dialog">OK</string>
+    <string name="close_dialog">ΟΚ</string>
     <string name="enable">Enable</string>
     <string name="disable">Disable</string>
     <string name="change_num">Update</string>
@@ -622,8 +622,8 @@ Try again or call customer service for more options."</string>
     <string name="sip_menu_save">Save</string>
     <string name="sip_menu_discard">Discard</string>
     <string name="alert_dialog_close">Close the profile</string>
-    <string name="alert_dialog_ok">OK</string>
-    <string name="close_profile">Close</string>
+    <string name="alert_dialog_ok">ΟΚ</string>
+    <string name="close_profile">Κλείσιμο</string>
     <string name="primary_account_summary_with">Primary account. %s</string>
     <string name="registration_status_checking_status">Checking status…</string>
     <string name="registration_status_registering">Registering…</string>
@@ -715,7 +715,7 @@ Try again or call customer service for more options."</string>
     <string name="description_target_answer_tx_video">Answer with TX Video</string>
     <string name="description_target_answer_rx_video">Answer with RX Video</string>
     <string name="description_target_send_sms">Send SMS</string>
-    <string name="description_target_decline">Decline</string>
+    <string name="description_target_decline">Άρνηση</string>
     <string name="description_direction_up_right">Up Right</string>
     <string name="description_direction_up_left">Up Left</string>
     <string name="description_direction_down_left">Down Left</string>
@@ -801,7 +801,7 @@ Try again or call customer service for more options."</string>
     <string name="answer_state_setting_summary">Additional incoming call options</string>
     <string name="areacode_required_for_emergency_number_miui">Local area code required for emergency calls</string>
     <string name="areacode_required_miui">Area code is required</string>
-    <string name="areacode_required_accept_miui">OK</string>
+    <string name="areacode_required_accept_miui">ΟΚ</string>
     <string name="auto_answer_summary_not_enabled">Disabled</string>
     <string name="auto_answer_summary_delay">" (delay: %s seconds)"</string>
     <string name="auto_answer_delay_entries_delay_10s_miui">10 seconds</string>
@@ -937,7 +937,7 @@ Try again or call customer service for more options."</string>
     <string name="description_direction_right_miui">Right for %s</string>
     <string name="description_direction_up_miui">Up for %s</string>
     <string name="description_target_answer_miui">Answer</string>
-    <string name="description_target_decline_miui">Decline</string>
+    <string name="description_target_decline_miui">Άρνηση</string>
     <string name="description_target_send_sms_miui">Send SMS</string>
     <string name="disable_all_cf_miui">Disable all call-forwarding features</string>
     <string name="disable_miui">Disable</string>

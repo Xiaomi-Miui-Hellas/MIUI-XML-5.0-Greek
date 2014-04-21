@@ -14,7 +14,7 @@
   <string name="dlg_noantenna_title">Před spuštěním připojte sluchátka</string>
   <string name="btn_yes">Ano</string>
   <string name="btn_no">Ne</string>
-  <string name="btn_ok">OK</string>
+  <string name="btn_ok">ΟΚ</string>
   <string name="btn_cancel">Zrušit</string>
   <string name="dlg_progress_title">Vyhledat</string>
   <string name="dlg_progress_text">Vyhledávání…</string>

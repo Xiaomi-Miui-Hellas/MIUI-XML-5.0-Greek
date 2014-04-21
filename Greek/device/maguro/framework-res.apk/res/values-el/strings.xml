@@ -16,10 +16,10 @@
     <string name="selectAll">Επιλογή όλων</string>
     <string name="unknownName">(Άγνωστο)</string>
     <string name="untitled">&lt;Χωρίς τίτλο</string>
-    <string name="VideoView_error_button">OK</string>
+    <string name="VideoView_error_button">ΟΚ</string>
     <string name="VideoView_error_text_unknown">Δεν μπορείτε να αναπαράγετε αυτό το βίντεο.</string>
     <string name="VideoView_error_title">Πρόβλημα με το βίντεο</string>
-    <string name="yes">OK</string>
+    <string name="yes">ΟΚ</string>
     <string name="dialog_alert_title">Προσοχή</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Αυτό το βίντεο δεν είναι έγκυρο για ροή σε αυτή τη συσκευή.</string>
     <string name="selectTextMode">Επιλογή κειμένου</string>
@@ -245,7 +245,7 @@
     <string name="cfTemplateRegisteredTime">{0}: Δεν προωθήθηκε</string>
     <string name="fcComplete">Ο κωδικός λειτουργίας ολοκληρώθηκε.</string>
     <string name="fcError">Πρόβλημα σύνδεσης ή μη έγκυρος κώδικας δυνατότητας.</string>
-    <string name="httpErrorOk">OK</string>
+    <string name="httpErrorOk">ΟΚ</string>
     <string name="httpError">Παρουσιάστηκε σφάλμα δικτύου.</string>
     <string name="httpErrorLookup">Δεν ήταν δυνατή η εύρεση της διεύθυνσης URL.</string>
     <string name="httpErrorUnsupportedAuthScheme">Το πλάνο ελέγχου ταυτότητας ιστοτόπου δεν υποστηρίζεται.</string>

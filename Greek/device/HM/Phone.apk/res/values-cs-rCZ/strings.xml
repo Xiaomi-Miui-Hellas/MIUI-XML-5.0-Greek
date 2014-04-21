@@ -283,7 +283,7 @@ Opravdu chcete aktivovat preferování mobilních dat?"</string>
     <string name="simlock_newsim">Nová SIM</string>
     <string name="simlock_newsiminsert">Byla vložena nová SIM karta</string>
     <string name="simlock_nocard">Žádná</string>
-    <string name="simlock_ok">OK</string>
+    <string name="simlock_ok">ΟΚ</string>
     <string name="simlock_pinnotmatched">"Nesouhlasí."</string>
     <string name="simlock_retriesleft">"Zbývá: "</string>
     <string name="simlock_returntocall">Zpět k hovoru</string>

@@ -166,7 +166,7 @@ the content you're looking for is not currently available in your region."</stri
     <string name="to_activate_the_account">Activate your Xiaomi Account now</string>
     <string name="resource_menu_refresh">Refresh</string>
     <string name="resource_unknow_error">An unknown error occurred</string>
-    <string name="resource_user_know">OK</string>
+    <string name="resource_user_know">ΟΚ</string>
     <string name="resource_hint">Alert</string>
     <string name="resource_ringtone_volume_mute">Your ringer is currently silenced</string>
     <string name="config_import_vcard_type">default</string>
@@ -232,12 +232,12 @@ the content you're looking for is not currently available in your region."</stri
     <string name="menu_redirect_calls_to_vm">All calls to voicemail</string>
     <string name="menu_not_redirect_calls_to_vm">Voicemail not in use</string>
     <string name="redirect_calls_to_vm_confirm_message">Before setting up your mailbox, check the terms and conditions of your contract with your mobile network provider.</string>
-    <string name="redirect_calls_to_vm_confirm_text">OK</string>
+    <string name="redirect_calls_to_vm_confirm_text">ΟΚ</string>
     <string name="readOnlyContactWarning">"You can't delete contacts from read-only accounts, but you can hide them in your contacts lists."</string>
     <string name="readOnlyContactDeleteConfirmation">This contact contains information from multiple accounts. Information from read-only accounts will be hidden in your contacts lists, not deleted.</string>
     <string name="multipleContactDeleteConfirmation">Deleting this contact will delete information from multiple accounts.</string>
     <string name="deleteConfirmation">This contact will be deleted.</string>
-    <string name="menu_done">OK</string>
+    <string name="menu_done">ΟΚ</string>
     <string name="menu_doNotSave">Άκυρο</string>
     <string name="menu_discard">Discard</string>
     <string name="label_notes">Notes</string>
@@ -655,7 +655,7 @@ Choose one of the following options:"</string>
     <string name="non_phone_caption">Phone number</string>
     <string name="non_phone_add_to_contacts">Add to contacts</string>
     <string name="activity_title_confirm_add_detail">Add to contact</string>
-    <string name="non_phone_close">Close</string>
+    <string name="non_phone_close">Κλείσιμο</string>
     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="date_year_toggle">Provide a year</string>
     <string name="social_widget_label">Contact</string>

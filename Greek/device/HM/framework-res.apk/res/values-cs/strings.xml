@@ -11,16 +11,16 @@
     <string name="httpErrorBadUrl">Stránku nelze otevřít. Adresa URL je neplatná.</string>
     <string name="httpErrorUnsupportedScheme">Protokol není podporován.</string>
     <string name="no">Zrušit</string>
-    <string name="ok">OK</string>
+    <string name="ok">ΟΚ</string>
     <string name="paste">Vložit</string>
     <string name="search_go">Hledat</string>
     <string name="selectAll">Vše</string>
     <string name="unknownName">(Neznámé)</string>
     <string name="untitled">&lt;Bez názvu></string>
-    <string name="VideoView_error_button">OK</string>
+    <string name="VideoView_error_button">ΟΚ</string>
     <string name="VideoView_error_text_unknown">Toto video nelze přehrát.</string>
     <string name="VideoView_error_title">Potíže s videem</string>
-    <string name="yes">OK</string>
+    <string name="yes">ΟΚ</string>
     <string name="dialog_alert_title">Upozornění</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Toto video nelze přenášet datovým proudem do tohoto zařízení.</string>
     <string name="selectTextMode">Vybrat text</string>
@@ -165,7 +165,7 @@
     <string name="cfTemplateRegisteredTime">{0}: Nepřesměrováno</string>
     <string name="fcComplete">Požadavek zadaný pomocí kódu funkce byl úspěšně dokončen.</string>
     <string name="fcError">Problém s připojením nebo neplatný kód funkce.</string>
-    <string name="httpErrorOk">OK</string>
+    <string name="httpErrorOk">ΟΚ</string>
     <string name="httpError">Došlo k chybě sítě.</string>
     <string name="httpErrorLookup">Adresu URL nelze najít.</string>
     <string name="httpErrorUnsupportedAuthScheme">Schéma ověření webu není podporováno.</string>
@@ -937,7 +937,7 @@ Chcete ji ukončit?"</string>
     <string name="anr_process">"Proces %1$s nereaguje.
 
 Chcete jej ukončit?"</string>
-    <string name="force_close">OK</string>
+    <string name="force_close">ΟΚ</string>
     <string name="report">Nahlásit</string>
     <string name="wait">Počkat</string>
     <string name="webpage_unresponsive">"Stránka nereaguje.
@@ -1045,7 +1045,7 @@ Chcete ji zavřít?"</string>
     <string name="dlg_confirm_kill_storage_users_title">Zapnout úložiště USB</string>
     <string name="dlg_confirm_kill_storage_users_text">Pokud zapnete úložiště USB, dojde k zastavení některých používaných aplikací. Tyto aplikace pravděpodobně nebudou k dispozici až do vypnutí úložiště USB.</string>
     <string name="dlg_error_title">Operace rozhraní USB se nezdařila.</string>
-    <string name="dlg_ok">OK</string>
+    <string name="dlg_ok">ΟΚ</string>
     <string name="usb_mtp_notification_title">Připojeno jako mediální zařízení</string>
     <string name="usb_ptp_notification_title">Připojeno jako fotoaparát</string>
     <string name="usb_cd_installer_notification_title">Připojeno jako instalátor</string>

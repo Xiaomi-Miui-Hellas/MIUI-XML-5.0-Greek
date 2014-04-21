@@ -88,7 +88,7 @@ Used"</string>
   <string name="network_control">View app settings</string>
   <string name="notification_content_title">Used %1$s while locked</string>
   <string name="notification_title">%1$s-%2$s: about %3$s used</string>
-  <string name="ok_button">OK</string>
+  <string name="ok_button">ΟΚ</string>
   <string name="per_month_pkg_traffic_settings">Set data limit</string>
   <string name="permit_running_network">Allow background data</string>
   <string name="person_hotpot">Mobile hotspots</string>

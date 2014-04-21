@@ -199,14 +199,14 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="linkpay_choose_paycard_value">Select card value</string>
   <string name="linkpay_commodity_name">Goods:</string>
   <string name="linkpay_company_title">Company:</string>
-  <string name="linkpay_confirm_char">OK</string>
+  <string name="linkpay_confirm_char">ΟΚ</string>
   <string name="linkpay_confirm_order">Order confirmation</string>
   <string name="linkpay_consumer_records">Customer records</string>
   <string name="linkpay_consumer_records_thirtydays">Last 30 days customer history</string>
   <string name="linkpay_copyright">Copyright, China Unicom</string>
   <string name="linkpay_deal_time">Opening hours</string>
   <string name="linkpay_dear_user">Dear user:</string>
-  <string name="linkpay_determine">OK</string>
+  <string name="linkpay_determine">ΟΚ</string>
   <string name="linkpay_enter_phonenum_msg">Dear Unicom user, SMS verification has failed, please enter a valid phone number to re-send the verification code.</string>
   <string name="linkpay_enter_right_phonenumber">Enter a valid phone number</string>
   <string name="linkpay_enter_right_verificationcode">Invalid verification code</string>
