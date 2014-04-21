@@ -31,7 +31,7 @@
   <string name="alert_message_delete">Delete selected %d item(s)?</string>
   <string name="alert_provider_message">You need to enable location access via your mobile network.</string>
   <string name="alert_provider_title">Location notification</string>
-  <string name="alert_title_delete">Delete</string>
+  <string name="alert_title_delete">Διαγραφή</string>
   <string name="app_love_font_lng">%s</string>
   <string name="app_love_sms_title">Message contents</string>
   <string name="app_love_view_title">Preview</string>

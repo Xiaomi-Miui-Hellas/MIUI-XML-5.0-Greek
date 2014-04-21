@@ -83,7 +83,7 @@
   <string name="cit_headset_button_current">Κουμπί ακουστικών: %s</string>
   <string name="cit_headset_button_fast_forward">Μπροστά</string>
   <string name="cit_headset_button_next">Επόμενο</string>
-  <string name="cit_headset_button_pass">Passed</string>
+  <string name="cit_headset_button_pass">Πέρασε</string>
   <string name="cit_headset_button_play_pause">Αναπ. / Παύση</string>
   <string name="cit_headset_button_previous">Προηγούμενο</string>
   <string name="cit_headset_button_rewind">Από την αρχή</string>

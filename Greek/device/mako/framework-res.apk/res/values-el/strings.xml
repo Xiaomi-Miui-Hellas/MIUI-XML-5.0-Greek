@@ -15,7 +15,7 @@
     <string name="search_go">Αναζήτηση</string>
     <string name="selectAll">Επιλογή όλων</string>
     <string name="unknownName">(Άγνωστο)</string>
-    <string name="untitled">&lt;Χωρίς τίτλο></string>
+    <string name="untitled">&lt;Χωρίς τίτλο</string>
     <string name="VideoView_error_button">OK</string>
     <string name="VideoView_error_text_unknown">Δεν μπορείτε να αναπαράγετε αυτό το βίντεο.</string>
     <string name="VideoView_error_title">Πρόβλημα με το βίντεο</string>

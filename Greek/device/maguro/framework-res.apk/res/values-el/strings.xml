@@ -15,7 +15,7 @@
     <string name="search_go">Αναζήτηση</string>
     <string name="selectAll">Επιλογή όλων</string>
     <string name="unknownName">(Άγνωστο)</string>
-    <string name="untitled">&lt;Χωρίς τίτλο></string>
+    <string name="untitled">&lt;Χωρίς τίτλο</string>
     <string name="VideoView_error_button">OK</string>
     <string name="VideoView_error_text_unknown">Δεν μπορείτε να αναπαράγετε αυτό το βίντεο.</string>
     <string name="VideoView_error_title">Πρόβλημα με το βίντεο</string>
@@ -100,8 +100,8 @@
     <string name="day_of_week_shortest_thursday">Π</string>
     <string name="day_of_week_shortest_friday">Π</string>
     <string name="day_of_week_shortest_saturday">Σ</string>
-    <string name="am">π.μ.</string>
-    <string name="pm">μ.μ.</string>
+    <string name="am">πμ</string>
+    <string name="pm">μμ</string>
     <string name="yesterday">Χτες</string>
     <string name="today">Σήμερα</string>
     <string name="tomorrow">Αύριο</string>
@@ -724,7 +724,7 @@
     <string name="keyguard_password_enter_puk_code">Πληκτρολογήστε τον κωδικό PUK και τον νέο κωδικό PIN</string>
     <string name="keyguard_password_enter_puk_prompt">Κωδικός PUK</string>
     <string name="keyguard_password_enter_pin_prompt">Νέος κωδικός PIN</string>
-    <string name="keyguard_password_entry_touch_hint"><font size="17">Αγγίξτε για εισαγ. κωδ. πρόσβ.</font></string>
+    <string name="keyguard_password_entry_touch_hint"><font size=17>Αγγίξτε για εισαγ. κωδ. πρόσβ.</font></string>
     <string name="keyguard_password_enter_password_code">Πληκτρολογήστε τον κωδικό πρόσβασης για ξεκλείδωμα</string>
     <string name="keyguard_password_enter_pin_password_code">Πληκτρολογήστε τον αριθμό PIN για ξεκλείδωμα</string>
     <string name="keyguard_password_wrong_pin_code">Εσφαλμένος κωδικός PIN.</string>
