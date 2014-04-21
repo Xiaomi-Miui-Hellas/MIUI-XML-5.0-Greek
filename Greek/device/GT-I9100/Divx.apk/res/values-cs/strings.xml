@@ -21,7 +21,7 @@
     <string name="clear_license">Smazat licence</string>
     <string name="clear_license_summary">Odstranit všechny licence DRM</string>
     <string name="unable_to_remove_license">Licence nelze vymazat</string>
-    <string name="all_licenses_are_clearing">Mazání...</string>
+    <string name="all_licenses_are_clearing">Mazání…</string>
     <string name="all_licenses_are_removed">Vymazáno</string>
     <string name="clear_license_popup">"Obsah, který vyžaduje licence, musí být před použitím znovu získán.
 Chcete odstranit licence?"</string>

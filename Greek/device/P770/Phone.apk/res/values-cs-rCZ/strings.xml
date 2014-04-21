@@ -178,7 +178,7 @@
 hovoru"</string>
     <string name="mo_code_unconditional_cf_active">"Okamžité přesměrování
 hovoru aktivované"</string>
-    <string name="modem_switching">Přepnutí SIM karty bude trvat asi 10 vteřin. Čekejte prosím...</string>
+    <string name="modem_switching">Přepnutí SIM karty bude trvat asi 10 vteřin. Čekejte prosím…</string>
     <string name="mt_code_additional_call_forwarded">Další přicházející hovor přesměrován</string>
     <string name="mt_code_call_connected_ect">Přesměrování hovoru aktivní</string>
     <string name="mt_code_call_connecting_ect">Přesměrovávání hovoru</string>
@@ -288,7 +288,7 @@ Opravdu chcete aktivovat preferování mobilních dat?"</string>
     <string name="simlock_retriesleft">"Zbývá: "</string>
     <string name="simlock_returntocall">Zpět k hovoru</string>
     <string name="simlock_secondsim">pro druhou SIM</string>
-    <string name="simlock_unlocking">Odblokovat...</string>
+    <string name="simlock_unlocking">Odblokovat…</string>
     <string name="simlock_unlockmardedcard">Odblokovat označenou SIM</string>
     <string name="simlock_wrongcode">Nesprávný kód.</string>
     <string name="sip_call_options_title_single_sim">Nastavení internetového volání</string>

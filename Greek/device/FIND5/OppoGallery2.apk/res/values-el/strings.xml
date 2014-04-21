@@ -201,7 +201,7 @@
   <string name="oppo_cloud_gallery_wizzard_hint">"15G αποθηκευτικός χώρος, κρατήστε περισσότερες φωτογραφίες· Ένα κουμπή για ανέβασμα, έξυπνο αντίγραφο ασφαλείας, άντληση φωτογραφιών χωρίς USB."</string>
   <string name="oppo_cloud_gallery_wizzard_login_text">Κλικ είσιδος NearMe</string>
   <string name="oppo_cloud_gallery_wizzard_title">Άλμουμ στο σύνεφο</string>
-  <string name="oppo_cloud_loading_dialog_message">Φόρτωση, παρακαλώ περιμένετε...</string>
+  <string name="oppo_cloud_loading_dialog_message">Φόρτωση, παρακαλώ περιμένετε…</string>
   <string name="oppo_cloud_nopicture1">Χωρίς φωτογραφία</string>
   <string name="oppo_cloud_nopicture2">You can upload one or more photos</string>
   <string name="oppo_front_camera_default_picture_size">1280x960</string>
