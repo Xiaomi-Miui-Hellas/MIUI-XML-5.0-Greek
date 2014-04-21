@@ -724,7 +724,7 @@
     <string name="keyguard_password_enter_puk_code">Πληκτρολογήστε τον κωδικό PUK και τον νέο κωδικό PIN</string>
     <string name="keyguard_password_enter_puk_prompt">Κωδικός PUK</string>
     <string name="keyguard_password_enter_pin_prompt">Νέος κωδικός PIN</string>
-    <string name="keyguard_password_entry_touch_hint"><font size=17>Αγγίξτε για εισαγ. κωδ. πρόσβ.</font></string>
+    <string name="keyguard_password_entry_touch_hint"><font size="17">Αγγίξτε για εισαγ. κωδ. πρόσβ.</font></string>
     <string name="keyguard_password_enter_password_code">Πληκτρολογήστε τον κωδικό πρόσβασης για ξεκλείδωμα</string>
     <string name="keyguard_password_enter_pin_password_code">Πληκτρολογήστε τον αριθμό PIN για ξεκλείδωμα</string>
     <string name="keyguard_password_wrong_pin_code">Εσφαλμένος κωδικός PIN.</string>
