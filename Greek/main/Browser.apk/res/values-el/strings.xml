@@ -428,7 +428,7 @@
   <string name="pref_privacy_clear_cookies_dlg">Διαγραφή όλων των cookies?</string>
   <string name="pref_privacy_clear_cookies_summary">Καθαρισμός όλων των cookies του πλοηγού</string>
   <string name="pref_privacy_clear_form_data">Καθαρισμός δεδομένων φορμών</string>
-  <string name="pref_privacy_clear_form_data_dlg">>Διαγραφή όλων των αποθηκευμένων δεδομένων φορμών?<?</string>
+  <string name="pref_privacy_clear_form_data_dlg">>Διαγραφή όλων των αποθηκευμένων δεδομένων φορμών?</string>
   <string name="pref_privacy_clear_form_data_summary">Καθαρισμός όλων των αποθηκευμένων δεδμένων φορμών</string>
   <string name="pref_privacy_clear_geolocation_access">Καθαρισμός πρόσβασης τοποθεσίας</string>
   <string name="pref_privacy_clear_geolocation_access_dlg">Καθαρισμός πρόσβασης τοποθεσίας από σελίδες?</string>
