@@ -7,7 +7,7 @@
   <string name="adjust_traffic_carrier_summary_two_day_before">Updated 2 days ago</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Updated yesterday at %s</string>
   <string name="adjust_traffic_data">Set data usage</string>
-  <string name="app_detail">Details</string>
+  <string name="app_detail">Λεπτομέρειες</string>
   <string name="app_mobile">DATA</string>
   <string name="app_name">Data usage</string>
   <string name="app_version">Version</string>
@@ -37,7 +37,7 @@ Usage in excess of your carrier plan's data limits can result in steep overage c
   <string name="data_usage_warning_title">Data usage warning</string>
   <string name="declaration_dialog_msg">This feature can help you track your usage, but is not guaranteed to prevent additional charges. For best results, set a conservative limit.</string>
   <string name="deleted_apps">Deleted Apps</string>
-  <string name="detail_app_button">Details</string>
+  <string name="detail_app_button">Λεπτομέρειες</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
   <string name="firewall_activity_lable">Restrict data usage by app</string>
@@ -150,7 +150,7 @@ Used"</string>
   <string name="sorted_dialog_title">Sort by</string>
   <string name="stop_app_button">Στοπ</string>
   <string name="system_app">System Apps</string>
-  <string name="text_day">Day</string>
+  <string name="text_day">Μέρα</string>
   <string name="tips_dialog_title">"Don't know your limit?"</string>
   <string name="tips_message">"If you're unclear about the details of your wireless plan, you can view them by dialing %2$s (%1$s)."</string>
   <string name="traffic_correction_failed">"Can't get data usage info"</string>

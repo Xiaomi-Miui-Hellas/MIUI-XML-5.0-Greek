@@ -124,7 +124,7 @@
   <string name="master_alert_notif_dspt" formatted="false">"During this period you have added %s name phone contacts, %s SMS, %s photos, %s of notes and other data.
 
  If your phone is lost or erased, these data will be permanently lost. It is recommended that you restore synchronization to ensure data security"</string>
-  <string name="master_alert_notif_title">The data is not synchronized outside %s days</string>
+  <string name="master_alert_notif_title">The data is not synchronized outside %s μέρες</string>
   <string name="micloud_account">Xiaomi account</string>
   <string name="micloud_account_details">Account details</string>
   <string name="micloud_account_label">Account: %1$s</string>
@@ -208,7 +208,7 @@ To solve this, you can either clean out old files, or purchase additional storag
   <string name="mili_center">Mi Credit</string>
   <string name="my_xiaomi_account">My Xiaomi account</string>
   <string name="next">Επόμενο</string>
-  <string name="noRemind">No reminder</string>
+  <string name="noRemind">Χωρίς υπενθύμιση</string>
   <string name="nobind">No authorised</string>
   <string name="other_settings">Other settings</string>
   <string name="password">Κωδικός</string>
@@ -225,7 +225,7 @@ To solve this, you can either clean out old files, or purchase additional storag
   <string name="reging">Registering, please wait…</string>
   <string name="relogin">Login</string>
   <string name="remove_account_notice">What would you like to do with the previously synced Messages, Contacts, Call logs, and notes on your device?</string>
-  <string name="remove_confirm">Delete</string>
+  <string name="remove_confirm">Διαγραφή</string>
   <string name="remove_unactivated_account_notice">The Xiaomi account is not activated, do you wish to remove it now?</string>
   <string name="removing_account">Removing account…</string>
   <string name="restoreSync">Restore sync</string>

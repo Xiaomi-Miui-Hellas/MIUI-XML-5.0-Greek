@@ -478,6 +478,7 @@
     <string name="notification_ongoing_call">Κλήση σε εξέλιξη</string>
     <string name="notification_on_hold">Σε αναμονή</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="notification_incoming_call">Εισερχόμενη κλήση</string>
     <string name="notification_voicemail_title">Νέο φωνητικό μήνυμα</string>
     <string name="notification_voicemail_title_count">Νέο φωνητικό μήνυμα (%d)</string>
@@ -555,6 +556,8 @@
     <string name="managed_roaming_dialog_content">Βρέθηκε δίκτυο με περιορισμένη πρόσβαση. Θέλετε να ξεκινήσει η αναζήτηση δικτύου?</string>
     <string name="managed_roaming_dialog_ok_button">Ναι</string>
 =======
+=======
+>>>>>>> 69b236cc3efd70481813deed74c63a2b1f6fec1f
     <string name="notification_incoming_call">Εισερχόμενη κλήση</string>
     <string name="notification_voicemail_title">Νέο φωνητικό μήνυμα</string>
     <string name="notification_voicemail_title_count">Νέο φωνητικό μήνυμα (%d)</string>
@@ -631,7 +634,6 @@
     <string name="managed_roaming_title_sub3">Υπεύθυνη για τη διαχείριση περιαγωγής (SUB3)</string>
     <string name="managed_roaming_dialog_content">Βρέθηκε δίκτυο με περιορισμένη πρόσβαση. Θέλετε να ξεκινήσει η αναζήτηση δικτύου?</string>
     <string name="managed_roaming_dialog_ok_button">Ναι</string>
->>>>>>> abe1defcf0a0d65b936b5605160d350ffebc366e
     <string name="managed_roaming_dialog_cancel_button">Όχι</string>
     <string name="ota_title_activate">Ενεργοποιήστε το τηλέφωνό σας</string>
     <string name="ota_touch_activate">"Χρειάζεται μια ειδική κλήση για να ενεργοποιήσετε την υπηρεσία του τηλεφώνου σας. 
@@ -693,7 +695,7 @@
     <string name="no_sip_account_found_title">No Internet calling account</string>
     <string name="no_sip_account_found">There are no Internet calling accounts on this phone. Do you want to add one now?</string>
     <string name="sip_menu_add">Add</string>
-    <string name="add_sip_account">Add account</string>
+    <string name="add_sip_account">Προσθήκη λογαριασμού</string>
     <string name="remove_sip_account">Remove account</string>
     <string name="sip_account_list">SIP accounts</string>
     <string name="saving_account">Saving the account…</string>
@@ -767,10 +769,10 @@
     <string name="respond_via_sms_canned_response_3">"I'll call you later."</string>
     <string name="respond_via_sms_canned_response_4">"Can't talk now. Call me later?"</string>
     <string name="respond_via_sms_custom_message">Write your own...</string>
-    <string name="respond_via_sms_setting_title">Quick responses</string>
-    <string name="respond_via_sms_setting_title_2">Edit quick responses</string>
+    <string name="respond_via_sms_setting_title">Γρήγορες απαντήσεις</string>
+    <string name="respond_via_sms_setting_title_2">Επεξεργασία γρήγορων απαντήσεων</string>
     <string name="respond_via_sms_setting_summary" />
-    <string name="respond_via_sms_edittext_dialog_title">Quick response</string>
+    <string name="respond_via_sms_edittext_dialog_title">Γρήγορη απάντηση</string>
     <string name="respond_via_sms_menu_reset_default_activity">Reset default app</string>
     <string name="respond_via_sms_confirmation_format">Message sent to %s.</string>
     <string name="description_image_button_one">one</string>
@@ -847,9 +849,9 @@
     <string name="addSimEntries">Add SIM contacts</string>
     <string name="deleteAllSimEntries">Delete SIM contacts</string>
     <string name="deleteSimContacts">Deleting SIM contacts…</string>
-    <string name="editContact">Edit</string>
+    <string name="editContact">Επεξεργασία</string>
     <string name="sendSms">Send message</string>
-    <string name="delete">Delete</string>
+    <string name="delete">Διαγραφή</string>
     <string name="dial">Dial</string>
     <string name="enterName">Όνομα</string>
     <string name="enterNumber">Phone</string>
@@ -890,7 +892,7 @@
     <string name="auto_answer_delay_title_miui">Delay auto-answer</string>
     <string name="auto_answer_pref_summary_miui">Answer incoming calls automatically</string>
     <string name="auto_answer_pref_title_miui">Auto-answer</string>
-    <string name="auto_answer_scenario_enteries_always_miui">Always</string>
+    <string name="auto_answer_scenario_enteries_always_miui">Πάντα</string>
     <string name="auto_answer_scenario_enteries_bluetooth_only_miui">Bluetooth only</string>
     <string name="auto_answer_scenario_enteries_headset_bluetooth_miui">Headset or Bluetooth only</string>
     <string name="auto_answer_scenario_enteries_headset_only_miui">Headset only</string>
@@ -1139,10 +1141,10 @@ Your phone will be locked automatically after another failed attempt"</string>
     <string name="preferred_network_type_title_miui">Preferred network type</string>
     <string name="puk_lock_warning_miui">"
 Your SIM card will be erased after another failed attempt."</string>
-    <string name="remove_miui">Delete</string>
-    <string name="reject_via_sms_miui">Quick responses</string>
+    <string name="remove_miui">Διαγραφή</string>
+    <string name="reject_via_sms_miui">Γρήγορες απαντήσεις</string>
     <string name="reject_via_sms_summary_miui">Edit pre-written text responses</string>
-    <string name="reject_via_sms_title_miui">Quick responses</string>
+    <string name="reject_via_sms_title_miui">Γρήγορες απαντήσεις</string>
     <string name="separate_from_conference_miui">Separate call</string>
     <string name="set_smsc_address_error_miui">Failed to set number</string>
     <string name="set_smsc_address_timeout_miui">Connection timed out</string>
@@ -1189,7 +1191,7 @@ Your SIM card will be erased after another failed attempt."</string>
     <string name="voice_quality_ui_values_crisp_miui">Crisp</string>
     <string name="voice_quality_ui_values_normal_miui">Normal</string>
     <string name="sim_contacts_title_miui">Contacts on SIM card</string>
-    <string name="delete_sim_entry_miui">Delete</string>
+    <string name="delete_sim_entry_miui">Διαγραφή</string>
     <string name="confirm_delete_sim_entry_miui">%d contacts on SIM card will be deleted.</string>
     <string name="deleting_sim_entry_miui">Deleting…</string>
     <string name="delete_selected_sim_entry_miui">Delete selected contacts</string>

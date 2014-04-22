@@ -62,8 +62,8 @@
   <string name="data_usage_warning_summary">Using your mobile data connection to stream higher quality music may increase your data usage costs.</string>
   <string name="default_interval">30</string>
   <string name="delete_file_from_sdcard">Delete file from SD card</string>
-  <string name="delete_item">Delete</string>
-  <string name="delete_playlist_menu">Delete</string>
+  <string name="delete_item">Διαγραφή</string>
+  <string name="delete_playlist_menu">Διαγραφή</string>
   <string name="delete_song_desc">\"%s\" will be permanently deleted from the SD card.</string>
   <string name="deselect_all">Reject all</string>
   <string name="dirac_mode_earbuds">Xiaomi headphones</string>
@@ -111,7 +111,7 @@
   <string name="eq_preset_select">Choose a preset</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Equalizer</string>
-  <string name="equalizer_delete">Delete</string>
+  <string name="equalizer_delete">Διαγραφή</string>
   <string name="equalizer_delete_success">Equalizer profile successfully removed</string>
   <string name="equalizer_save_success">Equalizer profile saved</string>
   <string name="expired">Expired</string>

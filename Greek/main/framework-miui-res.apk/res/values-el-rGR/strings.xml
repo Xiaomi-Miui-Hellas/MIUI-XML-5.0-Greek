@@ -232,7 +232,7 @@
   <string name="country_name_tl">TL</string>
   <string name="country_name_tm">TM</string>
   <string name="country_name_tn">TN</string>
-  <string name="country_name_to">TO</string>
+  <string name="country_name_to">ΠΡΟΣ</string>
   <string name="country_name_tr">TR</string>
   <string name="country_name_tt">TT</string>
   <string name="country_name_tv">TV</string>
@@ -309,7 +309,7 @@
   <string name="group_name_friends">Friends</string>
   <string name="heavy_snow"/>
   <string name="hoar_frost_falls"/>
-  <string name="hours">%d hours</string>
+  <string name="hours">%d ώρες</string>
   <string name="incorrect_pincode">Incorrect PIN code</string>
   <string name="incorrect_pincode_remaining_attempts">Incorrect PIN code, attempts remaining %d</string>
   <string name="incorrect_pukcode">Incorrect PUK code</string>
@@ -388,7 +388,7 @@ Try again in %d seconds."</string>
   <string name="month_of_september">Sep</string>
   <string name="multi_select_title">Selected %1$s item(s)</string>
   <string name="national_day"/>
-  <string name="never">Never</string>
+  <string name="never">Ποτέ</string>
   <string name="new_years_day"/>
   <string name="no_sim">No SIM, service is unavailable</string>
   <string name="open_wifi_settings">Open Wi-Fi Settings</string>
@@ -493,11 +493,11 @@ Try again in %d seconds."</string>
   <string name="v5_time_picker_label_minute">Min</string>
   <string name="valentines_day"/>
   <string name="vernal_equinox"/>
-  <string name="volume_alarm">Alarm</string>
+  <string name="volume_alarm">Ξυπνητήρι</string>
   <string name="volume_icon_description_bluetooth">Bluetooth</string>
   <string name="volume_icon_description_incall">Call</string>
   <string name="volume_icon_description_media">Media</string>
-  <string name="volume_icon_description_notification">Notification</string>
+  <string name="volume_icon_description_notification">Ειδοποίηση</string>
   <string name="volume_icon_description_ringer">Ringtone</string>
   <string name="volume_ring_description">Ringtone and notification volume</string>
   <string name="wake_alarm_message">Pause alarm. Remind in %s </string>

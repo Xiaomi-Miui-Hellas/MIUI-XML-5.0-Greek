@@ -15,7 +15,7 @@
         <item>Organization</item>
         <item>IM</item>
         <item>SIP Phone</item>
-        <item>Birthday</item>
+        <item>Birthμέρα</item>
         <item>Website</item>
         <item>Διεύθυνση</item>
         <item>Note</item>
@@ -46,8 +46,8 @@
         <item>Άλλο</item>
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
-        <item>Always</item>
+        <item>Πάντα</item>
         <item>Only when silent</item>
-        <item>Never</item>
+        <item>Ποτέ</item>
     </string-array>
 </resources>

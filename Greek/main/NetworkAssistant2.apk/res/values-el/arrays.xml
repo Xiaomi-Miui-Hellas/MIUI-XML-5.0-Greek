@@ -7,8 +7,8 @@
         <item>GB</item>
     </string-array>
     <string-array name="date_of_traffic">
-        <item>Yesterday</item>
-        <item>Today</item>
+        <item>Yesterμέρα</item>
+        <item>Σήμερα</item>
         <item>This month</item>
     </string-array>
     <string-array name="date_of_app_all">

@@ -34,9 +34,9 @@
         <item>Top bar</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
-        <item>2 minutes</item>
-        <item>5 minutes</item>
-        <item>1 hour</item>
+        <item>2 λεπτά</item>
+        <item>5 λεπτά</item>
+        <item>1 ώρα</item>
         <item>Never time out</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
@@ -45,7 +45,7 @@
         <item>5 seconds</item>
         <item>10 seconds</item>
         <item>20 seconds</item>
-        <item>Always</item>
+        <item>Πάντα</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
         <item>Strong</item>
@@ -78,14 +78,14 @@
         <item>Mixed password</item>
     </string-array>
     <string-array name="dream_timeout_entries">
-        <item>Never</item>
+        <item>Ποτέ</item>
         <item>15 seconds</item>
         <item>30 seconds</item>
-        <item>1 minute</item>
-        <item>2 minutes</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>30 minutes</item>
+        <item>1 λεπτό</item>
+        <item>2 λεπτά</item>
+        <item>5 λεπτά</item>
+        <item>10 λεπτά</item>
+        <item>30 λεπτά</item>
     </string-array>
     <string-array name="emergency_tone_entries">
         <item>Off</item>
@@ -113,11 +113,11 @@
         <item>5 seconds</item>
         <item>15 seconds</item>
         <item>30 seconds</item>
-        <item>1 minute</item>
-        <item>2 minutes</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>30 minutes</item>
+        <item>1 λεπτό</item>
+        <item>2 λεπτά</item>
+        <item>5 λεπτά</item>
+        <item>10 λεπτά</item>
+        <item>30 λεπτά</item>
     </string-array>
     <string-array name="multi_sim_entries">
         <item>Subscription 1</item>
@@ -142,10 +142,10 @@
         <item>Subscription 2</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
-        <item>After 1 minute</item>
-        <item>After 5 minutes</item>
-        <item>After 10 minutes</item>
-        <item>Never</item>
+        <item>After 1 λεπτό</item>
+        <item>After 5 λεπτά</item>
+        <item>After 10 λεπτά</item>
+        <item>Ποτέ</item>
     </string-array>
     <string-array name="power_dialog_cpu_state_items">
         <item>High performance</item>
@@ -155,11 +155,11 @@
     <string-array name="power_dialog_sleep_items">
         <item>15 seconds</item>
         <item>30 seconds</item>
-        <item>1 minute</item>
-        <item>2 minutes</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>Never</item>
+        <item>1 λεπτό</item>
+        <item>2 λεπτά</item>
+        <item>5 λεπτά</item>
+        <item>10 λεπτά</item>
+        <item>Ποτέ</item>
     </string-array>
     <string-array name="power_dialog_vibration_items">
         <item>Never vibrate</item>
@@ -220,17 +220,17 @@
     <string-array name="screen_timeout_entries">
         <item>15 seconds</item>
         <item>30 seconds</item>
-        <item>1 minute</item>
-        <item>2 minutes</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>Never</item>
+        <item>1 λεπτό</item>
+        <item>2 λεπτά</item>
+        <item>5 λεπτά</item>
+        <item>10 λεπτά</item>
+        <item>Ποτέ</item>
     </string-array>
     <string-array name="slideshow_time_entries">
-        <item>5 minutes</item>
-        <item>15 minutes</item>
-        <item>30 minutes</item>
-        <item>1 hour</item>
+        <item>5 λεπτά</item>
+        <item>15 λεπτά</item>
+        <item>30 λεπτά</item>
+        <item>1 ώρα</item>
         <item>Unlimited</item>
     </string-array>
     <string-array name="startup_hips_action">
@@ -347,14 +347,14 @@
         <item>Excellent</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
-        <item>Always</item>
+        <item>Πάντα</item>
         <item>Only when plugged in</item>
         <item>Never (increases data usage)</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
-        <item>Always</item>
+        <item>Πάντα</item>
         <item>Only when plugged in</item>
-        <item>Never</item>
+        <item>Ποτέ</item>
     </string-array>
     <string-array name="wifi_status">
         <item></item>

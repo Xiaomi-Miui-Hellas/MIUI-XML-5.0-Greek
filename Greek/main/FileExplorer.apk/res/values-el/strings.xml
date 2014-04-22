@@ -20,8 +20,8 @@
     <string name="operation_move">Cut</string>
     <string name="operation_send">Αποστολή</string>
     <string name="operation_rename">Rename</string>
-    <string name="operation_delete">Delete</string>
-    <string name="operation_info">Details</string>
+    <string name="operation_delete">Διαγραφή</string>
+    <string name="operation_info">Λεπτομέρειες</string>
     <string name="operation_cancel">Άκυρο</string>
     <string name="operation_refresh">Ανανέωση</string>
     <string name="operation_show_sys">Show hidden files</string>
@@ -47,7 +47,7 @@
     <string name="colon">": "</string>
     <string name="operation_rename_message">Name folder</string>
     <string name="operation_create_folder_message">Name folder</string>
-    <string name="operation_delete_confirm_message">Delete</string>
+    <string name="operation_delete_confirm_message">Διαγραφή</string>
     <string name="operation_delete_confirm_message_folder">"All folder contents will be deleted.
 "</string>
     <string name="delete_folder">Delete this folder?</string>
