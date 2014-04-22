@@ -88,14 +88,14 @@
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Once</item>
-        <item>Daily</item>
+        <item>Καθημερινά</item>
         <item>Work μέρες</item>
         <item>Mon to Fri</item>
         <item>Custom</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Once</item>
-        <item>Daily</item>
+        <item>Καθημερινά</item>
         <item>Mon to Fri</item>
         <item>Custom</item>
     </string-array>

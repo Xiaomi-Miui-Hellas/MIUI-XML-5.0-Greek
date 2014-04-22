@@ -123,7 +123,7 @@ CC: %4$s
     <string name="forward_download_failed_title">Attachment not forwarded</string>
     <string name="login_failed_ticker">%s signin unsuccessful.</string>
     <string name="login_failed_title">"Couldn't sign in"</string>
-    <string name="account_setup_basics_title">Add account</string>
+    <string name="account_setup_basics_title">Προσθήκη λογαριασμού</string>
     <string name="account_setup_basics_headline">Email account</string>
     <string name="accounts_welcome">You can set up your account in just a few steps.</string>
     <string name="account_setup_basics_email_label">Email address</string>
@@ -267,7 +267,7 @@ CC: %4$s
     <string name="account_settings_retry_summary">Touch here to sync this account</string>
     <string name="account_settings_description_label">Account name</string>
     <string name="account_settings_name_label">Your name</string>
-    <string name="account_settings_edit_quick_responses_label">Quick responses</string>
+    <string name="account_settings_edit_quick_responses_label">Γρήγορες απαντήσεις</string>
     <string name="account_settings_edit_quick_responses_summary">Edit text that you frequently insert when composing email</string>
     <string name="account_settings_notifications">Notification settings</string>
     <string name="account_settings_data_usage">Data usage</string>
@@ -279,7 +279,7 @@ CC: %4$s
     <string name="system_folders_sent_title">Sent items folder</string>
     <string name="system_folders_sent_summary">"Select your server's sent items folder"</string>
     <string name="system_folders_sent_dlg">"Select your server's sent items folder"</string>
-    <string name="edit_quick_response_dialog">Quick response</string>
+    <string name="edit_quick_response_dialog">Γρήγορη απάντηση</string>
     <string name="save_action">Αποθήκευση</string>
     <string name="account_settings_sync_contacts_enable">Sync contacts</string>
     <string name="account_settings_sync_contacts_summary">Sync contacts for this account</string>
@@ -396,12 +396,12 @@ CC: %4$s
     <string name="report_spam">Report spam</string>
     <string name="mark_not_spam">Report not spam</string>
     <string name="report_phishing">Report phishing</string>
-    <string name="delete">Delete</string>
+    <string name="delete">Διαγραφή</string>
     <string name="discard_drafts">Discard drafts</string>
     <string name="refresh">Ανανέωση</string>
     <string name="reply">Reply</string>
     <string name="reply_all">Reply all</string>
-    <string name="resume_draft">Edit</string>
+    <string name="resume_draft">Επεξεργασία</string>
     <string name="forward">Προώθηση</string>
     <string name="menu_compose">Compose</string>
     <string name="menu_change_folders">Change folders</string>
@@ -588,7 +588,7 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
     <string name="notification_action_reply_all">Reply all</string>
     <string name="notification_action_archive">Archive</string>
     <string name="notification_action_remove_label">Remove label</string>
-    <string name="notification_action_delete">Delete</string>
+    <string name="notification_action_delete">Διαγραφή</string>
     <string name="notification_action_undo_archive">Archived</string>
     <string name="notification_action_undo_remove_label">Label Removed</string>
     <string name="notification_action_undo_delete">Deleted</string>
@@ -620,7 +620,7 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
     <string name="conversation_photo_welcome_text">Touch a sender image to select that conversation.</string>
     <string name="long_press_to_select_tip">Touch &amp; hold to select one conversation, then touch to select more.</string>
     <string name="folder_icon_desc">Folder icon</string>
-    <string name="add_account">Add account</string>
+    <string name="add_account">Προσθήκη λογαριασμού</string>
     <string name="attached_message">Attached message</string>
     <string name="date_message_received">%1$s, %2$s</string>
     <string name="date_message_received_today">Today, %1$s</string>

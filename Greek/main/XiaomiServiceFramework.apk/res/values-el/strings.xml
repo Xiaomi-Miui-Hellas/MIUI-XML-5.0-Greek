@@ -225,7 +225,7 @@ To solve this, you can either clean out old files, or purchase additional storag
   <string name="reging">Registering, please wait…</string>
   <string name="relogin">Login</string>
   <string name="remove_account_notice">What would you like to do with the previously synced Messages, Contacts, Call logs, and notes on your device?</string>
-  <string name="remove_confirm">Delete</string>
+  <string name="remove_confirm">Διαγραφή</string>
   <string name="remove_unactivated_account_notice">The Xiaomi account is not activated, do you wish to remove it now?</string>
   <string name="removing_account">Removing account…</string>
   <string name="restoreSync">Restore sync</string>

@@ -26,7 +26,7 @@
     <string name="dialog_media_not_found">Cannot download. The external media is not available.</string>
     <string name="download_no_application_title">Cannot open file</string>
     <string name="remove_download">Αφαίρεση</string>
-    <string name="delete_download">Delete</string>
+    <string name="delete_download">Διαγραφή</string>
     <string name="keep_queued_download">Keep</string>
     <string name="cancel_running_download">Άκυρο</string>
     <string name="retry_download">Retry</string>
@@ -67,7 +67,7 @@
     <string name="download_complete">Downloaded</string>
     <string name="retry_after_network_available">Please retry while network connection is available</string>
     <string name="editmode_menu_share">Διαμοιρασμός</string>
-    <string name="editmode_menu_delete">Delete</string>
+    <string name="editmode_menu_delete">Διαγραφή</string>
     <string name="all_downloads">All downloads</string>
     <string name="app_downloads">%s downloads</string>
     <string name="xunlei_brand">Powered by Xunlei</string>

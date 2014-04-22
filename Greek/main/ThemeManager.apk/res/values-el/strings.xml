@@ -108,7 +108,7 @@
   <string name="resource_delta_update_failed">Patch update failed! The complete resource will now be downloaded</string>
   <string name="resource_delta_update_successful">Patch update successful，saving %1$s.</string>
   <string name="resource_delta_update_total">%1$d patch updates. Total saved %2$s</string>
-  <string name="resource_detail">Details</string>
+  <string name="resource_detail">Λεπτομέρειες</string>
   <string name="resource_detail_comment_title">Comments</string>
   <string name="resource_detail_jump_to_online_title">Online</string>
   <string name="resource_detail_jump_to_same_author_title">Same author</string>

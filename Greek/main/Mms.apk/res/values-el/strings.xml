@@ -63,7 +63,7 @@
   <string name="confirm_delete_locked_message">Delete this locked message?</string>
   <string name="confirm_delete_message">The message will be deleted.</string>
   <string name="confirm_dialog_locked_title">Delete locked message?</string>
-  <string name="confirm_dialog_title">Delete</string>
+  <string name="confirm_dialog_title">Διαγραφή</string>
   <string name="confirm_export_dialog_description">Remove selected private contact, conversation will be moved to normal SMS. Do you want to continue?</string>
   <string name="confirm_export_dialog_title">Remove private contact</string>
   <string name="confirm_no_block_positive">"Don't block and restore"</string>
@@ -96,7 +96,7 @@
   <string name="database_corruption">Database corrupted, recreating database</string>
   <string name="delete">Διαγραφή</string>
   <string name="delete_bookmark">Remove from Favorites</string>
-  <string name="delete_message">Delete</string>
+  <string name="delete_message">Διαγραφή</string>
   <string name="delete_phrase">Delete phrase</string>
   <string name="delete_unlocked">Delete locked messages</string>
   <string name="delivery_report_activity">Delivery report</string>
@@ -123,7 +123,7 @@
   <string name="edit_slideshow_activity">Edit slideshow</string>
   <string name="enable_password_protect">Enable password protect</string>
   <string name="enable_visible_pattern_title">Make pattern visible</string>
-  <string name="enter_edit_mode">Delete</string>
+  <string name="enter_edit_mode">Διαγραφή</string>
   <string name="error_code_label">"Error code: "</string>
   <string name="error_state">Inconsistent state</string>
   <string name="error_state_text">The state of threads and recipients is inconsistent. Please capture a bug report and report it via http://go/droidanizer</string>
@@ -397,7 +397,7 @@ Report bugs and send feedback directly to Xiaomi.”</string>
   <string name="sim_card2">SIM 2</string>
   <string name="sim_card_cloud">%s (Cloud Message)</string>
   <string name="sim_copy_to_phone_memory">Copy to phone memory</string>
-  <string name="sim_delete">Delete</string>
+  <string name="sim_delete">Διαγραφή</string>
   <string name="sim_empty">No messages on the SIM card.</string>
   <string name="sim_full_body">Delete some messages to make room for more.</string>
   <string name="sim_full_title">SIM card full</string>

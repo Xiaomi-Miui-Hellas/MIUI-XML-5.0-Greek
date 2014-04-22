@@ -37,7 +37,7 @@
     <string name="auto_silence_never">Ποτέ</string>
     <string name="done">Έγινε</string>
     <string name="revert">Revert</string>
-    <string name="delete">Delete</string>
+    <string name="delete">Διαγραφή</string>
     <string name="alarm_volume_title">Alarm volume</string>
     <string name="alarm_volume_summary">Set alarm volume</string>
     <string name="silent_alarm_summary">Silent</string>
