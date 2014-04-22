@@ -202,7 +202,7 @@ the content you're looking for is not currently available in your region."</stri
     <string name="contactDetailAbout">About</string>
     <string name="contactDetailUpdates">Updates</string>
     <string name="searchHint">Search contacts</string>
-    <string name="menu_search">Search</string>
+    <string name="menu_search">Αναζήτηση</string>
     <string name="menu_newContact">New contact</string>
     <string name="menu_viewContact">View contact</string>
     <string name="menu_callNumber">Call %s</string>

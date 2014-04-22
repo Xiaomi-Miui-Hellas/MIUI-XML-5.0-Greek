@@ -6,7 +6,7 @@
     <string name="confirm">Confirm</string>
     <string name="menu_item_ftp">FTP</string>
     <string name="menu_item_cleanup">Cleanup</string>
-    <string name="menu_item_search">Search</string>
+    <string name="menu_item_search">Αναζήτηση</string>
     <string name="operation_create_folder">Νέος φάκελος</string>
     <string name="menu_item_sort">Sort by</string>
     <string name="menu_item_sort_name">Όνομα</string>
@@ -85,8 +85,8 @@
     <string name="instruction">Enter the following address into an FTP client:</string>
     <string name="no_wifi">No WLAN connection detected.</string>
     <string name="no_wifi_hint">Check your connection settings.</string>
-    <string name="search_title">Search</string>
-    <string name="search_hint">Search</string>
+    <string name="search_title">Αναζήτηση</string>
+    <string name="search_hint">Αναζήτηση</string>
     <string name="dialog_select_type">Select type</string>
     <string name="dialog_type_text">Text</string>
     <string name="dialog_type_audio">Audio</string>

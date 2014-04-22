@@ -214,7 +214,7 @@
   <string name="pano_dialog_title">Panorama</string>
   <string name="pano_dialog_waiting_previous">Waiting for previous panorama</string>
   <string name="pano_file_name_format">"'PANO'yyyyMMddHHmmss"</string>
-  <string name="pano_review_saving_indication_str">Saving…</string>
+  <string name="pano_review_saving_indication_str">Αποθηκεύει…</string>
   <string name="pano_too_fast_prompt">Too fast</string>
   <string name="path">Path</string>
   <string name="pause_all_tasks">Pause all task</string>

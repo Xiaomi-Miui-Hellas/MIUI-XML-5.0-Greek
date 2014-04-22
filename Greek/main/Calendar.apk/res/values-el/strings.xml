@@ -26,7 +26,7 @@
     <string name="goto_today">Today</string>
     <string name="menu_preferences">Ρυθμίσεις</string>
     <string name="menu_select_visible_calendars">Calendars to display</string>
-    <string name="search">Search</string>
+    <string name="search">Αναζήτηση</string>
     <string name="hide_controls">Hide controls</string>
     <string name="show_controls">Show controls</string>
     <string name="select_visible_calendars_title">Calendars to display</string>
