@@ -67,7 +67,7 @@
     <string name="view_event_calendar_label">Calendar:</string>
     <string name="view_event_organizer_label">Organizer:</string>
     <string name="view_event_response_label">Attending?</string>
-    <string name="response_yes">Yes</string>
+    <string name="response_yes">Ναι</string>
     <string name="response_maybe">Maybe</string>
     <string name="response_no">Όχι</string>
     <string name="email_guests_label">Email guests</string>

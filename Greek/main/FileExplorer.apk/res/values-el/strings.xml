@@ -63,7 +63,7 @@
     <string name="file_info_canread">Readable:</string>
     <string name="file_info_canwrite">Writable:</string>
     <string name="file_info_ishidden">Hidden:</string>
-    <string name="yes">Yes</string>
+    <string name="yes">Ναι</string>
     <string name="no">Όχι</string>
     <string name="operation_deleting">Deleting…</string>
     <string name="operation_pasting">Copying…</string>

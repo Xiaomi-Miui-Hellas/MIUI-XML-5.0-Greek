@@ -511,11 +511,11 @@ CC: %4$s
     <string name="message_invite_title">Calendar invite</string>
     <string name="message_invite_calendar_view">View in Calendar</string>
     <string name="message_invite_label_attending">Going?</string>
-    <string name="message_invite_accept">Yes</string>
+    <string name="message_invite_accept">Ναι</string>
     <string name="message_invite_tentative">Maybe</string>
     <string name="message_invite_decline">Όχι</string>
     <string name="enumeration_comma">", "</string>
-    <string name="yes">Yes</string>
+    <string name="yes">Ναι</string>
     <string name="no">Όχι</string>
     <string name="ok">ΟΚ</string>
     <string name="cancel">Άκυρο</string>

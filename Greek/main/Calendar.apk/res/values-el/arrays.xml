@@ -141,7 +141,7 @@
     </string-array>
     <string-array name="response_labels1">
         <item>No response</item>
-        <item>Yes</item>
+        <item>Ναι</item>
         <item>Maybe</item>
         <item>Όχι</item>
     </string-array>

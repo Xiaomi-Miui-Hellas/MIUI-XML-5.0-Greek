@@ -552,7 +552,7 @@
     <string name="managed_roaming_title_sub2">Managed Roaming (SUB2)</string>
     <string name="managed_roaming_title_sub3">Managed Roaming (SUB3)</string>
     <string name="managed_roaming_dialog_content">Network with Limited Service found. Do you want to initiate a Network Search?</string>
-    <string name="managed_roaming_dialog_ok_button">Yes</string>
+    <string name="managed_roaming_dialog_ok_button">Ναι</string>
     <string name="managed_roaming_dialog_cancel_button">No</string>
     <string name="ota_title_activate">Activate your phone</string>
     <string name="ota_touch_activate">"A special call needs to be made to activate your phone service. 
@@ -583,7 +583,7 @@ Try again or call customer service for more options."</string>
     <string name="phone_in_ecm_call_notification_text">Data connection disabled</string>
     <string name="alert_dialog_in_ecm_call">"The selected action isn't available while in an emergency call."</string>
     <string name="progress_dialog_exiting_ecm">Exiting Emergency Callback mode</string>
-    <string name="alert_dialog_yes">Yes</string>
+    <string name="alert_dialog_yes">Ναι</string>
     <string name="alert_dialog_no">No</string>
     <string name="alert_dialog_dismiss">Dismiss</string>
     <string name="voicemail_provider">Service</string>

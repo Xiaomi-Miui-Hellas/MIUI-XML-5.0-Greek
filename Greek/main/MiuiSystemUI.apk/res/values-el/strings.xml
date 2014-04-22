@@ -123,7 +123,7 @@
   <string name="mdb_restore_label">MDB Restore</string>
   <string name="mdb_restore_mode">MDB Restore Mode</string>
   <string name="mdb_usb_disconnection_exit">USB disconnected, restore aborting!</string>
-  <string name="mount_storage">Yes</string>
+  <string name="mount_storage">Ναι</string>
   <string name="move_data_to_sdcard_message">"It will move data such as screenshots, pictures and so on from internal storage to SD card. To make sure smooth and stable use experience, it's better to keep SD card in phone for daily use."</string>
   <string name="move_data_to_sdcard_title">Export internal data to SD card</string>
   <string name="no_notification_tips">No notifications</string>
