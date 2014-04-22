@@ -620,7 +620,7 @@
   <string name="wifi_disconnected_content">Wifi has already disconnected,the cloud albums transmission task may use GPRS, whether to continue the transmission?</string>
   <string name="wifi_disconnected_title">Wifi disconnected</string>
   <string name="wifi_not_connected_cancel">Cancel</string>
-  <string name="wifi_not_connected_continue">Continue</string>
+  <string name="wifi_not_connected_continue">Συνέχεια</string>
   <string name="wifi_not_contected_msg">Wifi is not connected，may produce a large number of GPRS flow, whether to continue?</string>
   <string name="wifi_not_contected_title">Wifi not connected</string>
   <string name="yes">Yes</string>

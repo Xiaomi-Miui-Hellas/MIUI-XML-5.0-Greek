@@ -316,7 +316,7 @@ Zapněte funkci Automaticky sdílet snímek a spojte zařízení tak, že je př
     <string name="pause">Pozastavit</string>
     <string name="resume">Pokračovat</string>
     <string name="snap_shot">Snímek</string>
-    <string name="stop">Stop</string>
+    <string name="stop">Στοπ</string>
     <string name="HDR_Title">HDR (High Dynamic Range)</string>
     <string name="SS_OPTIONS">Volby</string>
     <string name="HDR_ONLY">Pouze HDR</string>

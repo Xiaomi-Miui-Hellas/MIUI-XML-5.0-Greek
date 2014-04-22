@@ -69,7 +69,7 @@
   <string name="generate_share_link_failed">Generating shared connection failed!</string>
   <string name="generating_share_link">Creating sharing link…</string>
   <string name="get_share_failed">Failed to share!</string>
-  <string name="goback">Go back</string>
+  <string name="goback">Πίσω</string>
   <string name="guide_label">Transfer guide</string>
   <string name="hint_createfolder">Όνομα φακέλου</string>
   <string name="history">Transfer history</string>

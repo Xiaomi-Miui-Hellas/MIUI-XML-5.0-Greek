@@ -23,7 +23,7 @@
     <string name="resource_local">Local %1$s</string>
     <string name="resource_online">Online %1$s</string>
     <string name="resource_selected">Featured</string>
-    <string name="resource_ranking">Popular</string>
+    <string name="resource_ranking">Δημοφιλή</string>
     <string name="resource_ranking_free">Free</string>
     <string name="resource_ranking_purchase">Paid</string>
     <string name="resource_category">Category</string>
@@ -49,7 +49,7 @@
     <string name="resource_ringtone_playing_error">playing error</string>
     <string name="online_no_network">"Couldn't connect to network"</string>
     <string name="online_search_hint">Search for online resources</string>
-    <string name="loading">Loading…</string>
+    <string name="loading">Φορτώνει…</string>
     <string name="download_failed">Αποτυχία λήψης</string>
     <string name="download_preview_failed">Failed to load preview</string>
     <string name="resource_delete_confirm">Delete these resources?</string>
@@ -97,7 +97,7 @@ the content you're looking for is not currently available in your region."</stri
     <string name="deleting">Deleting…</string>
     <string name="resource_title_select_ringtone">Select tone</string>
     <string name="resource_tip_select_ringtone">None selected</string>
-    <string name="loading_resource_detail_info">Loading…</string>
+    <string name="loading_resource_detail_info">Φορτώνει…</string>
     <string name="loading_resource_detail_fail">Failed to load resource</string>
     <string name="resource_expand_full_text">Εμφάνιση</string>
     <string name="resource_account_login">Sign in</string>
@@ -158,7 +158,7 @@ the content you're looking for is not currently available in your region."</stri
     <string name="resource_comment_edit_text_default">Write a comment</string>
     <string name="resource_comment_publish">Submit</string>
     <string name="resource_comment_name_default">User %1$s</string>
-    <string name="resource_comment_loading_list">Loading…</string>
+    <string name="resource_comment_loading_list">Φορτώνει…</string>
     <string name="resource_comment_rate">Rating:</string>
     <string name="resource_comment_entry_tips">View comments</string>
     <string name="fail_to_add_account">Failed to add account</string>
@@ -644,7 +644,7 @@ Choose one of the following options:"</string>
     <string name="list_filter_phones">All contacts with phone numbers</string>
     <string name="list_filter_single">Contact</string>
     <string name="custom_list_filter">Define custom view</string>
-    <string name="contact_list_loading">Loading…</string>
+    <string name="contact_list_loading">Φορτώνει…</string>
     <string name="activity_title_settings">Ρυθμίσεις</string>
     <string name="activity_title_contacts_filter">Contacts to display</string>
     <string name="menu_settings">Ρυθμίσεις</string>
@@ -659,7 +659,7 @@ Choose one of the following options:"</string>
     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="date_year_toggle">Provide a year</string>
     <string name="social_widget_label">Contact</string>
-    <string name="social_widget_loading">Loading…</string>
+    <string name="social_widget_loading">Φορτώνει…</string>
     <string name="contacts_unavailable_create_contact">Create a new contact</string>
     <string name="contacts_unavailable_add_account">Sign in to an account</string>
     <string name="contacts_unavailable_import_contacts">Import contacts from a file</string>
@@ -771,7 +771,7 @@ Choose one of the following options:"</string>
     <string name="delete_call_log_title">Choose call log</string>
     <string name="menu_dialpad_text">Keypad</string>
     <string name="dialer_empty_text_no_search_result">No contacts found</string>
-    <string name="dialer_empty_text_loading">Loading…</string>
+    <string name="dialer_empty_text_loading">Φορτώνει…</string>
     <string name="dialer_empty_text_no_call_log">No recent contacts</string>
     <string name="callrecordview_menu_settings">Ρυθμίσεις</string>
     <string name="callrecordview_menu_show">Filter</string>
@@ -1036,12 +1036,12 @@ Choose one of the following options:"</string>
     <string name="device_paired_dialog_message">Fetching contacts…</string>
     <string name="no_contacts_dialog_title">Failed to find contacts</string>
     <string name="no_contacts_dialog_message">"Your contacts may be stored on your SIM card. Try importing contacts from your SIM card to your phone's internal storage and then try again."</string>
-    <string name="cancel_import_dialog_title">Stop</string>
+    <string name="cancel_import_dialog_title">Στοπ</string>
     <string name="cancel_import_dialog_message">Stop importing contacts?</string>
     <string name="title_paired_devices">Paired devices</string>
     <string name="title_other_devices">Other available devices</string>
     <string name="button_scan">Rescan</string>
-    <string name="button_cancel_scan">Stop</string>
+    <string name="button_cancel_scan">Στοπ</string>
     <string name="device_other_title">Other phone</string>
     <string name="device_other_guide">"If your phone isn't listed, follow the steps below"</string>
     <string name="my_phone_provider_bluetooth">My phone has Bluetooth</string>

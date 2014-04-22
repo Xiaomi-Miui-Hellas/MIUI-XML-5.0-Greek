@@ -85,7 +85,7 @@
     <string name="agenda_today">TODAY, %1$s</string>
     <string name="agenda_yesterday">YESTERDAY, %1$s</string>
     <string name="agenda_tomorrow">TOMORROW, %1$s</string>
-    <string name="loading">Loading…</string>
+    <string name="loading">Φορτώνει…</string>
     <string name="show_older_events">Touch to view events before %1$s</string>
     <string name="show_newer_events">Touch to view events after %1$s</string>
     <string name="search_title">Search my calendars</string>

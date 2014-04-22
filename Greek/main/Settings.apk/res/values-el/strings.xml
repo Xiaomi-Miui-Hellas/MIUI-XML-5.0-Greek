@@ -944,7 +944,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="filter">Filter</string>
   <string name="filter_apps_all">All</string>
   <string name="filter_apps_cached">Cached</string>
-  <string name="filter_apps_onsdcard">USB storage</string>
+  <string name="filter_apps_onsdcard">Αποθήκευση USB</string>
   <string name="filter_apps_running">Running</string>
   <string name="filter_apps_third_party">Downloaded</string>
   <string name="filter_dlg_title">Choose filter options</string>
@@ -1127,7 +1127,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="internal_media_format_final_desc">"Erase the Internal storage, deleting all files stored there? You can't reverse this action! Phone will restart after Internel storage is erased!"</string>
   <string name="internal_media_format_title">Erase Internal storage</string>
   <string name="internal_memory">Internal memory</string>
-  <string name="internal_storage">Internal storage</string>
+  <string name="internal_storage">Εσωτερική αποθήκευση</string>
   <string name="invalid_location">"Install location isn't valid."</string>
   <string name="invalid_size_value">"Couldn't compute package size."</string>
   <string name="ipaddr_label">IPaddr:</string>
@@ -1219,7 +1219,7 @@ Ready to start? Touch Next."</string>
   <string name="lockpassword_confirm_your_password_header">Confirm your password</string>
   <string name="lockpassword_confirm_your_pattern_header">Confirm your pattern</string>
   <string name="lockpassword_confirm_your_pin_header">Confirm your PIN</string>
-  <string name="lockpassword_continue_label">Continue</string>
+  <string name="lockpassword_continue_label">Συνέχεια</string>
   <string name="lockpassword_illegal_character">Password contains an illegal character.</string>
   <string name="lockpassword_ok_label">ΟΚ</string>
   <string name="lockpassword_password_recently_used">"Device administrator doesn't allow using a recent password."</string>
@@ -1239,7 +1239,7 @@ Ready to start? Touch Next."</string>
   <string name="lockpattern_change_lock_pattern_label">Change unlock pattern</string>
   <string name="lockpattern_change_lock_pin_label">Change PIN</string>
   <string name="lockpattern_confirm_button_text">Confirm</string>
-  <string name="lockpattern_continue_button_text">Continue</string>
+  <string name="lockpattern_continue_button_text">Συνέχεια</string>
   <string name="lockpattern_need_to_confirm">Draw pattern again to confirm</string>
   <string name="lockpattern_need_to_unlock">Confirm saved pattern</string>
   <string name="lockpattern_need_to_unlock_footer"/>
@@ -1469,7 +1469,7 @@ try the following:
   <string name="opt_reject_blacklist_stranger">Reject calls from unknown numbers on blocklist</string>
   <string name="opt_reject_blacklist_stranger_summary">Calls from blocked numbers will be rejected automatically</string>
   <string name="opt_restore_perm">Restored default privacy permissions of %d programs</string>
-  <string name="opt_resume_desc">Continue</string>
+  <string name="opt_resume_desc">Συνέχεια</string>
   <string name="opt_scanning">Scanning…：</string>
   <string name="opt_score">83</string>
   <string name="opt_score_desc">pts</string>
@@ -2102,8 +2102,8 @@ Note: Apps with the permission may cause system instability, loss of personal da
   <string name="screensaver_timeout_summary">Timeout after %1$s spent idle</string>
   <string name="screensaver_timeout_title">Screensaver Timeout</string>
   <string name="screensaver_timeout_zero_summary">Never</string>
-  <string name="sd_card_settings_label">USB storage</string>
-  <string name="sd_card_storage">USB storage</string>
+  <string name="sd_card_settings_label">Αποθήκευση USB</string>
+  <string name="sd_card_storage">Αποθήκευση USB</string>
   <string name="sd_eject">Unmount shared storage</string>
   <string name="sd_eject_summary">Unmount the internal USB storage</string>
   <string name="sd_ejecting_summary">Unmount in progress</string>
@@ -2111,12 +2111,12 @@ Note: Apps with the permission may cause system instability, loss of personal da
   <string name="sd_format">Erase USB storage</string>
   <string name="sd_format_summary">Erases all data on the internal USB storage, such as music and photos</string>
   <string name="sd_insert_summary">Insert USB storage for mounting</string>
-  <string name="sd_memory">USB storage</string>
+  <string name="sd_memory">Αποθήκευση USB</string>
   <string name="sd_mount">Mount USB storage</string>
   <string name="sd_mount_summary"/>
   <string name="sdcard_changes_instructions">Changes take effect when USB cable is reconnected.</string>
   <string name="sdcard_format">Erase USB storage</string>
-  <string name="sdcard_setting">USB storage</string>
+  <string name="sdcard_setting">Αποθήκευση USB</string>
   <string name="sdcard_settings_available_bytes_label">Available bytes:</string>
   <string name="sdcard_settings_bad_removal_status">USB storage was removed while still in use!</string>
   <string name="sdcard_settings_mass_storage_status">USB storage is being used as a mass storage device.</string>
@@ -2182,7 +2182,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
   <string name="service_process_name">%1$s</string>
   <string name="service_restarting">Restarting</string>
   <string name="service_started_by_app">Started by app.</string>
-  <string name="service_stop">Stop</string>
+  <string name="service_stop">Στοπ</string>
   <string name="service_stop_description">App has started running service. Stopping may cause errors.</string>
   <string name="set_data_subscription_progress">Set data subscription in progress</string>
   <string name="set_dds_error">Error in set data subscription.</string>
@@ -2195,10 +2195,10 @@ Note: Apps with the permission may cause system instability, loss of personal da
   <string name="settings_button">Ρυθμίσεις</string>
   <string name="settings_label">Ρυθμίσεις</string>
   <string name="settings_label_launcher">Ρυθμίσεις</string>
-  <string name="settings_license_activity_loading">Loading…</string>
+  <string name="settings_license_activity_loading">Φορτώνει…</string>
   <string name="settings_license_activity_title">Open source licenses</string>
   <string name="settings_license_activity_unavailable">There is a problem loading the licenses.</string>
-  <string name="settings_safetylegal_activity_loading">Loading…</string>
+  <string name="settings_safetylegal_activity_loading">Φορτώνει…</string>
   <string name="settings_safetylegal_activity_title">Safety information</string>
   <string name="settings_safetylegal_activity_unreachable">"You don't have a data connection. To view this information now, go to %s from any computer connected to the Internet."</string>
   <string name="settings_safetylegal_title">Safety information</string>
@@ -2760,7 +2760,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wfd_enabler_title">Enable Wi-Fi Display</string>
   <string name="wfd_menu_search">Search for devices</string>
   <string name="wfd_menu_searching">Searching…</string>
-  <string name="wfd_menu_teardown">Stop</string>
+  <string name="wfd_menu_teardown">Στοπ</string>
   <string name="wfd_settings_description">Connect to display via Wi-Fi</string>
   <string name="wfd_settings_title">Wi-Fi Display</string>
   <string name="wfd_wps_keypad">Push button preferred</string>

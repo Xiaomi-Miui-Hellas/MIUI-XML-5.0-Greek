@@ -179,7 +179,7 @@ To solve this, you can either clean out old files, or purchase additional storag
   <string name="micloud_password_confirm_hint">Confirm password</string>
   <string name="micloud_password_error_inconsistent">Password mismatch</string>
   <string name="micloud_password_req_notice">8~16 chars, contains digits, alphabet letters, case sensitive</string>
-  <string name="micloud_proceed">Continue</string>
+  <string name="micloud_proceed">Συνέχεια</string>
   <string name="micloud_reg_new">Create new</string>
   <string name="micloud_resend_active_email">Re-send activation e-mail</string>
   <string name="micloud_space_full_influence">What happens if I run out of space?</string>

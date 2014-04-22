@@ -71,7 +71,7 @@ Please your check tracking number."</string>
   <string name="mishop_web_payment_title">MiStore checkout</string>
   <string name="navigation_search_all_cities">All cities</string>
   <string name="navigation_search_automatically_positioned_city">Current city</string>
-  <string name="navigation_search_hot_cities">Popular</string>
+  <string name="navigation_search_hot_cities">Δημοφιλή</string>
   <string name="navigation_search_no_city_list">No City data found!</string>
   <string name="navigation_search_positioning">Locating…</string>
   <string name="navigation_search_positioning_failed">Failed to locate city</string>

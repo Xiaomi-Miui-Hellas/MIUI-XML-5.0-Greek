@@ -477,7 +477,7 @@ CC: %4$s
     <string name="inbox_folders_heading">Local Folders</string>
     <string name="remote_folders_heading">Server Folders</string>
     <string name="confirm_discard_text">Discard this message?</string>
-    <string name="loading_conversations">Loading…</string>
+    <string name="loading_conversations">Φορτώνει…</string>
     <string name="undo">Undo</string>
     <string name="deleted">Deleted</string>
     <string name="archived">Archived</string>
@@ -529,7 +529,7 @@ CC: %4$s
     <string name="widget_other_views">Other</string>
     <string name="actionbar_large_unread_count">%1$d+ unread</string>
     <string name="view_more_conversations">View more conversations</string>
-    <string name="loading_conversation">Loading…</string>
+    <string name="loading_conversation">Φορτώνει…</string>
     <string name="activity_mailbox_selection">Choose account</string>
     <string name="activity_folder_selection">Choose folder</string>
     <string name="folder_shortcut_widget_label">Email folder</string>

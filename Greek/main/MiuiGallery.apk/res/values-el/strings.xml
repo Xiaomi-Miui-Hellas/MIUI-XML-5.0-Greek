@@ -179,7 +179,7 @@ friends."</string>
   <string name="exit_share_in_process">Trying to exit album, please wait…</string>
   <string name="exit_share_successfully">Exited album %1$s successfully</string>
   <string name="exposure_time">Χρόνος έκθεσης</string>
-  <string name="external_sd_card">SD card</string>
+  <string name="external_sd_card">Κάρτα SD</string>
   <string name="external_usb_device">USB device</string>
   <string name="external_usb_device_hm">External USB storage</string>
   <string name="facelift">Face Glow</string>
