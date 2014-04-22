@@ -38,7 +38,7 @@
     <string name="select_synced_calendars_button">Calendars to sync</string>
     <string name="hint_what">Event reminder content</string>
     <string name="hint_where">Τοποθεσία</string>
-    <string name="hint_description">Description</string>
+    <string name="hint_description">Περιγραφή</string>
     <string name="hint_attendees">Guests</string>
     <string name="creating_event">Event created</string>
     <string name="saving_event">Event saved</string>
@@ -53,7 +53,7 @@
     <string name="edit_event_all_day_label">ALL DAY</string>
     <string name="edit_event_calendar_label">Calendar</string>
     <string name="edit_event_show_all">Show all</string>
-    <string name="description_label">Description</string>
+    <string name="description_label">Περιγραφή</string>
     <string name="presence_label">Status</string>
     <string name="privacy_label">Privacy</string>
     <string name="reminders_label">Add reminder</string>

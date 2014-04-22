@@ -137,7 +137,7 @@
   <string name="failed_to_resize_image">Picture not resized.</string>
   <string name="fdn_check_failure">You can only send messages to your fixed dialling numbers.</string>
   <string name="feedback_description_hint">Please enter your feedback here</string>
-  <string name="feedback_submit">Submit</string>
+  <string name="feedback_submit">Καταχώριση</string>
   <string name="festival">Recommended</string>
   <string name="festival_sms_category_count_format">(%s)</string>
   <string name="festival_sms_loading">Φορτώνει…</string>

@@ -156,7 +156,7 @@ the content you're looking for is not currently available in your region."</stri
     <string name="resource_comment_edit_comment">Add comments</string>
     <string name="resource_comment_edit_comment_waiting">Checking user history…</string>
     <string name="resource_comment_edit_text_default">Write a comment</string>
-    <string name="resource_comment_publish">Submit</string>
+    <string name="resource_comment_publish">Καταχώριση</string>
     <string name="resource_comment_name_default">User %1$s</string>
     <string name="resource_comment_loading_list">Φορτώνει…</string>
     <string name="resource_comment_rate">Rating:</string>
