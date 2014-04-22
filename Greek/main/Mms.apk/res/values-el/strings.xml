@@ -102,8 +102,8 @@
   <string name="delivery_report_activity">Delivery report</string>
   <string name="delivery_toast_body">Message received by %s.</string>
   <string name="disable_notifications_dialog_message">Stop duplicate text message notifications from default Messaging app?</string>
-  <string name="discard">Discard</string>
-  <string name="discard_message">Discard</string>
+  <string name="discard">Απόρριψη</string>
+  <string name="discard_message">Απόρριψη</string>
   <string name="discard_message_reason">Your message will be discarded because it has no valid recipients.</string>
   <string name="discard_slideshow">Discard slideshow</string>
   <string name="dl_failure_notification">Download of message %1$s from %2$s was unsuccessful.</string>
@@ -137,7 +137,7 @@
   <string name="failed_to_resize_image">Picture not resized.</string>
   <string name="fdn_check_failure">You can only send messages to your fixed dialling numbers.</string>
   <string name="feedback_description_hint">Please enter your feedback here</string>
-  <string name="feedback_submit">Submit</string>
+  <string name="feedback_submit">Καταχώριση</string>
   <string name="festival">Recommended</string>
   <string name="festival_sms_category_count_format">(%s)</string>
   <string name="festival_sms_loading">Φορτώνει…</string>
@@ -277,7 +277,7 @@
   <string name="pref_messages_to_save">Set number of messages to save</string>
   <string name="pref_mms_settings_title">Multimedia message (MMS) settings</string>
   <string name="pref_notification_settings_title">Notification settings</string>
-  <string name="pref_other_title">Other</string>
+  <string name="pref_other_title">Άλλο</string>
   <string name="pref_sms_theme_title">Theme settings</string>
   <string name="pref_summary_allow_si_sl_push">Allow receiving and notifying WAP push messages (SI/SL)</string>
   <string name="pref_summary_delete_limit">%1$s messages per conversation</string>

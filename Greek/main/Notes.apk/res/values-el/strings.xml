@@ -49,7 +49,7 @@
   <string name="login_sync">Login &amp; sync</string>
   <string name="menu_create_folder">New Folder</string>
   <string name="menu_delete">Διαγραφή</string>
-  <string name="menu_discard">Discard</string>
+  <string name="menu_discard">Απόρριψη</string>
   <string name="menu_folder_change_name">Change folder name</string>
   <string name="menu_font_size">Font size</string>
   <string name="menu_move">Move to folder</string>

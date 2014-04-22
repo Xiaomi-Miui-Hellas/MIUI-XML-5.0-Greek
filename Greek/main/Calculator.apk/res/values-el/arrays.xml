@@ -20,22 +20,22 @@
         <item>=</item>
     </string-array>
     <string-array name="operatorDescs">
-        <item>left parenthesis</item>
-        <item>right parenthesis</item>
-        <item>factorial</item>
-        <item>natural logarithm</item>
-        <item>logarithm</item>
-        <item>square root</item>
-        <item>divided by</item>
-        <item>multiplied by</item>
-        <item>plus</item>
-        <item>minus</item>
+        <item>αριστερή παρένθεση</item>
+        <item>δεξιά παρένθεση</item>
+        <item>παραγοντικό</item>
+        <item>φυσικός λογάριθμος</item>
+        <item>λογάριθμος</item>
+        <item>τετραγωνική ρίζα</item>
+        <item>διαιρούμενο με</item>
+        <item>πολλαπλασιαζόμενο επί</item>
+        <item>πρόσθεση</item>
+        <item>αφαίρεση</item>
         <item> point </item>
-        <item>power</item>
-        <item>tangent</item>
-        <item>sine</item>
-        <item>cosine</item>
-        <item>pi</item>
-        <item>equals</item>
+        <item>δύναμη</item>
+        <item>εφαπτόμενη</item>
+        <item>ημίτονο</item>
+        <item>συνημίτονο</item>
+        <item>π</item>
+        <item>ίσον</item>
     </string-array>
 </resources>

@@ -362,7 +362,7 @@ CC: %4$s
     <string name="add_video_attachment">Attach video</string>
     <string name="add_attachment">Attach Files</string>
     <string name="save_draft">Save draft</string>
-    <string name="discard">Discard</string>
+    <string name="discard">Απόρριψη</string>
     <string name="compose">Compose</string>
     <string name="formatted_subject">%1$s%2$s</string>
     <string name="reply_attribution" formatted="false">On %s, %s wrote:</string>
@@ -385,7 +385,7 @@ CC: %4$s
 
 %s"</string>
     <string name="custom_from_account_label">Send mail as:</string>
-    <string name="send">Send</string>
+    <string name="send">Αποστολή</string>
     <string name="mark_read">Read</string>
     <string name="mark_unread">Unread</string>
     <string name="mute">Mute</string>
@@ -526,7 +526,7 @@ CC: %4$s
     <string name="tap_to_configure_folder_sync">Sync Folder</string>
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_all_mail">All Mail</string>
-    <string name="widget_other_views">Other</string>
+    <string name="widget_other_views">Άλλο</string>
     <string name="actionbar_large_unread_count">%1$d+ unread</string>
     <string name="view_more_conversations">View more conversations</string>
     <string name="loading_conversation">Φορτώνει…</string>
@@ -557,7 +557,7 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
     <string name="via_domain">via %1$s</string>
     <string name="signin">Sign-in</string>
     <string name="info">Info</string>
-    <string name="report">Report</string>
+    <string name="report">Αναφορά</string>
     <string name="sync_error">"Couldn't sync."</string>
     <string name="sync_error_message">"Your device doesn't have enough storage space to sync."</string>
     <string name="storage">Storage</string>

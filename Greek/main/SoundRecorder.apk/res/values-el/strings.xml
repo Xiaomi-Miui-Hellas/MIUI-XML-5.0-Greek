@@ -16,7 +16,7 @@
   <string name="deleting_message">Deleting…</string>
   <string name="dialog_content_storage_full">Due to lack of storage space, recording was forced to stop. Remove unnecessary files through the File Explorer, would you like to open it now?</string>
   <string name="dialog_play">Play</string>
-  <string name="dialog_send">Send</string>
+  <string name="dialog_send">Αποστολή</string>
   <string name="dialog_title_storage_full">Storage Full</string>
   <string name="dialog_warning">Warning</string>
   <string name="duration_format_hour">%sh</string>

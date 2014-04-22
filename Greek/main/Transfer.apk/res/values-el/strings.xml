@@ -104,7 +104,7 @@
   <string name="operation_delete">Delete</string>
   <string name="operation_goto_folder">Go to folder</string>
   <string name="operation_info">File info</string>
-  <string name="operation_send">Send</string>
+  <string name="operation_send">Αποστολή</string>
   <string name="pause">Pause</string>
   <string name="pic">Picture</string>
   <string name="picker_title">Choose app</string>

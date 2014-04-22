@@ -90,7 +90,7 @@
   <string name="resource_comment_name_default">User %1$s</string>
   <string name="resource_comment_no_average_score">0.0</string>
   <string name="resource_comment_no_comment">No comments</string>
-  <string name="resource_comment_publish">Submit</string>
+  <string name="resource_comment_publish">Καταχώριση</string>
   <string name="resource_comment_rate">Rating:</string>
   <string name="resource_comment_score_count">%1$s users</string>
   <string name="resource_comment_sending">Sending comment…</string>
@@ -180,7 +180,7 @@
   <string name="resource_see_more">See more</string>
   <string name="resource_select">Select</string>
   <string name="resource_selected">Featured</string>
-  <string name="resource_send">Send</string>
+  <string name="resource_send">Αποστολή</string>
   <string name="resource_server_alert_dialog_title">Service is currently unavailable</string>
   <string name="resource_server_out_of_service">Server unavailable, please try again later.</string>
   <string name="resource_share_subject">Share theme: %1$s</string>

@@ -538,7 +538,7 @@
   <string name="select_item">Select multiple</string>
   <string name="select_limit">"Selected pictures can't more than 500"</string>
   <string name="select_video">Select video</string>
-  <string name="send_to">Send</string>
+  <string name="send_to">Αποστολή</string>
   <string name="sepia">Sepia</string>
   <string name="sequence_in_set">%1$d of %2$d items:</string>
   <string name="set_as">Set as</string>

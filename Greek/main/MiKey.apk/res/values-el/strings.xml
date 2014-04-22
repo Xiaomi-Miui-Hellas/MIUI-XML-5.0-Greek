@@ -13,7 +13,7 @@
   <string name="action_open_sound_recorder">Reocrd sound</string>
   <string name="action_open_wechat">Open WeChat</string>
   <string name="action_phone">Phone</string>
-  <string name="action_screen_shot">Screenshot</string>
+  <string name="action_screen_shot">Στιγμιότυπο</string>
   <string name="action_send_text_message">Send SMS</string>
   <string name="action_share_to_moment">Share moment via  WeChat</string>
   <string name="action_share_to_wechat">Share via  WeChat</string>
