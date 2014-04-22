@@ -8,7 +8,7 @@
     </string-array>
     <string-array name="date_of_traffic">
         <item>Yesterμέρα</item>
-        <item>Toμέρα</item>
+        <item>Σήμερα</item>
         <item>This month</item>
     </string-array>
     <string-array name="date_of_app_all">

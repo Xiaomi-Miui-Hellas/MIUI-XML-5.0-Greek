@@ -940,7 +940,7 @@ Choose one of the following options:"</string>
     <string name="open_contact">View contact</string>
     <string name="send_contact_shortcut_todesktop_success">Added to Home screen</string>
     <string name="date_picker_label">Remind me 3 days before and again on the day of</string>
-    <string name="today">Toμέρα</string>
+    <string name="today">Σήμερα</string>
     <string name="next_birthday">Next birthday: %s</string>
     <string name="ringLabelsGroup">Ringtone</string>
     <string name="default_ringtone">Default ringtone</string>

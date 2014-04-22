@@ -2346,7 +2346,7 @@ Attempts Remaining :"</string>
   <string name="supplicant_state_label">Supplicant state:</string>
   <string name="sync_active">Sync active</string>
   <string name="sync_automatically">Auto-sync app data</string>
-  <string name="sync_calendar">Calendar</string>
+  <string name="sync_calendar">Ημερολόγιο</string>
   <string name="sync_contacts">Contacts</string>
   <string name="sync_disabled">Sync is OFF</string>
   <string name="sync_enable">Enable sync</string>
@@ -2385,7 +2385,7 @@ Attempts Remaining :"</string>
   <string name="tethering_help_button_text">Help</string>
   <string name="time_picker_title">Time</string>
   <string name="time_zone_auto_stub">Select Time Zone</string>
-  <string name="timezone_settings">Time zone</string>
+  <string name="timezone_settings">Ζώνη ώρας</string>
   <string name="title_app_update_no">%d apps have updates</string>
   <string name="title_app_update_yes">All apps up to date</string>
   <string name="title_data_flow_no">Data usage monitor off</string>

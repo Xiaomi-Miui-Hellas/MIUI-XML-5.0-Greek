@@ -83,8 +83,8 @@
     </string-array>
     <string-array name="days">
         <item>Yesterμέρα</item>
-        <item>Toμέρα</item>
-        <item>Tomorrow</item>
+        <item>Σήμερα</item>
+        <item>Αύριο</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Once</item>
