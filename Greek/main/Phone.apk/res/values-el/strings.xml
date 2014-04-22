@@ -553,7 +553,7 @@
     <string name="managed_roaming_title_sub2">Υπεύθυνη για τη διαχείριση περιαγωγής (SUB2)</string>
     <string name="managed_roaming_title_sub3">Υπεύθυνη για τη διαχείριση περιαγωγής (SUB3)</string>
     <string name="managed_roaming_dialog_content">Βρέθηκε δίκτυο με περιορισμένη πρόσβαση. Θέλετε να ξεκινήσει η αναζήτηση δικτύου?</string>
-    <string name="managed_roaming_dialog_ok_button">Yes</string>
+    <string name="managed_roaming_dialog_ok_button">Ναι</string>
 =======
     <string name="notification_incoming_call">Incoming call</string>
     <string name="notification_voicemail_title">New voicemail</string>
