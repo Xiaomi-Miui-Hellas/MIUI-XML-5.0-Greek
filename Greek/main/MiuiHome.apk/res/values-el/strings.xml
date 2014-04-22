@@ -96,7 +96,7 @@
   <string name="menu_settings">Ρυθμίσεις</string>
   <string name="menu_sort">Sort app icons</string>
   <string name="menu_wallpaper">Wallpaper</string>
-  <string name="menu_workspace_preview">Preview</string>
+  <string name="menu_workspace_preview">Προεπισκόπιση</string>
   <string name="out_of_space">No space on this Home screen.</string>
   <string name="permdesc_install_shortcut">Allows an application to add shortcuts without user intervention.</string>
   <string name="permdesc_install_widget">Allows an application to add widgets without user intervention.</string>

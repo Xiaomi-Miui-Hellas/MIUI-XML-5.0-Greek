@@ -434,7 +434,7 @@ CC: %4$s
     <string name="attachment_application_vnd_ms_excel">Spreadsheet</string>
     <string name="attachment_application_pdf">PDF</string>
     <string name="attachment_unknown">%s File</string>
-    <string name="preview_attachment">Preview</string>
+    <string name="preview_attachment">Προεπισκόπιση</string>
     <string name="save_attachment">Αποθήκευση</string>
     <string name="cancel_attachment">Άκυρο</string>
     <string name="download_again">Download again</string>

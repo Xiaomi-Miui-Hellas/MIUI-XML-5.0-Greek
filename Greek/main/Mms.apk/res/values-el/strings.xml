@@ -321,8 +321,8 @@ Report bugs and send feedback directly to Xiaomi.”</string>
   <string name="pref_title_wake_up_screen">Screen-wake</string>
   <string name="preferences_title">Ρυθμίσεις</string>
   <string name="prepare_send">Preparing to send…</string>
-  <string name="preview">Preview</string>
-  <string name="preview_slideshow">Preview</string>
+  <string name="preview">Προεπισκόπιση</string>
+  <string name="preview_slideshow">Προεπισκόπιση</string>
   <string name="priority_high">High</string>
   <string name="priority_label">"Priority: "</string>
   <string name="priority_low">Low</string>
