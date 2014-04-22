@@ -29,7 +29,7 @@
   <string name="error_mediadb_new_record">Unable to save recorded audio</string>
   <string name="error_sdcard_access">Unable to access external or internal storage</string>
   <string name="fm_record">Radio recordings (%d)</string>
-  <string name="hour">%d hours</string>
+  <string name="hour">%d ώρες</string>
   <string name="insert_sd_card">SD card is required</string>
   <string name="low_battery_error">Battery has less than 5% left, to ensure that the recording is not lost, recording has been stopped and saved.</string>
   <string name="low_battery_message_title">Low battery</string>
@@ -39,7 +39,7 @@
   <string name="menu_settings">Ρυθμίσεις</string>
   <string name="menu_view_record_list">My recordings</string>
   <string name="message_file_size_error">Recording has reached the maximum recording length supported for %s</string>
-  <string name="minute">%d minute</string>
+  <string name="minute">%d λεπτό</string>
   <string name="no_file">No recordings</string>
   <string name="notification_playback">Playing back recording…</string>
   <string name="notification_recording">Recording…</string>

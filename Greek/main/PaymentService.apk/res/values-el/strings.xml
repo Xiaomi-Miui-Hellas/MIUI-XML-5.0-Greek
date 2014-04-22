@@ -204,7 +204,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="linkpay_consumer_records">Customer records</string>
   <string name="linkpay_consumer_records_thirtydays">Last 30 days customer history</string>
   <string name="linkpay_copyright">Copyright, China Unicom</string>
-  <string name="linkpay_deal_time">Opening hours</string>
+  <string name="linkpay_deal_time">Opening ώρες</string>
   <string name="linkpay_dear_user">Dear user:</string>
   <string name="linkpay_determine">ΟΚ</string>
   <string name="linkpay_enter_phonenum_msg">Dear Unicom user, SMS verification has failed, please enter a valid phone number to re-send the verification code.</string>
@@ -418,7 +418,7 @@ We will check again within two working days."</string>
   <string name="recharge_grid_picker_hint">Select amount</string>
   <string name="recharge_group_favorite">Use previous top-up method</string>
   <string name="recharge_group_others">Other top-up methods</string>
-  <string name="recharge_message_title">Text message</string>
+  <string name="recharge_message_title">Μήνυμα κειμένου</string>
   <string name="recharge_notification">Topping up: %1$s MiCredits</string>
   <string name="recharge_novalid_method">No valid top-up method.</string>
   <string name="recharge_other">View other methods</string>

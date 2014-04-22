@@ -346,7 +346,7 @@ Opravdu chcete aktivovat preferování mobilních dat?"</string>
     <string name="vt_error_network">Network unreachable.The video call will disconnect.</string>
     <string name="vt_incoming_call">Video incoming call</string>
     <string name="vt_incoming_call_description">Display local video when accept an incoming video call</string>
-    <string name="vt_incoming_showme_always">Always</string>
+    <string name="vt_incoming_showme_always">Πάντα</string>
     <string name="vt_incoming_showme_ask">Ask</string>
     <string name="vt_incoming_showme_disable">Disable</string>
     <string name="vt_iot_error_01">Video call cannot be setup</string>

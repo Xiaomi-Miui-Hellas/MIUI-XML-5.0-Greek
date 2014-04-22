@@ -8,14 +8,14 @@
         <item>Organization</item>
         <item>IM</item>
         <item>SIP Phone</item>
-        <item>Birthday</item>
+        <item>Birthμέρα</item>
         <item>Website</item>
         <item>Διεύθυνση</item>
         <item>Note</item>
     </string-array>
     <string-array name="font_size_names">
         <item>Small</item>
-        <item>Default</item>
+        <item>Προκαθορισμένο</item>
         <item>Large</item>
         <item>Super</item>
     </string-array>

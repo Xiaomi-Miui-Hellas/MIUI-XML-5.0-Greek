@@ -890,7 +890,7 @@ Try again or call customer service for more options."</string>
     <string name="auto_answer_delay_title_miui">Delay auto-answer</string>
     <string name="auto_answer_pref_summary_miui">Answer incoming calls automatically</string>
     <string name="auto_answer_pref_title_miui">Auto-answer</string>
-    <string name="auto_answer_scenario_enteries_always_miui">Always</string>
+    <string name="auto_answer_scenario_enteries_always_miui">Πάντα</string>
     <string name="auto_answer_scenario_enteries_bluetooth_only_miui">Bluetooth only</string>
     <string name="auto_answer_scenario_enteries_headset_bluetooth_miui">Headset or Bluetooth only</string>
     <string name="auto_answer_scenario_enteries_headset_only_miui">Headset only</string>

@@ -4,7 +4,7 @@
     <string-array name="auto_power_off_entries">
         <item>Vypnout</item>
         <item>4 hodiny</item>
-        <item>8 hours</item>
+        <item>8 ώρες</item>
         <item>12 hodin</item>
         <item>24 hodin</item>
     </string-array>

@@ -205,7 +205,7 @@
   <string name="move_up">Move up</string>
   <string name="msg_type_hint_mms">Multimedia message</string>
   <string name="msg_type_hint_mx">Cloud message</string>
-  <string name="msg_type_hint_sms">Text message</string>
+  <string name="msg_type_hint_sms">Μήνυμα κειμένου</string>
   <string name="multimedia_message">Multimedia message</string>
   <string name="multimedia_notification">Multimedia message notification</string>
   <string name="mx_activate_error_malformed_info">Failed to activate cloud messaging, reactivation of cloud messaging is required</string>
@@ -432,7 +432,7 @@ Report bugs and send feedback directly to Xiaomi.”</string>
   <string name="subject_hint">Subject</string>
   <string name="subject_label">"Subject: "</string>
   <string name="text_in_popup_saved_to_clipboard">The text edited in the popup was saved to clipboard</string>
-  <string name="text_message">Text message</string>
+  <string name="text_message">Μήνυμα κειμένου</string>
   <string name="timed_message_expired_title">%d timed message(s) not sent</string>
   <string name="timed_message_expired_title_2">Send now?</string>
   <string name="timed_message_in_total">... (%d in total)</string>
@@ -446,7 +446,7 @@ Report bugs and send feedback directly to Xiaomi.”</string>
   <string name="to_send_wrapper">Will send at %s</string>
   <string name="toast_description_required">Feedback is required to submit</string>
   <string name="toast_feedback_finish">Your report will be sent automatically when you connect to a Wi-Fi network</string>
-  <string name="toast_feedback_max">Only 3 reports may be submitted per day</string>
+  <string name="toast_feedback_max">Only 3 reports may be submitted per μέρα</string>
   <string name="toast_feedback_start">Sending feedback data…</string>
   <string name="too_many_attachments">There is a limit of %1$s attachments. Only the first %2$s will be added.</string>
   <string name="too_many_recipients">This message has too many recipients (%1$s). There is a limit of %2$s recipients.</string>

@@ -44,8 +44,8 @@
   <string name="to_be_play_label_v5">Playback starting</string>
   <string name="toast_back_key_pressed_notice">Press back key again to exit.</string>
   <string name="toast_message_continue_play_from">Continue playing from</string>
-  <string name="toast_message_continue_play_hour">hours</string>
-  <string name="toast_message_continue_play_minute">mins</string>
+  <string name="toast_message_continue_play_hour">ώρες</string>
+  <string name="toast_message_continue_play_minute">λεπ.</string>
   <string name="toast_message_continue_play_second_and_play">secs</string>
   <string name="toast_message_set_misound">Setup MiAudio</string>
   <string name="top_status_local_media">Local media</string>

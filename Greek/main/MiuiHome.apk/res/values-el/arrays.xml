@@ -17,7 +17,7 @@
         <item>Right</item>
     </string-array>
     <string-array name="gadget_weather_theme_type_entries">
-        <item>Default</item>
+        <item>Προκαθορισμένο</item>
         <item>Classic</item>
     </string-array>
     <string-array name="gadget_weather_image">

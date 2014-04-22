@@ -5,8 +5,8 @@
     </string-array>
     <string-array name="account_settings_mail_window_entries_exchange">
         <item>@string/account_setup_options_mail_window_auto</item>
-        <item>@string/account_setup_options_mail_window_1day</item>
-        <item>@string/account_setup_options_mail_window_3days</item>
+        <item>@string/account_setup_options_mail_window_1μέρα</item>
+        <item>@string/account_setup_options_mail_window_3μέρες</item>
         <item>@string/account_setup_options_mail_window_1week</item>
         <item>@string/account_setup_options_mail_window_2weeks</item>
         <item>@string/account_setup_options_mail_window_1month</item>
@@ -80,7 +80,7 @@
         <item>archive-and-delete</item>
     </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
-        <item>Default</item>
+        <item>Προκαθορισμένο</item>
         <item>Format</item>
         <item>Όνομα</item>
         <item>Sender</item>
