@@ -15,4 +15,12 @@ Xiaomi-Miui Hellas TEAM
 
 Miui_Art => http://xiaomi-miui.gr <OWNER>
 
+Contributors Team 
+=================
+
+![alt text](https://xiaomi-miui.gr/community/wcf/images/avatars/ad/221-ad039e16423900a74388e0fe2b848784a7713288-128.jpg "Somnius")Somnius
+Miui_Art
+creativ7
+al3x1k0
+
 .
