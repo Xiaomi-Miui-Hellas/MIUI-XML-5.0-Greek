@@ -13,8 +13,8 @@
   <string name="app">Start app</string>
   <string name="app_center">App center</string>
   <string name="app_name">PonPonTile</string>
-  <string name="auto_brightness">Auto-brightness</string>
-  <string name="auto_brightness_on_off">Auto-brightness %s</string>
+  <string name="auto_brightness">Αυτόματη φωτεινότητα</string>
+  <string name="auto_brightness_on_off">Αυτόματη φωτεινότητα %s</string>
   <string name="available_networks">Available networks</string>
   <string name="avg_read_tag">Avg reads per day:</string>
   <string name="back_to_home">Back</string>
@@ -104,7 +104,7 @@ touch it with the back of your phone"</string>
   <string name="no_available_networks">No networks available</string>
   <string name="no_available_networks_summary">Try again after connecting to WLAN</string>
   <string name="no_available_xiaomi_shop">Failed to open Xiaomi market</string>
-  <string name="not_save_btn">No</string>
+  <string name="not_save_btn">Όχι</string>
   <string name="notification_value">Notifications %s%%</string>
   <string name="null_task">No tasks</string>
   <string name="off">Off</string>
@@ -118,7 +118,7 @@ touch it with the back of your phone"</string>
   <string name="phone_to_tag">To edit a tag,</string>
   <string name="pick_contact">Choose contact</string>
   <string name="pick_contacts">Choose contacts</string>
-  <string name="preference">Settings</string>
+  <string name="preference">Ρυθμίσεις</string>
   <string name="pwd_pref">Protect tag from rewriting</string>
   <string name="pwd_pref_desc">寫入貼紙時將激活貼紙的寫保護功能，他人改寫你的貼紙需要提供密碼</string>
   <string name="pwd_prot_off">OFF</string>
@@ -133,7 +133,7 @@ touch it with the back of your phone"</string>
   <string name="ringer_value">Ringer %s%%</string>
   <string name="running">is running</string>
   <string name="save_alert">Save this task?</string>
-  <string name="save_btn">Save</string>
+  <string name="save_btn">Αποθήκευση</string>
   <string name="saving">Saving…</string>
   <string name="screen_timeout">Sleep</string>
   <string name="screen_timeout_summary">After %s of inactivity</string>
@@ -144,8 +144,8 @@ touch it with the back of your phone"</string>
   <string name="send_sms">Send text message</string>
   <string name="send_sms_to">Recipients</string>
   <string name="set_alarm">Set an alarm</string>
-  <string name="set_now">Settings</string>
-  <string name="settings">Settings</string>
+  <string name="set_now">Ρυθμίσεις</string>
+  <string name="settings">Ρυθμίσεις</string>
   <string name="share">Διαμοιρασμός</string>
   <string name="share_content">"I've *%1$s* written to a Mi NFC tag. To read it, just touch it with the back of your device. Get the app here: http://app.xiaomi.com/detail/56946"</string>
   <string name="share_subject">Share one app: %1$s</string>

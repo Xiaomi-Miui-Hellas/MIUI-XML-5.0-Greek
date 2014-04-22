@@ -122,12 +122,12 @@ friends."</string>
   <string name="context_menu_add_contact">Add to contacts</string>
   <string name="context_menu_copy">Αντιγραφή</string>
   <string name="context_menu_copy_notice">Selection copied to clipboard</string>
-  <string name="contrast">Contrast</string>
+  <string name="contrast">Αντίθεση</string>
   <string name="create_new_cloud_folder">Create new Cloud folder</string>
   <string name="crop">Crop</string>
   <string name="crop_fail_to_load_image">Failed to load image for crop.</string>
   <string name="crop_label">Crop</string>
-  <string name="crop_save_text">Save</string>
+  <string name="crop_save_text">Αποθήκευση</string>
   <string name="crop_tooltip">Drag markers to crop photo</string>
   <string name="crossprocess">Cross-process</string>
   <string name="cut">Crop</string>
@@ -206,9 +206,9 @@ friends."</string>
   <string name="frame_semicircle">Semicircle</string>
   <string name="frame_white">white</string>
   <string name="gallery_cloud_provider_name">MiCloud album</string>
-  <string name="gallery_setting">Settings</string>
+  <string name="gallery_setting">Ρυθμίσεις</string>
   <string name="get_album_info_in_process">"Requesting shared album's info, please wait..."</string>
-  <string name="global_setting">Settings</string>
+  <string name="global_setting">Ρυθμίσεις</string>
   <string name="grain">Film Grain</string>
   <string name="grayscale">B&amp;W</string>
   <string name="group_by">Γκρουπ κατά</string>
@@ -292,7 +292,7 @@ friends."</string>
   <string name="negative">Negative</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
   <string name="new_device_tips">New device found. Click to view</string>
-  <string name="no">No</string>
+  <string name="no">Όχι</string>
   <string name="no_albums_alert">No albums available.</string>
   <string name="no_connectivity">"Some locations couldn't be identified due to network problems."</string>
   <string name="no_location">No location</string>
@@ -318,7 +318,7 @@ friends."</string>
   <string name="operation_refresh">Refresh</string>
   <string name="operation_rename">Rename</string>
   <string name="operation_set_as_screensaver">Set as Screensaver</string>
-  <string name="operation_share">Share</string>
+  <string name="operation_share">Διαμοιρασμός</string>
   <string name="operation_successful">Shared successfully!</string>
   <string name="operation_too_often">Operation exceeds frequency limit, please try again after 1 minute.</string>
   <string name="operation_unset_as_screensaver">Cancel Screensaver</string>
@@ -328,7 +328,7 @@ friends."</string>
   <string name="path">Path</string>
   <string name="people">Άτομα</string>
   <string name="photo_page_always_rotate">Auto-rotate Images</string>
-  <string name="photo_page_save_image">Save</string>
+  <string name="photo_page_save_image">Αποθήκευση</string>
   <string name="photo_page_save_uri_image_fail">Failed to save photo.</string>
   <string name="photo_page_save_uri_image_ok">Save photo to cameras photos directory.</string>
   <string name="photo_saved">Photo saved to %s</string>
@@ -405,7 +405,7 @@ friends."</string>
   <string name="set_screensaver_path_message_if_only_charging">Pictures in this album will be displayed in screensaver only when your phone is charging.</string>
   <string name="set_screensaver_path_title">Screensaver Slideshow</string>
   <string name="set_wallpaper">Set desktop wallpaper</string>
-  <string name="settings">Settings</string>
+  <string name="settings">Ρυθμίσεις</string>
   <string name="settings_i_xiaomi_com">Login at i.xiaomi.com to manage your cloud storage</string>
   <string name="shadow">Shadows</string>
   <string name="share_album">Share album</string>

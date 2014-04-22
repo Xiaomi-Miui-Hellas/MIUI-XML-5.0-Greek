@@ -172,7 +172,7 @@ Poznámka: Trojité poklepání funguje všude kromě klávesnice." </string>
     <string name="data_connection_dialog_title">Změna datového připojení</string>
     <string name="data_enabler_summary">Povolit data přes mobilní síť</string>
     <string name="data_enabler_title">Data povolena</string>
-    <string name="data_enabler_waiting_message">Čekejte prosím...</string>
+    <string name="data_enabler_waiting_message">Čekejte prosím…</string>
     <string name="data_usage_restrict_background_multiuser">"Pokud omezíte data na pozadí, některé aplikace a služby nemusí pracovat správně dokud se nepřipojíte na Wi-Fi síť.
 
 Toto nastavení se změní pro všechny uživatele tohoto zařízení."</string>
@@ -247,8 +247,8 @@ Toto nastavení se změní pro všechny uživatele tohoto zařízení."</string>
     <string name="epo_ok_btn">OK</string>
     <string name="epo_start_time_summary">Nedostupné</string>
     <string name="epo_start_time_title">Čas startu</string>
-    <string name="epo_status_starting">Startování...</string>
-    <string name="epo_status_stopping">Zastavování...</string>
+    <string name="epo_status_starting">Startování…</string>
+    <string name="epo_status_stopping">Zastavování…</string>
     <string name="epo_warning_dialog_message">Stahování dat EPO v roamingu může zvýšit Vaše měsíční poplatky. Pokračovat?</string>
     <string name="epo_warning_dialog_title">Upozornění</string>
     <string name="evdo_signal_strength_info">Evdo</string>
@@ -266,7 +266,7 @@ Toto nastavení se změní pro všechny uživatele tohoto zařízení."</string>
     <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_turning_off">Vypínání</string>
     <string name="gadget_state_turning_on">Zapínání</string>
-    <string name="gadget_sync">Sync</string>
+    <string name="gadget_sync">Συγχρονισμός</string>
     <string name="gadget_wifi">Wi-Fi</string>
     <string name="gemini_3g_disable_warning">3G není dostupné s touto SIM, což může zpomalit přenos dat. Můžete změnit nastavení 3G v Nastavení > Nastavení sítí > Mobilní sítě.</string>
     <string name="gemini_3g_disable_warning_case0">Je zapotřebí aktivovat data roaming pro tuto SIM což může zvýšit Vaše poplatky! Chcete aktivovat data roaming pro tuto SIM?</string>
@@ -277,12 +277,12 @@ Toto nastavení se změní pro všechny uživatele tohoto zařízení."</string>
     <string name="gemini_3g_disable_warning_cu">3G není dostupné s touto SIM, což může zpomalit přenos dat . Můžete změnit nastavení 3G v Nastavení > Správa SIM karet.</string>
     <string name="gemini_3g_indic">3G</string>
     <string name="gemini_3g_modem_switch_confirm_message">Toto změní také 3G na tuto SIM. Pokračovat? Ujistěte se, že zvolená SIM podporuje 3G.</string>
-    <string name="gemini_3g_modem_switching_message">Přepnutí SIM může trvat okolo 10 sekund. Čekejte prosím...</string>
+    <string name="gemini_3g_modem_switching_message">Přepnutí SIM může trvat okolo 10 sekund. Čekejte prosím…</string>
     <string name="gemini_3g_service_settings">3G služby</string>
     <string name="gemini_contacts_sim_summary">Spojit kontakty na vybranou SIM kartu</string>
     <string name="gemini_contacts_sim_title">Spojování kontaktů</string>
     <string name="gemini_data_connection">Datové připojení</string>
-    <string name="gemini_data_connection_progress_message">Čekejte prosím...</string>
+    <string name="gemini_data_connection_progress_message">Čekejte prosím…</string>
     <string name="gemini_data_roaming_summary">Připojit k datům při roamingu</string>
     <string name="gemini_data_roaming_title">Data roaming</string>
     <string name="gemini_default_sim_3g_off">Deaktivováno</string>
@@ -320,8 +320,8 @@ Toto nastavení se změní pro všechny uživatele tohoto zařízení."</string>
     <string name="gemini_sim_mode_change_failed_message">Selhalo, chyba sítě.</string>
     <string name="gemini_sim_mode_enter_airplanemode_confirm_message">Telefon se přepne do režimu Letadlo. Všechna připojení se deaktivují. Pokračovat?</string>
     <string name="gemini_sim_mode_enter_airplanemode_confirm_title">Režim letadlo</string>
-    <string name="gemini_sim_mode_progress_activating_message">Aktivace...</string>
-    <string name="gemini_sim_mode_progress_deactivating_message">Deaktivování...</string>
+    <string name="gemini_sim_mode_progress_activating_message">Aktivace…</string>
+    <string name="gemini_sim_mode_progress_deactivating_message">Deaktivování…</string>
     <string name="gemini_sim_tether_add_record">Přidat kontakty</string>
     <string name="gemini_sim_tether_disassociate">Zrušit</string>
     <string name="gemini_sim_tether_info_title">Kontakty a SIM</string>
@@ -337,11 +337,11 @@ Stiskněte tlačítko Přidat pro výběr kontaktů, které chcete spojit s tout
     <string name="gemini_sim_tether_select_cancel">Zrušit</string>
     <string name="gemini_sim_tether_select_ok">Uložit</string>
     <string name="gemini_sim_tether_unselect_all">Označit</string>
-    <string name="gemini_tether_saving_progress_message">Ukládání...</string>
+    <string name="gemini_tether_saving_progress_message">Ukládání…</string>
     <string name="gemini_video_call">Video hovor</string>
     <string name="gemini_voice_call">Hlasový hovor</string>
     <string name="gemini_wap_push_permission">Auto-push služby</string>
-    <string name="gemini_wap_push_permission_head">Po aktivaci služeb Auto-push, můžete dostávat push zprávy, které zahrnují aplikace a navýší se spotřeba dat. Obyčejné auto-push služby jsou notifikace emailu, správa zařízení, upozornění na služby, atd...</string>
+    <string name="gemini_wap_push_permission_head">Po aktivaci služeb Auto-push, můžete dostávat push zprávy, které zahrnují aplikace a navýší se spotřeba dat. Obyčejné auto-push služby jsou notifikace emailu, správa zařízení, upozornění na služby, atd…</string>
     <string name="gemini_wap_push_permission_tail">Souhlasíte s podmínkami?</string>
     <string name="gemini_wap_push_permission_title">Podmínky služeb Auto-push</string>
     <string name="general_settings_title">Všeobecné</string>
@@ -385,7 +385,7 @@ Chcete použit čas z GPS?"</string>
     <string name="launch_error">Nelze spustit aplikaci!</string>
     <string name="launch_main">Spustit aplikaci dle hlavních činností</string>
     <string name="launch_main_label">Spustit aplikaci</string>
-    <string name="loading">Načítání...</string>
+    <string name="loading">Načítání…</string>
     <string name="location_access_summary">Umožnit aplikacím zeptat se na povolení použít Vaši polohu</string>
     <string name="location_access_title">Přístup k mé poloze</string>
     <string name="location_settings_label">Nastavení polohy</string>
@@ -649,13 +649,13 @@ Any user can accept updated app permissions on behalf of all other users."</stri
     <string name="wifi_display_options_title">Nastavení Wireless displej</string>
     <string name="wifi_display_paired_devices">Spárované displeje</string>
     <string name="wifi_display_search_for_devices">Vyhledat displej</string>
-    <string name="wifi_display_searching_for_devices">Vyhledávání...</string>
+    <string name="wifi_display_searching_for_devices">Vyhledávání…</string>
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Wireless displej je vypnut, protože Wi-Fi je vypnuta</string>
     <string name="wifi_display_settings_empty_list_wifi_display_off">Pro zobrazení zařízení, zapněte wireless displej.</string>
     <string name="wifi_display_settings_title">Wireless display</string>
     <string name="wifi_display_status_available">Dostupné</string>
     <string name="wifi_display_status_connected">Připojené</string>
-    <string name="wifi_display_status_connecting">Připojování...</string>
+    <string name="wifi_display_status_connecting">Připojování…</string>
     <string name="wifi_display_summary_disabled">Vypnuto</string>
     <string name="wifi_display_summary_off">Vypnuto</string>
     <string name="wifi_display_summary_on">Zapnuto</string>
@@ -691,8 +691,8 @@ Nastavení telefonu může vyžadovat zvýšené nároky na přenos dat."</strin
     <string name="wifi_tether_auto_disable_title">Ponechat Wi-Fi hotspot zapnutý</string>
     <string name="wifi_tether_fix_channel_width_text">20 MHz</string>
     <string name="wifi_tether_setting_title">Základní nastavení</string>
-    <string name="wifi_tether_starting">Aktivování Wi-Fi hotspot...</string>
-    <string name="wifi_tether_stopping">Deaktivování Wi-Fi hotspot...</string>
+    <string name="wifi_tether_starting">Aktivování Wi-Fi hotspot…</string>
+    <string name="wifi_tether_stopping">Deaktivování Wi-Fi hotspot…</string>
     <string name="wifi_tether_wps_connect_summary">Nastavení připojení ke chráněné Wi-Fi síti</string>
     <string name="wifi_tether_wps_connect_title">WPS připojení</string>
     <string name="wifi_tether_wps_pin_error">Nesprávný PIN</string>

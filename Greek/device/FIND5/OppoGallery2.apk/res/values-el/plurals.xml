@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">Διαγραφή επιλεγμένων?</item>
+        <item quantity="one">Διαγραφή επιλεγμένης?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d επιλεγμένα</item>
+        <item quantity="zero">καμία επιλογή</item>
+        <item quantity="one">%1$d επιλεγμένο</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">%1$d επιλεγμένα</item>
+        <item quantity="zero">καμία επιλογή</item>
+        <item quantity="one">%1$d επιλεγμένο</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">%1$d επιλεγμένα</item>
+        <item quantity="zero">καμία επιλογή</item>
+        <item quantity="one">%1$d επιλεγμένο</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">Να γίνουν τα άλμουμ διαθέσιμα χωρίς σύνδεση.</item>
+        <item quantity="one">Να γίνει το άλμουμ διαθέσιμο χωρίς σύνδεση.</item>
+    </plurals>
+    <plurals name="number_of_items_in_slot">
+        <item quantity="other">%1$d φωτογραφίες</item>
+        <item quantity="one">1 φωτογραφία</item>
+    </plurals>
+    <plurals name="number_of_folders_in_slot">
+        <item quantity="other">%1$d φάκελοι</item>
+        <item quantity="one">1 φάκελος</item>
+    </plurals>
+    <plurals name="albumset_count_string">
+        <item quantity="other">%1$d φωτογραφίες</item>
+        <item quantity="one">1 φωτογραφία</item>
+    </plurals>
+</resources>

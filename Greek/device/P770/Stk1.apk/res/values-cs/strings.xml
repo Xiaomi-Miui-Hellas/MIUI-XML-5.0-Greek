@@ -16,7 +16,7 @@
 <string name="button_no">Ne</string>
 <string name="alphabet">Abeceda</string>
 <string name="digits">Číslice (0-9, *, #, +)</string>
-<string name="default_call_setup_msg">Probíhá hovor...</string>
+<string name="default_call_setup_msg">Probíhá hovor…</string>
 <string name="stk_app_state">Stav aplikace</string>
 <string name="enable_app">Zapnuté</string>
 <string name="disable_app">Vypnuté</string>
@@ -62,7 +62,7 @@
 <string name="lable_activate">Aktivovat</string>
 <string name="action_launch_browser">Spustit prohlížeč</string>
 <string name="action_setup_call">Vytočit</string>
-<string name="lable_busy_on_bip">Aplikace je zaneprázdněná, zkuste to později...</string>
+<string name="lable_busy_on_bip">Aplikace je zaneprázdněná, zkuste to později…</string>
 <string name="main_menu_not_initialized">Hlavní menu není spuštěné.</string>
 <string name="lable_busy_on_call">Probíhá hovor. Je nutné ho ukončit.</string>
 <string name="lable_on_flight_mode">Aplikaci není možné použít v režimu Letadlo.</string>

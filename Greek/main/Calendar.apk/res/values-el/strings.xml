@@ -24,7 +24,7 @@
     <string name="event_edit">Edit event</string>
     <string name="event_delete">Delete event</string>
     <string name="goto_today">Today</string>
-    <string name="menu_preferences">Settings</string>
+    <string name="menu_preferences">Ρυθμίσεις</string>
     <string name="menu_select_visible_calendars">Calendars to display</string>
     <string name="search">Search</string>
     <string name="hide_controls">Hide controls</string>
@@ -37,7 +37,7 @@
     <string name="select_synced_calendars_title">Calendars to sync</string>
     <string name="select_synced_calendars_button">Calendars to sync</string>
     <string name="hint_what">Event reminder content</string>
-    <string name="hint_where">Location</string>
+    <string name="hint_where">Τοποθεσία</string>
     <string name="hint_description">Description</string>
     <string name="hint_attendees">Guests</string>
     <string name="creating_event">Event created</string>
@@ -69,7 +69,7 @@
     <string name="view_event_response_label">Attending?</string>
     <string name="response_yes">Yes</string>
     <string name="response_maybe">Maybe</string>
-    <string name="response_no">No</string>
+    <string name="response_no">Όχι</string>
     <string name="email_guests_label">Email guests</string>
     <string name="email_picker_label">Email with</string>
     <string name="email_subject_prefix">"Re: "</string>
@@ -117,7 +117,7 @@
     <string name="change_response_title">Change response</string>
     <string name="menu_general_preferences">General settings</string>
     <string name="menu_about_preferences">About Calendar</string>
-    <string name="preferences_title">Settings</string>
+    <string name="preferences_title">Ρυθμίσεις</string>
     <string name="preferences_general_title">Calendar view setting</string>
     <string name="preferences_reminder_title">Notification &amp; reminders</string>
     <string name="preferences_hide_declined_title">Hide declined events</string>
@@ -186,7 +186,7 @@
     <string name="miui_chinese_week_range_single" />
     <string name="miui_chinese_week_range_double" />
     <string name="miui_menu_create_event">New</string>
-    <string name="preferences_category_general_title">General</string>
+    <string name="preferences_category_general_title">Γενικά</string>
     <string name="preferences_category_account_title">Account</string>
     <string name="work_day_indication">: (</string>
     <string name="rest_day_indication">: )</string>

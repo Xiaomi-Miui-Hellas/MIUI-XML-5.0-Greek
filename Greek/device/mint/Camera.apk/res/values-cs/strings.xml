@@ -348,7 +348,7 @@
   <string name="pref_video_time_lapse_frame_interval_entry_900">30 sekund (900 krát)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Časosběrné video (Time Lapse)</string>
   <string name="preference_simple_mode_title">Základní režim</string>
-  <string name="preparing_sd">Příprava úložiště...</string>
+  <string name="preparing_sd">Příprava úložiště…</string>
   <string name="record_back_pressed_hint">Stiskněte zpět pro zastavení nahrávání</string>
   <string name="resume_playing_message">Pokračovat přehrávání od %s?</string>
   <string name="resume_playing_restart">Restart</string>

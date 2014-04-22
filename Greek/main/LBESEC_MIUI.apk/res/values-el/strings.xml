@@ -32,7 +32,7 @@
   <string name="Generic_Canceling">Cancelling…</string>
   <string name="Generic_Check">Check</string>
   <string name="Generic_Clean">Clean</string>
-  <string name="Generic_Configuration">Settings</string>
+  <string name="Generic_Configuration">Ρυθμίσεις</string>
   <string name="Generic_Copyright">Powered by LBE Privacy Guard</string>
   <string name="Generic_Disable">Disable</string>
   <string name="Generic_Enable">Enable</string>
@@ -199,7 +199,7 @@
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Use with caution!</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">Are your sure to allow %1$s to get ROOT permission?</string>
   <string name="HIPS_SecurityPrompt_Reject">Denied (%d)</string>
-  <string name="HIPS_SecurityPrompt_Remember">Remember my choice</string>
+  <string name="HIPS_SecurityPrompt_Remember">Απομνημόνευση της επιλογής μου</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s is trying to %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d permissions</string>
   <string name="Privacy_AppPerm_Count_Trust">%1$d permissions - &lt;font color=#478800&gt;Trusted&lt;/font&gt;</string>

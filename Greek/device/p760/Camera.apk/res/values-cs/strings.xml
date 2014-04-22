@@ -127,8 +127,8 @@
   <string name="launch_market">Spustit Google Play</string>
   <string name="launch_qq">Spustit QQ přes prohlížeč</string>
   <string name="launch_wechat">Spustit WeChat</string>
-  <string name="loading">Načítání...</string>
-  <string name="loading_video">Načítání videa...</string>
+  <string name="loading">Načítání…</string>
+  <string name="loading_video">Načítání videa…</string>
   <string name="location">Poloha</string>
   <string name="locations">Polohy</string>
   <string name="maker">Výrobce</string>
@@ -150,7 +150,7 @@
   <string name="pano_how_to_use_prompt">stiskněte spoušť pro zahájení snímání</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Pomalu pohybujte telefonem v jenom směru</string>
   <string name="pano_how_to_use_prompt_to_move">Při snímání pohybujte telefonem plynule</string>
-  <string name="pano_review_saving_indication_str">Ukládání...</string>
+  <string name="pano_review_saving_indication_str">Ukládání…</string>
   <string name="pano_too_fast_prompt">Příliš rychle</string>
   <string name="path">Cesta</string>
   <string name="people">Lidé</string>
@@ -384,7 +384,7 @@
   <string name="pref_video_time_lapse_frame_interval_entry_90">3 sekundy (90 krát)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">30 sekund (900 krát)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Časosběrné video (Time Lapse)</string>
-  <string name="preparing_sd">Příprava úložiště...</string>
+  <string name="preparing_sd">Příprava úložiště…</string>
   <string name="qq_details">Detaily o QQ:</string>
   <string name="qr_code_details">"QR kód: "</string>
   <string name="record_back_pressed_hint">Stiskněte zpět pro zastavení nahrávání</string>
@@ -450,7 +450,7 @@
   <string name="video_snapshot_hint">Klepnutím na displej během nahrávání videa vytvoříte fotografii.</string>
   <string name="videocamera_settings_label">Nastavení videa</string>
   <string name="visit_cloud_album">Otevřít cloud album</string>
-  <string name="wait">Čekejte prosím...</string>
+  <string name="wait">Čekejte prosím…</string>
   <string name="web_url_apk_warning">Vybraný QR kód obsahuje aplikaci, která může ohrozit Vaše data. Pro ověření zabezpečení vyhledejte tuto aplikaci v obchodě Google Play.</string>
   <string name="web_url_warning">Internetová stránka v QR kódu může ohrozit Vaše data. Prohlížeč MIUI zkontroluje tento QR kód.</string>
   <string name="website_details">"Internetová stránka: "</string>
@@ -461,7 +461,7 @@
   <string name="wifi_connect_current_connetion">Připojeno k Wi-Fi</string>
   <string name="wifi_connect_fail">Připojení k Wi-Fi selhalo</string>
   <string name="wifi_connect_success">Připojení k Wi-Fi úspěšné</string>
-  <string name="wifi_connecting">Připojování k Wi-Fi...</string>
+  <string name="wifi_connecting">Připojování k Wi-Fi…</string>
   <string name="wifi_details">Detaily o Wi-Fi:</string>
   <string name="wifi_open_fail">Nelze otevřít Wi-Fi</string>
   <string name="wifi_pwd">Heslo:</string>

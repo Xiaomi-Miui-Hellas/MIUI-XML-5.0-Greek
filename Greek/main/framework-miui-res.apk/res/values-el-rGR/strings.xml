@@ -277,7 +277,7 @@
   <string name="every_day">Καθημερινά</string>
   <string name="experimental_validate">Validate</string>
   <string name="experimental_validate_fail">Validation failed, please try again</string>
-  <string name="experimental_validate_password">Password</string>
+  <string name="experimental_validate_password">Κωδικός</string>
   <string name="experimental_validate_progress">Validating…</string>
   <string name="experimental_validate_thanks">Ευχαριστούμε!</string>
   <string name="experimental_validate_username">Xiaomi ID</string>

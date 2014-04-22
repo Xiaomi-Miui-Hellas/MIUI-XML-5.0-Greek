@@ -6,9 +6,9 @@
     <string name="camera_disabled">Fotoaparát byl z důvodu zásad zabezpečení deaktivován.</string>
     <string name="camera_label">Fotoaparát</string>
     <string name="video_camera_label">Videokamera</string>
-    <string name="wait">Čekejte prosím...</string>
+    <string name="wait">Čekejte prosím…</string>
     <string name="no_storage">Před použitím fotoaparátu prosím vložte SD kartu.</string>
-    <string name="preparing_sd">Příprava karty SD...</string>
+    <string name="preparing_sd">Příprava karty SD…</string>
     <string name="access_sd_fail">Nelze získat přístup ke kartě SD.</string>
     <string name="review_cancel">ZRUŠIT</string>
     <string name="review_ok">HOTOVO</string>
@@ -66,7 +66,7 @@
     <string name="pano_dialog_title">Panorama</string>
     <string name="pano_capture_indication">Snímání panoramatu</string>
     <string name="pano_dialog_waiting_previous">Čeká se na předchozí panorama</string>
-    <string name="pano_review_saving_indication_str">Ukládání...</string>
+    <string name="pano_review_saving_indication_str">Ukládání…</string>
     <string name="pano_review_rendering">Vykreslování panoramatu</string>
     <string name="tap_to_focus">Dotykem zaostříte.</string>
     <string name="pref_video_effect_title">Efekty</string>
@@ -254,13 +254,13 @@ Ostatní aplikace budou mít k těmto informacím přístup společně s příst
     <string name="details_ms">%1$02d:%2$02d</string>
     <string name="details_hms">%1$d:%2$02d:%3$02d</string>
     <string name="movie_view_label">Přehrávač videa</string>
-    <string name="loading_video">Načítání videa...</string>
-    <string name="loading_image">Načítání obrázku...</string>
+    <string name="loading_video">Načítání videa…</string>
+    <string name="loading_image">Načítání obrázku…</string>
     <string name="loading_account">Načítání účtu…</string>
     <string name="resume_playing_title">Pokračovat v přehrávání videa</string>
     <string name="resume_playing_message">Pokračovat v přehrávání od %s?</string>
     <string name="resume_playing_resume">Pokračovat v přehrávání</string>
-    <string name="loading">Načítání...</string>
+    <string name="loading">Načítání…</string>
     <string name="fail_to_load">Nelze načíst</string>
     <string name="fail_to_load_image">Obrázek nelze načíst</string>
     <string name="no_thumbnail">Miniatura není dostupná</string>
@@ -268,7 +268,7 @@ Ostatní aplikace budou mít k těmto informacím přístup společně s příst
     <string name="crop_save_text">OK</string>
     <string name="ok">OK</string>
     <string name="multiface_crop_help">Začněte klepnutím na obličej.</string>
-    <string name="saving_image">Ukládání fotografie...</string>
+    <string name="saving_image">Ukládání fotografie…</string>
     <string name="filtershow_saving_image">Ukládání obrázku do alba %1$s …</string>
     <string name="save_error">Oříznutý obrázek nelze uložit.</string>
     <string name="crop_label">Oříznout fotografii</string>
@@ -280,7 +280,7 @@ Ostatní aplikace budou mít k těmto informacím přístup společně s příst
     <string name="select_group">Vybrat skupinu</string>
     <string name="set_image">Nastavit fotografii jako</string>
     <string name="set_wallpaper">Nastavit tapetu</string>
-    <string name="wallpaper">Nastavování tapety...</string>
+    <string name="wallpaper">Nastavování tapety…</string>
     <string name="camera_setas_wallpaper">Tapeta</string>
     <string name="delete">Smazat</string>
     <string name="confirm">Potvrdit</string>
@@ -303,7 +303,7 @@ Ostatní aplikace budou mít k těmto informacím přístup společně s příst
     <string name="no_such_item">Položku nelze najít.</string>
     <string name="edit">Upravit</string>
     <string name="process_caching_requests">Zpracování požadavků na uložení do mezipaměti</string>
-    <string name="caching_label">Ukládání do mezipaměti...</string>
+    <string name="caching_label">Ukládání do mezipaměti…</string>
     <string name="crop_action">Oříznout</string>
     <string name="trim_action">Oříznout</string>
     <string name="set_as">Nastavit jako</string>
@@ -389,7 +389,7 @@ Ostatní aplikace budou mít k těmto informacím přístup společně s příst
     <string name="locations">Lokality</string>
     <string name="people">Lidé</string>
     <string name="tags">Tagy</string>
-    <string name="group_by">Seskupit podle...</string>
+    <string name="group_by">Seskupit podle…</string>
     <string name="settings">Nastavení</string>
     <string name="add_account">Přidat účet</string>
     <string name="folder_camera">Fotoaparát</string>
@@ -529,7 +529,7 @@ Ostatní aplikace budou mít k těmto informacím přístup společně s příst
     <string name="pref_video_zoom_entry_on">Zapnuto</string>
     <string name="pref_video_zoom_title">Použít zoom při nahrávání</string>
     <string name="pref_camera_denoise_title">Režim odstranění šumu</string>
-    <string name="loading_images">Načítání obrázků...</string>
+    <string name="loading_images">Načítání obrázků…</string>
     <string name="image_duration_fast">rychle</string>
     <string name="image_duration_medium">středně</string>
     <string name="image_duration_slow">pomalu</string>

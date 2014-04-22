@@ -68,7 +68,7 @@
     <string name="android_upgrading_apk">Optimalizace aplikace %1$d z %2$d.</string>
     <string name="android_upgrading_complete">Probíhá dokončování spouštění.</string>
     <string name="android_upgrading_starting_apps">Spouštění aplikací.</string>
-    <string name="android_upgrading_title">Android se upgraduje...</string>
+    <string name="android_upgrading_title">Android se upgraduje…</string>
     <string name="anr_activity_application">"Aplikace %2$s nereaguje.
 
 Chcete ji ukončit?"</string>
@@ -408,7 +408,7 @@ Přejděte na stránku "<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_puk_enter_puk_hint">SIM karta byla deaktivována. Chcete-li pokračovat, je třeba zadat kód PUK. Podrobné informace získáte od operátora.</string>
     <string name="kg_reordering_delete_drop_target_text">Odebrat</string>
     <string name="kg_sim_pin_instructions">Zadejte kód PIN SIM karty</string>
-    <string name="kg_sim_unlock_progress_dialog_message">Odblokování SIM karty...</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Odblokování SIM karty…</string>
     <string name="kg_text_message_separator">" – "</string>
     <string name="kg_too_many_failed_attempts_countdown">Zkuste to znovu za %d s.</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Již %dkrát jste nesprávně zadali heslo. 
@@ -430,7 +430,7 @@ Zkuste to znovu za %d sek."</string>
     <string name="launch_warning_replace">Je spuštěna aplikace %1$s.</string>
     <string name="launch_warning_title">Přesměrování aplikace</string>
     <string name="list_delimeter">", "</string>
-    <string name="loading">Načítání...</string>
+    <string name="loading">Načítání…</string>
     <string name="lockscreen_access_pattern_cell_added">Buňka přidána</string>
     <string name="lockscreen_access_pattern_cleared">Bezpečnostní gesto vymazáno</string>
     <string name="lockscreen_access_pattern_detected">Bezpečnostní gesto dokončeno</string>
@@ -447,7 +447,7 @@ Zkuste to znovu za %d sek."</string>
     <string name="lockscreen_forgot_pattern_button_text">Zapomněli jste gesto?</string>
     <string name="lockscreen_glogin_account_recovery_hint">"Zapomněli jste uživatelské jméno nebo heslo?
 Přejděte na stránku "<b>google.com/accounts/recovery</b>.</string>
-    <string name="lockscreen_glogin_checking_password">Kontrola...</string>
+    <string name="lockscreen_glogin_checking_password">Kontrola…</string>
     <string name="lockscreen_glogin_forgot_pattern">Odemčení účtu</string>
     <string name="lockscreen_glogin_instructions">Chcete-li telefon odemknout, přihlaste se pomocí svého účtu Google.</string>
     <string name="lockscreen_glogin_invalid_input">Neplatné uživatelské jméno nebo heslo.</string>
@@ -476,7 +476,7 @@ Přejděte na stránku "<b>google.com/accounts/recovery</b>.</string>
     <string name="lockscreen_sim_locked_message">SIM karta je zablokována.</string>
     <string name="lockscreen_sim_puk_locked_instructions">Další informace naleznete v uživatelské příručce; nebo kontaktujte zákaznickou podporu.</string>
     <string name="lockscreen_sim_puk_locked_message">SIM karta je zablokována pomocí kódu PUK.</string>
-    <string name="lockscreen_sim_unlock_progress_dialog_message">Odblokování SIM karty...</string>
+    <string name="lockscreen_sim_unlock_progress_dialog_message">Odblokování SIM karty…</string>
     <string name="lockscreen_sound_off_label">Vypnout zvuk</string>
     <string name="lockscreen_sound_on_label">Zapnout zvuk</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Sekundy zbývající do dalšího pokusu: %d.</string>
@@ -505,9 +505,9 @@ Zkuste to znovu za %d s."</string>
     <string name="media_route_button_content_description">Výstup médií</string>
     <string name="media_route_chooser_grouping_done">Hotovo</string>
     <string name="media_route_status_available">Dostupná</string>
-    <string name="media_route_status_connecting">Připojování...</string>
+    <string name="media_route_status_connecting">Připojování…</string>
     <string name="media_route_status_not_available">Není k dispozici</string>
-    <string name="media_route_status_scanning">Vyhledávání...</string>
+    <string name="media_route_status_scanning">Vyhledávání…</string>
     <string name="media_shared">Úložiště USB je momentálně používáno počítačem.</string>
     <string name="media_unknown_state">Neznámý stav externího média.</string>
     <string name="megabyteShort">MB</string>
@@ -1057,8 +1057,8 @@ pro účet %s."</string>
     <string name="preposition_for_date">dne %s</string>
     <string name="preposition_for_time">v %s</string>
     <string name="preposition_for_year">roku %s</string>
-    <string name="progress_erasing">Mazání úložiště USB...</string>
-    <string name="progress_unmounting">Odpojování úložiště USB...</string>
+    <string name="progress_erasing">Mazání úložiště USB…</string>
+    <string name="progress_unmounting">Odpojování úložiště USB…</string>
     <string name="reboot_confirm">Restart telefonu vymaže dočasná data v paměti. Chcete restartovat telefon?</string>
     <string name="reboot_safemode_confirm">Chcete zařízení restartovat v nouzovém režimu? Deaktivujete tak veškeré nainstalované aplikace třetích stran. Po dalším restartu budou obnoveny.</string>
     <string name="reboot_safemode_title">Restart v nouzovém režimu</string>
@@ -1145,7 +1145,7 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
     <string name="select_keyboard_layout_notification_message">Dotykem vyberte rozložení klávesnice.</string>
     <string name="select_keyboard_layout_notification_title">Výběr rozložení klávesnice</string>
     <string name="sendText">Vyberte akci pro text</string>
-    <string name="sending">Odesílání...</string>
+    <string name="sending">Odesílání…</string>
     <string name="serial_number">Sériové číslo:</string>
     <string name="serviceClassData">Data</string>
     <string name="serviceClassDataAsync">Async</string>
@@ -1171,7 +1171,7 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
     <string name="short_format_month">%b</string>
     <string name="shutdown_confirm">Váš telefon bude vypnut.</string>
     <string name="shutdown_confirm_question">Chcete zařízení vypnout?</string>
-    <string name="shutdown_progress">Vypínání...</string>
+    <string name="shutdown_progress">Vypínání…</string>
     <string name="silent_mode">Tichý režim</string>
     <string name="silent_mode_ring">Vyzvánění zapnuto</string>
     <string name="silent_mode_silent">Vyzvánění vypnuto</string>

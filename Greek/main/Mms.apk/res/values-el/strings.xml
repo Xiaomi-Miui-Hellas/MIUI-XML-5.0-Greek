@@ -179,7 +179,7 @@
   <string name="menu_lock">Lock</string>
   <string name="menu_new_manual">Enter number manually</string>
   <string name="menu_pick_from_contact">Select from contacts</string>
-  <string name="menu_preferences">Settings</string>
+  <string name="menu_preferences">Ρυθμίσεις</string>
   <string name="menu_unlock">Unlock</string>
   <string name="menu_view_contact">View contact</string>
   <string name="message_class_label">"Message class: "</string>
@@ -319,7 +319,7 @@ Report bugs and send feedback directly to Xiaomi.”</string>
   <string name="pref_title_system_mms_priority">System Mms app priority</string>
   <string name="pref_title_vcard">Send via vCard</string>
   <string name="pref_title_wake_up_screen">Screen-wake</string>
-  <string name="preferences_title">Settings</string>
+  <string name="preferences_title">Ρυθμίσεις</string>
   <string name="prepare_send">Preparing to send…</string>
   <string name="preview">Preview</string>
   <string name="preview_slideshow">Preview</string>

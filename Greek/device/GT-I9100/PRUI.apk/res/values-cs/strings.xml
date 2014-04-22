@@ -3,7 +3,7 @@
 <resources>
     <string name="ok">OK</string>
     <string name="unknown_error">Neznámá chyba</string>
-    <string name="processing">Probíhá zpracování...</string>
+    <string name="processing">Probíhá zpracování…</string>
     <string name="license_not_found">Licence nebyla nalezena</string>
     <string name="dev_cert_revoked">Certifikát zařízení byl odvolán. Obraťte se na poskytovatele služeb</string>
     <string name="server_internal_error">Na serveru došlo k potížím. Opakujte akci později</string>

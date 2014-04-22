@@ -167,7 +167,7 @@ Used"</string>
   <string name="traffic_protection_use_data">Data enabled</string>
   <string name="traffic_setting_fragment_area">Locale</string>
   <string name="traffic_setting_fragment_brand">Brand</string>
-  <string name="traffic_setting_fragment_button2_text">Save</string>
+  <string name="traffic_setting_fragment_button2_text">Αποθήκευση</string>
   <string name="traffic_setting_fragment_get_template_falure">Update get failure. Check your data connection and try again.</string>
   <string name="traffic_setting_fragment_loading_text">Getting network info…</string>
   <string name="traffic_setting_fragment_no_network">"Can't connect to the network"</string>

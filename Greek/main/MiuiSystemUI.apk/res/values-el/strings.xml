@@ -84,7 +84,7 @@
   <string name="description_direction_left">Slide left for %s.</string>
   <string name="description_direction_up">Slide up for %s.</string>
   <string name="description_target_search">Search</string>
-  <string name="dismount_storage">No</string>
+  <string name="dismount_storage">Όχι</string>
   <string name="dlg_confirm_kill_storage_users_text">If you turn on USB storage, some applications you are using will stop and may be unavailable until you turn off USB storage.</string>
   <string name="dlg_confirm_kill_storage_users_title">Turn on USB storage</string>
   <string name="dlg_error_title">USB operation unsuccessful</string>
@@ -227,7 +227,7 @@
   <string name="status_bar_settings_auto_rotation">Auto-rotate screen</string>
   <string name="status_bar_settings_battery_meter_format">%d%%</string>
   <string name="status_bar_settings_notifications">Notifications</string>
-  <string name="status_bar_settings_settings_button">Settings</string>
+  <string name="status_bar_settings_settings_button">Ρυθμίσεις</string>
   <string name="status_bar_settings_signal_meter_disconnected">No Internet connection</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connected</string>
   <string name="status_bar_settings_wifi_button">Wi-Fi</string>
@@ -245,7 +245,7 @@
   <string name="status_bar_toggle_screen_button">Buttons</string>
   <string name="status_bar_toggle_screenshot">Screenshot</string>
   <string name="status_bar_toggle_sync_auto">Αυτόματο sync</string>
-  <string name="status_bar_toggle_sync_manual">Sync</string>
+  <string name="status_bar_toggle_sync_manual">Συγχρονισμός</string>
   <string name="status_bar_toggle_syncing">Syncing</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Wi-Fi hotspot</string>
