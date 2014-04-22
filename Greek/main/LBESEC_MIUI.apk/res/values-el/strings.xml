@@ -39,7 +39,7 @@
   <string name="Generic_Good">Good</string>
   <string name="Generic_HideSystemApp">Hide System Apps</string>
   <string name="Generic_InvalidInput">Invalid input</string>
-  <string name="Generic_Loading">Loading…</string>
+  <string name="Generic_Loading">Φορτώνει…</string>
   <string name="Generic_MonitoredApp">Monitored Apps (%1$d)</string>
   <string name="Generic_Operating">Operating…</string>
   <string name="Generic_Optimize">Optimize</string>

@@ -43,7 +43,7 @@
   <string name="live_wallpaper">Live wallpaper</string>
   <string name="loading">Φορτώνει…</string>
   <string name="loading_resource_detail_fail">Failed to load resource!</string>
-  <string name="loading_resource_detail_info">Loading…</string>
+  <string name="loading_resource_detail_info">Φορτώνει…</string>
   <string name="lockscreen_wallpaper">Lock screen</string>
   <string name="lockstyle_personal_settings">Customization</string>
   <string name="long_ringtone_resource">Long</string>
@@ -170,7 +170,7 @@
   <string name="resource_purchase_getting_order">Retrieving order info…</string>
   <string name="resource_purchase_verifying_payment">Verifying payment info…</string>
   <string name="resource_purchase_waiting_payment">Waiting for payment info…</string>
-  <string name="resource_ranking">Popular</string>
+  <string name="resource_ranking">Δημοφιλή</string>
   <string name="resource_ranking_free">Free</string>
   <string name="resource_ranking_purchase">Paid</string>
   <string name="resource_ringtone_default">Ringtones</string>
@@ -253,7 +253,7 @@
   <string name="to_activate_the_account">Please activate your Xiaomi account</string>
   <string name="wallpaper_crop">Crop</string>
   <string name="wallpaper_decoded_error">Failed to decode</string>
-  <string name="wallpaper_loading_text">Loading…</string>
+  <string name="wallpaper_loading_text">Φορτώνει…</string>
   <string name="wallpaper_set_as_both">Set as both</string>
   <string name="wallpaper_set_as_destop">Ορισμός ως φόντο</string>
   <string name="wallpaper_set_as_lockscreen">Set as lock screen</string>

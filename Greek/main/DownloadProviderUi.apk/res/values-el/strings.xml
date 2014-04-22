@@ -25,7 +25,7 @@
     <string name="dialog_file_already_exists">Cannot download. The destination file already exists.</string>
     <string name="dialog_media_not_found">Cannot download. The external media is not available.</string>
     <string name="download_no_application_title">Cannot open file</string>
-    <string name="remove_download">Remove</string>
+    <string name="remove_download">Αφαίρεση</string>
     <string name="delete_download">Delete</string>
     <string name="keep_queued_download">Keep</string>
     <string name="cancel_running_download">Άκυρο</string>

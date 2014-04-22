@@ -179,7 +179,7 @@ friends."</string>
   <string name="exit_share_in_process">Trying to exit album, please wait…</string>
   <string name="exit_share_successfully">Exited album %1$s successfully</string>
   <string name="exposure_time">Χρόνος έκθεσης</string>
-  <string name="external_sd_card">SD card</string>
+  <string name="external_sd_card">Κάρτα SD</string>
   <string name="external_usb_device">USB device</string>
   <string name="external_usb_device_hm">External USB storage</string>
   <string name="facelift">Face Glow</string>
@@ -241,7 +241,7 @@ friends."</string>
   <string name="invalid_recipient_message">"Correct recipient(s) errors or they will not receive the message."</string>
   <string name="iso">ISO</string>
   <string name="item_not_sync">This item has not been synchronized to the cloud and can not be downloaded</string>
-  <string name="kick_owner_user_positive_button_text">Remove</string>
+  <string name="kick_owner_user_positive_button_text">Αφαίρεση</string>
   <string name="kick_owner_user_title">Remove this member?</string>
   <string name="kick_sharer">Remove sharer</string>
   <string name="kick_sharer_failed">Removing sharer failed</string>
@@ -489,5 +489,5 @@ friends."</string>
   <string name="widget_type_photo">Choose an image</string>
   <string name="widget_type_shuffle">Shuffle all images</string>
   <string name="width">Πλάτος</string>
-  <string name="yes">Yes</string>
+  <string name="yes">Ναι</string>
 </resources>

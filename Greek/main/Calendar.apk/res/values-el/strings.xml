@@ -26,7 +26,7 @@
     <string name="goto_today">Today</string>
     <string name="menu_preferences">Ρυθμίσεις</string>
     <string name="menu_select_visible_calendars">Calendars to display</string>
-    <string name="search">Search</string>
+    <string name="search">Αναζήτηση</string>
     <string name="hide_controls">Hide controls</string>
     <string name="show_controls">Show controls</string>
     <string name="select_visible_calendars_title">Calendars to display</string>
@@ -67,7 +67,7 @@
     <string name="view_event_calendar_label">Calendar:</string>
     <string name="view_event_organizer_label">Organizer:</string>
     <string name="view_event_response_label">Attending?</string>
-    <string name="response_yes">Yes</string>
+    <string name="response_yes">Ναι</string>
     <string name="response_maybe">Maybe</string>
     <string name="response_no">Όχι</string>
     <string name="email_guests_label">Email guests</string>
@@ -85,7 +85,7 @@
     <string name="agenda_today">TODAY, %1$s</string>
     <string name="agenda_yesterday">YESTERDAY, %1$s</string>
     <string name="agenda_tomorrow">TOMORROW, %1$s</string>
-    <string name="loading">Loading…</string>
+    <string name="loading">Φορτώνει…</string>
     <string name="show_older_events">Touch to view events before %1$s</string>
     <string name="show_newer_events">Touch to view events after %1$s</string>
     <string name="search_title">Search my calendars</string>

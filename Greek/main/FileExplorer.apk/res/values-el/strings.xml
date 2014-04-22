@@ -6,7 +6,7 @@
     <string name="confirm">Confirm</string>
     <string name="menu_item_ftp">FTP</string>
     <string name="menu_item_cleanup">Cleanup</string>
-    <string name="menu_item_search">Search</string>
+    <string name="menu_item_search">Αναζήτηση</string>
     <string name="operation_create_folder">Νέος φάκελος</string>
     <string name="menu_item_sort">Sort by</string>
     <string name="menu_item_sort_name">Όνομα</string>
@@ -63,7 +63,7 @@
     <string name="file_info_canread">Readable:</string>
     <string name="file_info_canwrite">Writable:</string>
     <string name="file_info_ishidden">Hidden:</string>
-    <string name="yes">Yes</string>
+    <string name="yes">Ναι</string>
     <string name="no">Όχι</string>
     <string name="operation_deleting">Deleting…</string>
     <string name="operation_pasting">Copying…</string>
@@ -76,7 +76,7 @@
     <string name="error_filename_too_long">That filename is too long.</string>
     <string name="enable_sd_card">Insert SD card or disable USB mass storage.</string>
     <string name="start_server">Start</string>
-    <string name="stop_server">Stop</string>
+    <string name="stop_server">Στοπ</string>
     <string name="notif_server_starting">Starting FTP server…</string>
     <string name="notif_title">FTP server is running.</string>
     <string name="storage_warning">External storage is not available.</string>
@@ -85,8 +85,8 @@
     <string name="instruction">Enter the following address into an FTP client:</string>
     <string name="no_wifi">No WLAN connection detected.</string>
     <string name="no_wifi_hint">Check your connection settings.</string>
-    <string name="search_title">Search</string>
-    <string name="search_hint">Search</string>
+    <string name="search_title">Αναζήτηση</string>
+    <string name="search_hint">Αναζήτηση</string>
     <string name="dialog_select_type">Select type</string>
     <string name="dialog_type_text">Text</string>
     <string name="dialog_type_audio">Audio</string>
@@ -95,7 +95,7 @@
     <string name="favorite_photo">Photo</string>
     <string name="favorite_screen_cap">MIUI screenshots</string>
     <string name="favorite_ringtone">Ringtones</string>
-    <string name="file_loading">Loading…</string>
+    <string name="file_loading">Φορτώνει…</string>
     <string name="multi_select_title">%1$sselected</string>
     <string name="tab_networkdisk">KuaiPan</string>
     <string name="operation_download_link">Generate download link</string>
@@ -125,7 +125,7 @@ the feature need network connect."</string>
     <string name="xiaomi_account">Xiaomi Account</string>
     <string name="space_usage">Space used</string>
     <string name="used">Used</string>
-    <string name="loading">Loading…</string>
+    <string name="loading">Φορτώνει…</string>
     <string name="load_err">Failed to load</string>
     <string name="local_cache_size">Local cache size: %s</string>
     <string name="net_lose_connected">Connection lost</string>
@@ -232,9 +232,9 @@ Free space added %1$s"</string>
     <string name="des_running_trans">%1$d files have not been transferred.</string>
     <string name="trans_task_delete_confirm_message">Delete the %1$d selected tasks?</string>
     <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Touch&lt;/a>to go to Recycle bin</string>
-    <string name="storage_internal">Internal storage</string>
-    <string name="storage_sd_card">SD card</string>
-    <string name="storage_usb">USB storage</string>
+    <string name="storage_internal">Εσωτερική αποθήκευση</string>
+    <string name="storage_sd_card">Κάρτα SD</string>
+    <string name="storage_usb">Αποθήκευση USB</string>
     <string name="bind_account">Sync existing account</string>
     <string name="bind_account_summary">Sync your existing KuaiPan account with your Xiaomi Account</string>
     <string name="binded_accout_title">Accounts synced</string>

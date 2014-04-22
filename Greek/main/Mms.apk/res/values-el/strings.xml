@@ -342,13 +342,13 @@ Report bugs and send feedback directly to Xiaomi.”</string>
   <string name="refresh">Ανανέωση</string>
   <string name="refresh_failed">Update failed</string>
   <string name="refreshing">Refreshing…</string>
-  <string name="remove">Remove</string>
+  <string name="remove">Αφαίρεση</string>
   <string name="remove_music">Remove music</string>
   <string name="remove_picture">Remove picture</string>
   <string name="remove_slide">Remove slide</string>
   <string name="remove_text">Remove text</string>
   <string name="remove_video">Remove video</string>
-  <string name="replace">Replace</string>
+  <string name="replace">Αντικατάσταση</string>
   <string name="replace_image">Replace picture</string>
   <string name="resent_message">Resend</string>
   <string name="resize_image_error_information">This picture is too large to send, even when resized.</string>

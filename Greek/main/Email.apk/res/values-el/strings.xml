@@ -4,7 +4,7 @@
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_up_description">Navigate up</string>
     <string name="abc_action_menu_overflow_description">More options</string>
-    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_search">Αναζήτηση</string>
     <string name="abc_searchview_description_query">Search query</string>
     <string name="abc_searchview_description_clear">Clear query</string>
     <string name="abc_searchview_description_submit">Submit query</string>
@@ -173,7 +173,7 @@ CC: %4$s
     <string name="account_setup_exchange_certificate_title">Client certificate</string>
     <string name="account_setup_exchange_select_certificate">Select</string>
     <string name="account_setup_exchange_use_certificate">Use client certificate</string>
-    <string name="account_setup_exchange_remove_certificate">Remove</string>
+    <string name="account_setup_exchange_remove_certificate">Αφαίρεση</string>
     <string name="account_setup_exchange_no_certificate">None</string>
     <string name="account_setup_exchange_device_id_label">Mobile Device ID</string>
     <string name="account_setup_options_title">Account settings</string>
@@ -410,7 +410,7 @@ CC: %4$s
     <string name="menu_manage_folders">Folder settings</string>
     <string name="menu_show_original">Revert auto-sizing</string>
     <string name="menu_settings">Ρυθμίσεις</string>
-    <string name="menu_search">Search</string>
+    <string name="menu_search">Αναζήτηση</string>
     <string name="mark_important">Mark important</string>
     <string name="mark_not_important">Mark not important</string>
     <string name="add_cc_label">Add Cc/Bcc</string>
@@ -449,7 +449,7 @@ CC: %4$s
     <string name="menu_photo_save_all">Save all</string>
     <string name="menu_photo_share">Διαμοιρασμός</string>
     <string name="menu_photo_share_all">Share all</string>
-    <string name="saving">Saving…</string>
+    <string name="saving">Αποθηκεύει…</string>
     <string name="choosertitle_sharevia">Share via</string>
     <string name="contextmenu_openlink">Open in Browser</string>
     <string name="contextmenu_copy">Αντιγραφή</string>
@@ -477,7 +477,7 @@ CC: %4$s
     <string name="inbox_folders_heading">Local Folders</string>
     <string name="remote_folders_heading">Server Folders</string>
     <string name="confirm_discard_text">Discard this message?</string>
-    <string name="loading_conversations">Loading…</string>
+    <string name="loading_conversations">Φορτώνει…</string>
     <string name="undo">Undo</string>
     <string name="deleted">Deleted</string>
     <string name="archived">Archived</string>
@@ -511,11 +511,11 @@ CC: %4$s
     <string name="message_invite_title">Calendar invite</string>
     <string name="message_invite_calendar_view">View in Calendar</string>
     <string name="message_invite_label_attending">Going?</string>
-    <string name="message_invite_accept">Yes</string>
+    <string name="message_invite_accept">Ναι</string>
     <string name="message_invite_tentative">Maybe</string>
     <string name="message_invite_decline">Όχι</string>
     <string name="enumeration_comma">", "</string>
-    <string name="yes">Yes</string>
+    <string name="yes">Ναι</string>
     <string name="no">Όχι</string>
     <string name="ok">ΟΚ</string>
     <string name="cancel">Άκυρο</string>
@@ -529,7 +529,7 @@ CC: %4$s
     <string name="widget_other_views">Other</string>
     <string name="actionbar_large_unread_count">%1$d+ unread</string>
     <string name="view_more_conversations">View more conversations</string>
-    <string name="loading_conversation">Loading…</string>
+    <string name="loading_conversation">Φορτώνει…</string>
     <string name="activity_mailbox_selection">Choose account</string>
     <string name="activity_folder_selection">Choose folder</string>
     <string name="folder_shortcut_widget_label">Email folder</string>
@@ -711,7 +711,7 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
     <string name="sharing">Διαμοιρασμός</string>
     <string name="forward_attachment">Προώθηση</string>
     <string name="sort_attachment">Sort by</string>
-    <string name="search_attachment">Search</string>
+    <string name="search_attachment">Αναζήτηση</string>
     <string name="select_no_file">No selected attachment to share</string>
     <string name="download_before_sharing">" is not downloaded yet, please download it before sharing!"</string>
     <string name="no_matched_attachment">No matched attachments!</string>

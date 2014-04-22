@@ -96,7 +96,7 @@
   <string name="eq_classical">Classical</string>
   <string name="eq_country">Country</string>
   <string name="eq_dance">Dance</string>
-  <string name="eq_delete">Remove</string>
+  <string name="eq_delete">Αφαίρεση</string>
   <string name="eq_delete_success">Done.</string>
   <string name="eq_electronic">Electronic</string>
   <string name="eq_flat">Flat</string>
@@ -262,7 +262,7 @@
   <string name="refresh_media_db">Ανανέωση</string>
   <string name="refresh_start">Refresh started, please wait…</string>
   <string name="remove_from_favorite">Remove from Favorites</string>
-  <string name="remove_item">Remove</string>
+  <string name="remove_item">Αφαίρεση</string>
   <string name="rename_album_menu">Rename album</string>
   <string name="rename_artist_menu">Rename artist</string>
   <string name="rename_playlist_menu">Rename</string>
@@ -287,7 +287,7 @@
   <string name="search_hint">Search Music</string>
   <string name="search_settings_description">Artists, albums, and tracks</string>
   <string name="search_suggestion">Search Suggestions:</string>
-  <string name="search_title">Search</string>
+  <string name="search_title">Αναζήτηση</string>
   <string name="select_all">Επιλογή όλων</string>
   <string name="select_folder">Select folder</string>
   <string name="select_quit_time">Set the timer for stopping the player (in mins)</string>

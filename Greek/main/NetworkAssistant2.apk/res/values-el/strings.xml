@@ -148,7 +148,7 @@ Used"</string>
   <string name="settings">Data usage settings</string>
   <string name="sorted_button">Sort by</string>
   <string name="sorted_dialog_title">Sort by</string>
-  <string name="stop_app_button">Stop</string>
+  <string name="stop_app_button">Στοπ</string>
   <string name="system_app">System Apps</string>
   <string name="text_day">Day</string>
   <string name="tips_dialog_title">"Don't know your limit?"</string>
@@ -181,5 +181,5 @@ Used"</string>
   <string name="traffic_setting_fragment_title">Data usage query settings</string>
   <string name="usage_sorted_activity_lable">Data usage</string>
   <string name="usage_sorted_empty_text">Άδειο</string>
-  <string name="usage_sorted_loading_text">Loading…</string>
+  <string name="usage_sorted_loading_text">Φορτώνει…</string>
 </resources>

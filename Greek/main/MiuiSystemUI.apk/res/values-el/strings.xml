@@ -66,7 +66,7 @@
   <string name="camera_key_action_shortcut_call">Call</string>
   <string name="camera_key_action_shortcut_home">Back to homescreen</string>
   <string name="camera_key_action_shortcut_screenshot">Capture screenshot</string>
-  <string name="camera_key_action_shortcut_search">Search</string>
+  <string name="camera_key_action_shortcut_search">Αναζήτηση</string>
   <string name="camera_key_action_shortcut_title">Shortcut</string>
   <string name="camera_key_action_shortcut_wake">Lock/Wake device</string>
   <string name="camera_key_action_toggle_title">Trigger toggle</string>
@@ -83,7 +83,7 @@
   <string name="data_usage_disabled_dialog_title">Data disabled</string>
   <string name="description_direction_left">Slide left for %s.</string>
   <string name="description_direction_up">Slide up for %s.</string>
-  <string name="description_target_search">Search</string>
+  <string name="description_target_search">Αναζήτηση</string>
   <string name="dismount_storage">Όχι</string>
   <string name="dlg_confirm_kill_storage_users_text">If you turn on USB storage, some applications you are using will stop and may be unavailable until you turn off USB storage.</string>
   <string name="dlg_confirm_kill_storage_users_title">Turn on USB storage</string>
@@ -123,7 +123,7 @@
   <string name="mdb_restore_label">MDB Restore</string>
   <string name="mdb_restore_mode">MDB Restore Mode</string>
   <string name="mdb_usb_disconnection_exit">USB disconnected, restore aborting!</string>
-  <string name="mount_storage">Yes</string>
+  <string name="mount_storage">Ναι</string>
   <string name="move_data_to_sdcard_message">"It will move data such as screenshots, pictures and so on from internal storage to SD card. To make sure smooth and stable use experience, it's better to keep SD card in phone for daily use."</string>
   <string name="move_data_to_sdcard_title">Export internal data to SD card</string>
   <string name="no_notification_tips">No notifications</string>
