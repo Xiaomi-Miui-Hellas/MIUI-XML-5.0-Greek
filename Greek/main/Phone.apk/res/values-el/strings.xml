@@ -699,7 +699,7 @@ Try again or call customer service for more options."</string>
     <string name="saving_account">Saving the account…</string>
     <string name="removing_account">Removing the account…</string>
     <string name="sip_menu_save">Save</string>
-    <string name="sip_menu_discard">Discard</string>
+    <string name="sip_menu_discard">Απόρριψη</string>
     <string name="alert_dialog_close">Close the profile</string>
     <string name="alert_dialog_ok">OK</string>
     <string name="close_profile">Close</string>
@@ -759,7 +759,7 @@ Try again or call customer service for more options."</string>
     <string name="use_ims_default_title">Use IMS Always</string>
     <string name="use_ims_default_summary">Use IMS for all voice calls</string>
     <string name="ims_menu_save">Save</string>
-    <string name="ims_menu_discard">Discard</string>
+    <string name="ims_menu_discard">Απόρριψη</string>
     <string name="remove_ims_account">Remove account</string>
     <string name="not_voice_capable">Voice calling not supported</string>
     <string name="respond_via_sms_canned_response_1">"Can't talk now. What's up?"</string>
@@ -1110,7 +1110,7 @@ Try again or call customer service for more options."</string>
     <string name="onscreen_swap_calls_text_miui">Swap</string>
     <string name="onscreen_tools_off_miui">Tools</string>
     <string name="onscreen_tools_on_miui">Tools</string>
-    <string name="other_settings_miui">Other</string>
+    <string name="other_settings_miui">Άλλο</string>
     <string name="pin2_changed_miui">PIN2 changed</string>
     <string name="pin2_invalid_or_name_is_too_long">You entered an invalid PIN or the name you entered is too long</string>
     <string name="pin2_locked_message_miui">Try again: the PIN2 you entered is incorrect</string>

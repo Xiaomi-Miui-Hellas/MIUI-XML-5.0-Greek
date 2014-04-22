@@ -18,7 +18,7 @@
     <string name="operation_copy">Αντιγραφή</string>
     <string name="operation_paste">Επικόλληση</string>
     <string name="operation_move">Cut</string>
-    <string name="operation_send">Send</string>
+    <string name="operation_send">Αποστολή</string>
     <string name="operation_rename">Rename</string>
     <string name="operation_delete">Delete</string>
     <string name="operation_info">Details</string>
@@ -39,7 +39,7 @@
     <string name="category_document">Docs</string>
     <string name="category_zip">Archives</string>
     <string name="category_apk">APKs</string>
-    <string name="category_other">Other</string>
+    <string name="category_other">Άλλο</string>
     <string name="category_favorite">Starred</string>
     <string name="category_bluetooth">Bluetooth</string>
     <string name="category_log">Logs</string>

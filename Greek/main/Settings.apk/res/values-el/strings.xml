@@ -1335,7 +1335,7 @@ To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&g
   <string name="memory_music_usage">Audio (music, ringtones, podcasts, etc.)</string>
   <string name="memory_size">Total space</string>
   <string name="memory_title">Available %1$s\u0009\u0009Total %2$s</string>
-  <string name="menu_cancel">Discard</string>
+  <string name="menu_cancel">Απόρριψη</string>
   <string name="menu_delete">Διαγραφή APN</string>
   <string name="menu_edit">Επεξεργασία</string>
   <string name="menu_item_about_content">Security: %s</string>
@@ -1746,7 +1746,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
   <string name="power_chooser_title">Conserve battery</string>
   <string name="power_chooser_user_define_summary">Create a custom configuration for battery</string>
   <string name="power_chooser_user_define_title">Add custom profile</string>
-  <string name="power_consume_other">Other</string>
+  <string name="power_consume_other">Άλλο</string>
   <string name="power_consume_rank_hardware">Hardware</string>
   <string name="power_consume_rank_software">Apps</string>
   <string name="power_consume_rank_title">Battery use</string>
@@ -2570,7 +2570,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_titlebar">User dictionary</string>
   <string name="user_dict_single_settings_title">Personal dictionary</string>
-  <string name="user_discard_user_menu">Discard</string>
+  <string name="user_discard_user_menu">Απόρριψη</string>
   <string name="user_information_heading">User information</string>
   <string name="user_list_title">Users</string>
   <string name="user_market_apps_heading">Installed apps</string>

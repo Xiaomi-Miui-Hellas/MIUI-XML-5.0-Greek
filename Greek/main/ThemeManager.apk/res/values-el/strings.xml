@@ -180,7 +180,7 @@
   <string name="resource_see_more">See more</string>
   <string name="resource_select">Select</string>
   <string name="resource_selected">Featured</string>
-  <string name="resource_send">Send</string>
+  <string name="resource_send">Αποστολή</string>
   <string name="resource_server_alert_dialog_title">Service is currently unavailable</string>
   <string name="resource_server_out_of_service">Server unavailable, please try again later.</string>
   <string name="resource_share_subject">Share theme: %1$s</string>
