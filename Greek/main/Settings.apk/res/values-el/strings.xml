@@ -2800,7 +2800,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_empty_list_wifi_on">Searching for Wi-Fi networks…</string>
   <string name="wifi_enable">Enable Wi-Fi</string>
   <string name="wifi_enable_watchdog_service_summary">Avoid poor connections</string>
-  <string name="wifi_error">Error</string>
+  <string name="wifi_error">Σφάλμα</string>
   <string name="wifi_fail_to_scan">"Can't scan for networks"</string>
   <string name="wifi_failed_connect_message">Failed to connect to network</string>
   <string name="wifi_failed_forget_message">Failed to forget network</string>

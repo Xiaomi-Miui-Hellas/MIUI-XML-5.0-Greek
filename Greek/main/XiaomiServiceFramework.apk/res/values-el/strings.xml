@@ -99,7 +99,7 @@
   <string name="find_device_disabled_title">Locate device disabled</string>
   <string name="find_device_disabling">Turning off…</string>
   <string name="find_device_enabling">Turning on…</string>
-  <string name="find_device_error_network">Network unavailable</string>
+  <string name="find_device_error_network">Μη διαθέσιμο δίκτυο</string>
   <string name="find_device_error_server">Server error</string>
   <string name="find_device_notice_p1">When you have lost your phone, please visit</string>
   <string name="find_device_notice_p2">i.xiaomi.com</string>
