@@ -42,8 +42,8 @@ Usage in excess of your carrier plan's data limits can result in steep overage c
   <string name="dual_setting_simcard2">SIM 2</string>
   <string name="firewall_activity_lable">Restrict data usage by app</string>
   <string name="firewall_applist">Apps</string>
-  <string name="firewall_fragment_nonesys_listempty">Empty</string>
-  <string name="firewall_fragment_sys_listempty">Empty</string>
+  <string name="firewall_fragment_nonesys_listempty">Άδειο</string>
+  <string name="firewall_fragment_sys_listempty">Άδειο</string>
   <string name="firewall_fragment_tab_title_nonsys">Downloaded</string>
   <string name="firewall_fragment_tab_title_sys">Apps</string>
   <string name="firewall_rule_group_title_mobile">Data</string>
@@ -61,7 +61,7 @@ Usage in excess of your carrier plan's data limits can result in steep overage c
   <string name="input_traffic_pkg">Enter data usage</string>
   <string name="input_used_hint">Enter data usage</string>
   <string name="left_precent">60%</string>
-  <string name="list_empty_text">Empty</string>
+  <string name="list_empty_text">Άδειο</string>
   <string name="lock_screen_traffic_warn_title">Data usage warning</string>
   <string name="main_alert_message_no_imsi">No SIM card detected</string>
   <string name="main_alert_message_no_mobile_package">"Mobile data limit hasn't been set"</string>
@@ -171,7 +171,7 @@ Used"</string>
   <string name="traffic_setting_fragment_get_template_falure">Update get failure. Check your data connection and try again.</string>
   <string name="traffic_setting_fragment_loading_text">Getting network info…</string>
   <string name="traffic_setting_fragment_no_network">"Can't connect to the network"</string>
-  <string name="traffic_setting_fragment_null">Empty</string>
+  <string name="traffic_setting_fragment_null">Άδειο</string>
   <string name="traffic_setting_fragment_operator">Carrier</string>
   <string name="traffic_setting_fragment_send_num">Carrier phone number</string>
   <string name="traffic_setting_fragment_send_num_tips">Enter phone number</string>
@@ -180,6 +180,6 @@ Used"</string>
   <string name="traffic_setting_fragment_template">Message template</string>
   <string name="traffic_setting_fragment_title">Data usage query settings</string>
   <string name="usage_sorted_activity_lable">Data usage</string>
-  <string name="usage_sorted_empty_text">Empty</string>
+  <string name="usage_sorted_empty_text">Άδειο</string>
   <string name="usage_sorted_loading_text">Loading…</string>
 </resources>

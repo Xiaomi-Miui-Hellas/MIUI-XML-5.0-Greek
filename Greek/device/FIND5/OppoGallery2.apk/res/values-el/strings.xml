@@ -581,7 +581,7 @@
   <string name="straighten_tooltip">Drag photo to straighten it</string>
   <string name="switch_to_camera">Switch to Camera</string>
   <string name="sync_album_error">"Couldn't download the photos in this album. Retry later."</string>
-  <string name="sync_picasa_albums">Refresh</string>
+  <string name="sync_picasa_albums">Ανανέωση</string>
   <string name="tags">Tags</string>
   <string name="tap_to_focus">Touch to focus.</string>
   <string name="task_busy">Task is busy, please try again later.</string>
@@ -609,7 +609,7 @@
   <string name="video_snapshot_hint">Touch to take photo while recording.</string>
   <string name="vignette">Vignette</string>
   <string name="wait">Please wait…</string>
-  <string name="wallpaper">Setting wallpaper…</string>
+  <string name="wallpaper">Ορίζεται φόντο…</string>
   <string name="white_balance">White balance</string>
   <string name="wide_wallpaper">Wide screen</string>
   <string name="widget_type">Choose images</string>

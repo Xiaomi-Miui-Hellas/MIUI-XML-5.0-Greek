@@ -164,7 +164,7 @@ the content you're looking for is not currently available in your region."</stri
     <string name="fail_to_add_account">Failed to add account</string>
     <string name="account_unactivated">Account not activated</string>
     <string name="to_activate_the_account">Activate your Xiaomi Account now</string>
-    <string name="resource_menu_refresh">Refresh</string>
+    <string name="resource_menu_refresh">Ανανέωση</string>
     <string name="resource_unknow_error">An unknown error occurred</string>
     <string name="resource_user_know">ΟΚ</string>
     <string name="resource_hint">Alert</string>
@@ -484,7 +484,7 @@ Reason: \"%s\""</string>
     <string name="menu_share">Διαμοιρασμός</string>
     <string name="share_via">Send</string>
     <string name="share_error">"This contact can't be shared"</string>
-    <string name="nameLabelsGroup">Name</string>
+    <string name="nameLabelsGroup">Όνομα</string>
     <string name="nicknameLabelsGroup">Nickname</string>
     <string name="organizationLabelsGroup">Organization</string>
     <string name="websiteLabelsGroup">Website</string>
@@ -573,7 +573,7 @@ Reason: \"%s\""</string>
     <string name="postal_region">State</string>
     <string name="postal_postcode">ZIP code</string>
     <string name="postal_country">Country</string>
-    <string name="full_name">Name</string>
+    <string name="full_name">Όνομα</string>
     <string name="name_given">Given name</string>
     <string name="name_family">Family name</string>
     <string name="name_prefix">Name prefix</string>
@@ -1058,7 +1058,7 @@ Choose one of the following options:"</string>
     <string name="device_import_account_dialog_title_suffix">"
 (found %1$s contacts)"</string>
     <string name="device_import_local_account">Local account</string>
-    <string name="import_name">Name</string>
+    <string name="import_name">Όνομα</string>
     <string name="import_percent">0%</string>
     <string name="percent_sign">%</string>
     <string name="ret_sign">"
@@ -1137,7 +1137,7 @@ Choose one of the following options:"</string>
     <string name="login_ok">Sign in</string>
     <string name="yellowpage_navigation_no_content">"Didn't find anything"</string>
     <string name="yellowpage_navigation_search_offline_hint">"You're offline"</string>
-    <string name="refresh">Refresh</string>
+    <string name="refresh">Ανανέωση</string>
     <string name="yellowpage_navigation_search_city_name_hint">City</string>
     <string name="yellowpage_navigation_search_select_city">Choose a city</string>
     <string name="yellowpage_navigation_search_result_no_more">No more results</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="contact_entries">
-        <item>Name</item>
+        <item>Όνομα</item>
         <item>Nickname</item>
         <item>Phone</item>
         <item>E-mail</item>

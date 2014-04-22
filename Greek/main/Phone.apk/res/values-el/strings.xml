@@ -772,7 +772,7 @@ Try again or call customer service for more options."</string>
     <string name="sendSms">Send message</string>
     <string name="delete">Delete</string>
     <string name="dial">Dial</string>
-    <string name="enterName">Name</string>
+    <string name="enterName">Όνομα</string>
     <string name="enterNumber">Phone</string>
     <string name="contactAddSuccess">Contact added to SIM.</string>
     <string name="contactAddFailed">Failed to add contact to SIM.</string>
@@ -924,7 +924,7 @@ Try again or call customer service for more options."</string>
     <string name="current_areacode_sum_miui">Area code of your current location</string>
     <string name="current_areacode_sum_set_miui">Current area code: %s</string>
     <string name="custom_location_location_no_item_miui">Add a number by touching the add (+) button</string>
-    <string name="custom_location_location_hint_miui">Name</string>
+    <string name="custom_location_location_hint_miui">Όνομα</string>
     <string name="custom_location_number_hint_miui">Area code or group number</string>
     <string name="cw_title_miui">Call waiting</string>
     <string name="dial_related_setting_catory_miui">Dial</string>
@@ -1070,7 +1070,7 @@ Your SIM card will be erased after another failed attempt."</string>
     <string name="set_smsc_address_title_miui">Set SMS center number</string>
     <string name="sim_contact_dropdown_menu_deselect_all_miui">Deselect all</string>
     <string name="sim_contact_dropdown_menu_select_all_miui">Select all</string>
-    <string name="sim_contact_name_miui">Name</string>
+    <string name="sim_contact_name_miui">Όνομα</string>
     <string name="sim_contact_number_miui">Number</string>
     <string name="sim_lock_off_miui">Require PIN to use phone</string>
     <string name="sim_lock_on_miui">Require PIN to use phone</string>

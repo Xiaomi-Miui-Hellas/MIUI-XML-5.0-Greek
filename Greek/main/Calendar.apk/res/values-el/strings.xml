@@ -13,7 +13,7 @@
     <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="repeats_label">Repetition</string>
     <string name="no_title_label">(No title)</string>
-    <string name="calendar_refresh">Refresh</string>
+    <string name="calendar_refresh">Ανανέωση</string>
     <string name="show_day_view">Show day</string>
     <string name="agenda_view">Agenda</string>
     <string name="day_view">Day</string>

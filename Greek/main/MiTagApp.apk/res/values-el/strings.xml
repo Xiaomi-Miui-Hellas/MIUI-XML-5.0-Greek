@@ -37,7 +37,7 @@ touch it with the back of your phone"</string>
   <string name="characters">%d/72</string>
   <string name="click_to_choose">Touch to open</string>
   <string name="communication">Phone</string>
-  <string name="config_name_hint">Name</string>
+  <string name="config_name_hint">Όνομα</string>
   <string name="connect_to">Connect to %s</string>
   <string name="contact">Share contact</string>
   <string name="contact_address">Διεύθυνση</string>

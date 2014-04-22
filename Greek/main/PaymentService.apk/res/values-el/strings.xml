@@ -24,7 +24,7 @@
   <string name="bankcall_id_card">ID card no.</string>
   <string name="bankcall_id_card_hint">ID card no. associated with the account</string>
   <string name="bankcall_merchant">Receiver:</string>
-  <string name="bankcall_name">Name</string>
+  <string name="bankcall_name">Όνομα</string>
   <string name="bankcall_name_hint">Name associated with the account</string>
   <string name="bankcall_phone">Phone</string>
   <string name="bankcall_phone_credit_hint">"Bank account's corresponding personal phone number"</string>
@@ -329,7 +329,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="lockpattern_tutorial_continue_label">Επόμενο</string>
   <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Forgot pattern password&lt;/u&gt;</string>
   <string name="login">Login</string>
-  <string name="memu_refresh">Refresh</string>
+  <string name="memu_refresh">Ανανέωση</string>
   <string name="mibi_license_message">Touch OK if you agree to the terms and conditions described in the %1$s.</string>
   <string name="mibi_license_message_span">MiCredit User Agreement</string>
   <string name="mibi_license_title">User agreement</string>
