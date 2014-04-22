@@ -813,7 +813,7 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="dndm_auto_time_turn_off_title">Automatically turn off DND mode</string>
   <string name="dndm_auto_time_turn_on">From</string>
   <string name="dndm_auto_time_turn_on_title">Automatically turn on DND mode</string>
-  <string name="dndm_dlg_remove_ok">Remove</string>
+  <string name="dndm_dlg_remove_ok">Αφαίρεση</string>
   <string name="dndm_dlg_remove_vip">Remove from exceptions list?</string>
   <string name="dndm_menu_add_vip_custom">Add exception</string>
   <string name="dndm_mute_all">Silence calls and messages</string>
@@ -981,7 +981,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="force_stop_dlg_title">Force stop?</string>
   <string name="forget_wifi_message">Your phone will stop connecting to this network automatically.</string>
   <string name="free_ram">Memory used</string>
-  <string name="frequently_fragment_delete">Remove</string>
+  <string name="frequently_fragment_delete">Αφαίρεση</string>
   <string name="frequently_fragment_tempty">Frequently used items will be listed here</string>
   <string name="fw_action_settings">Filter settings</string>
   <string name="fw_add_keyword">Add keyword</string>
@@ -2423,7 +2423,7 @@ Attempts Remaining :"</string>
   <string name="trusted_credentials_enable_confirmation">Enable the system CA certificate?</string>
   <string name="trusted_credentials_enable_label">Enable</string>
   <string name="trusted_credentials_remove_confirmation">Permanently remove the user CA certificate?</string>
-  <string name="trusted_credentials_remove_label">Remove</string>
+  <string name="trusted_credentials_remove_label">Αφαίρεση</string>
   <string name="trusted_credentials_summary">Display trusted CA certificates</string>
   <string name="trusted_credentials_system_tab">System</string>
   <string name="trusted_credentials_user_tab">User</string>

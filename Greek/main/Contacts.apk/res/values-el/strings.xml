@@ -919,7 +919,7 @@ Choose one of the following options:"</string>
     <string name="option_send_to_desktop">Place on Home screen</string>
     <string name="option_send_to_others">Προώθηση</string>
     <string name="option_not_star">Remove from favorites</string>
-    <string name="option_not_in_group">Remove</string>
+    <string name="option_not_in_group">Αφαίρεση</string>
     <string name="option_view_group">View</string>
     <string name="option_rename_group">Rename</string>
     <string name="option_delete_group">Delete</string>

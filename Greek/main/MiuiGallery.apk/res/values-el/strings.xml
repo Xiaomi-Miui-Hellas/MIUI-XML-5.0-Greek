@@ -241,7 +241,7 @@ friends."</string>
   <string name="invalid_recipient_message">"Correct recipient(s) errors or they will not receive the message."</string>
   <string name="iso">ISO</string>
   <string name="item_not_sync">This item has not been synchronized to the cloud and can not be downloaded</string>
-  <string name="kick_owner_user_positive_button_text">Remove</string>
+  <string name="kick_owner_user_positive_button_text">Αφαίρεση</string>
   <string name="kick_owner_user_title">Remove this member?</string>
   <string name="kick_sharer">Remove sharer</string>
   <string name="kick_sharer_failed">Removing sharer failed</string>
