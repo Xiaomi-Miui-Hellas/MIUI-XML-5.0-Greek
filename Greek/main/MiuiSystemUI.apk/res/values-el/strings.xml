@@ -106,7 +106,7 @@
   <string name="ext_media_unmountable_notification_message">SD card storage damaged. You may have to reformat it.</string>
   <string name="ext_media_unmountable_notification_title">Damaged SD card storage</string>
   <string name="filter_item_description">You can \"Settings-Notification bar settings-custom notification\" notification type set in the application</string>
-  <string name="filter_item_preview_image">Προεπισκόπιση</string>
+  <string name="filter_item_preview_image">Προεπισκόπηση</string>
   <string name="gps_notification_found_text">Location set by GPS</string>
   <string name="gps_notification_searching_text">Searching for GPS</string>
   <string name="headset_custom">Customise</string>
@@ -137,7 +137,7 @@
   <string name="notification_icon_filter_mode_white_list">Whitelist</string>
   <string name="notification_icon_filter_other_list">Application list</string>
   <string name="notification_icon_filter_settings">Notifications</string>
-  <string name="notification_icon_filter_settings_loading">Loading, please wait…</string>
+  <string name="notification_icon_filter_settings_loading">Φόρτωση, παρακαλώ περιμένετε…</string>
   <string name="notification_icon_filter_show">Show notifications in status bar</string>
   <string name="notification_icon_filter_summary">Disabling this option will make notifications of all apps show in the upper left of status bar.</string>
   <string name="notification_icon_filter_title">Hide notification</string>
@@ -179,7 +179,7 @@
   <string name="screenshot_saving_text">Screenshot is being saved.</string>
   <string name="screenshot_saving_ticker">Saving screenshot…</string>
   <string name="screenshot_saving_title">Saving screenshot…</string>
-  <string name="settings_all_app_display_loading">Loading, please wait…</string>
+  <string name="settings_all_app_display_loading">Φόρτωση, παρακαλώ περιμένετε…</string>
   <string name="settings_custom_notification">Custom notification Settings</string>
   <string name="settings_expandable_under_fullscreen">Expandable on full-screen</string>
   <string name="settings_expandable_under_fullscreen_summary">by sliding down from the top of screen</string>

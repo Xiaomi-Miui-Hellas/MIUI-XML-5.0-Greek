@@ -137,7 +137,7 @@
   <string name="apn_mms_proxy">MMS proxy</string>
   <string name="apn_mmsc">MMSC</string>
   <string name="apn_mnc">MNC</string>
-  <string name="apn_name">Name</string>
+  <string name="apn_name">Όνομα</string>
   <string name="apn_new">New Access Point</string>
   <string name="apn_not_set">Not set</string>
   <string name="apn_password">Κωδικός</string>
@@ -1351,7 +1351,7 @@ To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&g
   <string name="menu_restore">Επαναφορά στα προκαθορισμένα</string>
   <string name="menu_save">Αποθήκευση</string>
   <string name="menu_stats_last_unplugged">While last unplugged for %1$s</string>
-  <string name="menu_stats_refresh">Refresh</string>
+  <string name="menu_stats_refresh">Ανανέωση</string>
   <string name="menu_stats_total">Usage totals</string>
   <string name="menu_stats_unplugged">%1$s since unplugged</string>
   <string name="misc_files">Misc files</string>
@@ -2008,7 +2008,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
   <string name="radio_info_signal_location_label">Location:</string>
   <string name="radio_info_signal_strength_label">Signal strength:</string>
   <string name="radio_info_smsc_label">SMSC:</string>
-  <string name="radio_info_smsc_refresh_label">Refresh</string>
+  <string name="radio_info_smsc_refresh_label">Ανανέωση</string>
   <string name="radio_info_smsc_update_label">Update</string>
   <string name="radio_info_toggle_dns_check_label">Toggle DNS check</string>
   <string name="read_only">" (Read-only)"</string>
@@ -2576,7 +2576,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="user_market_apps_heading">Installed apps</string>
   <string name="user_market_requires_pin">Requires PIN</string>
   <string name="user_max_content_rating">Content rating</string>
-  <string name="user_name_title">Name</string>
+  <string name="user_name_title">Όνομα</string>
   <string name="user_new_user_name">New user</string>
   <string name="user_remove_user_menu">Remove user</string>
   <string name="user_restrictions_heading">Content restrictions</string>
@@ -2729,7 +2729,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="vpn_menu_edit">Επεξεργασία profile</string>
   <string name="vpn_missing_cert">A certificate is missing. Please edit the profile.</string>
   <string name="vpn_mppe">PPP encryption (MPPE)</string>
-  <string name="vpn_name">Name</string>
+  <string name="vpn_name">Όνομα</string>
   <string name="vpn_no_ca_cert">"(don't verify server)"</string>
   <string name="vpn_no_network">There is no network connection. Please try again later.</string>
   <string name="vpn_no_server_cert">(received from server)</string>

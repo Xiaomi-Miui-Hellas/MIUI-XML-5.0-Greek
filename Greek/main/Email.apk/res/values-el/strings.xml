@@ -398,7 +398,7 @@ CC: %4$s
     <string name="report_phishing">Report phishing</string>
     <string name="delete">Delete</string>
     <string name="discard_drafts">Discard drafts</string>
-    <string name="refresh">Refresh</string>
+    <string name="refresh">Ανανέωση</string>
     <string name="reply">Reply</string>
     <string name="reply_all">Reply all</string>
     <string name="resume_draft">Edit</string>
@@ -434,7 +434,7 @@ CC: %4$s
     <string name="attachment_application_vnd_ms_excel">Spreadsheet</string>
     <string name="attachment_application_pdf">PDF</string>
     <string name="attachment_unknown">%s File</string>
-    <string name="preview_attachment">Προεπισκόπιση</string>
+    <string name="preview_attachment">Προεπισκόπηση</string>
     <string name="save_attachment">Αποθήκευση</string>
     <string name="cancel_attachment">Άκυρο</string>
     <string name="download_again">Download again</string>
@@ -695,7 +695,7 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
     <string name="more_atts_total">%1$d attachments in total</string>
     <string name="menu_att_mgr_order_size">Sort by size</string>
     <string name="att_mgr_title_order_mime">Format</string>
-    <string name="att_mgr_title_order_name">Name</string>
+    <string name="att_mgr_title_order_name">Όνομα</string>
     <string name="att_mgr_title_order_sender">Sender</string>
     <string name="att_mgr_title_order_rev_date">Date</string>
     <string name="att_mgr_title_order_size">File size</string>

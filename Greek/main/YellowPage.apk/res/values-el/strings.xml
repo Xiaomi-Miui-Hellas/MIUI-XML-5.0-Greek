@@ -66,7 +66,7 @@ Please your check tracking number."</string>
   <string name="menu_correct_yellow_page">Correction</string>
   <string name="menu_delete_call_log">Delete call logs</string>
   <string name="menu_delete_one">Remove item from call log</string>
-  <string name="menu_refresh">Refresh</string>
+  <string name="menu_refresh">Ανανέωση</string>
   <string name="menu_remove_black_list">Remove from blacklist</string>
   <string name="mishop_web_payment_title">MiStore checkout</string>
   <string name="navigation_search_all_cities">All cities</string>

@@ -259,7 +259,7 @@
   <string name="recommend">Recommend</string>
   <string name="refresh_finish">Refreshed successfully</string>
   <string name="refresh_in_processing">Refreshing…</string>
-  <string name="refresh_media_db">Refresh</string>
+  <string name="refresh_media_db">Ανανέωση</string>
   <string name="refresh_start">Refresh started, please wait…</string>
   <string name="remove_from_favorite">Remove from Favorites</string>
   <string name="remove_item">Remove</string>

@@ -151,7 +151,7 @@
   <string name="resource_importing">Importing</string>
   <string name="resource_list_title">Latest selected</string>
   <string name="resource_local">Local %1$s</string>
-  <string name="resource_menu_refresh">Refresh</string>
+  <string name="resource_menu_refresh">Ανανέωση</string>
   <string name="resource_mute">None</string>
   <string name="resource_my">Τοπικά</string>
   <string name="resource_no_result">No result</string>
@@ -163,7 +163,7 @@
   <string name="resource_pack_price_info">Original price %1$s</string>
   <string name="resource_pack_warning">Warning! you have already purchased %1$d items, current price is no longer valid for left items, please purchase them individually.</string>
   <string name="resource_present">Gift</string>
-  <string name="resource_preview">Προεπισκόπιση</string>
+  <string name="resource_preview">Προεπισκόπηση</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Free</string>
   <string name="resource_price_unit">MI Credits</string>

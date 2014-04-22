@@ -9,7 +9,7 @@
     <string name="menu_item_search">Search</string>
     <string name="operation_create_folder">Νέος φάκελος</string>
     <string name="menu_item_sort">Sort by</string>
-    <string name="menu_item_sort_name">Name</string>
+    <string name="menu_item_sort_name">Όνομα</string>
     <string name="menu_item_sort_size">Size</string>
     <string name="menu_item_sort_date">Date</string>
     <string name="menu_item_sort_type">Type</string>
@@ -23,12 +23,12 @@
     <string name="operation_delete">Delete</string>
     <string name="operation_info">Details</string>
     <string name="operation_cancel">Άκυρο</string>
-    <string name="operation_refresh">Refresh</string>
+    <string name="operation_refresh">Ανανέωση</string>
     <string name="operation_show_sys">Show hidden files</string>
     <string name="operation_hide_sys">"Don't show hidden files"</string>
     <string name="cancel">Άκυρο</string>
     <string name="background">Download in background</string>
-    <string name="no_file">Empty</string>
+    <string name="no_file">Άδειο</string>
     <string name="tab_category">Categories</string>
     <string name="tab_phone">Phone</string>
     <string name="category_all">All</string>
