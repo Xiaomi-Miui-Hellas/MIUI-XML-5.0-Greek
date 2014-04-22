@@ -88,7 +88,6 @@
  <string name="auto_record_whitelist_miui">Επιλογή αριθμών</string>
  <string name="auto_record_whitelist_no_item_miui">Πατήστε στο τέλος για προσθήκη αριθμών στην αυτόματη ηχογράφηση</string>
  <string name="auto_record_whitelist_summary_miui">%d αριθμοί</string>
-    <string name="auto_record_whitelist_summary_miui">%d numbers</string>
     <string name="auto_record_yellowpage_miui">Directory</string>
  <string name="auto_redial_pref_summary_miui">Αυτόματη επανάκληση έαν είναι κατειλημμένο</string>
     <string name="auto_redial_pref_title_miui">Auto-redial</string>
@@ -173,7 +172,6 @@
  <string name="calling_via_template">Κλήση μέσω %s</string>
  <string name="calling_via_template_miui">Κλήση μέσω ^1</string>
     <string name="callUnanswered_forwarded">Call Unanswered and Forwarded</string>
-    <string name="cancel">Άκυρο</string>
  <string name="cancel">Ακύρωση</string>
     <string name="card_01">Card 1 / SUB 1</string>
     <string name="card_02">Card 2 / SUB 2</string>
