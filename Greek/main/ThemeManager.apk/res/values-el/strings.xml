@@ -155,7 +155,7 @@
   <string name="resource_mute">None</string>
   <string name="resource_my">Τοπικά</string>
   <string name="resource_no_result">No result</string>
-  <string name="resource_notification_default">Notifications</string>
+  <string name="resource_notification_default">Ειδοποιήσεις</string>
   <string name="resource_on_trial">Trying: %1$s</string>
   <string name="resource_online">Online %1$s</string>
   <string name="resource_pack_confirm">You have already purchased %1$d items, but the current price is still better than individually purchasing left items, would you like to continue?</string>

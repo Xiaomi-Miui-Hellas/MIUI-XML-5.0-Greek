@@ -171,7 +171,7 @@
   <string name="status_bar_toggle_sync_manual">Εγχειρίδιο sync</string>
   <string name="status_bar_toggle_syncing">Syncing</string>
   <string name="status_bar_toggle_torch">Torch</string>
-  <string name="status_bar_toggle_vibrate">Vibrate</string>
+  <string name="status_bar_toggle_vibrate">Δόνηση</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Wi-Fi hotspot</string>
   <string name="title_select_live_folder">Select folder</string>

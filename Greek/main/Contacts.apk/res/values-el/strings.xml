@@ -148,7 +148,7 @@
     <string name="resource_comment_upload_success">Σχόλιο εστάλη! Το σχόλιο σας θα εμφανιστεί μετά από μια σύντομη ανασκόπηση.</string>
     <string name="resource_comment_upload_data_invalid">Το σχόλιο που εισαγάγατε δεν είναι έγκυρο</string>
     <string name="resource_comment_upload_not_logined">Θα πρέπει να συνδεθείτε πρώτα</string>
-    <string name="resource_comment_upload_not_bought">Θα πρέπει να εφαρμόσετε το θέμα για να μπορέσετε να γράψετε σχόλια γι 'αυτό</string>
+    <string name="resource_comment_upload_not_bought">"Θα πρέπει να εφαρμόσετε το θέμα για να μπορέσετε να γράψετε σχόλια γι 'αυτό"</string>
     <string name="resource_comment_invalid">Αγγίξτε τα αστέρια για να βαθμολογήσετε το θέμα</string>
     <string name="resource_comment_expand_full_text">Επεκτείνετε όλο το κείμενο▼</string>
     <string name="resource_comment_title">Σχόλια: %1$s</string>
