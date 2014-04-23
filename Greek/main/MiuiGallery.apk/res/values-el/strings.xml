@@ -94,7 +94,6 @@
   <string name="cloud_owner_album_share_guide">You can share this album with friends</string>
 	<string name="cloud_screenshots_display_name">Στιγμιότυπα οθόνης</string>
   <string name="cloud_share_guide_message">"You can share your MiCloud album with friends."</string>
-
   <string name="cloud_share_guide_title">MiCloud Sharing!</string>
   <string name="cloud_tab_albums">Άλμπουμ</string>
     <string name="cloud_tab_all">Όλα</string>
@@ -178,7 +177,6 @@
   <string name="exit_share_successfully">Exited album %1$s successfully</string>
   <string name="exposure_time">Χρόνος έκθεσης</string>
   <string name="external_sd_card">Κάρτα SD</string>
-  <string name="external_usb_device">USB device</string>
 	<string name="external_usb_device">Εξ.χώρος USB</string>
   <string name="facelift">Υφή δέρματος</string>
 	<string name="facetan">Μαύρισμα</string>

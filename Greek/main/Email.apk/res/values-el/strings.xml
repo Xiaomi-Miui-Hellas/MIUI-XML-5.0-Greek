@@ -13,8 +13,6 @@
     <string name="abc_activity_chooser_view_see_all">See all</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_shareactionprovider_share_with">Share with</string>
-    <string name="quoted_text_background_color_string">@android:color/white</string>
-    <string name="quoted_text_font_color_string">@color/gray_text_color</string>
     <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
     <string name="date">2888/88/88</string>
     <string name="email_package_name">com.android.email</string>
@@ -539,7 +537,6 @@ CC: %4$s
     <string name="search_results_loaded">%1$d</string>
     <string name="network_error">Χωρίς σύνδεση</string>
     <string name="load_more">Load more</string>
-    <string name="load_attachment">@string/load_more</string>
     <string name="shortcut_name_title">Name folder shortcut</string>
     <string name="wait_for_sync_title">Waiting for sync</string>
     <string name="wait_for_sync_body">Your email will appear shortly.</string>
