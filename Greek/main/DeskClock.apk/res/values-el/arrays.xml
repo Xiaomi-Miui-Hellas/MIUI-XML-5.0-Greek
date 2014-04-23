@@ -1,27 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <integer-array name="alarm_repeat_type_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
-    <integer-array name="alarm_repeat_type_no_workdays_values">
-        <item>0</item>
-        <item>1</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
     <string-array name="alarm_set">
-        <item>Alarm set for less than 1 minute from now.</item>
-        <item>Alarm set for %1$s from now.</item>
-        <item>Alarm set for %2$s from now.</item>
-        <item>Alarm set for %1$s and %2$s from now.</item>
-        <item>Alarm set for %3$s from now.</item>
-        <item>Alarm set for %1$s and %3$s from now.</item>
-        <item>Alarm set for %2$s and %3$s from now.</item>
-        <item>Alarm set for %1$s, %2$s, and %3$s from now.</item>
+        <item>Ξυπνητήρι 1 minute από τώρα.</item>
+        <item>Ξυπνητήρι σε %1$s από τώρα.</item>
+        <item>Ξυπνητήρι σε %2$s από τώρα.</item>
+        <item>Ξυπνητήρι σε %1$s και %2$s από τώρα.</item>
+        <item>Ξυπνητήρι σε %3$s και τώρα.</item>
+        <item>Ξυπνητήρι σε %1$s και %3$s από τώρα.</item>
+        <item>Ξυπνητήρι σε %2$s και %3$s από τώρα.</item>
+        <item>Ξυπνητήρι σε %1$s, %2$s, και %3$s από τώρα.</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>1 λεπτό</item>
@@ -31,15 +18,6 @@
         <item>20 λεπτά</item>
         <item>25 λεπτά</item>
         <item>30 λεπτά</item>
-    </string-array>
-    <string-array name="snooze_duration_values">
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>20</item>
-        <item>25</item>
-        <item>30</item>
     </string-array>
     <string-array name="auto_silence_entries">
         <item>Ποτέ</item>
@@ -51,52 +29,37 @@
         <item>25 λεπτά</item>
         <item>30 λεπτά</item>
     </string-array>
-    <string-array name="auto_silence_values">
-        <item>-1</item>
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>20</item>
-        <item>25</item>
-        <item>30</item>
-    </string-array>
     <string-array name="volume_button_setting_entries">
-        <item>Do nothing</item>
-        <item>Snooze</item>
-        <item>Dismiss</item>
-    </string-array>
-    <string-array name="volume_button_setting_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
+        <item>Συνέχεισε</item>
+        <item>Προσωρινή διακοπή</item>
+        <item>Κλείσιμο</item>
     </string-array>
     <string-array name="alarm_in_furture">
-        <item>Alarm will sound in less than 1 λεπτό</item>
-        <item>Alarm will sound in %1$s</item>
-        <item>Alarm will sound in %2$s</item>
-        <item>Alarm will sound in %1$s %2$s</item>
-        <item>Alarm will sound in %3$s</item>
-        <item>Alarm will sound in %1$s %3$s</item>
-        <item>Alarm will sound in %2$s %3$s</item>
-        <item>Alarm will sound in %1$s %2$s %3$s</item>
+        <item>To Ξυπνητήρι θα χτυπήσει σε λιγότερο από 1 λεπτό</item>
+        <item>To Ξυπνητήρι θα χτυπήσει σε %1$s</item>
+        <item>To Ξυπνητήρι θα χτυπήσει σε %2$s</item>
+        <item>To Ξυπνητήρι θα χτυπήσει σε %1$s %2$s</item>
+        <item>To Ξυπνητήρι θα χτυπήσει σε %3$s</item>
+        <item>To Ξυπνητήρι θα χτυπήσει σε %1$s %3$s</item>
+        <item>To Ξυπνητήρι θα χτυπήσει σε %2$s %3$s</item>
+        <item>To Ξυπνητήρι θα χτυπήσει σε %1$s %2$s %3$s</item>
     </string-array>
     <string-array name="days">
-        <item>Yesterμέρα</item>
+        <item>Εχθές</item>
         <item>Σήμερα</item>
         <item>Αύριο</item>
     </string-array>
     <string-array name="alarm_repeat_type">
-        <item>Once</item>
+        <item>Μία φορά</item>
         <item>Καθημερινά</item>
-        <item>Work μέρες</item>
-        <item>Mon to Fri</item>
-        <item>Custom</item>
+        <item>Εργάσιμες μέρες</item>
+        <item>Δευ εώς Παρ</item>
+        <item>Προσαρμογή</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-        <item>Once</item>
+        <item>Μία φορά</item>
         <item>Καθημερινά</item>
-        <item>Mon to Fri</item>
-        <item>Custom</item>
+        <item>Δευ εώς Παρ</item>
+        <item>Προσαρμογή</item>
     </string-array>
 </resources>
