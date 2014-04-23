@@ -1112,7 +1112,7 @@ To add a contact to your list of favorites:
     <string name="import_selected_sim_entries_miui">Import selected contacts</string>
     <string name="dlg_add_blacklist">Block this number?</string>
     <string name="dlg_remove_blacklist">Unblock this number?</string>
-    <string name="close_dial_pad">Κλέισιμο dial pad</string>
+    <string name="close_dial_pad">Κλείσιμο dial pad</string>
     <string name="dial">dial</string>
     <string name="delete_dial_input">Διαγραφή</string>
     <string name="clear_digits">Clear phone number</string>
