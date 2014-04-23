@@ -136,7 +136,7 @@
   <string name="notification_icon_filter_mode_black_list">Blacklist</string>
   <string name="notification_icon_filter_mode_white_list">Whitelist</string>
   <string name="notification_icon_filter_other_list">Application list</string>
-  <string name="notification_icon_filter_settings">Notifications</string>
+  <string name="notification_icon_filter_settings">Ειδοποιήσεις</string>
   <string name="notification_icon_filter_settings_loading">Φόρτωση, παρακαλώ περιμένετε…</string>
   <string name="notification_icon_filter_show">Show notifications in status bar</string>
   <string name="notification_icon_filter_summary">Disabling this option will make notifications of all apps show in the upper left of status bar.</string>
@@ -226,7 +226,7 @@
   <string name="status_bar_settings_auto_brightness_label">AUTO</string>
   <string name="status_bar_settings_auto_rotation">Auto-rotate screen</string>
   <string name="status_bar_settings_battery_meter_format">%d%%</string>
-  <string name="status_bar_settings_notifications">Notifications</string>
+  <string name="status_bar_settings_notifications">Ειδοποιήσεις</string>
   <string name="status_bar_settings_settings_button">Ρυθμίσεις</string>
   <string name="status_bar_settings_signal_meter_disconnected">No Internet connection</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connected</string>
@@ -250,7 +250,7 @@
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Wi-Fi hotspot</string>
   <string name="status_bar_use_physical_keyboard">Use physical keyboard</string>
-  <string name="tab_notifications_lable">Notifications</string>
+  <string name="tab_notifications_lable">Ειδοποιήσεις</string>
   <string name="tab_toggles_lable">Toggles</string>
   <string name="title_usb_accessory">USB accessory</string>
   <string name="toast_rotation_locked">Screen locked to landscape mode</string>

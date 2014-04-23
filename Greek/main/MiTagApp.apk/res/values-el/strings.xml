@@ -153,10 +153,10 @@ touch it with the back of your phone"</string>
   <string name="shortcut">Quick tasks</string>
   <string name="sleep_mode">Do not disturb</string>
   <string name="sms_content">Message</string>
-  <string name="sound">Sound</string>
+  <string name="sound">Ήχος</string>
   <string name="sound_alarm">Ξυπνητήρι</string>
   <string name="sound_media">Media</string>
-  <string name="sound_notification">Notifications</string>
+  <string name="sound_notification">Ειδοποιήσεις</string>
   <string name="sound_ringer">Ringer</string>
   <string name="sound_voice">Call volume</string>
   <string name="start_configuration">Configure tag</string>
@@ -178,11 +178,11 @@ touch the back of your phone to another tag."</string>
   <string name="unrecognized_tag">Unrecognized tag content</string>
   <string name="update_config">Edit tasks</string>
   <string name="user_configs">My tasks</string>
-  <string name="vibrate_mode">Vibrate</string>
+  <string name="vibrate_mode">Δόνηση</string>
   <string name="vibrate_off">Vibrate off</string>
   <string name="vibrate_on">Vibrate on</string>
   <string name="voice_call_value">Call volume %s%%</string>
-  <string name="volume">Sound</string>
+  <string name="volume">Ήχος</string>
   <string name="web_label">Web label (optional)</string>
   <string name="web_url">URL</string>
   <string name="wifi">WLAN</string>
