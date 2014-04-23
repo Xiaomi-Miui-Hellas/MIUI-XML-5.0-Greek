@@ -59,10 +59,10 @@
   <string name="enable_notification_city">Έχετε ανοίξει %s της ειδοποίησης του καιρού, ειδοποίηση συστήματος θα σταλεί όταν μη αναμενόμενος καιρός όπως βροχή, χιόνι και αλλαγή θερμοκρασίας λάβει χώρα.</string>
   <string name="enable_notification_summary">Ειδοποιήστε με αν η πρόβλεψη αλλάξει</string>
   <string name="first_start_network_toast_text">Πρόσβαση στο ίντερνετ για λήψη πληροφοριών καιρού.</string>
-  <string name="format_date_md">M/d kk:mm</string>
-  <string name="format_date_trend_md">M/d</string>
+  <string name="format_date_md">d/M kk:mm</string>
+  <string name="format_date_trend_md">d/M</string>
   <string name="format_date_week">EEE</string>
-  <string name="format_date_wmd">M/d EEE</string>
+  <string name="format_date_wmd">d/M EEE</string>
   <string name="install_tencent">Λήψη εφαρμογής Weibo</string>
   <string name="loading_weather">Φόρτωση καιρού…</string>
   <string name="local_city">Τοπικές πόλεις</string>
