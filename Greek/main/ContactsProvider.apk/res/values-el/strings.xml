@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="sharedUserLabel">Android Core Apps</string>
-    <string name="app_label">Contacts Storage</string>
-    <string name="provider_label">Contacts</string>
-    <string name="upgrade_msg">Upgrading contacts database.</string>
-    <string name="upgrade_out_of_memory_notification_ticker">Contacts upgrade needs more memory.</string>
-    <string name="upgrade_out_of_memory_notification_title">Upgrading storage for contacts</string>
-    <string name="upgrade_out_of_memory_notification_text">Touch to complete the upgrade.</string>
-    <string name="default_directory">Contacts</string>
+    <string name="sharedUserLabel">Βασικές εφαρμογές Android</string>
+    <string name="app_label">Αποθήκευση Επαφών</string>
+    <string name="provider_label">Επαφές</string>
+    <string name="upgrade_msg">Αναβάθμιση χώρου δεδομένων των Επαφών.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Η αναβάθμιση των επαφών χρειάζεται περισότερη μνήμη.</string>
+    <string name="upgrade_out_of_memory_notification_title">Αναβάθμιση του χώρου των Επαφών.</string>
+    <string name="upgrade_out_of_memory_notification_text">Αγγίξτε για ολοκλήρωση της αναβάθμισης.</string>
+    <string name="default_directory">Επαφές</string>
     <string name="local_invisible_directory">Άλλο</string>
-    <string name="read_write_all_voicemail_label">Access all voicemails</string>
-    <string name="read_write_all_voicemail_description">Allows the app to store and retrieve all voicemails that this device can access.</string>
-    <string name="voicemail_from_column">"Voicemail from "</string>
-    <string name="debug_dump_title">Copy contacts database</string>
-    <string name="debug_dump_database_message">You are about to 1) make a copy of your database which includes all contacts related information and all call log to the internal storage, and 2) email it. Remember to delete the copy as soon as you have successfully copied it off the device or the email is received.</string>
-    <string name="debug_dump_delete_button">Delete now</string>
-    <string name="debug_dump_start_button">Start</string>
-    <string name="debug_dump_email_sender_picker">Choose a program to send your file</string>
-    <string name="debug_dump_email_subject">Contacts Db attached</string>
-    <string name="debug_dump_email_body">Attached is my contacts database with all my contacts information. Handle with care.</string>
-    <string name="third_party_delete_contact_info">"\"%s\" is trying to delete your contacts. This action can't be carried out by third-party apps. To delete contacts, use MIUI's built-in Contacts app instead."</string>
-    <string name="pound_search_tip">Input number after # to search contacts</string>
-    <string name="create_contact">New contact</string>
-    <string name="send_sms">Send message</string>
-    <string name="edit_contact">Add to contact</string>
-    <string name="call_log_provider_label">Call log</string>
+    <string name="read_write_all_voicemail_label">Πρόσβαση σε όλα τα φωνητικά μηνύματα</string>
+    <string name="read_write_all_voicemail_description">Επιτρέπει στην εφαρμογή να αποθηκεύει και να ανακτά όλα τα φωνητικά μηνύματα που αυτή η συσκευή μπορεί να έχει πρόσβαση.</string>
+    <string name="voicemail_from_column">"Φωνητικό μήνυμα από "</string>
+    <string name="debug_dump_title">Αντιγραφή επαφών της βάσης δεδομένων</string>
+    <string name="debug_dump_database_message">
+Είστε έτοιμος να 1) να δημιουργήσετε ένα αντίγραφο της βάσης δεδομένων σας, η οποία περιλαμβάνει όλες τις επαφές που σχετίζονται με τις πληροφορίες και όλα τα αρχείο κλήσεων στην εσωτερική μνήμη, και 2) Να το στείλετε με email. Θυμηθείτε να διαγράψετε το αντίγραφο, που έχετε αντιγράψει με επιτυχία από τη συσκευή ή το e-mail που λάβατε.</string>
+    <string name="debug_dump_delete_button">Διαγραφή τώρα</string>
+    <string name="debug_dump_start_button">Έναρξη</string>
+    <string name="debug_dump_email_sender_picker">Διαλέξτε μία εφαρμογή για την αποστολή του αρχείου.</string>
+    <string name="debug_dump_email_subject">Επισύναψη Βάσης επαφών</string>
+    <string name="debug_dump_email_body">Επισυνάπτεται η βάση δεδομένων επαφών μου με όλες τις πληροφορίες τους. Χειριστείτε με προσοχή.</string>
+    <string name="third_party_delete_contact_info">"\"%s\" προσπαθεί να διαγράψει τις επαφές σας. Η ενέργεια αυτή δεν μπορεί να πραγματοποιηθεί με εφαρμογές τρίτων. Για να διαγράψετε επαφές, χρησιμοποιήσετε την ενσωματωμένη εφαρμογή Επαφών του MIUI."</string>
+    <string name="pound_search_tip">Εισαγωγή αριθμού μετά το # για αναζήτηση επαφών</string>
+    <string name="create_contact">Νέα Επαφή</string>
+    <string name="send_sms">Αποστολή Μηνύματος</string>
+    <string name="edit_contact">Προσθήκη στις επαφές</string>
+    <string name="call_log_provider_label">Ιστορικό κλήσεων</string>
 </resources>
