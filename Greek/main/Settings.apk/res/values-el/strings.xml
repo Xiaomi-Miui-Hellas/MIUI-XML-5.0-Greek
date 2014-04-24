@@ -2481,7 +2481,7 @@ Attempts Remaining :"</string>
   <string name="usage_type_gps">GPS</string>
   <string name="usage_type_no_coverage">Time without a signal</string>
   <string name="usage_type_on_time">Time on</string>
-  <string name="usage_type_phone">Phone</string>
+  <string name="usage_type_phone">Τηλέφωνο</string>
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Keep awake</string>
   <string name="usage_type_wifi_running">Wi-Fi running</string>
