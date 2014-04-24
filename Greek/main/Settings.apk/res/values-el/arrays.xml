@@ -348,7 +348,7 @@
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
         <item>Πάντα</item>
-        <item>OΜόνο όταν είναι συνδεδεμένο</item>
+        <item>Μόνο όταν είναι συνδεδεμένο</item>
         <item>Ποτέ (αυξάνεται η χρήση των δεδομένων)</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
