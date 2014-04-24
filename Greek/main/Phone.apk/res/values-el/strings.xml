@@ -259,7 +259,7 @@
     <string name="throttle_rate">Πολιτική τιμολόγησης δεδομένων</string>
     <string name="throttle_help">Μάθετε περισσότερα</string>
     <string name="throttle_status_subtext">"%1$s (%2$d٪) από %3$s μέγιστο χρονικό διάστημα
-Η επόμενη περίοδος ξεκινά %4$d ημέρες (%5$s)"</string>
+Η επόμενη περίοδος ξεκινά σε %4$d ημέρες (%5$s)"</string>
     <string name="throttle_data_usage_subtext">%1$s (%2$d٪) από %3$s μέγιστο χρονικό διάστημα</string>
     <string name="throttle_data_rate_reduced_subtext">"%1$s Υπέρβαση ορίου
 Η ταχύτητα δεδομένων μειώνεται σε %2$d Kb/s"</string>
