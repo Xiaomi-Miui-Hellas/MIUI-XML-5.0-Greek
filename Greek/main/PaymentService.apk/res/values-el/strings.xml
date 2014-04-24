@@ -26,7 +26,7 @@
   <string name="bankcall_merchant">Receiver:</string>
   <string name="bankcall_name">Όνομα</string>
   <string name="bankcall_name_hint">Name associated with the account</string>
-  <string name="bankcall_phone">Phone</string>
+  <string name="bankcall_phone">Τηλέφωνο</string>
   <string name="bankcall_phone_credit_hint">"Bank account's corresponding personal phone number"</string>
   <string name="bankcall_phone_debit_hint">Make sure you have a good Internet connection.</string>
   <string name="bankcall_province">Province</string>
