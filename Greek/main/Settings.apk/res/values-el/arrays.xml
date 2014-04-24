@@ -22,7 +22,7 @@
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Τυπικό όριο</item>
-        <item>Χωρίς διαδικασίες υποβάθρου</item>
+        <item>Χωρίς διαδικασίες Παρασκηνίου</item>
         <item>Το πολύ 1 διαδικασία</item>
         <item>Το πολύ 2 διαδικασίες</item>
         <item>Το πολύ 3 διαδικασίες</item>
