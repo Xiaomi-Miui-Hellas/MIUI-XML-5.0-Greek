@@ -34,7 +34,7 @@
         <item>9 secs</item>
     </string-array>
     <string-array name="traffic_sort_type">
-        <item>Data usage</item>
+        <item>Χρήση δεδομένων</item>
         <item>WLAN usage</item>
         <item>Total usage</item>
     </string-array>

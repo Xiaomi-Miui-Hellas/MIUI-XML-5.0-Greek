@@ -213,7 +213,7 @@ Free space added %1$s"</string>
     <string name="choose_send_type">Choose a method</string>
     <string name="download_link_completed">%1$s shared via KuaiPan. Touch the link below to view:</string>
     <string name="transing">Sending…</string>
-    <string name="finished">Complete</string>
+    <string name="finished">Ολοκληρώθηκε</string>
     <string name="uploading">Uploading…</string>
     <string name="downloading">Λαμβάνει…</string>
     <string name="waiting">Waiting…</string>
@@ -223,7 +223,7 @@ Free space added %1$s"</string>
     <string name="paused">Paused</string>
     <string name="upload_failed">Upload failed</string>
     <string name="download_failed">Αποτυχία λήψης</string>
-    <string name="operation_pause">Pause</string>
+    <string name="operation_pause">Παύση</string>
     <string name="operation_resume">Start</string>
     <string name="operation_pause_all">Pause all</string>
     <string name="operation_resume_all">Resume all</string>
@@ -281,7 +281,7 @@ Free space added %1$s"</string>
     <string name="clean_app_garbage">Delete %d item(s)</string>
     <string name="app_garbage_path">Location:</string>
     <string name="give_up_cleaning">Άκυρο</string>
-    <string name="restart_cleaning">Restart</string>
+    <string name="restart_cleaning">Επανεκκίνηση</string>
     <string name="cleanup_complete">Έγινε</string>
     <string name="count_down_time">Starting in %d seconds</string>
     <string name="cancel_with_count_down">Cancel (%d)</string>

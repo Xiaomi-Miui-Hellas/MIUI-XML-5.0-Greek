@@ -192,7 +192,7 @@
   <string name="unknown_artist_name">Unknown artist</string>
   <string name="unnamed_folder_name">Untitled folder</string>
   <string name="wallpaper_scrolling">all</string>
-  <string name="widget_favorite_contacts_edit">Editor</string>
+  <string name="widget_favorite_contacts_edit">Επεξεργαστής</string>
   <string name="widget_favorite_contacts_label">Favorite contacts</string>
   <string name="widget_favorite_contacts_style">Switch Size</string>
   <string name="widget_gadget_player">Music</string>

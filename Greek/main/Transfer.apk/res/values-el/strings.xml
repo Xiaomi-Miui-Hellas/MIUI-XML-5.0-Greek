@@ -52,8 +52,8 @@
   <string name="error_select">File error or no file was selected</string>
   <string name="error_transmit">Transfer error</string>
   <string name="error_upload">Upload failed</string>
-  <string name="fail">Failed</string>
-  <string name="failed">Failed</string>
+  <string name="fail">Απέτυχε</string>
+  <string name="failed">Απέτυχε</string>
   <string name="file_download">Download file</string>
   <string name="file_downloading">File is downloading</string>
   <string name="file_restore">Restore files</string>
@@ -61,7 +61,7 @@
   <string name="file_share_upload_complete">Shared file uploaded!</string>
   <string name="file_upload">Upload file</string>
   <string name="file_uploading">Uploading file</string>
-  <string name="fill_download_paused">Download paused</string>
+  <string name="fill_download_paused">Λήψη σε παύση</string>
   <string name="fill_upload_paused">Upload paused</string>
   <string name="finish">Completed</string>
   <string name="first_in_tip">Using Transfer for the first time</string>
@@ -105,7 +105,7 @@
   <string name="operation_goto_folder">Go to folder</string>
   <string name="operation_info">File info</string>
   <string name="operation_send">Αποστολή</string>
-  <string name="pause">Pause</string>
+  <string name="pause">Παύση</string>
   <string name="pic">Picture</string>
   <string name="picker_title">Choose app</string>
   <string name="please_select_share">Please select file to be shared</string>
@@ -133,9 +133,9 @@
   <string name="received_share_message">Received from %1$s sharing</string>
   <string name="recv_sound">Receive sound</string>
   <string name="resend">Resend</string>
-  <string name="restart">Resume</string>
+  <string name="restart">Συνέχιση</string>
   <string name="restore_succeed">Restore successful</string>
-  <string name="retry">Retry</string>
+  <string name="retry">Δοκιμή ξανά</string>
   <string name="retry_in_good_network">Please try again when your network connection is stronger</string>
   <string name="retry_to_load_file_info">Reload file information?</string>
   <string name="save_to_kuaipan">Save to MiDrive</string>

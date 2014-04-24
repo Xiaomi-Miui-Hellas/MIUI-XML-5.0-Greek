@@ -47,7 +47,7 @@
   <string name="notification_warning" formatted="false">Low storage (less than %d minutes)…</string>
   <string name="open_file_explorer">Open File Explorer</string>
   <string name="overwrite_dialog_message">%s already exists. Do you wish to overwrite it?</string>
-  <string name="pause">Pause</string>
+  <string name="pause">Παύση</string>
   <string name="play_record">Play</string>
   <string name="preference_enable_earpiece_summary">Use receiver for external playback</string>
   <string name="preference_enable_earpiece_title">Use receiver to play audio</string>

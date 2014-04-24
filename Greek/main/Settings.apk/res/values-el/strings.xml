@@ -683,7 +683,7 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="data_usage_restrict_background">"If you restrict background mobile data, some apps and services won't work unless you're connected to a Wi-Fi network."</string>
   <string name="data_usage_restrict_background_title">Restrict background data?</string>
   <string name="data_usage_restrict_denied_dialog">"Restricting background data is possible only when you've set a mobile data limit."</string>
-  <string name="data_usage_summary_title">Data usage</string>
+  <string name="data_usage_summary_title">Χρήση δεδομένων</string>
   <string name="data_usage_sweep_limit">limit</string>
   <string name="data_usage_sweep_warning">warning</string>
   <string name="data_usage_tab_3g">2G-3G</string>
@@ -941,7 +941,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="filter_apps_cached">Cached</string>
   <string name="filter_apps_onsdcard">Αποθήκευση USB</string>
   <string name="filter_apps_running">Running</string>
-  <string name="filter_apps_third_party">Downloaded</string>
+  <string name="filter_apps_third_party">Λήφθηκε</string>
   <string name="filter_dlg_title">Choose filter options</string>
   <string name="finish_application">End</string>
   <string name="finish_button_label">Finish</string>
@@ -1231,7 +1231,7 @@ Ready to start? Touch Next."</string>
   <string name="lockpattern_recording_intro_footer">Press Menu for help.</string>
   <string name="lockpattern_recording_intro_header">Draw an unlock pattern. Please connect at least 4 points.</string>
   <string name="lockpattern_restart_button_text">Redraw</string>
-  <string name="lockpattern_retry_button_text">Retry</string>
+  <string name="lockpattern_retry_button_text">Δοκιμή ξανά</string>
   <string name="lockpattern_settings_change_lock_pattern">Change unlock pattern</string>
   <string name="lockpattern_settings_choose_lock_pattern">Set unlock pattern</string>
   <string name="lockpattern_settings_enable_power_button_instantly_locks">Power button instantly locks</string>
@@ -1390,7 +1390,7 @@ try the following:
   <string name="musicfx_title">Music effects</string>
   <string name="nearby_wifi">Available networks</string>
   <string name="need_check">Some items can be optimized…</string>
-  <string name="network_assistant">Data usage</string>
+  <string name="network_assistant">Χρήση δεδομένων</string>
   <string name="network_detail">%s Network details</string>
   <string name="network_settings_title">Mobile networks</string>
   <string name="networks">Operator selection</string>
@@ -1428,7 +1428,7 @@ try the following:
   <string name="opt_cancel_desc">Άκυρο</string>
   <string name="opt_clean_garbage">Cleared %dMB</string>
   <string name="opt_disabled_autorun">Disabled %d startup programs</string>
-  <string name="opt_done_desc">Complete</string>
+  <string name="opt_done_desc">Ολοκληρώθηκε</string>
   <string name="opt_freed_ram">Free %dMBs of memory</string>
   <string name="opt_garbage_size">Garbage size:</string>
   <string name="opt_item_app_perm">Permissions</string>
@@ -1437,7 +1437,7 @@ try the following:
   <string name="opt_item_file_scan">File scan</string>
   <string name="opt_item_procs_clean">Manage processes</string>
   <string name="opt_killed_process">Killed %d processes</string>
-  <string name="opt_progress_done">Complete</string>
+  <string name="opt_progress_done">Ολοκληρώθηκε</string>
   <string name="opt_progress_started">Optimizing…</string>
   <string name="opt_quickscan_ok">System clear</string>
   <string name="opt_reject_all">Reject all calls</string>
@@ -1449,8 +1449,8 @@ try the following:
   <string name="opt_scanning">Scanning…：</string>
   <string name="opt_score">83</string>
   <string name="opt_score_desc">pts</string>
-  <string name="opt_state_done">Complete</string>
-  <string name="opt_state_pause">Pause</string>
+  <string name="opt_state_done">Ολοκληρώθηκε</string>
+  <string name="opt_state_pause">Παύση</string>
   <string name="opt_state_running">Optimizing…</string>
   <string name="opt_virus_scan">Scan now</string>
   <string name="opt_virus_suggest">%d suspicious files found! Please scan for viruses immediately</string>
@@ -1609,7 +1609,7 @@ try the following:
   <string name="perm_mian_name">Permission</string>
   <string name="perm_monitored_app">Monitored apps (%1$d)</string>
   <string name="perm_notice">Alert of Security</string>
-  <string name="perm_operating">Operating…</string>
+  <string name="perm_operating">Σε λειτουργία…</string>
   <string name="perm_optimize">Optimize</string>
   <string name="perm_privacy_app_count">%1$d permissions</string>
   <string name="perm_privacy_app_finish">Finish</string>
@@ -2020,7 +2020,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
  <string name="restore_default_apn">Επαναφορά προεπιλεγμένων ρυθμίσεων APN </string>
  <string name="restore_default_apn_completed">Η επαναφορά των προεπιλεγμένων ρυθμίσεων APN ολοκληρώθηκε </string>
   <string name="restore_default_settings">Επαναφορά προκαθορισμένων ρυθμίσεων</string>
-  <string name="retry">Retry</string>
+  <string name="retry">Δοκιμή ξανά</string>
  <string name="ring_volume_title">Ένταση κουδουνίσματος</string>
   <string name="ringtone_summary"/>
  <string name="ringtone_title">Ήχος κλήσης</string>
@@ -2612,7 +2612,7 @@ Attempts Remaining :"</string>
   <string name="virus_scan_settings">Ρυθμίσεις</string>
   <string name="virus_scan_settings_title">Virus definition settings</string>
   <string name="virus_scan_start">Scan for viruses</string>
-  <string name="virus_scan_stop">Pause</string>
+  <string name="virus_scan_stop">Παύση</string>
   <string name="virus_scan_support">Powered by Tencent</string>
   <string name="virus_scan_uninstalled_package">%s (install pkg)</string>
   <string name="virus_scan_unknown_virus_name">Unknown</string>
