@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Δικαιώματα</string>
     <string name="Dashboard_HIPS_Disable_Content">Απενεργοποιώντας το θα σταματήσει η MIUI να ζητά την από εφαρμογή παρακολούθησης να προστατεύει την ασφάλειας της ιδιωτικής χρήσης. Είστε σίγουρος για να το απενεργοποιήσετε;</string>
     <string name="Dashboard_Log">Μητρώα</string>
     <string name="Dashboard_Perm">Δικαιώματα</string>
     <string name="Dashboard_Perm_HIPS">Διαχείρηση δικαιωμάτων εφαρμογών</string>
     <string name="Dashboard_Perm_HIPS_Desc">Εποπτεία %1$d εφαρμογών</string>
     <string name="Dashboard_Perm_HIPS_Desc2">Εποπτεία %1$d εφαρμογών</string>
-    <string name="Dashboard_Perm_HIPS_Disabled">Η εποπτεία εφαρμογών είναι απενεργοποιημένη</string>
     <string name="Dashboard_Perm_HIPS_Risky">Επικίνδυνα Δικαιώματα (%1$d)</string>
     <string name="Dashboard_Perm_HIPS_Safe">Κανονικά Δικαιώματα (%1$d)</string>
     <string name="Dashboard_Perm_HIPS_Switch">Παρακολούθηση δικαιομάτων</string>
@@ -161,7 +159,6 @@
     <string name="HIPS_Perm_SendSMS">Αποστολή SMS</string>
   <string name="HIPS_Perm_SendMMS_Desc">άμμεση αποστολή MMS</string>
   <string name="HIPS_Perm_SendMMS_Hint">%1$s μπορεί να στείλει MMS</string>
-  <string name="HIPS_Perm_SendSMS">Αποστολή SMS</string>
   <string name="HIPS_Perm_SendSMS_Content">Περιεχόμενο:</string>
   <string name="HIPS_Perm_SendSMS_Data">αποστολή SMS προς %1$s:%2$d</string>
     <string name="HIPS_Perm_SendSMS_Desc">Απευθείας αποστολή SMS</string>
