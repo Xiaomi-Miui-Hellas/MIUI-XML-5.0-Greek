@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="phoneAppLabel">Τηλέφωνο</string>
-    <string name="emergencydialerIconLabel">Επείγουσα κλήση</string>
     <string name="phoneIconLabel">Τηλέφωνο</string>
+    <string name="emergencydialerIconLabel">Επείγουσα κλήση</string>
     <string name="fdnListLabel">FDN λίστα</string>
     <string name="unknown">Άγνωστος</string>
     <string name="private_num">Ιδιωτικός αριθμός</string>

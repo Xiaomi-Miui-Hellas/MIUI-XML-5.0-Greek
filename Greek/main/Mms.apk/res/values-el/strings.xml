@@ -16,7 +16,7 @@
   <string name="add_slide">Προσθήκη διαφάνειας</string>
   <string name="add_slide_before">Προσθήκη διαφάνειας (πριν)</string>
   <string name="add_slide_hint">Αγγίξτε για δημιουργία νέας διαφάνειας.</string>
-  <string name="add_smiley">Smiley</string>
+  <string name="add_smiley">Χαμόγελα</string>
   <string name="add_timing">Συγχρονισμός</string>
   <string name="add_video">Προσθήκη βίντεο</string>
   <string name="adding_attachments">Παρακαλώ περιμένετε ενώ τα στοιχεία προστίθενται στο slideshow.</string>
@@ -440,7 +440,7 @@ Report bugs and send feedback directly to Xiaomi.”</string>
   <string name="title_collapse_sp_messages">Combine service provider messages</string>
   <string name="title_date_type">Message timestamp</string>
   <string name="title_timed_message_dialog">Configure timed message</string>
-  <string name="to_address_label">"To: "</string>
+  <string name="to_address_label">"Προς: "</string>
   <string name="to_count">%d in all</string>
   <string name="to_label">"To "</string>
   <string name="to_send_wrapper">Will send at %s</string>
@@ -462,8 +462,8 @@ Report bugs and send feedback directly to Xiaomi.”</string>
   <string name="undelivered_msg_dialog_body">"Unable to send this message. Attempt made: %s."</string>
   <string name="undelivered_msg_dialog_title">Undelivered message</string>
   <string name="undelivered_sms_dialog_body">Unable to send this message.</string>
-  <string name="unknown_num">Unknown number</string>
-  <string name="unknown_sender">Unknown sender</string>
+  <string name="unknown_num">Άγνωστος αριθμός</string>
+  <string name="unknown_sender">Άγνωστος αποστολέας</string>
   <string name="unstick">Unpin</string>
   <string name="unstick_conversation">Unpin current conversation</string>
   <string name="unsticked_conversation">Already unpinned</string>
