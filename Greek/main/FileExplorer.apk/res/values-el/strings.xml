@@ -40,7 +40,7 @@
     <string name="category_zip">Archives</string>
     <string name="category_apk">APKs</string>
     <string name="category_other">Άλλο</string>
-    <string name="category_favorite">Starred</string>
+    <string name="category_favorite">Με αστέρι</string>
     <string name="category_bluetooth">Bluetooth</string>
     <string name="category_log">Logs</string>
     <string name="category_mirouter">MiRouter</string>

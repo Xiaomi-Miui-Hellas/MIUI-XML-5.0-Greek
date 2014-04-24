@@ -5,7 +5,7 @@
     <string name="emergencydialerIconLabel">Επείγουσα κλήση</string>
     <string name="fdnListLabel">FDN λίστα</string>
     <string name="unknown">Άγνωστος</string>
-    <string name="private_num">Ιδιωτικός αριθμός</string>
+    <string name="private_num">Περιορισμένος αριθμός</string>
     <string name="payphone">Καρτοκινητή</string>
     <string name="onHold">Σε αναμονή</string>
     <string name="callFailed_userBusy">Γραμμή απασχολημένη</string>

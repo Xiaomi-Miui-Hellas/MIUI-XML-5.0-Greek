@@ -33,7 +33,7 @@
   <string name="billboard">Billboard</string>
   <string name="bind_baidu_account_setting">Bind Baidu Account</string>
   <string name="bind_baidu_account_summary">Add playlists and other services by binding Baidu music account</string>
-  <string name="buffering">Buffering…</string>
+  <string name="buffering">Προ-φορτώνει…</string>
   <string name="cancel">Άκυρο</string>
   <string name="cancel_sleep_mode">Sleep timer stopped</string>
   <string name="cancle_warining">Sleep Mode stopped</string>

@@ -61,7 +61,7 @@
   <string name="resource_account_login_title">Login</string>
   <string name="resource_account_switch">Switch account</string>
   <string name="resource_alarm_default">Ξυπνητήρι</string>
-  <string name="resource_app_name">Resource Browser</string>
+  <string name="resource_app_name">Πλοηγός Πόρων</string>
   <string name="resource_apply">Apply</string>
   <string name="resource_apply_trial">Try now</string>
   <string name="resource_buy">Buy</string>
@@ -175,7 +175,7 @@
   <string name="resource_ranking_purchase">Paid</string>
   <string name="resource_ringtone_default">Ringtones</string>
   <string name="resource_ringtone_playing_error">playing error</string>
-  <string name="resource_ringtone_volume_mute">Your ringer is currently silenced</string>
+  <string name="resource_ringtone_volume_mute">Ο ήχος κλήσης σας είναι σε σίγαση</string>
   <string name="resource_save_to_note">Save to Notes</string>
   <string name="resource_see_more">See more</string>
   <string name="resource_select">Select</string>
