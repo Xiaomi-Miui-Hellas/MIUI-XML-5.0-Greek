@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="prefEntries_ringtone_repeat">
-        <item>Once</item>
-        <item>Twice</item>
-        <item>Three times</item>
-        <item>Five times</item>
-        <item>Ten times</item>
+        <item>Μια φορά</item>
+        <item>Δυο φορές</item>
+        <item>Τρεις φορές</item>
+        <item>Πέντε φορές</item>
+        <item>Δέκα φορές</item>
     </string-array>
     <string-array name="contact_entries">
         <item>Όνομα</item>
-        <item>Nickname</item>
-        <item>Phone</item>
+        <item>Παρατσούκλι</item>
+        <item>Τηλέφωνο</item>
         <item>E-mail</item>
-        <item>Organization</item>
+        <item>Οργάνωση</item>
         <item>IM</item>
-        <item>SIP Phone</item>
-        <item>Birthμέρα</item>
-        <item>Website</item>
+        <item>SIP τηλέφωνο</item>
+        <item>Γενέθλια</item>
+        <item>Ιστοσελίδα </item>
         <item>Διεύθυνση</item>
-        <item>Note</item>
+        <item>Σημείωση</item>
     </string-array>
     <string-array name="entries_date_type">
-        <item>Time received</item>
-        <item>Time sent</item>
+        <item>Ώρα λήψης</item>
+        <item>Ώρα αποστολής</item>
     </string-array>
     <string-array name="resent_via_entries_sms">
-        <item>Via message</item>
-        <item>Via Cloud message</item>
+        <item>Μέσω μηνύματος</item>
+        <item>Μέσω Cloud μηνύματος</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
-        <item>Via message</item>
-        <item>Via Cloud message</item>
+        <item>Μέσω μηνύματος</item>
+        <item>Μέσω Cloud μηνύματος</item>
     </string-array>
     <string-array name="select_dialog_items">
-        <item>1 second</item>
-        <item>2 seconds</item>
-        <item>3 seconds</item>
-        <item>4 seconds</item>
-        <item>5 seconds</item>
-        <item>6 seconds</item>
-        <item>7 seconds</item>
-        <item>8 seconds</item>
-        <item>9 seconds</item>
-        <item>10 seconds</item>
+        <item>1 δευτερόλεπτο</item>
+        <item>2 δευτερόλεπτα</item>
+        <item>3 δευτερόλεπτα</item>
+        <item>4 δευτερόλεπτα</item>
+        <item>5 δευτερόλεπτα</item>
+        <item>6 δευτερόλεπτα</item>
+        <item>7 δευτερόλεπτα</item>
+        <item>8 δευτερόλεπτα</item>
+        <item>9 δευτερόλεπτα</item>
+        <item>10 δευτερόλεπτα</item>
         <item>Άλλο</item>
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
         <item>Πάντα</item>
-        <item>Only when silent</item>
+        <item>Μόνο όταν είναι σε σίγαση</item>
         <item>Ποτέ</item>
     </string-array>
 </resources>
