@@ -138,7 +138,7 @@ Try again in %d seconds."</string>
   <string name="perm_send_push_lab">Send push message</string>
   <string name="perm_tigger_toggle_dspt">Allow apps to trigger toggles provided by status bar</string>
   <string name="perm_tigger_toggle_lab">Trigger toggles from status bar</string>
-  <string name="perm_use_find_device">Locate device</string>
+  <string name="perm_use_find_device">Εύρεση συσκευής</string>
   <string name="permdesc_accessNote">Allows the app to read and modify your notes stored on your phone. Malicious applications can use this to send your notes to other people or erase all notes.</string>
   <string name="permlab_accessNote">Access notes</string>
   <string name="pin_operation_failed">PIN operation failed.</string>

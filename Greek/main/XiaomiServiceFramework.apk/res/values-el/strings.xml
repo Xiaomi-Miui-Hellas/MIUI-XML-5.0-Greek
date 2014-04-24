@@ -93,7 +93,7 @@
   <string name="error_unknown">Unknown error</string>
   <string name="error_user_name">Invalid username!</string>
   <string name="failed_to_send_activate_email">Failed to send an activation E-mail</string>
-  <string name="find_device">Locate device</string>
+  <string name="find_device">Εύρεση συσκευής</string>
   <string name="find_device_check_phone_error_title">Failed to enable locate device</string>
   <string name="find_device_disabled_notice">"You can reopen it via Settings - Accounts &amp; sync - Xiaomi Account"</string>
   <string name="find_device_disabled_title">Locate device disabled</string>

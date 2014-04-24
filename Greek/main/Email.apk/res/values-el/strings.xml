@@ -279,7 +279,7 @@ CC: %4$s
     <string name="system_folders_sent_dlg">"Select your server's sent items folder"</string>
     <string name="edit_quick_response_dialog">Γρήγορη απάντηση</string>
     <string name="save_action">Αποθήκευση</string>
-    <string name="account_settings_sync_contacts_enable">Sync contacts</string>
+    <string name="account_settings_sync_contacts_enable">Συγχρονισμός επαφών</string>
     <string name="account_settings_sync_contacts_summary">Sync contacts for this account</string>
     <string name="account_settings_sync_calendar_enable">Sync calendar</string>
     <string name="account_settings_sync_calendar_summary">Sync calendar event for this account</string>
