@@ -78,7 +78,7 @@
     </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%d άτομα</item>
-        <item quantity="one">1 άτομο
+        <item quantity="one">1 άτομο</item>
     </plurals>
     <plurals name="device_import_done_toast">
         <item quantity="other">%1$d επαφές έχουν εισαχθεί</item>
