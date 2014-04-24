@@ -106,12 +106,22 @@ Try again in %d seconds."</string>
   <string name="month_of_december">Δεκ</string>
   <string name="month_of_february">Φεβ</string>
   <string name="month_of_january">Ιαν</string>
+<<<<<<< HEAD
+  <string name="month_of_july">Ιούλ</string>
+  <string name="month_of_june">Ιούν</string>
+  <string name="month_of_march">Μαρ</string>
+  <string name="month_of_may">Μάι</string>
+  <string name="month_of_november">Νοέ</string>
+  <string name="month_of_october">Οκτ</string>
+  <string name="month_of_september">Σεπ</string>
+=======
   <string name="month_of_july">Ιουλ</string>
   <string name="month_of_june">Ιουν</string>
   <string name="month_of_march">Μαρ</string>
   <string name="month_of_may">Μαι">Nov</string>
   <string name="month_of_october">Οκτ</string>
   <string name="month_of_september">Σεπp</string>
+>>>>>>> bcf118fdac5a70a9372eca9d507c189556ecbdc5
   <string name="multi_select_title">Selected %1$s item(s)</string>
   <string name="never">Ποτέ</string>
   <string name="no_sim">No SIM, service is unavailable</string>
