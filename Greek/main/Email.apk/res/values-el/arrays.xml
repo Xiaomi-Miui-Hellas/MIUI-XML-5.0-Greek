@@ -3,15 +3,6 @@
     <string-array name="account_providers">
         <item>content://com.android.email.provider/uiaccts</item>
     </string-array>
-    <string-array name="account_settings_mail_window_entries_exchange">
-        <item>@string/account_setup_options_mail_window_auto</item>
-        <item>@string/account_setup_options_mail_window_1μέρα</item>
-        <item>@string/account_setup_options_mail_window_3μέρες</item>
-        <item>@string/account_setup_options_mail_window_1week</item>
-        <item>@string/account_setup_options_mail_window_2weeks</item>
-        <item>@string/account_setup_options_mail_window_1month</item>
-        <item>@string/account_setup_options_mail_window_all</item>
-    </string-array>
     <string-array name="general_preference_text_zoom_values">
         <item>tiny</item>
         <item>small</item>
