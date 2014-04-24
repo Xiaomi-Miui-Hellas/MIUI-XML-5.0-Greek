@@ -89,7 +89,7 @@
     <string name="mailbox_name_display_trash">Trash</string>
     <string name="mailbox_name_display_sent">Sent</string>
     <string name="mailbox_name_display_junk">Junk</string>
-    <string name="mailbox_name_display_starred">Starred</string>
+    <string name="mailbox_name_display_starred">Με αστέρι</string>
     <string name="mailbox_name_display_unread">Unread</string>
     <string name="debug_enable_debug_logging_label">Enable extra debug logging?</string>
     <string name="debug_enable_verbose_logging_label">Enable extremely verbose logging?</string>
@@ -99,7 +99,7 @@
     <string name="debug_force_one_minute_refresh_label">Force 1-minute refresh for POP/IMAP</string>
     <string name="debug_enable_strict_mode_label">Enable strict mode (with logging)</string>
     <string name="account_folder_list_summary_inbox">Inbox</string>
-    <string name="account_folder_list_summary_starred">Starred</string>
+    <string name="account_folder_list_summary_starred">Με αστέρι</string>
     <string name="account_folder_list_summary_drafts">Drafts</string>
     <string name="account_folder_list_summary_outbox">Outbox</string>
     <string name="mailbox_list_account_selector_combined_view">Combined Inbox</string>
@@ -279,7 +279,7 @@ CC: %4$s
     <string name="system_folders_sent_dlg">"Select your server's sent items folder"</string>
     <string name="edit_quick_response_dialog">Γρήγορη απάντηση</string>
     <string name="save_action">Αποθήκευση</string>
-    <string name="account_settings_sync_contacts_enable">Sync contacts</string>
+    <string name="account_settings_sync_contacts_enable">Συγχρονισμός επαφών</string>
     <string name="account_settings_sync_contacts_summary">Sync contacts for this account</string>
     <string name="account_settings_sync_calendar_enable">Sync calendar</string>
     <string name="account_settings_sync_calendar_summary">Sync calendar event for this account</string>

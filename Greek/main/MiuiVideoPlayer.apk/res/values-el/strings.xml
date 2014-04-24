@@ -13,8 +13,8 @@
   <string name="airkan_video_playing"/>
   <string name="airkan_video_playing_in">Video is playing…</string>
   <string name="app_name">MiVideo</string>
-  <string name="buffering">Buffering…</string>
-  <string name="buffering_video_netplay_label_v5">Buffering…</string>
+  <string name="buffering">Προ-φορτώνει…</string>
+  <string name="buffering_video_netplay_label_v5">Προ-φορτώνει…</string>
   <string name="episode_prefix">"episode "</string>
   <string name="loading_video_netplay_label">Φόρτωση, παρακαλώ περιμένετε…</string>
   <string name="loading_video_netplay_label_v5">Loading stream, Please wait…</string>
