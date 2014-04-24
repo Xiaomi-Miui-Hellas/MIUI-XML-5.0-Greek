@@ -120,7 +120,6 @@
   <string name="payphone">Καρτοτηλέφωνο</string>
   <string name="peace_day">Ημέρα Ειρήνης</string>
  <string name="perm_auto_backup">Αυτόματο αντίγραφο ασφαλείας</string>
-<<<<<<< HEAD
   <string name="perm_data_update_dspt">Επιτρέπεται η ενημέρωση υδατογραφήματος δεδομένων</string>
   <string name="perm_data_update_lab">Ενημέρωση δεδομένων</string>
   <string name="perm_payment_dspt">Επιτρέπεται η εφαρμογή να πληρώσει μέσω της υπηρεσίας πληρωμών Xiaomi</string>
@@ -134,27 +133,9 @@
   <string name="permlab_accessNote">Πρόσβαση στις σημειώσεις</string>
   <string name="pin_operation_failed">Η Λειτουργία PIN απέτυχε.</string>
   <string name="pincode_set_to_default_msg">Ο κωδικός PIN έχει οριστεί σε 1234, παρακαλούμε να επαναφέρετε το PIN εδώ.</string>
-=======
-  <string name="perm_data_update_dspt">Allowed to update data watermark</string>
-  <string name="perm_data_update_lab">Data update</string>
-  <string name="perm_payment_dspt">Allow app to pay through Xiaomi payment service</string>
-  <string name="perm_payment_lab">Xiaomi payment service</string>
-  <string name="perm_send_push_dspt">Allow push messages to Xiaomi</string>
-  <string name="perm_send_push_lab">Send push message</string>
-<<<<<<< HEAD
-  <string name="perm_tigger_toggle_dspt">Allow apps to trigger toggles provided by status bar</string>
-  <string name="perm_tigger_toggle_lab">Trigger toggles from status bar</string>
-  <string name="perm_use_find_device">Εύρεση συσκευής</string>
-=======
  <string name="perm_tigger_toggle_dspt">Να επιτρέπεται στις εφαρμογές να χρησιμοποιούν τους διακόπτες της γραμμής κατάστασης</string>
  <string name="perm_tigger_toggle_lab">Χρήση διακοπτών της γραμμής κατάστασης</string>
  <string name="perm_use_find_device">Εντοπισμός συσκευής</string>
->>>>>>> 367221c7728663cc1572e7982b4701a7d985debf
-  <string name="permdesc_accessNote">Allows the app to read and modify your notes stored on your phone. Malicious applications can use this to send your notes to other people or erase all notes.</string>
-  <string name="permlab_accessNote">Access notes</string>
-  <string name="pin_operation_failed">PIN operation failed.</string>
-  <string name="pincode_set_to_default_msg">PIN code is set to 1234, please reset PIN here.</string>
->>>>>>> 746dce103b8816502545c11440268409f0fffea4
  <string name="private_num">Με απόκρυψη</string>
   <string name="puk_operation_failed">Η Λειτουργία PUK απέτυχε.</string>
  <string name="reboot_confirm">Το τηλέφωνο θα επανεκκινήσει</string>
