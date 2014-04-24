@@ -120,7 +120,7 @@
   <string name="resource_download">Λήψη</string>
   <string name="resource_download_trial">Free trial</string>
   <string name="resource_downloaded_title">Downloaded resources</string>
-  <string name="resource_downloading">Downloading</string>
+  <string name="resource_downloading">Λαμβάνει</string>
   <string name="resource_exchange">Redeem</string>
   <string name="resource_exchange_confirm">Confirm</string>
   <string name="resource_exchange_empty_format">Please input a gift code!</string>

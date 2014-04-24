@@ -398,7 +398,7 @@
     <string name="raw_data_exit_button_text">Ukončit RAW režim</string>
     <string name="record_back_pressed_hint">Stiskněte zpět pro zastavení nahrávání</string>
     <string name="resume_playing_message">Pokračovat přehrávání od %s?</string>
-    <string name="resume_playing_restart">Restart</string>
+    <string name="resume_playing_restart">Επανεκκίνηση</string>
     <string name="resume_playing_resume">Pokračovat v přehrávání</string>
     <string name="resume_playing_title">Pokračovat ve videu</string>
     <string name="review_cancel">Zrušit</string>
