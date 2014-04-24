@@ -10,7 +10,7 @@
     </plurals>
     <plurals name="alert_dialog_not_avaialble_in_ecm">
         <item quantity="other">"Η επιλεγμένη ενέργεια δεν είναι διαθέσιμη στην κατάσταση επείγουσας κλήσης. Το τηλέφωνο θα παραμείνει σε αυτή την κατάσταση για %s λεπτά. Θέλετε να βγείτε τώρα?"</item>
-        <item quantity="one">"The selected action isn't available while in the Emergency Callback mode. The phone will be in this mode for %s minute. Do you want to exit nowΗ επιλεγμένη ενέργεια δεν είναι διαθέσιμη στην κατάσταση επείγουσας κλήσης. Το τηλέφωνο θα παραμείνει σε αυτή την κατάσταση για %s λεπτό. Θέλετε να βγείτε τώρα?"</item>
+        <item quantity="one">"Η επιλεγμένη ενέργεια δεν είναι διαθέσιμη στην κατάσταση επείγουσας κλήσης. Το τηλέφωνο θα παραμείνει σε αυτή την κατάσταση για %s λεπτό. Θέλετε να βγείτε τώρα?"</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">" %1$d  επιλέχτηκαν"</item>
