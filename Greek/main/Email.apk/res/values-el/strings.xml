@@ -27,7 +27,7 @@
     <string name="meeting_canceled">Canceled: %s</string>
     <string name="meeting_updated">Updated: %s</string>
     <string name="meeting_when">When: %s</string>
-    <string name="meeting_where">Where: %s</string>
+    <string name="meeting_where">Που: %s</string>
     <string name="meeting_recurring">When: %s (recurring)</string>
     <string name="meeting_allday">When: %s (all day)</string>
     <string name="meeting_allday_recurring">When: %s (all day, recurring)</string>
@@ -638,8 +638,8 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
     <string name="hide_folders">Hide folders</string>
     <string name="failed">"Couldn't load image"</string>
     <string name="more_string">+%1$s</string>
-    <string name="copy_email">Copy email address</string>
-    <string name="copy_number">Copy phone number</string>
+    <string name="copy_email">Αντιγραφή email</string>
+    <string name="copy_number">Αντιγραφή τηλεφώνου</string>
     <string name="empty_email_tip">Could not send Empty Email</string>
     <string name="remove_account">Remove account</string>
     <string name="remove_account_confirm">The account \"%1$s\" will be removed from WPSMail.</string>

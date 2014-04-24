@@ -74,7 +74,7 @@
   <string name="notelist_string_info">…</string>
   <string name="notify_alarm_action_mute">Mute</string>
   <string name="notify_alarm_action_view">View</string>
-  <string name="notify_alarm_title">Alarm reminder</string>
+  <string name="notify_alarm_title">Ήχος υπενθύμισης</string>
   <string name="pref_desc_alarm_when_silent">Alarms will sound in silent mode</string>
   <string name="pref_desc_mode_grid">Grid</string>
   <string name="pref_desc_mode_list">List</string>
