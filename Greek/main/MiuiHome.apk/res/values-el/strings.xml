@@ -128,7 +128,7 @@
   <string name="preferences_title">Launcher Settings</string>
   <string name="process"/>
   <string name="reset_scene_prompt">Scene will be reset to default layout</string>
-  <string name="resource_select">Select</string>
+  <string name="resource_select">Επιλογή</string>
   <string name="screen_button_disabled_message">Buttons on the lower screen are disabled. You may enable them by pressing \"Home\" and \"Power\"</string>
   <string name="screen_button_enabled_message">Buttons on the lower screen are enabled</string>
   <string name="screen_rotation_freeze_message">Screen rotation locked to landscape mode</string>

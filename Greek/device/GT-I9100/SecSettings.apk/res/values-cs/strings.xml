@@ -1030,10 +1030,10 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="apn_name">Jméno</string>
     <string name="apn_apn">APN</string>
     <string name="apn_http_proxy">Proxy</string>
-    <string name="apn_http_port">Port</string>
+    <string name="apn_http_port">Πόρτα</string>
     <string name="apn_user">Uživatelské jméno</string>
     <string name="apn_password">Heslo</string>
-    <string name="apn_server">Server</string>
+    <string name="apn_server">Διακομιστής</string>
     <string name="apn_mmsc">MMSC</string>
     <string name="apn_mms_proxy">Server proxy MMS</string>
     <string name="apn_mms_port">Port MMS</string>

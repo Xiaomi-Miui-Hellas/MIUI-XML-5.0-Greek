@@ -359,7 +359,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="password_forget">Forgot password?</string>
   <string name="password_hint">Enter account password</string>
   <string name="pay_record_empty">No payment records.</string>
-  <string name="pay_record_typeall">All</string>
+  <string name="pay_record_typeall">Όλα</string>
   <string name="paytool_alipay">Alipay</string>
   <string name="paytool_error_install">Failed to install %1$s mobile security plugin</string>
   <string name="paytool_error_msp">%1$s failed</string>

@@ -2,8 +2,8 @@
 <resources>
   <string name="account_info">My account</string>
   <string name="account_unactivated">Account not activated.</string>
-  <string name="all_resources">All</string>
-  <string name="all_ringtone_resource">All</string>
+  <string name="all_resources">Όλα</string>
+  <string name="all_ringtone_resource">Όλα</string>
   <string name="app_name">Themes</string>
   <string name="apply_font_btn_exclude">Apply without font</string>
   <string name="apply_font_btn_reboot">Apply and reboot</string>
@@ -178,7 +178,7 @@
   <string name="resource_ringtone_volume_mute">Ο ήχος κλήσης σας είναι σε σίγαση</string>
   <string name="resource_save_to_note">Save to Notes</string>
   <string name="resource_see_more">See more</string>
-  <string name="resource_select">Select</string>
+  <string name="resource_select">Επιλογή</string>
   <string name="resource_selected">Featured</string>
   <string name="resource_send">Αποστολή</string>
   <string name="resource_server_alert_dialog_title">Service is currently unavailable</string>
