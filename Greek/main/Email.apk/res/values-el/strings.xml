@@ -85,7 +85,7 @@
     <string name="cannot_move_special_mailboxes_toast">"Messages in Drafts, Outbox, and Sent can't be moved."</string>
     <string name="mailbox_name_display_inbox">Inbox</string>
     <string name="mailbox_name_display_outbox">Outbox</string>
-    <string name="mailbox_name_display_drafts">Drafts</string>
+    <string name="mailbox_name_display_drafts">Πρόχειρα</string>
     <string name="mailbox_name_display_trash">Trash</string>
     <string name="mailbox_name_display_sent">Sent</string>
     <string name="mailbox_name_display_junk">Junk</string>
@@ -100,7 +100,7 @@
     <string name="debug_enable_strict_mode_label">Enable strict mode (with logging)</string>
     <string name="account_folder_list_summary_inbox">Inbox</string>
     <string name="account_folder_list_summary_starred">Με αστέρι</string>
-    <string name="account_folder_list_summary_drafts">Drafts</string>
+    <string name="account_folder_list_summary_drafts">Πρόχειρα</string>
     <string name="account_folder_list_summary_outbox">Outbox</string>
     <string name="mailbox_list_account_selector_combined_view">Combined Inbox</string>
     <string name="message_compose_fwd_header_fmt">"
@@ -691,10 +691,10 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
     <string name="colon">:</string>
     <string name="more_atts_total">%1$d attachments in total</string>
     <string name="menu_att_mgr_order_size">Ταξινόμηση κατά μέγεθος</string>
-    <string name="att_mgr_title_order_mime">Format</string>
+    <string name="att_mgr_title_order_mime">Τύπος</string>
     <string name="att_mgr_title_order_name">Όνομα</string>
-    <string name="att_mgr_title_order_sender">Sender</string>
-    <string name="att_mgr_title_order_rev_date">Date</string>
+    <string name="att_mgr_title_order_sender">Αποστολέας</string>
+    <string name="att_mgr_title_order_rev_date">Ημ/νια</string>
     <string name="att_mgr_title_order_size">File size</string>
     <string name="input_password_prompt">Please enter the password:</string>
     <string name="wrong_password">Wrong password!</string>

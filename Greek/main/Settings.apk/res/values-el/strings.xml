@@ -699,7 +699,7 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="date_and_time_settings_summary">Set date, time, time zone, &amp; formats</string>
   <string name="date_and_time_settings_title">Date &amp; time</string>
   <string name="date_and_time_settings_title_setup_wizard">Set date and time</string>
-  <string name="date_picker_title">Date</string>
+  <string name="date_picker_title">Ημ/νια</string>
   <string name="date_time_12_hour_sample">1:00 pm</string>
   <string name="date_time_24_hour_sample">13:00</string>
   <string name="date_time_24hour">Use 24-hour format</string>
@@ -2284,7 +2284,7 @@ Attempts Remaining :"</string>
  <string name="status_up_time">Χρόνος εν ενεργεία</string>
  <string name="status_wifi_mac_address">Διεύθυνση MAC Wi-Fi</string>
   <string name="status_wimax_mac_address">4G MAC address</string>
-  <string name="storage_format">Format</string>
+  <string name="storage_format">Τύπος</string>
  <string name="storage_label">Αποθηκευτικος χωρος</string>
  <string name="storage_low_summary">Some system functions such as syncing may not work correctly Try to free space by deleting or unpinning items such as apps or media content </string>
  <string name="storage_low_title">Ο αποθ χώρος είναι σε χαμηλά επίπεδα</string>
