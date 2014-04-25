@@ -11,7 +11,7 @@
   <string name="corpus_description_web">Web search, bookmarks and browser history</string>
   <string name="corpus_hint_apps">Search Apps</string>
   <string name="corpus_label_apps">Apps</string>
-  <string name="corpus_label_global">All</string>
+  <string name="corpus_label_global">Όλα</string>
   <string name="corpus_label_web">Web</string>
   <string name="corpus_selection_heading">Αναζήτηση</string>
   <string name="default_search_domain">.google.com</string>

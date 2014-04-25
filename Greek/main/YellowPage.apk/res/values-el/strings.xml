@@ -43,7 +43,7 @@ Please your check tracking number."</string>
   <string name="express_inquiry_no_result">No results</string>
   <string name="express_inquiry_serial_number_indication">Tracking number</string>
   <string name="express_inquiry_serial_number_prefix">"Serial Number: "</string>
-  <string name="expresss_inquiry_all_logistics">All</string>
+  <string name="expresss_inquiry_all_logistics">Όλα</string>
   <string name="expresss_inquiry_frequently_used_logistics">Frequently used</string>
   <string name="general_cancel_favorite_ok">Favorite removed</string>
   <string name="general_delete_recent_ok">Recent deleted</string>
