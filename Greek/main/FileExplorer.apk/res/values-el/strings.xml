@@ -266,7 +266,7 @@ Free space added %1$s"</string>
     <string name="thumbnail_title">Thumbnails</string>
     <string name="app_cache_title">App cache</string>
     <string name="empty_dir_title">Empty directories</string>
-    <string name="app_garbage_title">Trash</string>
+    <string name="app_garbage_title">Σκουπίδια</string>
     <string name="temp_file_cleanup_indication">%s temporary files</string>
     <string name="thumbnail_cleanup_indication">%s thumbnails</string>
     <string name="app_cache_cleanup_indication">%s cache</string>

@@ -163,7 +163,7 @@
   <string name="send_tip">Batch send pictures, music, contacts and various other files.</string>
   <string name="send_to">Send to:</string>
   <string name="send_uncompleted">Sending incomplete</string>
-  <string name="sent">Sent</string>
+  <string name="sent">Απεσταλμένα</string>
   <string name="settings_auto_pair_sender_summary">Auto pair audio with receiver/sender</string>
   <string name="settings_auto_pair_sender_title">Auto pair sender audio</string>
   <string name="settings_connect">Connection settings</string>
