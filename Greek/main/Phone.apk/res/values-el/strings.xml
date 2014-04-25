@@ -18,7 +18,6 @@
     <string name="administrative_disable">Υπηρεσιακό απενεργοποιημένο</string>
     <string name="administrative_enable">Υπηρεσιακό ενεργοποιημένο</string>
     <string name="advanced_settings">Προαιρετικές ρυθμίσεις</string>
-    <string name="advanced_settings_container">advanced settings container</string>
     <string name="advanced_settings_hide">▽ Αγγίξτε για απόκρυψη όλων</string>
     <string name="advanced_settings_show">▷ Αγγίξτε για εμφάνιση όλων</string>
     <string name="advertisements_disable">Διαφημίσεις ανενεργές</string>
@@ -1111,7 +1110,6 @@
     <string name="throttle_time_frame_subtext">"%1$d٪ του κύκλου έχει παρέλθει
 Η επόμενη περίοδος ξεκινά %2$d ημέρες (%3$s)"</string>
     <string name="title_data_settings">Ρυθμίσεις δεδομένων</string>
-    <string name="transport">Protocol</string>
     <string name="transport_title">Τύπος μεταφοράς</string>
     <string name="tty_mode_entries_full_miui">TTY Full</string>
     <string name="tty_mode_entries_hco_miui">TTY HCO</string>

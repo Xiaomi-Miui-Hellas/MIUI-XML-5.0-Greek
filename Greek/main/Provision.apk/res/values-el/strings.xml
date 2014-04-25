@@ -1,3 +1,4 @@
+
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="continues">Συνέχεια</string>
@@ -30,6 +31,6 @@
   <string name="traffic_protection_label">Παρακολούθηση κίνησης δεδομένων</string>
   <string name="traffic_protection_summary">Η Παρακολούθηση της κίνησης δεδομένων, θα σας ειδοποιήσει, όταν τα δεδομένα σας φτάσουν στα όρια που ορίσατε.</string>
   <string name="traffic_protection_text_hint">Παρακαλώ εισάγετ τα όρια δεδομένων του πακέτου σας.</string>
-  <string name="traffic_protection_unknown">Δεν τα γνωρίζω. Θα τα συμπληρώσω αργότερα.</string>
+  <string name="traffic_protection_unknown">"Δεν τα γνωρίζω. Θα τα συμπληρώσω αργότερα."</string>
   <string name="use_data">Εναργοποίηση δεδομένων</string>
 </resources>
