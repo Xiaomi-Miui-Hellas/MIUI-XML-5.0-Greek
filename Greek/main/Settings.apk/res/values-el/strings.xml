@@ -3056,7 +3056,7 @@ Any user can accept updated app permissions on behalf of all other users."</stri
     <string name="voice_category">Speech</string>
     <string name="voice_input_output_settings">Voice input &amp; output</string>
     <string name="voice_input_output_settings_title">Voice input &amp; output settings</string>
-    <string name="voice_search_settings_title">Voice search</string>
+    <string name="voice_search_settings_title">Ηχητική αναζήτηση</string>
  <string name="volume_alarm_description">Αφυπνίσεις</string>
  <string name="volume_alarm_mute">Σίγαση αφυπνίσεων</string>
  <string name="volume_bluetooth_description">Ένταση Bluetooth</string>
@@ -3219,7 +3219,7 @@ Any user can accept updated app permissions on behalf of all other users."</stri
  <string name="wifi_menu_connect">Σύνδεση στο δίκτυο</string>
  <string name="wifi_menu_forget">Διαγραφή δικτύου</string>
  <string name="wifi_menu_modify">Επεξεργασία δικτύου</string>
-    <string name="wifi_menu_more_options">More options</string>
+    <string name="wifi_menu_more_options">Περισσότερες επιλογές</string>
     <string name="wifi_menu_p2p">WLAN Direct</string>
  <string name="wifi_menu_scan">Σαρωση</string>
  <string name="wifi_menu_wfd">Wi-Fi Display</string>
