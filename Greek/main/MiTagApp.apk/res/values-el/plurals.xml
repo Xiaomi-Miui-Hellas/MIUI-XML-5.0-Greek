@@ -13,8 +13,8 @@
         <item quantity="one">record</item>
     </plurals>
     <plurals name="select_n_item">
-        <item quantity="other">%d selected</item>
+        <item quantity="other">%d επιλεγμένα</item>
         <item quantity="zero">Choose items</item>
-        <item quantity="one">%d selected</item>
+        <item quantity="one">%d επιλεγμένα</item>
     </plurals>
 </resources>

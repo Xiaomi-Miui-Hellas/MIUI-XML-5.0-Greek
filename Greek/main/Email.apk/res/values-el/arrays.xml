@@ -4,11 +4,11 @@
         <item>content://com.android.email.provider/uiaccts</item>
     </string-array>
     <string-array name="general_preference_text_zoom_values">
-        <item>tiny</item>
-        <item>small</item>
-        <item>normal</item>
-        <item>large</item>
-        <item>huge</item>
+        <item>πολύ μικρό</item>
+        <item>μικρό</item>
+        <item>μεσαίο</item>
+        <item>μεγάλο</item>
+        <item>τεράστιο</item>
     </string-array>
     <string-array name="smtp_host_prefixes">
         <item>pop3</item>
@@ -16,65 +16,65 @@
         <item>imap</item>
     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
-        <item>Tiny text</item>
-        <item>Small text</item>
-        <item>Normal-sized text</item>
-        <item>Large text</item>
-        <item>Huge text</item>
+        <item>Πολύ μικρό κείμενο</item>
+        <item>Μικρό κείμενο</item>
+        <item>Μεσαίο κείμενο</item>
+        <item>Μεγάλο κείμενο</item>
+        <item>Τεράστιο κείμενο</item>
     </string-array>
     <string-array name="compose_modes">
-        <item>Reply</item>
-        <item>Reply all</item>
+        <item>Απάντηση</item>
+        <item>Απάντηση όλων</item>
         <item>Προώθηση</item>
     </string-array>
     <string-array name="sync_status">
-        <item>Success</item>
-        <item>No connection.</item>
-        <item>"Couldn't sign in."</item>
-        <item>Security error.</item>
-        <item>"Couldn't sync."</item>
-        <item>Internal Error</item>
+        <item>Επιτυχία</item>
+        <item>Χωρίς σύνδεση.</item>
+        <item>"Αδύντη σύνδεση."</item>
+        <item>Σφάλμα ασφάλειας.</item>
+        <item>"Αδύνατος συγχρονισμός."</item>
+        <item>Εσωτερικό Σφάλμα</item>
     </string-array>
     <string-array name="moveto_folder_sections">
-        <item>System</item>
-        <item>Frequently Used</item>
-        <item>All Folders</item>
+        <item>Σύστημα</item>
+        <item>Συχνή Χρήση</item>
+        <item>Όλοι οι Φάκελοι</item>
     </string-array>
     <string-array name="prefEntries_autoAdvance">
-        <item>Newer</item>
-        <item>Older</item>
-        <item>Conversation list</item>
+        <item>Νεότερη</item>
+        <item>Παλαιότερη</item>
+        <item>Λίστα συζητήσεων</item>
     </string-array>
     <string-array name="prefSummaries_autoAdvance">
-        <item>Show newer conversation after you delete</item>
-        <item>Show older conversation after you delete</item>
-        <item>Show conversation list after you delete</item>
+        <item>Εμφάνιση νεότερης συζήτησης μετά την διαγραφή</item>
+        <item>Εμφάνιση παλαιότερης συζήτησης μετά την διαγραφή</item>
+        <item>Εμφάνιση λίστας συζητήσεων μετά την διαγραφή</item>
     </string-array>
     <string-array name="prefValues_autoAdvance">
-        <item>newer</item>
-        <item>older</item>
-        <item>list</item>
+        <item>νέα</item>
+        <item>παλιά</item>
+        <item>λίστα</item>
     </string-array>
     <string-array name="prefEntries_removal_action">
-        <item>Show archive only</item>
-        <item>Show delete only</item>
-        <item>Show archive &amp; delete</item>
+        <item>Εμφάνιση μόνο του αρχείου</item>
+        <item>Εμφάνιση μόνο διεγραμμένων</item>
+        <item>Εμφάνιση αρχείου &amp; διαγραφή</item>
     </string-array>
     <string-array name="prefSummaries_removal_action_summary">
-        <item>Show archive only</item>
-        <item>Show delete only</item>
-        <item>Show archive &amp; delete</item>
+        <item>Εμφάνιση μόνο του αρχείου</item>
+        <item>Εμφάνιση μόνο διεγραμμένων</item>
+        <item>Εμφάνιση αρχείου &amp; διαγραφή</item>
     </string-array>
     <string-array name="prefValues_removal_action">
-        <item>archive</item>
+        <item>αρχείο</item>
         <item>διαγραφή</item>
-        <item>archive-and-delete</item>
+        <item>αρχείο-και-διαγραφή</item>
     </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
         <item>Προκαθορισμένο</item>
-        <item>Format</item>
+        <item>Τύπος</item>
         <item>Όνομα</item>
-        <item>Sender</item>
-        <item>Date</item>
+        <item>Αποστολέας</item>
+        <item>Ημ/νια</item>
     </string-array>
 </resources>

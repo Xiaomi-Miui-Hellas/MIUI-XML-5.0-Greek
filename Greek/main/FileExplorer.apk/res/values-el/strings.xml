@@ -11,7 +11,7 @@
     <string name="menu_item_sort">Sort by</string>
     <string name="menu_item_sort_name">Όνομα</string>
     <string name="menu_item_sort_size">Size</string>
-    <string name="menu_item_sort_date">Date</string>
+    <string name="menu_item_sort_date">Ημ/νια</string>
     <string name="menu_item_sort_type">Type</string>
     <string name="operation_favorite">Star</string>
     <string name="operation_unfavorite">Unstar</string>

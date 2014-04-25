@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="move_messages">
-        <item quantity="other">Move messages</item>
-        <item quantity="one">Move message</item>
+        <item quantity="other">Μετακίνηση μηνυμάτων</item>
+        <item quantity="one">Μετακίνηση μηνύματος</item>
     </plurals>
     <plurals name="message_view_attachment_bytes">
-        <item quantity="other">%dB</item>
-        <item quantity="one">%dB</item>
+        <item quantity="other">%db</item>
+        <item quantity="one">%db</item>
     </plurals>
     <plurals name="message_view_attachment_kilobytes">
-        <item quantity="other">%dKB</item>
-        <item quantity="one">%dKB</item>
+        <item quantity="other">%dkb</item>
+        <item quantity="one">%dkb</item>
     </plurals>
     <plurals name="message_view_attachment_megabytes">
-        <item quantity="other">%dMB</item>
-        <item quantity="one">%dMB</item>
+        <item quantity="other">%dmb</item>
+        <item quantity="one">%dmb</item>
     </plurals>
     <plurals name="message_view_attachment_gigabytes">
-        <item quantity="other">%dGB</item>
-        <item quantity="one">%dGB</item>
+        <item quantity="other">%dgb</item>
+        <item quantity="one">%dgb</item>
     </plurals>
     <plurals name="num_selected">
-        <item quantity="other">%d selected</item>
-        <item quantity="one">1 selected</item>
+        <item quantity="other">%d επιλεγμένα</item>
+        <item quantity="one">1 επιλεγμένο</item>
     </plurals>
     <plurals name="move_conversation">
-        <item quantity="other">Move %1$d conversations</item>
-        <item quantity="one">Move conversation</item>
+        <item quantity="other">Μετακίνηση %1$d συζητήσεων</item>
+        <item quantity="one">Μετακίνηση συζήτησης</item>
     </plurals>
     <plurals name="draft">
-        <item quantity="other">Drafts</item>
-        <item quantity="one">Draft</item>
+        <item quantity="other">Πρόχειρα</item>
+        <item quantity="one">Πρόχειρο</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Delete these %1$d conversations?</item>
-        <item quantity="one">Delete this conversation?</item>
+        <item quantity="other">Διαγραφή των %1$d συζητήσεων?</item>
+        <item quantity="one">Διαγραφή της συζήτησης?</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
         <item quantity="other">These conversations has Merged items,are you sure to delete them all?</item>
