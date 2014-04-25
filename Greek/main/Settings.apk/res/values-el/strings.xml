@@ -2328,7 +2328,7 @@ Attempts Remaining :"</string>
  <string name="sync_settings">Λογαριασμοί &amp; συγχρονισμός</string>
  <string name="sync_wifi_label">Ρύθμιση συγχρονισμού Wi-Fi </string>
   <string name="sync_wifi_only">Wi-Fi only</string>
-  <string name="system">System</string>
+  <string name="system">Σύστημα</string>
   <string name="system_cache_title">System cache</string>
   <string name="system_package">"System updates can't be installed on external media."</string>
   <string name="system_update_settings_list_item_summary"/>
@@ -2386,7 +2386,7 @@ Attempts Remaining :"</string>
   <string name="trusted_credentials_remove_confirmation">Permanently remove the user CA certificate?</string>
   <string name="trusted_credentials_remove_label">Αφαίρεση</string>
  <string name="trusted_credentials_summary">Προβολή ασφαλών CA πιστοποιητικών</string>
-  <string name="trusted_credentials_system_tab">System</string>
+  <string name="trusted_credentials_system_tab">Σύστημα</string>
   <string name="trusted_credentials_user_tab">User</string>
   <string name="try_again">Try again.</string>
   <string name="tts_data_installed_summary">Voices required for speech synthesis already properly installed</string>

@@ -397,8 +397,8 @@ CC: %4$s
     <string name="delete">Διαγραφή</string>
     <string name="discard_drafts">Discard drafts</string>
     <string name="refresh">Ανανέωση</string>
-    <string name="reply">Reply</string>
-    <string name="reply_all">Reply all</string>
+    <string name="reply">Απάντηση</string>
+    <string name="reply_all">Απάντηση όλων</string>
     <string name="resume_draft">Επεξεργασία</string>
     <string name="forward">Προώθηση</string>
     <string name="menu_compose">Compose</string>
@@ -555,7 +555,7 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
     <string name="signin">Sign-in</string>
     <string name="info">Info</string>
     <string name="report">Αναφορά</string>
-    <string name="sync_error">"Couldn't sync."</string>
+    <string name="sync_error">"Αδύνατος συγχρονισμός."</string>
     <string name="sync_error_message">"Your device doesn't have enough storage space to sync."</string>
     <string name="storage">Storage</string>
     <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -581,8 +581,8 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
     <string name="preferences_signature_title">Signature</string>
     <string name="preferences_signature_dialog_title">Signature</string>
     <string name="preferences_signature_summary_not_set">Not set</string>
-    <string name="notification_action_reply">Reply</string>
-    <string name="notification_action_reply_all">Reply all</string>
+    <string name="notification_action_reply">Απάντηση</string>
+    <string name="notification_action_reply_all">Απάντηση όλων</string>
     <string name="notification_action_archive">Archive</string>
     <string name="notification_action_remove_label">Remove label</string>
     <string name="notification_action_delete">Διαγραφή</string>
@@ -599,7 +599,7 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
     <string name="silent_ringtone">Silent</string>
     <string name="preference_removal_action_title">Archive &amp; delete actions</string>
     <string name="prefDialogTitle_removal_action">Archive &amp; delete actions</string>
-    <string name="preferences_default_reply_all_title">Reply all</string>
+    <string name="preferences_default_reply_all_title">Απάντηση όλων</string>
     <string name="preferences_default_reply_all_summary">Use as default for message replies</string>
     <string name="preference_swipe_title_archive">Swipe to archive</string>
     <string name="preference_swipe_title_delete">Swipe to delete</string>
@@ -670,7 +670,7 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
     <string name="default_setup">DEFAULT SETTINGS</string>
     <string name="default_">DEFAULT</string>
     <string name="prompt_title">Prompt</string>
-    <string name="password_changed_prompt">"Couldn't sign in."</string>
+    <string name="password_changed_prompt">"Αδύντη σύνδεση."</string>
     <string name="protocol">Protocol</string>
     <string name="account_set_up_change_type_note">If you want to set the switching account before POP3 and IMAP, you must first delete the account, re configure login.</string>
     <string name="contact_list_title">Contact List</string>
