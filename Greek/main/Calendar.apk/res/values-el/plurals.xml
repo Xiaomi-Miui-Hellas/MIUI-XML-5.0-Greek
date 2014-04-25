@@ -17,7 +17,8 @@
         <item quantity="one">1 μέρα</item>
     </plurals>
     <plurals name="weekN">
-        <item quantity="other">ΒΔΟΜΑΔΑ %d</item>
+        <item quantity="other">EΒΔΟΜΑΔΑ %d</item>
+        <item quantity="one">1η ΕΒΔΟΜΑΔΑ</item>
     </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>

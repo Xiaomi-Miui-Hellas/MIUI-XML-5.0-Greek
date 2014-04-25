@@ -226,9 +226,9 @@
     <string name="online_reminder_slider_text">Ενεργή υπενθύμιση</string>
     <string name="online_reminder_minutes_text">Ώρα υπενθύμισης</string>
     <string name="online_reminder_change_text">Τροποποίηση υπενθύμισης</string>
-    <string name="button_day">D</string>
+    <string name="button_day">Η</string>
     <string name="button_month">M</string>
-    <string name="action_bar_today">T</string>
+    <string name="action_bar_today">Σ</string>
     <string name="account_and_calendar">Λογαριασμός και ημερολόγιο</string>
     <string name="account_and_calendar_to_display">Λογαριασμός και ημερολόγιο για εμφάνιση</string>
     <string name="default_reminder_mode">Προκαθορισμένη λειτουργία υπενθύμισης</string>
@@ -262,8 +262,8 @@
     <string name="pref_title_notification_remind">Ειδοποίηση υπενθύμισης</string>
     <string name="pref_title_alert_remind">Αναδυόμενη υπενθύμιση</string>
     <string name="pref_title_alarm_remind">Ήχος υπενθύμισης</string>
-    <string name="event_date_format">MM/dd</string>
-    <string name="event_full_date_format">MM/dd/yyyy</string>
+    <string name="event_date_format">dd/MM</string>
+    <string name="event_full_date_format">dd/MM/yyyy</string>
     <string name="more_string">+%1$s</string>
     <string name="copy_email">Αντιγραφή email</string>
     <string name="copy_number">Αντιγραφή τηλεφώνου</string>
