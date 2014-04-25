@@ -433,7 +433,6 @@
   <string name="subject_label">"Θέμα: "</string>
   <string name="text_in_popup_saved_to_clipboard">Το κείμενο που προσαρμόστηκε στο αναδυόμενο παράθυρο αποθηκεύτηκε στο πρόχειρο</string>
   <string name="text_message">Μήνυμα κειμένου</string>
-<<<<<<< HEAD
   <string name="timed_message_expired_title">%d χρονικά μήνυμα(τα) δεν εστάλησαν</string>
   <string name="timed_message_expired_title_2">Αποστολή τώρα?</string>
   <string name="timed_message_in_total">... (%d συνολικά)</string>
@@ -472,46 +471,6 @@
   <string name="view">Προβολή</string>
   <string name="view_bookmark">Προβολή αρχικού μηνύματος</string>
   <string name="view_message_details">Προβολή λεπτομερειών</string>
-=======
-  <string name="timed_message_expired_title">%d timed message(s) not sent</string>
-  <string name="timed_message_expired_title_2">Send now?</string>
-  <string name="timed_message_in_total">... (%d in total)</string>
-  <string name="timed_message_to">to</string>
-  <string name="title_collapse_sp_messages">Combine service provider messages</string>
-  <string name="title_date_type">Message timestamp</string>
-  <string name="title_timed_message_dialog">Configure timed message</string>
-  <string name="to_address_label">"Προς: "</string>
-  <string name="to_count">%d in all</string>
-  <string name="to_label">"To "</string>
-  <string name="to_send_wrapper">Will send at %s</string>
-  <string name="toast_description_required">Feedback is required to submit</string>
-  <string name="toast_feedback_finish">Your report will be sent automatically when you connect to a Wi-Fi network</string>
-  <string name="toast_feedback_max">Only 3 reports may be submitted per μέρα</string>
-  <string name="toast_feedback_start">Sending feedback data…</string>
-  <string name="too_many_attachments">There is a limit of %1$s attachments. Only the first %2$s will be added.</string>
-  <string name="too_many_recipients">This message has too many recipients (%1$s). There is a limit of %2$s recipients.</string>
-  <string name="too_many_unsent_mms">"Can't send message right now. There are too many unsent multimedia messages."</string>
-  <string name="try_to_send">Try to send</string>
-  <string name="type_attachment">attachment</string>
-  <string name="type_audio">audio</string>
-  <string name="type_picture">picture</string>
-  <string name="type_to_compose_text_enter_to_send">Type message</string>
-  <string name="type_to_compose_text_or_leave_blank">Type message, or leave blank</string>
-  <string name="type_vcard">vCard</string>
-  <string name="type_video">video</string>
-  <string name="undelivered_msg_dialog_body">"Unable to send this message. Attempt made: %s."</string>
-  <string name="undelivered_msg_dialog_title">Undelivered message</string>
-  <string name="undelivered_sms_dialog_body">Unable to send this message.</string>
-  <string name="unknown_num">Άγνωστος αριθμός</string>
-  <string name="unknown_sender">Άγνωστος αποστολέας</string>
-  <string name="unstick">Unpin</string>
-  <string name="unstick_conversation">Unpin current conversation</string>
-  <string name="unsticked_conversation">Already unpinned</string>
-  <string name="unsupported_media_format">Unsupported %1$s format</string>
-  <string name="view">View</string>
-  <string name="view_bookmark">View original message</string>
-  <string name="view_message_details">View details</string>
->>>>>>> 1c86e3a8ab87ce453968ed0fbbf83919223b2b53
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="yes">Ναι</string>
 </resources>
