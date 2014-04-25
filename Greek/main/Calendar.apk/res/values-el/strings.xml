@@ -113,7 +113,7 @@
     <string name="new_event_dialog_label">Νέο γεγονός</string>
     <string name="new_event_dialog_option">Νέο γεγονός</string>
     <string name="delete_this_event_title">Διαγραφή γεγονότος?</string>
-    <string name="delete_(επαναλαμβανόμενο)_event_title">Διαγραφή %s?</string>
+    <string name="delete_recurring_event_title">Διαγραφή %s?</string>
     <string name="change_response_title">Αλλαγή ανταπόκρισης</string>
     <string name="menu_general_preferences">Γενικές ρυθμίσεις</string>
     <string name="menu_about_preferences">Περί του Ημερολογίου</string>
