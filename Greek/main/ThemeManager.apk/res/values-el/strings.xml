@@ -202,7 +202,6 @@
   <string name="resource_trial_end_title">Trial expired</string>
   <string name="resource_trial_time">（trial for %1$d minutes）</string>
   <string name="resource_unable_to_access">"Currently available in your region/country."</string>
-ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="resource_unknow_error">Unknown error occurred.</string>
   <string name="resource_update">Update</string>
   <string name="resource_user_know">ΟΚ</string>
