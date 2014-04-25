@@ -157,7 +157,7 @@
     <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
     <string name="account_setup_incoming_delete_policy_label">Διαγραφή email από τον διακομιστή</string>
     <string name="account_setup_incoming_delete_policy_never_label">Ποτέ</string>
-    <string name="account_setup_incoming_delete_policy_delete_label">Όταν διαγράψω από Εισερχόμενα<</string>
+    <string name="account_setup_incoming_delete_policy_delete_label">Όταν διαγράψω από Εισερχόμενα</string>
     <string name="account_setup_incoming_imap_path_prefix_label">Πρόθεμα IMAP path</string>
     <string name="account_setup_incoming_imap_path_prefix_hint">Προαιρετικό</string>
     <string name="account_setup_outgoing_title">Ρυθμίσεις λογαριασμού</string>
