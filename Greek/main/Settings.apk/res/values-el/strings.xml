@@ -948,7 +948,6 @@ This setting affects all users on this phone."</string>
  <string name="enable_adb">Εντοπισμός σφαλμάτων USB</string>
  <string name="enable_adb_summary">Λειτουργία εντοπισμού σφαλμάτων όταν το USB είναι συνδεδεμένο</string>
     <string name="enable_adb_debug_title">Enable USB debugging</string>
-    <string name="enable_adb_summary">Debug mode when USB is connected</string>
     <string name="enable_anti_spam_summary">Message filter enabled</string>
     <string name="enable_anti_spam_title">Filter unwanted messages</string>
     <string name="enable_app_permission_summary">Watching 23 apps</string>
@@ -1711,7 +1710,6 @@ Android File Transfer,
  <string name="owner_info_settings_title">Πληροφορίες ιδιοκτήτη</string>
  <string name="packages_subtitle">Included packages</string>
  <string name="password_guard">Ασφάλεια</string>
- <string name="percentage">%d%%</string>
     <string name="percentage">%d%%</string>
     <string name="perm">Permissions</string>
     <string name="perm_app">Apps</string>
@@ -3001,7 +2999,6 @@ Any user can accept updated app permissions on behalf of all other users."</stri
  <string name="virus_scanner_scan">Σάρωση τώρα</string>
  <string name="virus_scanner_scanning">scanning</string>
  <string name="virus_scanner_select_Cancel">Ακυρώθηκε</string>
-    <string name="virus_scanner_select_OK">OK</string>
  <string name="virus_scanner_select_lib">Βάση δεδομένων ιών</string>
  <string name="virus_scanner_select_multi">Η επιλογή παραπάνω της μια βάσης δεδομένων απαιτεί επανεγκατάσταση</string>
  <string name="virus_scanner_select_OK">Εντάξει</string>
