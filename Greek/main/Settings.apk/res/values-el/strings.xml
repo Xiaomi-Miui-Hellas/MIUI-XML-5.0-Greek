@@ -736,7 +736,7 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="deep_clean_title_large_file">Large files</string>
   <string name="deep_clean_title_residual">Residuals</string>
   <string name="deep_cleaning">Προηγμένα</string>
-  <string name="default_date_format">MM/dd/yyyy</string>
+  <string name="default_date_format">dd/MM/yyyy</string>
   <string name="default_input_method">Choose default input method</string>
   <string name="default_usb_mode">USB connection</string>
   <string name="delete">Διαγραφή</string>

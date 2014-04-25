@@ -133,9 +133,6 @@
   <string name="permlab_accessNote">Πρόσβαση στις σημειώσεις</string>
   <string name="pin_operation_failed">Η Λειτουργία PIN απέτυχε.</string>
   <string name="pincode_set_to_default_msg">Ο κωδικός PIN έχει οριστεί σε 1234, παρακαλούμε να επαναφέρετε το PIN εδώ.</string>
- <string name="perm_tigger_toggle_dspt">Να επιτρέπεται στις εφαρμογές να χρησιμοποιούν τους διακόπτες της γραμμής κατάστασης</string>
- <string name="perm_tigger_toggle_lab">Χρήση διακοπτών της γραμμής κατάστασης</string>
- <string name="perm_use_find_device">Εντοπισμός συσκευής</string>
  <string name="private_num">Με απόκρυψη</string>
   <string name="puk_operation_failed">Η Λειτουργία PUK απέτυχε.</string>
  <string name="reboot_confirm">Το τηλέφωνο θα επανεκκινήσει</string>

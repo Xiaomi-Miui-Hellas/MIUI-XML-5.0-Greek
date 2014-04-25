@@ -151,7 +151,7 @@ Po zapnutí displeje však můžete přijmout souhrnná nabízená data"</string
     <string name="date_time_12_hour_sample">1:00 odp</string>
     <string name="date_time_24_hour_sample">13:00</string>
     <string name="choose_timezone">Vybrat časové pásmo</string>
-    <string name="default_date_format">MM/DD/RRRR</string>
+    <string name="default_date_format">DD/MM/RRRR</string>
     <string name="normal_date_format">Regionální (%s)</string>
     <string name="display_preview_label">Náhled:</string>
     <string name="display_font_size_label">Velikost písma:</string>
