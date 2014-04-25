@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="prefEntries_max_bytes_limit">
-        <item>Unlimited</item>
-        <item>20MB</item>
-        <item>10MB</item>
-        <item>5MB</item>
-        <item>2MB</item>
-        <item>1MB</item>
-        <item>512KB</item>
-        <item>Always wait for WLAN</item>
+        <item>Απεριόριστα </item>
+        <item>20mb</item>
+        <item>10mb</item>
+        <item>5mb</item>
+        <item>2mb</item>
+        <item>1mb</item>
+        <item>512κβ</item>
+        <item>Πάντα αναμονή για WLAN</item>
     </string-array>
     <string-array name="prefValues_max_bytes_limit">
         <item>2147483647</item>

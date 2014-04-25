@@ -36,7 +36,7 @@ touch it with the back of your phone"</string>
   <string name="car_mode">Car mode</string>
   <string name="characters">%d/72</string>
   <string name="click_to_choose">Touch to open</string>
-  <string name="communication">Phone</string>
+  <string name="communication">Τηλέφωνο</string>
   <string name="config_name_hint">Όνομα</string>
   <string name="connect_to">Connect to %s</string>
   <string name="contact">Share contact</string>
@@ -113,7 +113,7 @@ touch it with the back of your phone"</string>
   <string name="open_xiaomi_web">Go to Xiaomi.com</string>
   <string name="password_preference">Tag password</string>
   <string name="percent">%s%%</string>
-  <string name="phone">Phone</string>
+  <string name="phone">Τηλέφωνο</string>
   <string name="phone_call">Call</string>
   <string name="phone_to_tag">To edit a tag,</string>
   <string name="pick_contact">Choose contact</string>

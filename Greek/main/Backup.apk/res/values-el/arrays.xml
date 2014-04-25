@@ -5,13 +5,13 @@
         <item>Όλες οι εφαρμογές</item>
     </string-array>
     <string-array name="system_package_label">
-	<item>Browser</item>
-	<item>Gallery</item>
-	<item>Permission Manager</item>
-	<item>Camera</item>
-	<item>Network Assistant</item>
-	<item>Weather Storage</item>
-	<item>Weather</item>
+	<item>Πλοηγός</item>
+	<item>Άλμπουμ</item>
+	<item>Διαχειριστής Δικαιωμάτων</item>
+	<item>Κάμερα</item>
+	<item>Βοηθός Δικτύου</item>
+	<item>Αποθήκευση Καιρού</item>
+	<item>Καιρός</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Επαφές</item>

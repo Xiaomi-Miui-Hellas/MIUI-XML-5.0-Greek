@@ -29,7 +29,7 @@
     <string name="hour_minute_ampm" formatted="false">%-l:%M %p</string>
     <string name="hour_minute_cap_ampm" formatted="false">%-l:%M %^p</string>
     <string name="numeric_date" formatted="false">%-e. %-m. %Y</string>
-    <string name="numeric_date_format">d. M. yyyy</string>
+    <string name="numeric_date_format">M. d. yyyy</string>
     <string name="numeric_date_template" formatted="false">%s. %s. %s</string>
     <string name="month_day_year" formatted="false">%-e. %B %Y</string>
     <string name="time_of_day" formatted="false">%-k:%M:%S</string>

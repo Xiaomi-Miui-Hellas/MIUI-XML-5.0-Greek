@@ -3,7 +3,7 @@
   <string name="access_denied">Access denied</string>
   <string name="access_token_expired_warning">Weibo account has expired, please reconnect</string>
   <string name="access_token_invalid_warning">Weibo account is invalid, please reconnect</string>
-  <string name="account">Account</string>
+  <string name="account">Λογαριασμός</string>
   <string name="account_dspt">"Xiaomi Account can synchronize and backup your messages, contacts, pictures, etc"</string>
   <string name="account_hint_text">E-mail/Phone number</string>
   <string name="account_name">Account: %1$s</string>
@@ -15,9 +15,9 @@
   <string name="activate_phone_server_error_notif">Server error</string>
   <string name="activate_status_desc_acquire_phone_number">Acquiring phone number from server</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Server error occurred while acquiring phone number.</string>
-  <string name="activate_status_desc_acquire_phone_number_server_error_wait">Server error while acquiring phone number. Waiting to retry…</string>
+  <string name="activate_status_desc_acquire_phone_number_server_error_wait">Server error while acquiring phone number. Αναμονή για προσπάθεια ξανά…</string>
   <string name="activate_status_desc_acquire_phone_number_server_io_error">Server I/O error while acquiring phone number due.</string>
-  <string name="activate_status_desc_acquire_phone_number_server_io_error_wait">Server I/O error while acquiring phone number. Waiting to retry…</string>
+  <string name="activate_status_desc_acquire_phone_number_server_io_error_wait">Server I/O error while acquiring phone number. Αναμονή για προσπάθεια ξανά…</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">Cannot get phone number.</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info_wait">Cannot get phone number, waiting to retry…</string>
   <string name="activate_status_desc_acquire_sim_pass_token">Acquiring security information from server…</string>
@@ -93,7 +93,7 @@
   <string name="error_unknown">Unknown error</string>
   <string name="error_user_name">Invalid username!</string>
   <string name="failed_to_send_activate_email">Failed to send an activation E-mail</string>
-  <string name="find_device">Locate device</string>
+  <string name="find_device">Εύρεση συσκευής</string>
   <string name="find_device_check_phone_error_title">Failed to enable locate device</string>
   <string name="find_device_disabled_notice">"You can reopen it via Settings - Accounts &amp; sync - Xiaomi Account"</string>
   <string name="find_device_disabled_title">Locate device disabled</string>

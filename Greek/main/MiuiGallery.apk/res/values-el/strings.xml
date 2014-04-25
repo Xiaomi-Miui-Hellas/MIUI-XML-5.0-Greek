@@ -357,8 +357,8 @@
   <string name="request_sms_url_failed">Failed to request url for sharing via SMS</string>
   <string name="request_sms_url_msg">Requesting url for SMS sharing, please wait…</string>
   <string name="request_sms_url_title">Hint</string>
-  <string name="retry_to_create_album">Retry</string>
-  <string name="retry_to_request_qr_code">Retry</string>
+  <string name="retry_to_create_album">Δοκιμή ξανά</string>
+  <string name="retry_to_request_qr_code">Δοκιμή ξανά</string>
 	<string name="rotate">Περιστροφή</string>
 	<string name="rotate_tooltip">Σύρετε την εικόνα για να την περιστρέψετε</string>
 	<string name="saturation">Κορεσμός</string>

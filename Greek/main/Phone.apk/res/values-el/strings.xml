@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="phoneAppLabel">Τηλέφωνο</string>
-    <string name="emergencydialerIconLabel">Επείγουσα κλήση</string>
     <string name="phoneIconLabel">Τηλέφωνο</string>
+    <string name="emergencydialerIconLabel">Επείγουσα κλήση</string>
     <string name="fdnListLabel">FDN λίστα</string>
     <string name="unknown">Άγνωστος</string>
-    <string name="private_num">Ιδιωτικός αριθμός</string>
+    <string name="private_num">Περιορισμένος αριθμός</string>
     <string name="payphone">Καρτοκινητή</string>
     <string name="onHold">Σε αναμονή</string>
     <string name="callFailed_userBusy">Γραμμή απασχολημένη</string>
@@ -259,7 +259,7 @@
     <string name="throttle_rate">Πολιτική τιμολόγησης δεδομένων</string>
     <string name="throttle_help">Μάθετε περισσότερα</string>
     <string name="throttle_status_subtext">"%1$s (%2$d٪) από %3$s μέγιστο χρονικό διάστημα
-Η επόμενη περίοδος ξεκινά %4$d ημέρες (%5$s)"</string>
+Η επόμενη περίοδος ξεκινά σε %4$d ημέρες (%5$s)"</string>
     <string name="throttle_data_usage_subtext">%1$s (%2$d٪) από %3$s μέγιστο χρονικό διάστημα</string>
     <string name="throttle_data_rate_reduced_subtext">"%1$s Υπέρβαση ορίου
 Η ταχύτητα δεδομένων μειώνεται σε %2$d Kb/s"</string>

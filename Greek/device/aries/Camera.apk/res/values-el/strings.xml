@@ -117,7 +117,7 @@
   <string name="hand_night_exit_button_text">Έξοδος λειτουργίας νυκτός</string>
   <string name="hdr_exit_button_text">Έξοδος λειτουργίας HDR</string>
   <string name="height">Ύψος</string>
-  <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
+  <string name="image_file_name_format">"'IMG'_ddMMyyy_HHmmss"</string>
   <string name="import_complete">Εισαγωγή ολοκληρώθηκε</string>
   <string name="import_contact">Εισαγωγή επαφής</string>
   <string name="import_fail">Εισαγωγή απέτυχε</string>
@@ -144,7 +144,7 @@
   <string name="pano_dialog_prepare_preview">Ετοιμασία πανόραμα</string>
   <string name="pano_dialog_title">Πανόραμα</string>
   <string name="pano_dialog_waiting_previous">Αναμείνατε για ολοκλήρωση από προηγούμενο πανόραμα</string>
-  <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
+  <string name="pano_file_name_format">"'PANO'_ddMMyyy_HHmmss"</string>
   <string name="pano_how_to_use_prompt">Ακουμπήστε το κουμπί κλείστρου για να τραβήξετε φωτογραφία πανόραμα.</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Συνεχίστε να κινείτε τη συσκευή</string>
   <string name="pano_how_to_use_prompt_to_move">Μετακινείτε την συσκευή απαλότερα</string>
@@ -450,7 +450,7 @@
   <string name="unit_mm">mm</string>
   <string name="video_camera_label">Βίντεο</string>
   <string name="video_err">"Αδύνατη η αναπαραγωγή βίντεο."</string>
-  <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
+  <string name="video_file_name_format">"'VID'_ddMMyyy_HHmmss"</string>
   <string name="video_reach_size_limit">Φτάσατε στο όριο μεγέθους.</string>
   <string name="video_snapshot_hint">Λήψη φωτογραφίας κατά την διάρκεια εγγραφής βίντεο απλά πατώντας στην οθόνη προεπισκόπισης.</string>
   <string name="videocamera_settings_label">Ρυθμίσεις βίντεο</string>

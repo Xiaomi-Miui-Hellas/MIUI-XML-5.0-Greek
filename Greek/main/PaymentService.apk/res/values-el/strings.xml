@@ -26,7 +26,7 @@
   <string name="bankcall_merchant">Receiver:</string>
   <string name="bankcall_name">Όνομα</string>
   <string name="bankcall_name_hint">Name associated with the account</string>
-  <string name="bankcall_phone">Phone</string>
+  <string name="bankcall_phone">Τηλέφωνο</string>
   <string name="bankcall_phone_credit_hint">"Bank account's corresponding personal phone number"</string>
   <string name="bankcall_phone_debit_hint">Make sure you have a good Internet connection.</string>
   <string name="bankcall_province">Province</string>
@@ -37,7 +37,7 @@
   <string name="btn_count_down_auto">Inquire after %1$s δευτερόλεπτα</string>
   <string name="btn_delete_record">Διαγραφή</string>
   <string name="btn_mili_center_recharge">Top up MiCredit</string>
-  <string name="btn_net_connection_retry">Retry</string>
+  <string name="btn_net_connection_retry">Δοκιμή ξανά</string>
   <string name="btn_next">Επόμενο</string>
   <string name="btn_other_bankcard">Use another card</string>
   <string name="btn_prev">Προηγούμενο</string>
@@ -58,7 +58,7 @@
   <string name="button_pay">Confirm</string>
   <string name="button_recharge">Top up</string>
   <string name="button_recharge_pay">Confirm</string>
-  <string name="button_retry">Retry</string>
+  <string name="button_retry">Δοκιμή ξανά</string>
   <string name="cancel">Άκυρο</string>
   <string name="change_security_lock">Change security lock</string>
   <string name="colon">": "</string>
@@ -155,7 +155,7 @@ SMS confirmation and click 'purchase complete', thank you!"</string>
   <string name="hfb_pad_info">Please follow %1$s SMS confirmation to confirm payment completion. Thank you!</string>
   <string name="hfb_pay_by_phone">Pay by phone:</string>
   <string name="hfb_pay_by_phone_hint">Pay with Chinese phone number</string>
-  <string name="hfb_retry_receive">Retry</string>
+  <string name="hfb_retry_receive">Δοκιμή ξανά</string>
   <string name="hfb_return">Back</string>
   <string name="hfb_sms1_progress_label">SMS sending, please wait…</string>
   <string name="hfb_sms2_progress_label">payment is being confirmed, please wait…</string>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Guard</string>
+  <string name="app_name">Φρουρός</string>
   <string name="bl_block_info" formatted="false">Αποκλεισμένα: αριθμός %d, λεπτομέρειες %d</string>
   <string name="bl_no_blacklist">Χωρίς αποκλεισμένους αριθμούς</string>
   <string name="bl_no_block_call">Χωρίς αποκλεισμένες κλήσεις</string>

@@ -33,7 +33,7 @@
   <string name="billboard">Billboard</string>
   <string name="bind_baidu_account_setting">Bind Baidu Account</string>
   <string name="bind_baidu_account_summary">Add playlists and other services by binding Baidu music account</string>
-  <string name="buffering">Buffering…</string>
+  <string name="buffering">Προ-φορτώνει…</string>
   <string name="cancel">Άκυρο</string>
   <string name="cancel_sleep_mode">Sleep timer stopped</string>
   <string name="cancle_warining">Sleep Mode stopped</string>
@@ -43,7 +43,7 @@
   <string name="choose_download_quality">Choose download quality</string>
   <string name="choose_stream_quality">Choose stream quality</string>
   <string name="click_to_shuffle">Click to shuffle all</string>
-  <string name="complete">Complete</string>
+  <string name="complete">Ολοκληρώθηκε</string>
   <string name="confirm">Confirm</string>
   <string name="correct_id3_by_internet">Auto correct ID3 using mobile Internet</string>
   <string name="correct_id3_failed">ID3 data correction failed!</string>
@@ -79,10 +79,10 @@
   <string name="download_all_avatar">Download Artist Avatar(s)</string>
   <string name="download_all_track">Download All Tracks</string>
   <string name="download_batch_start">Start downloading all</string>
-  <string name="download_completed">Downloaded</string>
+  <string name="download_completed">Λήφθηκε</string>
   <string name="download_lyric_settings">Auto download lyrics</string>
   <string name="download_lyric_summary">"Downloading lyrics does not use large amounts of data, you may disable to save on data allowance."</string>
-  <string name="download_processing">Downloading</string>
+  <string name="download_processing">Λαμβάνει</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
@@ -268,7 +268,7 @@
   <string name="rename_playlist_menu">Rename</string>
   <string name="request_fail">Request failed!</string>
   <string name="requesting">Requesting…</string>
-  <string name="retry">Retry</string>
+  <string name="retry">Δοκιμή ξανά</string>
   <string name="ringtone_menu">Use as phone ringtone</string>
   <string name="ringtone_not_support">Ringtone format not supported</string>
   <string name="ringtone_set">\"%s\" set as phone ringtone.</string>

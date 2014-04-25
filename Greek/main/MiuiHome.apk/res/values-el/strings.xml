@@ -8,7 +8,7 @@
   <string name="aqi_quality_index_light_pollution">Light pollution</string>
   <string name="aqi_quality_index_moderate">Moderate</string>
   <string name="aqi_quality_index_unhealthy">Unhealthy</string>
-  <string name="buffering">Buffering…</string>
+  <string name="buffering">Προ-φορτώνει…</string>
   <string name="cancel_action">Άκυρο</string>
   <string name="cancel_btn_label">Άκυρο</string>
   <string name="cant_remove_folder">Unable to remove non-empty folder</string>
@@ -192,7 +192,7 @@
   <string name="unknown_artist_name">Unknown artist</string>
   <string name="unnamed_folder_name">Untitled folder</string>
   <string name="wallpaper_scrolling">all</string>
-  <string name="widget_favorite_contacts_edit">Editor</string>
+  <string name="widget_favorite_contacts_edit">Επεξεργαστής</string>
   <string name="widget_favorite_contacts_label">Favorite contacts</string>
   <string name="widget_favorite_contacts_style">Switch Size</string>
   <string name="widget_gadget_player">Music</string>

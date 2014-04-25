@@ -27,7 +27,7 @@
     <string name="meeting_canceled">Canceled: %s</string>
     <string name="meeting_updated">Updated: %s</string>
     <string name="meeting_when">When: %s</string>
-    <string name="meeting_where">Where: %s</string>
+    <string name="meeting_where">Που: %s</string>
     <string name="meeting_recurring">When: %s (recurring)</string>
     <string name="meeting_allday">When: %s (all day)</string>
     <string name="meeting_allday_recurring">When: %s (all day, recurring)</string>
@@ -59,7 +59,7 @@
     <string name="auth_error_notification_title">Authentication error</string>
     <string name="auth_error_notification_text">Touch to edit account settings for %s</string>
     <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
-    <string name="retry">Retry</string>
+    <string name="retry">Δοκιμή ξανά</string>
     <string name="search_hint">Search email</string>
     <string name="no_conversations">No messages.</string>
     <string name="photo_view_count" formatted="false">%d of %d</string>
@@ -89,7 +89,7 @@
     <string name="mailbox_name_display_trash">Trash</string>
     <string name="mailbox_name_display_sent">Sent</string>
     <string name="mailbox_name_display_junk">Junk</string>
-    <string name="mailbox_name_display_starred">Starred</string>
+    <string name="mailbox_name_display_starred">Με αστέρι</string>
     <string name="mailbox_name_display_unread">Unread</string>
     <string name="debug_enable_debug_logging_label">Enable extra debug logging?</string>
     <string name="debug_enable_verbose_logging_label">Enable extremely verbose logging?</string>
@@ -99,7 +99,7 @@
     <string name="debug_force_one_minute_refresh_label">Force 1-minute refresh for POP/IMAP</string>
     <string name="debug_enable_strict_mode_label">Enable strict mode (with logging)</string>
     <string name="account_folder_list_summary_inbox">Inbox</string>
-    <string name="account_folder_list_summary_starred">Starred</string>
+    <string name="account_folder_list_summary_starred">Με αστέρι</string>
     <string name="account_folder_list_summary_drafts">Drafts</string>
     <string name="account_folder_list_summary_outbox">Outbox</string>
     <string name="mailbox_list_account_selector_combined_view">Combined Inbox</string>
@@ -268,7 +268,7 @@ CC: %4$s
     <string name="account_settings_edit_quick_responses_label">Γρήγορες απαντήσεις</string>
     <string name="account_settings_edit_quick_responses_summary">Edit text that you frequently insert when composing email</string>
     <string name="account_settings_notifications">Notification settings</string>
-    <string name="account_settings_data_usage">Data usage</string>
+    <string name="account_settings_data_usage">Χρήση δεδομένων</string>
     <string name="account_settings_policies">Security policies</string>
     <string name="system_folders_title">System folders</string>
     <string name="system_folders_trash_title">Trash folder</string>
@@ -279,7 +279,7 @@ CC: %4$s
     <string name="system_folders_sent_dlg">"Select your server's sent items folder"</string>
     <string name="edit_quick_response_dialog">Γρήγορη απάντηση</string>
     <string name="save_action">Αποθήκευση</string>
-    <string name="account_settings_sync_contacts_enable">Sync contacts</string>
+    <string name="account_settings_sync_contacts_enable">Συγχρονισμός επαφών</string>
     <string name="account_settings_sync_contacts_summary">Sync contacts for this account</string>
     <string name="account_settings_sync_calendar_enable">Sync calendar</string>
     <string name="account_settings_sync_calendar_summary">Sync calendar event for this account</string>
@@ -448,7 +448,7 @@ CC: %4$s
     <string name="menu_photo_share">Διαμοιρασμός</string>
     <string name="menu_photo_share_all">Share all</string>
     <string name="saving">Αποθηκεύει…</string>
-    <string name="choosertitle_sharevia">Share via</string>
+    <string name="choosertitle_sharevia">Διαμοιρασμός μέσω</string>
     <string name="contextmenu_openlink">Open in Browser</string>
     <string name="contextmenu_copy">Αντιγραφή</string>
     <string name="contextmenu_copylink">Αντιγραφή συνδέσμου URL</string>
@@ -638,8 +638,8 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
     <string name="hide_folders">Hide folders</string>
     <string name="failed">"Couldn't load image"</string>
     <string name="more_string">+%1$s</string>
-    <string name="copy_email">Copy email address</string>
-    <string name="copy_number">Copy phone number</string>
+    <string name="copy_email">Αντιγραφή email</string>
+    <string name="copy_number">Αντιγραφή τηλεφώνου</string>
     <string name="empty_email_tip">Could not send Empty Email</string>
     <string name="remove_account">Remove account</string>
     <string name="remove_account_confirm">The account \"%1$s\" will be removed from WPSMail.</string>
@@ -690,7 +690,7 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
     <string name="menu_att_mgr_order_rev_date">Sort by time</string>
     <string name="colon">:</string>
     <string name="more_atts_total">%1$d attachments in total</string>
-    <string name="menu_att_mgr_order_size">Sort by size</string>
+    <string name="menu_att_mgr_order_size">Ταξινόμηση κατά μέγεθος</string>
     <string name="att_mgr_title_order_mime">Format</string>
     <string name="att_mgr_title_order_name">Όνομα</string>
     <string name="att_mgr_title_order_sender">Sender</string>

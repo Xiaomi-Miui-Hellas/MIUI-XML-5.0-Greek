@@ -136,7 +136,7 @@
   <string name="submit_progress">Υποβολή…</string>
   <string name="submit_success">Υποβλήθηκε επιτυχώς, ευχαριστούμε!</string>
   <string name="system_backup_apply_helper">Η συσκευή θα επανεκκινήσει αυτόματα για να γίνει εφαρμογή της αναβάθμισης</string>
-  <string name="system_backup_ask">Ρώτα ξανά</string>
+  <string name="system_backup_ask">Επανάληψη ερώτησης</string>
   <string name="system_backup_button_text">Εκτέλεση αντιγράφου ασφαλείας συστήματος πριν την αναβάθμιση</string>
   <string name="system_backup_cancel_text">Επανεκκίνηση για αναβάθμιση</string>
   <string name="system_backup_download_helper">Η συσκευή θα επανεκκινήσει αυτόματα για να αναβαθμιστεί όταν ολοκληρωθεί η λήψη</string>
@@ -148,7 +148,7 @@
   <string name="update_comment_hint">(προαιρετικά)</string>
   <string name="update_comment_title">Τα σχόλια σας</string>
   <string name="update_feedback">Four-grid Update Feedback</string>
-  <string name="update_feedback_expired">"It's a shame that you missed the Update Feedback! Please submit poll again next Tuesday"</string>
+  <string name="update_feedback_expired">"Είναι κρίμα που χάσατε τον σχολιασμό της Ενημέρωσης! Παρακαλούμε υποβάλλετε τα σχόλιά σας και πάλι την επόμενη Τρίτη"</string>
   <string name="update_feel">1. Πώς νιώθετε?</string>
   <string name="update_general">Όχι άσχημα</string>
   <string name="update_happy">Χαρούμενος/η</string>

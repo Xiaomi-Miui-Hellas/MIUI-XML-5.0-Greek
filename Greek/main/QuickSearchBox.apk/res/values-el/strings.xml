@@ -34,7 +34,7 @@
   <string name="search_sources">Searchable items</string>
   <string name="search_sources_summary">Choose what to search on the phone</string>
   <string name="search_widget">Αναζήτηση</string>
-  <string name="system_search_category_title">Phone</string>
+  <string name="system_search_category_title">Τηλέφωνο</string>
   <string name="voice_search_hint_quotation_end">”</string>
   <string name="voice_search_hint_quotation_start">“</string>
   <string name="voice_search_hint_title">Try saying:</string>

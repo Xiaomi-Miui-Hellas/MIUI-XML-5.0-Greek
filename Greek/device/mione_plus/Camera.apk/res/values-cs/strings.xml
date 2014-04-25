@@ -118,7 +118,7 @@
   <string name="hand_night_exit_button_text">Ukončit noční režim</string>
   <string name="hdr_exit_button_text">Ukončit HDR</string>
   <string name="height">Výška</string>
-  <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
+  <string name="image_file_name_format">"'IMG'_ddMMyyy_HHmmss"</string>
   <string name="Import">Import</string>
   <string name="import_complete">Import dokončený</string>
   <string name="import_contact">Import kontaktu</string>
@@ -146,7 +146,7 @@
   <string name="pano_dialog_prepare_preview">Příprava panoramatu</string>
   <string name="pano_dialog_title">Panoramat</string>
   <string name="pano_dialog_waiting_previous">Čekání na dokončení předcházejícího snímku</string>
-  <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
+  <string name="pano_file_name_format">"'PANO'_ddMMyyy_HHmmss"</string>
   <string name="pano_how_to_use_prompt">stiskněte spoušť pro zahájení snímání</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Pomalu pohybujte telefonem v jenom směru</string>
   <string name="pano_how_to_use_prompt_to_move">Při snímání pohybujte telefonem plynule</string>
@@ -389,7 +389,7 @@
   <string name="qr_code_details">"QR kód: "</string>
   <string name="record_back_pressed_hint">Stiskněte zpět pro zastavení nahrávání</string>
   <string name="resume_playing_message">Pokračovat přehrávání od %s?</string>
-  <string name="resume_playing_restart">Restart</string>
+  <string name="resume_playing_restart">Επανεκκίνηση</string>
   <string name="resume_playing_resume">Pokračovat v přehrávání</string>
   <string name="resume_playing_title">Pokračovat ve videu</string>
   <string name="review_cancel">Zrušit</string>
@@ -445,7 +445,7 @@
   <string name="unit_mm">mm</string>
   <string name="video_camera_label">Videokamera</string>
   <string name="video_err">"Videosoubor nelze přehrát"</string>
-  <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
+  <string name="video_file_name_format">"'VID'_ddMMyyy_HHmmss"</string>
   <string name="video_reach_size_limit">Byla dosažena maximální velikost souboru.</string>
   <string name="video_snapshot_hint">Klepnutím na displej během nahrávání videa vytvoříte fotografii.</string>
   <string name="videocamera_settings_label">Nastavení videa</string>
