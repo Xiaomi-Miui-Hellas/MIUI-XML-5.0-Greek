@@ -325,7 +325,6 @@ Enable floating windows?"</string>
  <string name="battery_stats_charging_label">Φορτίζει</string>
  <string name="battery_stats_duration">%1$s από την αποσύνδεση</string>
  <string name="battery_stats_gps_on_label">Ενεργό GPS</string>
-    <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
  <string name="battery_stats_on_battery">%1$s στη μπαταρία</string>
  <string name="battery_stats_phone_signal_label">Mobile network signal</string>
  <string name="battery_stats_screen_on_label">Ενεργή οθόνη</string>
@@ -488,7 +487,6 @@ Enable floating windows?"</string>
     <string name="brightness_auto_adjust_off">Screen brightness will remain constant in all surroundings</string>
     <string name="brightness_auto_adjust_on">Screen brightness will vary in relation to the light in your surroundings</string>
     <string name="brightness_summary">Adjust the brightness of the screen</string>
-    <string name="bssid_label">BSSID:</string>
     <string name="bt_hci_snoop_log">Enable Bluetooth HCI snoop log</string>
     <string name="bt_hci_snoop_log_summary">Capture all Bluetooth HCI packets in a file</string>
     <string name="bt_trace_log">Enable Bluetooth Trace log</string>
@@ -592,7 +590,6 @@ Enable floating windows?"</string>
  <string name="common_settings">Απλές ρυθμίσεις</string>
  <string name="complete_settings">Πλήρεις ρυθμίσεις</string>
  <string name="computing_size">Υπολογισμός…</string>
- <string name="config_list_label">Ρυθμισμένα δίκτυα</string>
     <string name="config_mass_storage_function_name">mass_storage</string>
     <string name="config_mtp_function_name">mtp</string>
     <string name="config_ptp_function_name">ptp</string>
@@ -841,7 +838,6 @@ This setting affects all users on this phone."</string>
     <string name="dirac_mode_piston_100">Mi in-ear headphones</string>
     <string name="dirac_switch_summary">"Use Dirac Sound enhancer when using phone's speakers"</string>
     <string name="dirac_switch_title">Dirac sound technology</string>
-    <string name="disableNetwork">disableNetwork</string>
     <string name="disable_adb_debug_summary">Disable USB debugging</string>
     <string name="disable_anti_spam_summary">Message filter disabled</string>
     <string name="disable_app_permission_summary">Permission monitor is off</string>
@@ -852,7 +848,6 @@ This setting affects all users on this phone."</string>
     <string name="disable_service_title">Stop %1$s?</string>
  <string name="disable_text">Απενεργοποίηση</string>
  <string name="disabled">Απενεργοποιημένο</string>
- <string name="disconnect">disconnect</string>
  <string name="display_font_size_label">Μέγεθος γραμματοσειράς </string>
  <string name="display_label">Εμφάνιση</string>
  <string name="display_order_text">Sort by </string>
@@ -950,7 +945,6 @@ This setting affects all users on this phone."</string>
     <string name="empty_list_msg">"You don't have any third-party apps installed."</string>
     <string name="emptylist_fwlog_call">Blocked calls will be logged here</string>
     <string name="emptylist_fwlog_ms">All blocked texts and MMS messages will be logged here</string>
-    <string name="enableNetwork">enableNetwork</string>
  <string name="enable_adb">Εντοπισμός σφαλμάτων USB</string>
  <string name="enable_adb_summary">Λειτουργία εντοπισμού σφαλμάτων όταν το USB είναι συνδεδεμένο</string>
     <string name="enable_adb_debug_title">Enable USB debugging</string>
@@ -1134,8 +1128,6 @@ This setting affects all users on this phone."</string>
     <string name="gadget_wifi">WLAN</string>
     <string name="game_controller_settings_category">Game Controller</string>
     <string name="garbage_white_list_empty_content">White list is empty</string>
-    <string name="getConfiguredNetworks">getConfiguredNetworks</string>
-    <string name="getConnectionInfo">getConnectionInfo</string>
     <string name="global_change_warning">This setting affects all users on this phone.</string>
     <string name="global_font_change_title">Change font size</string>
     <string name="global_locale_change_title">Change language</string>
@@ -1182,22 +1174,6 @@ This setting affects all users on this phone."</string>
     <string name="heavy_weight_stop_description">"This app can't safely be stopped. If you stop it, you may lose some of your current work."</string>
     <string name="hello_world">Hello world!</string>
     <string name="help_label">Help</string>
-    <string name="help_url_accounts"/>
-    <string name="help_url_backup_reset"/>
-    <string name="help_url_battery"/>
-    <string name="help_url_bluetooth"/>
-    <string name="help_url_choose_lockscreen"/>
-    <string name="help_url_data_usage"/>
-    <string name="help_url_dreams"/>
-    <string name="help_url_location_access"/>
-    <string name="help_url_more_networks"/>
-    <string name="help_url_security"/>
-    <string name="help_url_sound"/>
-    <string name="help_url_tether"/>
-    <string name="help_url_users"/>
-    <string name="help_url_vpn"/>
-    <string name="help_url_wifi"/>
-    <string name="hidden_ssid_label">κρυφό SSID:</string>
     <string name="history_details_title">History details</string>
     <string name="home_key">Home</string>
     <string name="ime_security_warning">%1$sThis input method can record everything you type, including passwords, credit card numbers, and other personal data. Do you want to use this input method?</string>
@@ -1256,7 +1232,6 @@ This setting affects all users on this phone."</string>
     <string name="internal_used_memory_hint">Used: Calculating…</string>
  <string name="invalid_location">"Install location isn't valid "</string>
  <string name="invalid_size_value">Αδύνατος ο υπολογισμός του μεγέθους</string>
-    <string name="ipaddr_label">IPaddr:</string>
     <string name="item_app_permission">App permissions</string>
     <string name="item_garbage_size_1000m">1G</string>
     <string name="item_garbage_size_100m">100M</string>
@@ -1316,7 +1291,6 @@ This setting affects all users on this phone."</string>
     <string name="license_title">License</string>
     <string name="line_breaking_summary">Optimize paragraph line breaking</string>
     <string name="line_breaking_title">Optimize text</string>
- <string name="link_speed_label">Ταχύτητα ζεύξης:</string>
     <string name="list_sub_view_item_backup_cleanup">Back up first</string>
     <string name="list_sub_view_item_backup_uninstall">Back up and uninstall</string>
     <string name="list_sub_view_item_clean">Clean</string>
@@ -1413,7 +1387,6 @@ This setting affects all users on this phone."</string>
     <string name="log_count">(%d)</string>
     <string name="lte_ram_dump_off">Turn off lte ram dump</string>
     <string name="lte_ram_dump_on">Turn on lte ram dump</string>
- <string name="macaddr_label">MAC διευθ: </string>
     <string name="main_running_process_description">Main process in use.</string>
     <string name="man_add_application">Add auto-start apps</string>
  <string name="manage_device_admin">Διαχειριστές συσκευής</string>
@@ -1622,8 +1595,6 @@ Android File Transfer,
     <string name="network_assistant">Data usage</string>
  <string name="network_detail">%s Πληροφορίες δικτύου</string>
  <string name="network_settings_title">Κινητά Δίκτυα</string>
- <string name="network_state_label">Κατάσταση δικτύου </string>
- <string name="networkid_label">Network ID </string>
  <string name="networks">Επιλογή φορέα</string>
  <string name="new_backup_pw_prompt">Type a new password for full backups here</string>
     <string name="new_bw_list_button">Add contact</string>
@@ -2351,7 +2322,6 @@ Your device is set to switch to this configuration when battery recovers. You ne
     <string name="roaming_warning_multiuser">"When you allow data roaming, you may incur significant roaming charges!
 
 This setting affects all users on this phone."</string>
-    <string name="rssi_label">RSSI:</string>
     <string name="rubbish_cleaning">Cleaner</string>
     <string name="running_process_item_removed_user_label">Removed user</string>
     <string name="running_process_item_user_label">User: %1$s</string>
@@ -2368,7 +2338,6 @@ This setting affects all users on this phone."</string>
     <string name="runningservices_settings_title">Running services</string>
     <string name="save_button">Save</string>
     <string name="scan_done">Scan complete</string>
- <string name="scan_list_label">Αποτελέσματα σάρωσης: </string>
     <string name="scanning_prefix">Scanning: %s</string>
     <string name="scanning_start_hints">Getting ready…</string>
     <string name="scanning_virus">Scanning…</string>
@@ -2582,7 +2551,6 @@ This setting affects all users on this phone."</string>
  <string name="spellchecker_quick_settings">Ρυθμίσεις</string>
  <string name="spellchecker_security_warning">This spell checker may be able to collect all the text you type including personal data like passwords and credit card numbers It comes from the app %1$s Use this spell checker </string>
  <string name="spellcheckers_settings_title">Διόρθωση ορθογραφίας</string>
-    <string name="ssid_label">SSID:</string>
     <string name="start_checking_memory">Start checking memory condition...</string>
     <string name="start_checking_protection">Start checking realtime protection...</string>
     <string name="start_checking_trash">Start checking application cache...</string>
@@ -2629,14 +2597,12 @@ This setting affects all users on this phone."</string>
  <string name="strict_mode">Strict mode enabled</string>
  <string name="strict_mode_summary">Flash screen when apps do long operations on main thread</string>
  <string name="sum_carrier_select">Επιλογή φορέα δικτύου</string>
-    <string name="summary_font_size">%1$s</string>
     <string name="summary_install_virus">Check apps for viruses before installation</string>
     <string name="summary_mms">Filter unwanted messages (sales, ads, etc.)</string>
     <string name="summary_permission">Protect my privacy from third-party apps</string>
     <string name="summary_usb">Avoid viruses spreading via USB connection</string>
     <string name="summary_virus">Found %2$d viruses</string>
     <string name="summary_virus_update">Update virus definitions automatically when connected to WLAN</string>
- <string name="supplicant_state_label">Supplicant state </string>
  <string name="sync_active">Ο συγχρονισμός είναι ενεργός</string>
  <string name="sync_automatically">Auto-sync app data</string>
  <string name="sync_calendar">Ημερολόγιο</string>
@@ -2672,7 +2638,6 @@ This setting affects all users on this phone."</string>
     <string name="testing_phone_info">Phone information</string>
     <string name="testing_sim_toolkit">SIM toolkit</string>
     <string name="testing_usage_stats">Usage statistics</string>
- <string name="testing_wifi_info">Πληροφορίες Wi-Fi</string>
     <string name="tether_settings_title_all">Tethering &amp; portable hotspot</string>
     <string name="tether_settings_title_bluetooth">Bluetooth tethering</string>
  <string name="tether_settings_title_usb">USB πρόσδεση</string>
@@ -2680,7 +2645,6 @@ This setting affects all users on this phone."</string>
  <string name="tether_settings_title_wifi">Φορητό σημείο πρόσβασης</string>
  <string name="tethering_help_button_text">Βοήθεια</string>
  <string name="time_picker_title">Ώρα</string>
- <string name="time_zone_auto_stub">Επιλογή ζώνης ώρας</string>
  <string name="timezone_settings">Ζωνη ωρας</string>
     <string name="title_app_update_no">%d apps have updates</string>
     <string name="title_app_update_yes">All apps up to date</string>
@@ -3144,7 +3108,6 @@ Any user can accept updated app permissions on behalf of all other users."</stri
  <string name="wifi_advanced_settings_label">Ρυθμίσεις IP</string>
  <string name="wifi_advanced_titlebar">Προχωρημένες ρυθμίσεις Wi-Fi</string>
     <string name="wifi_and_mobile_skipped_message">"WARNING: Until you have an internet connection, the phone won't be able to verify that your software is up to date."</string>
-    <string name="wifi_api_test">WLAN API</string>
     <string name="wifi_auto_connect">Auto connect</string>
     <string name="wifi_available_title">Connect to WLAN</string>
  <string name="wifi_cancel">Άκυρο</string>
@@ -3183,9 +3146,7 @@ Any user can accept updated app permissions on behalf of all other users."</stri
     <string name="wifi_display_summary_off">Off</string>
     <string name="wifi_display_summary_on">On</string>
     <string name="wifi_dns1">DNS 1</string>
-    <string name="wifi_dns1_hint">8.8.8.8</string>
     <string name="wifi_dns2">DNS 2</string>
-    <string name="wifi_dns2_hint">8.8.4.4</string>
     <string name="wifi_dont_skip">"Don't skip"</string>
  <string name="wifi_eap_anonymous">Ανώνυμο</string>
  <string name="wifi_eap_ca_cert">Πιστοποιητικό CA</string>
@@ -3203,11 +3164,9 @@ Any user can accept updated app permissions on behalf of all other users."</stri
  <string name="wifi_failed_save_message">Απέτυχε η αποθήκευση του δικτύου</string>
  <string name="wifi_forget">Διαγραφή</string>
     <string name="wifi_gateway">Gateway</string>
-    <string name="wifi_gateway_hint">192.168.1.1</string>
  <string name="wifi_in_airplane_mode">Σε λειτουργία πτήσης</string>
     <string name="wifi_install_credentials">Install certificates</string>
  <string name="wifi_ip_address">Διεύθυνση IP</string>
-    <string name="wifi_ip_address_hint">192.168.1.128</string>
  <string name="wifi_ip_settings">Ρυθμίσεις IP</string>
  <string name="wifi_ip_settings_invalid_dns">Πληκτρολογήστε μια σωστή διεύθυνση DNS </string>
  <string name="wifi_ip_settings_invalid_gateway">Πληκτρολογήστε μια προεπιλεγμένη πύλη </string>
@@ -3227,7 +3186,6 @@ Any user can accept updated app permissions on behalf of all other users."</stri
  <string name="wifi_menu_wps_pin">WPS Pin Entry</string>
  <string name="wifi_more">Περισσότερα</string>
  <string name="wifi_network_prefix_length">Μήκος προθέματος δικτύου</string>
- <string name="wifi_network_prefix_length_hint">24</string>
  <string name="wifi_not_in_range">Εκτός εμβέλειας</string>
  <string name="wifi_notify_open_networks">Ειδοποίηση δικτύου</string>
  <string name="wifi_notify_open_networks_summary">Να ειδοποιούμαι όταν ένα ελεύθερο δίκτυο είναι διαθέσιμο</string>
@@ -3282,11 +3240,9 @@ Allow this for all apps that want to scan?"</string>
     <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">None</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
@@ -3378,14 +3334,7 @@ Phone setup can require significant network activity."</string>
  <string name="wifi_ssid">SSID δικτύου</string>
     <string name="wifi_ssid_hint">Enter the SSID</string>
  <string name="wifi_starting">Ενεργοποίηση…</string>
- <string name="wifi_state_disabled">Απενεργοποιημένο</string>
- <string name="wifi_state_disabling">Απενεργοποίηση</string>
- <string name="wifi_state_enabled">Ενεργοποιημένο</string>
- <string name="wifi_state_enabling">Ενεργοποίηση</string>
- <string name="wifi_state_label">Κατάσταση Wi-Fi </string>
- <string name="wifi_state_unknown">Άγνωστο</string>
  <string name="wifi_status">Κατάσταση</string>
- <string name="wifi_status_test">Κατάσταση Wi-Fi</string>
  <string name="wifi_stopping">Απενεργοποίηση Wi-Fi…</string>
     <string name="wifi_suspend_optimizations">WLAN optimization</string>
     <string name="wifi_suspend_optimizations_summary">Minimize battery usage when WLAN is on</string>
@@ -3400,7 +3349,6 @@ Phone setup can require significant network activity."</string>
     <string name="wifi_tether_stopping">Turning off hotspot…</string>
  <string name="wifi_unchanged"> χωρίς αλλαγή </string>
  <string name="wifi_unspecified"> δεν έχει οριστεί </string>
- <string name="wifi_update">Ανανέωση</string>
  <string name="wifi_wapi_as_cert">Πιστοποιητικό WAPI AS</string>
  <string name="wifi_wapi_as_certificate">AS certificate</string>
  <string name="wifi_wapi_cert_cancel_button">Ακύρωση</string>
