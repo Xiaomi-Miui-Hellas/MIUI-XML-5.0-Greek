@@ -4,7 +4,6 @@
     <string name="ExportContactScreen">Εξαγωγή επαφών στην κάρτα SIM</string>
     <string name="accept_modify_call_request_prompt">Αποδοχή τροποποίησης του αιτήματος κλήσης?</string>
     <string name="absent_num">CHYBÍ ČÍSLO</string>
-    <string name="accept_modify_call_request_prompt">Přijmout požadavek na změnu volání?</string>
     <string name="accessibility_call_muted">Κλήσε σε σίγαση.</string>
     <string name="accessibility_speakerphone_enabled">Ανοικτή συνομιλία ενεργοποιημένη.</string>
     <string name="addSimEntries">Προσθήκη επαφών SIM</string>
@@ -57,7 +56,6 @@
     <string name="audio_mode_speaker">Μεγάφωνο</string>
     <string name="audio_mode_wired_headset">Ενσύρματα ακουστικά</string>
     <string name="auth_username_summary">Όνομα χρήστη που χρησιμοποιείται για τον έλεγχο ταυτότητας</string>
-    <string name="auth_username">Autentifikační uživ. jméno</string>
     <string name="auth_username_title">Πιστοποίηση ονόματος χρήστη</string>
     <string name="auto_answer_delay_entries_delay_10s_miui">10 δευτερόλεπτα</string>
     <string name="auto_answer_delay_entries_delay_3s_miui">3 δευτερόλεπτα</string>
@@ -385,10 +383,8 @@
     <string name="disable_pin_ok">Απενεργοποιημένο PIN της κάρτας SIM.</string>
     <string name="disable_sim_pin">Απενεργοποίηση PIN της κάρτας SIM</string>
     <string name="disable_sim_pin_miui">Απενεργοποίηση SIM PIN</string>
-    <string name="display_name">Zobrazené jméno</string>
     <string name="display_name_summary">&lt;Ίδιο με το όνομα χρήστη></string>
     <string name="display_name_title">Εμφανιζόμενο όνομα</string>
-    <string name="domain_address">SIP doména</string>
     <string name="domain_address_title">Διακομιστής</string>
     <string name="doneButton">Ολοκληρώθηκε</string>
     <string name="dtmf_tone_enable_title">Ήχοι αφής πληκτρολογίου</string>
@@ -1013,11 +1009,8 @@
     <string name="sip_accounts">Κλήσεις μέσω Διαδικτύου (SIP) λογαριασμοί</string>
     <string name="sip_accounts_title">SIP λογαριασμοί</string>
     <string name="sip_add_account_tip_text">Για να χρησιμοποιήσετε την κλήση μέσω διαδικτύου,  προσθέσετε ένα λογαριασμό SIP</string>
-    <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-    <string name="sip_always">SIP_ALWAYS</string>
     <string name="sip_always_send_keepalive">Αποστολή πάντα</string>
     <string name="sip_call_options_entry_1">Για όλες τις κλήσεις όταν το δίκτυο δεδομένων είναι διαθέσιμο</string>
-    <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
     <string name="sip_call_options_entry_2">Μόνο για κλήσεις μέσω του Διαδικτύου</string>
     <string name="sip_call_options_entry_3">Ρωτήστε για κάθε κλήση</string>
     <string name="sip_call_options_title">Χρήση κλήσεων μέσω Διαδικτύου</string>
@@ -1027,7 +1020,7 @@
     <string name="sip_edit_title">Στοιχεία του λογαριασμού SIP</string>
     <string name="sip_menu_add">Προσθήκη</string>
     <string name="sip_menu_discard">Απόρριψη</string>
-    <string name="sip_menu_save">save</string>
+    <string name="sip_menu_save">Σώσε</string>
     <string name="sip_receive_calls">Λήψη εισερχόμενων κλήσεων</string>
     <string name="sip_receive_calls_summary">Μειώνει τη διάρκεια ζωής της μπαταρίας</string>
     <string name="sip_settings">Ρυθμίσεις κλήσεων μέσω Internet</string>
@@ -1149,7 +1142,6 @@
     <string name="use_ims_default_summary">Να χρησιμοποιέιται πάντα ο IMS για φωνητικές κλήσεις</string>
     <string name="use_ims_default_title">Χρήση πάντα του IMS</string>
     <string name="username_title">Όνομα Χρήστη</string>
-    <string name="username_title">Uživatelské jméno</string>
     <string name="ussdRunning">Κωδικός USSD εκτελείται ...</string>
     <string name="vibrate_on_ring_title">Δονείται όταν κουδουνίζει</string>
     <string name="vm_change_failed">"Δεν ήταν δυνατή η αλλαγή του αριθμού του τηλεφωνητή.
@@ -1199,12 +1191,4 @@
     <string name="xdivert_sub_absent">Αμφότερες οι συνδρομές θα πρέπει να ενεργοποιηθούν για την επεξεργασία της x-Divertς</string>
     <string name="xdivert_summary">Ρυθμίσεις CFNRc</string>
     <string name="xdivert_title">x-Divert</string>
-    <string name="enter_input">Musíte něco zadat, zkuste to znovu!</string>
-    <string name="managed_roaming_dialog_cancel_button">Zrušit</string>
-    <string name="managed_roaming_dialog_content">Byla zjištěna síť s omezenými službami. Chcete vybrat síť manuálně?</string>
-    <string name="managed_roaming_dialog_ok_button">OK</string>
-    <string name="managed_roaming_title">Managed roaming</string>
-    <string name="managed_roaming_title_sub1">Managed roaming (SUB1)</string>
-    <string name="managed_roaming_title_sub2">Managed roaming (SUB2)</string>
-    <string name="managed_roaming_title_sub3">Managed roaming (SUB3)</string>
 </resources>
