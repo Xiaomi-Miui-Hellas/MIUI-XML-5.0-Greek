@@ -3,31 +3,31 @@
 <resources>
    <string-array name="preferred_network_mode_choices">
         <item>LTE / CDMA</item>
-        <item>Jen EvDo</item>
-        <item>CDMA bez EvDo</item>
-        <item>Automaticky CDMA / EvDo</item>
-        <item>Automaticky GSM / WCDMA</item>
-        <item>Jen WCDMA</item>
-        <item>Jen GSM</item>
-        <item>GSM / WCDMA preferováno</item>
+        <item>Μόνο EvDo</item>
+        <item>CDMA χωρίς EvDo</item>
+        <item>Αυτόματο CDMA / EvDo</item>
+        <item>Αυτόματο GSM / WCDMA</item>
+        <item>Χωρίς WCDMA</item>
+        <item>Χωρίς GSM</item>
+        <item>GSM / WCDMA προτιμάται</item>
         <item>TD-SCDMA/WCDMA</item>
-        <item>Jen TD-SCDMA</item>
+        <item>Χωρίς TD-SCDMA</item>
         <item>LTE / WCDMA</item>
         <item>LTE</item>
-        <item>Globální</item>
+        <item>Παγκόσμιο</item>
         <item>GSM/WCDMA/LTE</item>
         <item>CDMA + LTE/EvDo</item>
         <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>Jen EvDo</item>
+        <item>Χωρίς EvDo</item>
         <item>CDMA bez EvDo</item>
         <item>CDMA/EvDo auto</item>
         <item>GSM/WCDMA auto</item>
-        <item>Jen WCDMA</item>
-        <item>Jen GSM</item>
-        <item>GSM/WCDMA preferováno</item>
+        <item>Χωρίς WCDMA</item>
+        <item>Χωρίς GSM</item>
+        <item>GSM/WCDMA προτιμάται</item>
     </string-array>
     <string-array name="ims_call_types">
-        <item>Hlas</item>
-        <item>Video</item>
+        <item>Φωνή</item>
+        <item>Βίντεο</item>
     </string-array>
 </resources>

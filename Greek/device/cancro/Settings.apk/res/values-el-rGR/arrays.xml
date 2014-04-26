@@ -2,23 +2,23 @@
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
     <string-array name="tts_rate_entries">
-        <item>Velmi pomalu</item>
-        <item>Pomalu</item>
-        <item>Normálně</item>
-        <item>Rychle</item>
-        <item>Rychleji</item>
-        <item>Velmi rychle</item>
-        <item>Svižně</item>
-        <item>Velmi svižně</item>
-        <item>Nejrychleji</item>
+        <item>Very slow</item>
+        <item>Slow</item>
+        <item>Normal</item>
+        <item>Fast</item>
+        <item>Faster</item>
+        <item>Very fast</item>
+        <item>Rapid</item>
+        <item>Very rapid</item>
+        <item>Fastest</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
-        <item>Žádný</item>
+        <item>None</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
     <string-array name="mvno_type_entries">
-        <item>Žádný</item>
+        <item>Καμμία</item>
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
