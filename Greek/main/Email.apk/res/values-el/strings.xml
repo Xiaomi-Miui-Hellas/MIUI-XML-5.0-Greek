@@ -240,9 +240,9 @@
     <string name="password_expired_ticker">Το PIN ή κωδικός της οθόνης κλειδώματος έχει λήξει.</string>
     <string name="password_expired_content_title">Κωδικός οθόνης κλειδώματος έληξε</string>
     <string name="password_expire_warning_dialog_title">Λήγει ο κωδικός οθόνης κλειδώματος</string>
-    <string name="password_expire_warning_dialog_content_fmt">You need to change your lock screen PIN or password soon, or the data for%s will be erased. Do you want to change it now?</string>
+    <string name="password_expire_warning_dialog_content_fmt">Πρέπει να αλλάξετε το PIN ή κωδικό της οθόνης κλειδώματος σύντομα, αλλιώς τα δεδομένα για %s θα διαγραφούν. Θέλετε να το αλλάξετε τώρα?</string>
     <string name="password_expired_dialog_title">Κωδικός οθόνης κλειδώματος έληξε</string>
-    <string name="password_expired_dialog_content_fmt">The data for %s is being erased from your device. You can restore it by changing your lock screen PIN or password. Do you want to change it now?</string>
+    <string name="password_expired_dialog_content_fmt">Τα δεδομένα για %s διαγράφονται από τη συσκευή σας. Μπορείτε να τα επαναφέρετε αλλάζοντας το PIN ή κωδικό της οθόνης κλειδώματος. Θέλετε να το αλλάξετε τώρα?</string>
     <string name="account_settings_exit_server_settings">Discard unsaved changes?</string>
     <string name="account_settings_login_dialog_title">"Αδύνατη η σύνδεση"</string>
     <string name="account_settings_login_dialog_content_fmt">The username or password for %s is incorrect. Do you want to update them now?</string>
