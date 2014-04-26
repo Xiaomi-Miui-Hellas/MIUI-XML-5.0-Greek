@@ -42,7 +42,7 @@
   <string name="confirm_change_mode_title">Εναλλαγή λειτουργίας</string>
   <string name="confirm_change_to_expert_mode_message">Εναλλαγή σε επαγγελματική λειτουργία αμέσως ?</string>
   <string name="confirm_change_to_simple_mode_message">Εναλλαγή σε απλή λειτουργία αμέσως ?</string>
-  <string name="confirm_location_message">Fotoaparát umí zaznamenat Vaši polohu ve fotografii. Chcete Vaši polohu ukládat?</string>
+  <string name="confirm_location_message">Η κάμερα μπορεί να καταγράψει τη θέση σας στη φωτογραφία. Να αποθηκεύσετε τη θέση σας?</string>
   <string name="confirm_restore_message">Επαναφορά προκαθορισμένων ρυθμίσεων Κάμερας?</string>
   <string name="confirm_restore_title">Επαναφορά προκαθορισμένων</string>
   <string name="connect_wifi">Σύνδεση σε αυτό το δίκτυο Wi-Fi</string>
