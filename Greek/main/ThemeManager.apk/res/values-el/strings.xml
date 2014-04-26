@@ -202,7 +202,6 @@
   <string name="resource_trial_end_title">Η δοκιμή έληξε.</string>
   <string name="resource_trial_time">（δοκιμή για %1$d λεπτά）</string>
   <string name="resource_unable_to_access">"Επί του παρόντος διατίθενται στην περιοχή / χώρα σας."</string>
-αλλά το περιεχόμενο που σας ενδιαφέρει δεν είναι διαθέσιμο στη χώρα σας."</string>
   <string name="resource_unknow_error">Άγνωστο σφάλμα.</string>
   <string name="resource_update">Ενημέρωση</string>
   <string name="resource_user_know">ΟΚ</string>
