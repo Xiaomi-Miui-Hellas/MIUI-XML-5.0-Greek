@@ -8,7 +8,7 @@ then
 	#ls -t ../MIUI-XML-5.0-Greek_Backup/*.zip | head -1
 	du -sh ../MIUI-XML-5.0-Greek_Backup/*.zip|tail -1
 	echo "Backup folder size is.."
-	du -sh ../MIUI_XML-5.0-Greek_Backup/
+	du -sh ../*_Backup
 	echo " "
 	sleep 1
 	git commit -a
@@ -26,7 +26,7 @@ else
 	#ls -t ../MIUI-XML-5.0-Greek_Backup/*.zip | head -1
 	du -sh ../MIUI-XML-5.0-Greek_Backup/*.zip|tail -1
 	echo "Backup folder size is.."
-	du -sh ../MIUI-XML-5.0-Greek_Backup/
+	du -sh ../*_Backup
 	echo " "
 	sleep 1
 	git commit -a
