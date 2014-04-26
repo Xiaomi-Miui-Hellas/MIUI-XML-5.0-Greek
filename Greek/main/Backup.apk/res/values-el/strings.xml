@@ -132,7 +132,7 @@ to cancel restore"</string>
   <string name="customization_under_wifi_prompt">Υποστήριξη μόνο με χρήση Wi-Fi</string>
   <string name="data_no_enough_space">Δεν υπάρχει αρκετή εσωτερική μνήμη ελευθερώστε λίγο χώρο και δοκιμάστε ξανά</string>
   <string name="data_no_enough_space_message">Η εσωτερική μνήμη είναι μικρότερη από 30MB και η επαναφορά ίσως αποτύχει Θέλετε σίγουρα να συνεχίσετε </string>
-  <string name="date_format">HH mm ss dd//MM/yyyy</string>
+  <string name="date_format">HH mm ss dd/MM/yyyy</string>
   <string name="delete">Διαγραφή</string>
   <string name="delete_backup_process">Διαγραφή αντίγραφου ασφαλείας παρακαλώ περιμένετε </string>
   <string name="delete_failed_backup_confirm">Το αρχείο περιέχει σφάλμα αδύνατη η επαναφορά</string>

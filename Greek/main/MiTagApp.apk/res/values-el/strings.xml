@@ -162,7 +162,7 @@ touch it with the back of your phone"</string>
   <string name="start_configuration">Configure tag</string>
   <string name="sure_to_delete_user_config">Delete this task?</string>
   <string name="tag_history">Ιστορικό</string>
-  <string name="tag_history_date_format">M/d</string>
+  <string name="tag_history_date_format">d/M</string>
   <string name="task">Trigger tasks</string>
   <string name="toast_import_failed">Failed to import contact</string>
   <string name="toggle">Toggle</string>
