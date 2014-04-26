@@ -247,7 +247,7 @@
   <string name="theme_component_title_statusbar">Γραμμή κατάστασης</string>
   <string name="theme_component_title_wallpaper">Ταπετσαρία</string>
   <string name="theme_current_using_has_update">Το τρέχον θέμα έχει ενημερωθεί, κάντε κλικ εδώ για να το εφαρμόσετε</string>
-  <string name="theme_description_title_customized">Custom</string>
+  <string name="theme_description_title_customized">Προσαρμοσμένα</string>
   <string name="theme_description_title_default">Προκαθορισμένο</string>
   <string name="theme_immediately_apply_tip">Το θέμα είναι ενημερωμένο, να εφαρμοστεί άμεσα?</string>
   <string name="theme_import_activity_label">Αναβάθμιση θέματος</string>
