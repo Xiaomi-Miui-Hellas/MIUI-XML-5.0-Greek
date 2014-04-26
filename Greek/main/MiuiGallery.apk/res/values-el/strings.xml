@@ -471,7 +471,7 @@
   <string name="untagged">Χωρίς ετικέτα</string>
   <string name="user_alias_self">Ο εαυτός μου</string>
 	<string name="video_err">"Αδύνατη η αναπαραγωγή βίντεο."</string>
-  <string name="video_not_exist">ΤΟ βίντεο δεν υπάρχει>
+  <string name="video_not_exist">ΤΟ βίντεο δεν υπάρχει</string>
   <string name="vignette">Βινιέτα</string>
 	<string name="wallpaper">Ταπετσαρία</string>
 	<string name="warn">Προσοχή</string>
@@ -484,5 +484,4 @@
 	<string name="widget_type_shuffle">Τυχαία επιλογή όλων των εικόνων</string>
   <string name="width">Πλάτος</string>
   <string name="yes">Ναι</string>
-
 </resources>
