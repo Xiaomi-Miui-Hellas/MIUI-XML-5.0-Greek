@@ -118,7 +118,7 @@
   <string name="internet_comm">Messaging services</string>
   <string name="internet_message">MiCloud messaging</string>
   <string name="login">Login</string>
-  <string name="login_failed">Login failed</string>
+  <string name="login_failed">Σύνδεση απέτυχε</string>
   <string name="login_instead_reg">Login using this phone number</string>
   <string name="login_notice">Signing in…</string>
   <string name="master_alert_notif_dspt" formatted="false">"During this period you have added %s name phone contacts, %s SMS, %s photos, %s of notes and other data.
