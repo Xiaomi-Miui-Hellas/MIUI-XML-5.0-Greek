@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+<<<<<<< HEAD
   <string name="account_info">Ο λογαριασμός μου</string>
   <string name="account_unactivated">Ο λογαριασμός δεν έχει ενεργοποιηθεί.</string>
   <string name="all_resources">Όλα</string>
@@ -19,6 +20,27 @@
   <string name="backup_theme_success_message">Η δημιουργία αντιγράφων ασφαλείας θεμάτων ήταν επιτυχής</string>
   <string name="basic_info">Βασικές πληροφορίες</string>
   <string name="change_wallpaper">Ταπετσαρία</string>
+=======
+  <string name="account_info">My account</string>
+  <string name="account_unactivated">Account not activated.</string>
+  <string name="all_resources">Όλα</string>
+  <string name="all_ringtone_resource">Όλα</string>
+  <string name="app_name">Themes</string>
+  <string name="apply_font_btn_exclude">Apply without font</string>
+  <string name="apply_font_btn_reboot">Apply and reboot</string>
+  <string name="apply_font_tip">Theme contains font. Reboot is required.</string>
+  <string name="apply_lockscreen_paper_tips">"Wallpaper changes not supported by the current lock screen. New lock screen wallpaper may not be visible."</string>
+  <string name="apply_theme_no_select_message">Please select components</string>
+  <string name="apply_theme_with_ringtones">Apply theme with ringtones</string>
+  <string name="backup_preference_title">Backup theme</string>
+  <string name="backup_theme_dialog_message">"Backup the current theme to %1$s"</string>
+  <string name="backup_theme_dialog_ok">Backup</string>
+  <string name="backup_theme_name">My backup</string>
+  <string name="backup_theme_progress_message">Backing up theme files, please wait…</string>
+  <string name="backup_theme_success_message">Theme backup successful</string>
+  <string name="basic_info">Basic info</string>
+  <string name="change_wallpaper">Wallpaper</string>
+>>>>>>> 3dc8634ba7d53d550b90198714b102a4e1639780
   <string name="close">Κλείσιμο</string>
   <string name="component_category_finest_title">Προτεινόμενα</string>
   <string name="component_category_more_title">Περισσότερα</string>
@@ -181,16 +203,24 @@
   <string name="resource_ringtone_default">Ήχοι κλήσης</string>
   <string name="resource_ringtone_playing_error">σφάλμα αναπαραγωγής</string>
   <string name="resource_ringtone_volume_mute">Ο ήχος κλήσης σας είναι σε σίγαση</string>
+<<<<<<< HEAD
   <string name="resource_save_to_note">Αποθήκευση σε σημειώσεις</string>
   <string name="resource_see_more">Δείτε περισσότερα</string>
   <string name="resource_select">Επιλέξτε</string>
   <string name="resource_selected">Προτεινόμενο</string>
+=======
+  <string name="resource_save_to_note">Save to Notes</string>
+  <string name="resource_see_more">See more</string>
+  <string name="resource_select">Επιλογή</string>
+  <string name="resource_selected">Featured</string>
+>>>>>>> 3dc8634ba7d53d550b90198714b102a4e1639780
   <string name="resource_send">Αποστολή</string>
   <string name="resource_server_alert_dialog_title">Η υπηρεσία δεν είναι διαθέσιμη προς το παρόν</string>
   <string name="resource_server_out_of_service">Ο Διακομιστςή δεν είναι διαθέσιμος, δοκιμάστε ξανά αργότερα.</string>
   <string name="resource_share_subject">Μοιραστείτε το θέμα: %1$s</string>
   <string name="resource_share_text">Εδώ είναι ένα θέμα που σκέφτηκα ότι ίσως θα θέλατε: %1$s! Σύνδεσμος: %2$s</string>
   <string name="resource_share_title">Διαμοιρασμός</string>
+<<<<<<< HEAD
     <string name="resource_switch_account">Εναλλαγή</string>
   <string name="resource_system_title">Πόροι του συστήματος</string>
   <string name="resource_tip_select_ringtone">Κανένας ήχος κλήσης δεν έχει επιλεγεί</string>
@@ -205,6 +235,21 @@
 αλλά το περιεχόμενο που σας ενδιαφέρει δεν είναι διαθέσιμο στη χώρα σας."</string>
   <string name="resource_unknow_error">Άγνωστο σφάλμα.</string>
   <string name="resource_update">Ενημέρωση</string>
+=======
+    <string name="resource_switch_account">Změnit</string>
+  <string name="resource_system_title">System resources</string>
+  <string name="resource_tip_select_ringtone">No ringtone has been selected</string>
+  <string name="resource_title">Resource Detail</string>
+  <string name="resource_title_select_ringtone">Select ringtone</string>
+  <string name="resource_trial_end_message">Trial of %1$s expired. If you like, please purchase it.</string>
+  <string name="resource_trial_end_purchase">Purchase</string>
+  <string name="resource_trial_end_restore">Finish trial</string>
+  <string name="resource_trial_end_title">Trial expired</string>
+  <string name="resource_trial_time">（trial for %1$d minutes）</string>
+  <string name="resource_unable_to_access">"Currently available in your region/country."</string>
+  <string name="resource_unknow_error">Unknown error occurred.</string>
+  <string name="resource_update">Update</string>
+>>>>>>> 3dc8634ba7d53d550b90198714b102a4e1639780
   <string name="resource_user_know">ΟΚ</string>
   <string name="resource_waiting_download">Αναμονή λήψης</string>
     <string name="ringtone_volume_mute">Ο ήχος κλήσης σας είναι επί του παρόντος σε σίγαση.</string>
