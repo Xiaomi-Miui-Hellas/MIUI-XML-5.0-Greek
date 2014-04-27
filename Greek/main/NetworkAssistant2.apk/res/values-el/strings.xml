@@ -82,7 +82,7 @@
   <string name="main_traffic_used_text">"%s
 Σε χρήση"</string>
   <string name="manual_input_free_traffic">Set off-peak data usage</string>
-  <string name="manual_input_traffic">Set data usage</string>
+  <string name="manual_input_traffic">Ορισμός χρήσης δεδομένων</string>
   <string name="network_assistant_upgraded_body">Tap to restrict data usage.</string>
   <string name="network_assistant_upgraded_title">Update finished</string>
   <string name="network_control">View app settings</string>
@@ -92,7 +92,7 @@
   <string name="per_month_pkg_traffic_settings">Set data limit</string>
   <string name="permit_running_network">Allow background data</string>
   <string name="person_hotpot">Mobile hotspots</string>
-  <string name="pkg_traffic">Set data usage limit</string>
+  <string name="pkg_traffic">Ορισμός χρήσης δεδομένων</string>
   <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_end_time_summary">To</string>
   <string name="power_save_on_time_start_time_summary">Από</string>
@@ -134,7 +134,7 @@
   <string name="pref_setting_operators_message">Edit the message your device sends your carrier to sync your data usage stats</string>
   <string name="pref_show_mobile_traffic">When you unlock you phone, show data usage stats for the period when your device has been locked (must be longer than 3 minutes)</string>
   <string name="pref_special_traffic_exceed_limit">Notify me when data usage reaches limit</string>
-  <string name="pref_special_traffic_limit_warn">Set data usage warning</string>
+  <string name="pref_special_traffic_limit_warn">Ειδοποίηση ορισμού χρήσης δεδομένων</string>
   <string name="pref_specified_adjust">Set custom data limit</string>
   <string name="pref_specified_traffic_settings">Data limit settings</string>
   <string name="pref_title_declaration">Important disclaimer</string>
