@@ -203,7 +203,7 @@
   <string name="modify_tracks_id3_background">Τροποποιήστε τις πληροφορίες ID3 των τραγούδιων ID3 στο παρασκήνιο</string>
   <string name="more">Περισότερα</string>
   <string name="music_browser_label">Μουσική</string>
-  <string name="music_filter">Φίτρα αρχείων</string>
+  <string name="music_filter">Φίλτρα αρχείων</string>
   <string name="music_filter_helper">Για απόκρυχη αρχείων που δεν είναι σχετίζονται με τη μουσική, το μέγεθος του φίλτρου μεγέθους έχει οριστεί στα 800K. Το όριο μπορεί να ρυθμιστεί στις Ρυθμίσεις / Φίλτρα αρχείων.</string>
   <string name="music_not_loaded">Δεν βρέθηκαν αρχεία ήχου!</string>
   <string name="music_open_other_connect">Λήψη μουσική με χρήση δεδομένων κινητής</string>
