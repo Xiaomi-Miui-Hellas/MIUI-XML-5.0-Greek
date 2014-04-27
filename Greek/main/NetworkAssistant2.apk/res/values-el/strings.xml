@@ -95,7 +95,7 @@
   <string name="pkg_traffic">Set data usage limit</string>
   <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_end_time_summary">To</string>
-  <string name="power_save_on_time_start_time_summary">From</string>
+  <string name="power_save_on_time_start_time_summary">Από</string>
   <string name="pref_about">About</string>
   <string name="pref_about_traffic_title">Data usage settings</string>
   <string name="pref_add_traffic_pkg">Additionally purchased data</string>

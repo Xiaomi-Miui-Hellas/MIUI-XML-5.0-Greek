@@ -1535,7 +1535,7 @@ Některé aplikace pravděpodobně nebudou fungovat, dokud nebudou svými vývoj
     <string name="usage_type_data_send">Data odeslána</string>
     <string name="usage_type_data_recv">Přijatá data</string>
     <string name="usage_type_audio">Zvuk</string>
-    <string name="usage_type_video">Video</string>
+    <string name="usage_type_video">Βίντεο</string>
     <string name="usage_type_on_time">Doba zapnutí</string>
     <string name="usage_type_no_coverage">Doba bez signálu</string>
     <string name="battery_action_stop">Vynucené zastavení</string>

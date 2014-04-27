@@ -200,7 +200,7 @@ at [ %1$s ]"</string>
   <string name="upload_complete">%1$s | %2$s Completed</string>
   <string name="upload_failed_msg">Failed to upload file!</string>
   <string name="use_start">Start now</string>
-  <string name="video">Video</string>
+  <string name="video">Βίντεο</string>
   <string name="voice_assist_match">Fast auto matching</string>
   <string name="voice_match">Fast matching</string>
   <string name="wait_for_upload">Waiting for upload to complete</string>

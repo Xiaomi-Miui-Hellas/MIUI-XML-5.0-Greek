@@ -294,7 +294,7 @@
   <string name="pref_camera_focusmode_entry_continuous">CAF</string>
   <string name="pref_camera_focusmode_entry_infinity">Infinity</string>
   <string name="pref_camera_focusmode_entry_macro">Macro</string>
-  <string name="pref_camera_focusmode_entry_normal">Normal</string>
+  <string name="pref_camera_focusmode_entry_normal">Κανονικό</string>
   <string name="pref_camera_focusmode_title">Focus mode</string>
   <string name="pref_camera_guideline_default">off</string>
   <string name="pref_camera_guideline_entry_off">Off</string>
@@ -331,13 +331,13 @@
   <string name="pref_camera_jpegquality_entry_4">Jpeg 95%</string>
   <string name="pref_camera_jpegquality_entry_5">Jpeg 100%</string>
   <string name="pref_camera_jpegquality_entry_fine">Fine</string>
-  <string name="pref_camera_jpegquality_entry_normal">Normal</string>
+  <string name="pref_camera_jpegquality_entry_normal">Κανονικό</string>
   <string name="pref_camera_jpegquality_entry_superfine">Super fine</string>
   <string name="pref_camera_jpegquality_title">Picture quality</string>
   <string name="pref_camera_mce_default">enable</string>
   <string name="pref_camera_mode_default">common</string>
   <string name="pref_camera_mode_entry_beauty">Enhanced</string>
-  <string name="pref_camera_mode_entry_common">Normal</string>
+  <string name="pref_camera_mode_entry_common">Κανονικό</string>
   <string name="pref_camera_mode_entry_hdr">HDR</string>
   <string name="pref_camera_mode_entry_panorama">Panorama</string>
   <string name="pref_camera_picture_format_default">jpeg</string>
@@ -532,7 +532,7 @@
   <string name="saving_failure">"Couldn't save edited photo"</string>
   <string name="saving_image">Saving picture…</string>
   <string name="select_album">Select album</string>
-  <string name="select_all">Select all</string>
+  <string name="select_all">Επιλογή όλων</string>
   <string name="select_group">Select group</string>
   <string name="select_image">Select photo</string>
   <string name="select_item">Select multiple</string>
@@ -608,7 +608,7 @@
   <string name="video_reach_size_limit">Size limit reached.</string>
   <string name="video_snapshot_hint">Touch to take photo while recording.</string>
   <string name="vignette">Vignette</string>
-  <string name="wait">Please wait…</string>
+  <string name="wait">Παρακαλώ περιμένετε…</string>
   <string name="wallpaper">Ορίζεται φόντο…</string>
   <string name="white_balance">White balance</string>
   <string name="wide_wallpaper">Wide screen</string>

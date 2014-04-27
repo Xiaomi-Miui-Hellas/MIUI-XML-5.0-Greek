@@ -363,7 +363,7 @@ Chcete použit čas z GPS?"</string>
     <string name="hdmi_3dplay_control_enable_subtext">3D Stereoscopic output to external 3D display enabled</string>
     <string name="hdmi_3dplay_control_text">Povolit 3D</string>
     <string name="hdmi_3dplay_settings_title">HDMI</string>
-    <string name="hdmi_audio_toggler">Audio</string>
+    <string name="hdmi_audio_toggler">Ήχος</string>
     <string name="hdmi_color_calibration_none">Přirozené</string>
     <string name="hdmi_color_calibration_srgb">sRGB</string>
     <string name="hdmi_notification_content">Stiskněte pro nastavení HDMI</string>
@@ -372,7 +372,7 @@ Chcete použit čas z GPS?"</string>
     <string name="hdmi_settings_summary">Stiskněte pro nastavení HDMI</string>
     <string name="hdmi_toggler">HDMI</string>
     <string name="hdmi_video_resolution">Rozlišení videa</string>
-    <string name="hdmi_video_toggler">Video</string>
+    <string name="hdmi_video_toggler">Βίντεο</string>
     <string name="incoming_call_app_name">Příchozí hovor</string>
     <string name="incomming_command_summary_format">Můžete říci %1$s nebo %2$s pro přijetí nebo odmítnutí příchozího hovoru.</string>
     <string name="install_text">Instalovat</string>
