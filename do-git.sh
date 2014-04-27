@@ -19,7 +19,7 @@ then
 # the zipping using date
 	zip -r -q -9 $BACKPATH/backup-$(date +%Y%m%d_%H%M).zip *
 # the du to check the file size
-	du -sh $BACKPATH/*.zip|tail -1|sed -e "s/..\/MIUI-XML-5.0-Greek_/is the back'ed up file\: /"
+	du -sh $BACKPATH/*.zip|tail -1|sed -e "s/..\/MIUI-XML-5.0-Greek_Backup\//is the back'ed up file\: /"
 	echo "Backup folder size is.."
 # the du with sed to display the backup folder size
 	du -sh $BACKPATH|sed -e "s/..\/MIUI-XML-5.0-Greek_/holds the folder\: /"
@@ -33,6 +33,7 @@ then
 # the push
 	git push
 #echo " "
+	echo " "
 	echo "All done.."
 #echo " "
 else
@@ -43,7 +44,7 @@ else
 # the zipping using date
 	zip -r -q -9 $BACKPATH/backup-$(date +%Y%m%d_%H%M).zip *
 # the du to check the file size
-	du -sh $BACKPATH/*.zip|tail -1|sed -e "s/..\/MIUI-XML-5.0-Greek_/is the back'ed up file\: /"
+	du -sh $BACKPATH/*.zip|tail -1|sed -e "s/..\/MIUI-XML-5.0-Greek_Backup\//is the back'ed up file\: /"
 	echo "Backup folder size is.."
 # the du with sed to display the backup folder size
 	du -sh $BACKPATH|sed -e "s/..\/MIUI-XML-5.0-Greek_/holds the folder\: /"
@@ -57,6 +58,7 @@ else
 # the push
 	git push
 #echo " "
+	echo " "
 	echo "All done.."
 #echo " "
 fi
