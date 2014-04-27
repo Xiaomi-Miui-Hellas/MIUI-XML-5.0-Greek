@@ -252,6 +252,7 @@
   <string name="sync_sub_int_dspt">Ένα διεθνες SMS μπορεί να σταλεί για την ενεργοποίηση της υπηρεσίας</string>
   <string name="title_reg">Καταχωρήστε</string>
   <string name="title_voucher">Γεμίστε χρησιμοποιώντας κουπόνι Mi Credit</string>
+  <string name="trust_device">Έγκριση συσκευής</string>
   <string name="unactivated_user">Απενεργοποιημένος</string>
   <string name="unbind">Αποσύνδεση</string>
   <string name="update_contacts">Ενημέρωση επαφών</string>
