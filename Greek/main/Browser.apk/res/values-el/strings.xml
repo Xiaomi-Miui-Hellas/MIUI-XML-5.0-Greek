@@ -531,11 +531,11 @@
   <string name="search_label">Πλοηγός</string>
   <string name="search_s139">139</string>
   <string name="search_settings_description">Σελιδοδείκτες και ιστορικό πλοήγησης</string>
-  <string name="search_shipin">Video</string>
+  <string name="search_shipin">Βίντεο</string>
   <string name="search_sogou">Sogou</string>
   <string name="search_taobao">Taobao</string>
   <string name="search_the_web">Αναζήτηση ίντερνετ</string>
-  <string name="search_tupian">Image</string>
+  <string name="search_tupian">Εικόνα</string>
   <string name="search_yahoo">Yahoo</string>
   <string name="search_yicha">Yicha</string>
   <string name="security_warning">Ειδοποίηση ασφαλείας</string>

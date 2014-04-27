@@ -2792,7 +2792,7 @@ This setting affects all users on this phone."</string>
     <string name="usage_name_percent">"%1$s -  %2$s%%"</string>
     <string name="usage_stats_label">Usage statistics</string>
     <string name="usage_time_label">Usage time</string>
-    <string name="usage_type_audio">Audio</string>
+    <string name="usage_type_audio">Ήχος</string>
     <string name="usage_type_cpu">CPU total</string>
     <string name="usage_type_cpu_foreground">CPU foreground</string>
     <string name="usage_type_data_recv">Data received</string>
@@ -2801,7 +2801,7 @@ This setting affects all users on this phone."</string>
     <string name="usage_type_no_coverage">Time without a signal</string>
     <string name="usage_type_on_time">Time on</string>
     <string name="usage_type_phone">Phone</string>
-    <string name="usage_type_video">Video</string>
+    <string name="usage_type_video">Βίντεο</string>
     <string name="usage_type_wake_lock">Keep awake</string>
  <string name="usage_type_wifi_running">Wi-Fi running</string>
  <string name="usb_connection_category">Σύνδεση ως</string>

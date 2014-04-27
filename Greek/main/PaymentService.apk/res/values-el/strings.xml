@@ -299,7 +299,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="linkpay_wait_verificationcode_sms">Verification code has been sent via SMS, please wait.</string>
   <string name="linkpay_waiting_SMS_pay">SMS payment in progress</string>
   <string name="linkpay_waiting_detail_a">Waiting for verification</string>
-  <string name="linkpay_waiting_title">Please wait…</string>
+  <string name="linkpay_waiting_title">Παρακαλώ περιμένετε…</string>
   <string name="linkpay_wo_money_pay">WO Money payment</string>
   <string name="linkpay_wrong_channelid">Incorrect Channel ID</string>
   <string name="linkpay_you_not_unicon">Your SIM card is currently unavailable for SMS payment services!</string>

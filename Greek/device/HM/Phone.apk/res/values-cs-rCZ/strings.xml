@@ -374,7 +374,7 @@ Opravdu chcete aktivovat preferování mobilních dat?"</string>
     <string name="vt_peer_video_bigger">Bigger Peer video</string>
     <string name="vt_peer_video_bigger_description">Turn on to make peer video bigger than local video</string>
     <string name="vt_peer_video_quality">Peer video quality</string>
-    <string name="vt_peer_video_quality_normal">Normal</string>
+    <string name="vt_peer_video_quality_normal">Κανονικό</string>
     <string name="vt_peer_video_quality_sharp">Sharp</string>
     <string name="vt_peer_video_rep">Peer video replacement</string>
     <string name="vt_peer_video_rep_des">Set a picture to display when peer video unavailable</string>

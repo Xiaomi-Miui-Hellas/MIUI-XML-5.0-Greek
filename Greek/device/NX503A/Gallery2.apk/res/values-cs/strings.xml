@@ -487,7 +487,7 @@ Ostatní aplikace budou mít k těmto informacím přístup společně s příst
     <string name="object_clear_no_remove_object">Žádný objekt pro vyjmutí</string>
     <string name="object_clear_remove_tip">Vyberte objekt, který chcete odstranit</string>
     <string name="object_clear_tip">Při snímání držte svůj telefon </string>
-    <string name="video_maker">Video</string>
+    <string name="video_maker">Βίντεο</string>
     <string name="video_maker_continue_tip">Dlouhým stisknutím opět spusťte</string>
     <string name="video_maker_export">export krátkého videa</string>
     <string name="video_maker_num_unit">%1$d obrázků vybráno</string>
@@ -510,7 +510,7 @@ Ostatní aplikace budou mít k těmto informacím přístup společně s příst
     <string name="effects_vivid">Vivid</string>
     <string name="effects_warm">Teplý</string>
     <string name="video_editor_title">Editor krátkého videa</string>
-    <string name="video">Video</string>
+    <string name="video">Βίντεο</string>
     <string name="video_cannot_get_details">Žádné detaily.</string>
     <string name="video_cutframe">Vyjmout rámeček</string>
     <string name="video_details">Detaily</string>
