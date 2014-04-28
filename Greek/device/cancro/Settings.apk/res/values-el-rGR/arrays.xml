@@ -2,18 +2,18 @@
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
     <string-array name="tts_rate_entries">
-        <item>Very slow</item>
-        <item>Slow</item>
+        <item>Πολύ αργό</item>
+        <item>Αργό</item>
         <item>Κανονικό</item>
-        <item>Fast</item>
-        <item>Faster</item>
-        <item>Very fast</item>
-        <item>Rapid</item>
-        <item>Very rapid</item>
-        <item>Fastest</item>
+        <item>Γρήγορο</item>
+        <item>Γρογορότερο</item>
+        <item>Πολύ γρήγορο</item>
+        <item>Ταχύ</item>
+        <item>Πολύ ταχύ</item>
+        <item>Γρηγορότερο</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
-        <item>None</item>
+        <item>Κανένα</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>

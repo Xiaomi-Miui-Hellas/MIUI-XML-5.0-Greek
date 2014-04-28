@@ -54,12 +54,12 @@
     <string name="check_network">cannot connect to network, please check the network</string>
     <string name="clear_cache">Clear image cache</string>
     <string name="clear_cache_success">Cache cleared</string>
-    <string name="clear_cache_summary">Clear cached images from Video browser</string>
+    <string name="clear_cache_summary">Clear cached images from Βίντεο browser</string>
     <string name="clear_history">Clear history</string>
     <string name="clear_offline">Clear offline media cache</string>
     <string name="clear_offline_summary">Clear cached Videos</string>
     <string name="clear_playhistory">Clear player history</string>
-    <string name="clear_playhistory_tip">Video player history will be erased.</string>
+    <string name="clear_playhistory_tip">Βίντεο player history will be erased.</string>
     <string name="clearplayhistory">Clear history</string>
     <string name="cnlive">cnlive</string>
     <string name="comment">Comments</string>
@@ -81,7 +81,7 @@
     <string name="count_myfavorite">" starred"</string>
     <string name="day">Day</string>
     <string name="declaration">Terms of use</string>
-    <string name="declaration_content">Do you accept the terms of use stipulated by Sohu Video, iQiyi, and other video content providers?</string>
+    <string name="declaration_content">Do you accept the terms of use stipulated by Sohu Video, iQiyi, and other Βίντεο content providers?</string>
     <string name="delete">Delete</string>
     <string name="delete_media">Delete</string>
     <string name="delete_media_content">Delete this item?</string>
@@ -127,7 +127,7 @@
     <string name="have_no_offlinemedia">Empty</string>
     <string name="hide_media">Hide</string>
     <string name="hided_cannot_favorite">"Can't star hidden items"</string>
-    <string name="hint_can_not_get_source_info">"Can't find video source's info"</string>
+    <string name="hint_can_not_get_source_info">"Can't find Βίντεο source's info"</string>
     <string name="hint_without_selected_set">No source selected, finding source automatically…</string>
     <string name="icntv">iCNTV</string>
     <string name="in_download">Caching</string>
@@ -258,7 +258,7 @@
     <string name="quarter_bell_alert_title">reminder</string>
     <string name="rank">Rating</string>
     <string name="receive_ad_notify">Message notification/push function</string>
-    <string name="receive_ad_notify_summary">After the opening, to receive the latest and popular video notice</string>
+    <string name="receive_ad_notify_summary">After the opening, to receive the latest and popular Βίντεο notice</string>
     <string name="recentplay">Recently played</string>
     <string name="recommendation">Guess you like</string>
     <string name="reloading_tip">"Couldn't connect to network"</string>
@@ -272,7 +272,7 @@
     <string name="searching">" "<CDATA>Searching </CDATA>" "</string>
     <string name="seconds">secs</string>
     <string name="select_all">Select all</string>
-    <string name="select_media_source">Select video source</string>
+    <string name="select_media_source">Select Βίντεο source</string>
     <string name="series_colon">"Episodes: "</string>
     <string name="setting">Settings</string>
     <string name="show_hidemedia">Show hidden files</string>
@@ -311,7 +311,7 @@
     <string name="use_cellular_network">use cellular network</string>
     <string name="use_cellular_network_summary">use cellular network to download videos, this will cause the traffic cost.</string>
     <string name="variety">综艺</string>
-    <string name="video">Video</string>
+    <string name="video">Βίντεο</string>
   <string name="video_info_audio_bitrate_label">Bitrate ήχου:</string>
 	<string name="video_info_audio_coding_label">Κωδικοποίηση ήχου:</string>
 	<string name="video_info_audio_null">Κανένα</string>
@@ -319,7 +319,7 @@
 	<string name="video_info_length_label">Διάρκεια:</string>
 	<string name="video_info_resolution_label">Ανάλυση βίντεο:</string>
 	<string name="video_info_video_coding_label">Κωδικοποίηση video:</string>
-    <string name="video_library">Video</string>
+    <string name="video_library">Βίντεο</string>
     <string name="view_all_reviews">%d more comments</string>
     <string name="visit_postfix">| visited recently</string>
 	<string name="vp_VideoView_error_button">OK</string>

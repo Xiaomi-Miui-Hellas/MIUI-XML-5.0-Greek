@@ -7,7 +7,7 @@
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>Πρακαθορισμένη σελίδα έναρξης</item>
-        <item>Custom</item>
+        <item>Προσαρμοσμένη</item>
     </string-array>
     <string-array name="pref_text_size_choices">
         <item>Πολύ μικρό</item>
@@ -115,19 +115,28 @@
         <item>tupian</item>
     </string-array>
     <string-array name="menu_theme_setting">
-        <item>White</item>
-        <item>Yellow</item>
-        <item>Grey</item>
-        <item>Brown</item>
-        <item>Green</item>
-        <item>Blue</item>
-        <item>Dark</item>
+        <item>Λευκό</item>
+        <item>Κίτρινο</item>
+        <item>Γκρί</item>
+        <item>Καφέ</item>
+        <item>Πράσινο</item>
+        <item>Μπλέ</item>
+        <item>Σκούρο</item>
     </string-array>
     <string-array name="pref_ua_choices">
         <item>Android</item>
-        <item>Desktop</item>
+        <item>Επιτραπέζιο PC</item>
         <item>iPhone</item>
         <item>iPad</item>
+    </string-array>
+    <string-array name="pref_volume_key_choices">
+        <item>Προηγούμενη σελίδα/Επόμενη σελίδα</item>
+        <item>Προηγούμενη καρτέλα/Επόμενη καρτέλα</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Μικρό</item>
+        <item>Μέτριο</item>
+        <item>Μεγάλο</item>
     </string-array>
     <string-array name="pref_fling_on_border_choices">
         <item>Σελίδα μπροστά/πίσω</item>
@@ -137,5 +146,10 @@
         <item>Ποτέ</item>
         <item>Μόνο σε Wi-Fi</item>
         <item>Πάντα</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>Πάντα ενεργά</item>
+        <item>Ρώτα πρώτα</item>
+        <item>Κλειστά</item>
     </string-array>
 </resources>
