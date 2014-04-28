@@ -317,9 +317,7 @@
     <string name="default_contacts_countrycode_sum_miui">Προεπιλεγμένος κωδικός χώρας για τις επαφές σας: %s</string>
     <string name="default_ims_call_type">Φωνή</string>
     <string name="default_notification_description">Προεπιλεγμένος ήχος (%1$s)</string>
-    <string name="default_port">5060</string>
     <string name="default_preference_summary">&lt;Δεν έχει οριστεί></string>
-    <string name="default_transport">UDP</string>
     <string name="delete">Διαγραφή</string>
     <string name="deleteAllSimEntries">Διαγραφή επαφών SIM</string>
     <string name="deleteSimContacts">Διαγραφή επαφών SIM…</string>
@@ -957,7 +955,6 @@
     <string name="send_keepalive_title">Αποστολή keep-alive</string>
     <string name="separate_from_conference_miui">Διαχωρισμός κλήσης</string>
     <string name="set_preferred_network_type_when_data_enabled_miui">Ο προτιμώμενος τύπος δικτύου μπορεί να εφαρμοστεί μόνο όταν η σύνδεση δεδομένων είναι απενεργοποιημένη.</string>
-    <string name="set_primary">Ορισμός κύριας</string>
     <string name="set_primary_summary">Χρησιμοποιείται για εξερχόμενες κλήσεις</string>
     <string name="set_primary_title">Ορισμός ως κύριος λογαριασμός</string>
     <string name="set_smsc_address_error_miui">Αποτυχία ορισμού αριθμού</string>
