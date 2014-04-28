@@ -201,11 +201,11 @@
     <string name="settings_show_flow_info">Εμφάνιση πληροφοριών κίνησης</string>
     <string name="settings_show_network_speed">Ταχύτητα δικτύου</string>
   <string name="settings_show_notificationBar_notification">Show notification bar notices</string>
-    <string name="settings_show_screenshot_notification">Zobrazit info. o screenshotu</string>
+    <string name="settings_show_screenshot_notification">Πληροφορίες Screenshot </string>
   <string name="settings_show_statusBar_notification">Εμφάνιση ειδοποιήσεων στην μπάρα</string>
   <string name="settings_status_bar">Μπάρα κατάστασης</string>
     <string name="settings_toggle">Διακόπτες</string>
-    <string name="settings_toggle_collapse_after_clicked">Σύμπτηξη μετά το άγγιγμα</string>
+    <string name="settings_toggle_collapse_after_clicked">Σύμπτυξη μετά το άγγιγμα</string>
     <string name="settings_toggle_layout_style">Αλλαγη μορφης πανελ</string>
     <string name="settings_toggle_layout_style_applying">Αλλαγή εμφάνισης διακοπτών...</string>
     <string name="settings_toggle_layout_style_compact">Συμπαγής</string>
