@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sleep_duration_values">
+        <item>15 λεπτά</item>
+        <item>30 λεπτά</item>
+        <item>45 λεπτά</item>
+        <item>1 Ώρα</item>
+    </string-array>
+    <string-array name="search_category_rbds_entries">
+        <item>Όλοι οι σταθμοί</item>
+        <item>Για ενήλικες</item>
+        <item>Κλασσική</item>
+        <item>Κλασσικό ΡΟΚ</item>
+        <item>Κολεγίου</item>
+        <item>Κάντρυ</item>
+        <item>Επείγοντα</item>
+        <item>Επείγουσα δοκιμή</item>
+        <item>Κέντρα Ξένων Γλωσσών</item>
+        <item>Πληροφορία</item>
+        <item>Τζαζ</item>
+        <item>Νέα</item>
+        <item>Νοσταλγία</item>
+        <item>Παλιά</item>
+        <item>Προσωπικότητες</item>
+        <item>Δημόσια</item>
+        <item>Θρησκευτική Μουσική</item>
+        <item>Θρησκευτική ομιλία</item>
+        <item>Ρυθμική και μπλουζ</item>
+        <item>ΡΟΚ</item>
+        <item>Απαλή</item>
+        <item>Μαλακό ΡΟΚ</item>
+        <item>Απαλός ρυθμός και Μπλουζ</item>
+        <item>Σπορ</item>
+        <item>Ομιλία</item>
+        <item>Τοπ 40</item>
+        <item>Καιρός</item>
+    </string-array>
+    <string-array name="search_category_rds_entries">
+        <item>Όλοι οι σταθμοί</item>
+        <item>Κουλτουρα</item>
+        <item>Επικαιρότητα</item>
+        <item>"Παιδικά"</item>
+        <item>Μουσική Country</item>
+        <item>Ντοκιμαντέρ</item>
+        <item>Δράμα </item>
+        <item>Ευχάριστη μουσική</item>
+        <item>Εκπαίδευση</item>
+        <item>Έκτακτης ανάγκης</item>
+        <item>Test έκτακτης ανάγκης</item>
+        <item>Οικονομικά</item>
+        <item>Λαϊκή</item>
+        <item>Πληροφορίες</item>
+        <item>Μουσική τζαζ</item>
+        <item>Ελαφρά κλασική μουσική</item>
+        <item>Αναψυχή</item>
+        <item>Νέα</item>
+        <item>Εθνικής Μουσικής</item>
+        <item>Άλλα Μουσική</item>
+        <item>Παλιά</item>
+        <item>Phone In</item>
+        <item>Πόπ</item>
+        <item>Θρησκεία</item>
+        <item>ΡΟΚ</item>
+        <item>Επιστήμη</item>
+        <item>Σοβαρή κλασική </item>
+        <item>Κοινωνικών Υποθέσεων</item>
+        <item>Σπορ</item>
+        <item>Ταξείδια</item>
+        <item>Ποικίλη</item>
+        <item>Καιρός</item>
+    </string-array>
+    <string-array name="presetlist_edit_category">
+        <item>Μετονομασία</item>
+        <item>Αυτόματη επιλογή</item>
+        <item>Διαγραφή</item>
+    </string-array>
+    <string-array name="rf_cfg">
+        <item>Τρέχουσες Παράμετροι Σταθμών</item>
+        <item>Get Station Parameters Repeat 20 times</item>
+        <item>Get Search station parameters</item>
+        <item>Get FM Band sweep parameters</item>
+        <item>Διαμόρφωση παραμέτρων αναζήτησης FM</item>
+    </string-array>
+    <string-array name="cfg_rf">
+        <item>Θέσε FM RSSI Delta</item>
+        <item>Θέσε Signal Threshold</item>
+        <item>RF Στατιστικά</item>
+    </string-array>
+    <string-array name="stats_options">
+        <item>Ενεργοποιήστε την επιλογή</item>
+        <item>Ρύθμιση παραμέτρων αναζήτησης FM</item>
+        <item>RF Στατιστικά</item>
+    </string-array>
+</resources>
