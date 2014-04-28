@@ -70,7 +70,7 @@
   <string name="generating_share_link">Creating sharing link…</string>
   <string name="get_share_failed">Failed to share!</string>
   <string name="goback">Πίσω</string>
-  <string name="guide_label">Transfer guide</string>
+  <string name="guide_label">Οδηγός μεταφορών</string>
   <string name="hint_createfolder">Όνομα φακέλου</string>
   <string name="history">Ιστορικό μεταφορών</string>
   <string name="history_all">Όλο το ιστορικό</string>
@@ -185,7 +185,7 @@
   <string name="start">Έναρξη</string>
   <string name="summary_step_one">Στείλετε εικόνες, μουσική, επαφές και διάφορα άλλα αρχεία</string>
   <string name="summary_step_two">Προσκαλέστε τους φίλους σας να εγκαταστήσουν το MiShare</string>
-  <string name="support_tip">MiShare θα παρέχει οδηγίες</string>
+  <string name="support_tip">Το MiShare σας παρέχει οδηγίες</string>
   <string name="title_createfolder">Νέος φάκελος</string>
   <string name="title_selectfile_num">Επιλέχθηκαν %s αρχείο(α)</string>
   <string name="title_step_one">1. Τα αρχεία μπορούν να μεταφερθούν γρήγορα χωρίς τη χρήση δεδομένων κινητής τηλεφωνίας</string>
