@@ -768,8 +768,8 @@
 "</string>
     <string name="pause_prompt_yes">Ναι</string>
     <string name="payphone">Καρτοκινητή</string>
-    <string name="phoneAppLabel">Τηλέφωνο</string>
-    <string name="phoneIconLabel">Τηλέφωνο</string>
+    <string name="phoneAppLabel">Tηλέφωνο</string>
+    <string name="phoneIconLabel">Tηλέφωνο</string>
     <string name="phone_entered_ecm_text">Είσοδος σε λειτουργία επανάκλησης έκτακτης ανάγκης</string>
     <string name="phone_in_ecm_call_notification_text">Σύνδεση δεδομένων απενεργοποιημένη</string>
     <string name="phone_in_ecm_notification_title">Λειτουργία επανάκλησης έκτακτης ανάγκης</string>
