@@ -180,7 +180,7 @@
     <string name="help_url_people_main" />
     <string name="help_url_people_add" />
     <string name="help_url_people_edit" />
-    <string name="launcherdialer">Τηλέφωνο</string>
+    <string name="launcherDialer">Τηλέφωνο</string>
     <string name="people">Επαφές</string>
     <string name="contactsList">Επαφές</string>
     <string name="shortcutContact">Επαφή</string>
