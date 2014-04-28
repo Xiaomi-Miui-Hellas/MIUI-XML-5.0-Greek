@@ -384,9 +384,7 @@
   <string name="pref_camera_whitebalance_k_value_title">Ισορροπία λευκού τιμή Κ</string>
     <string name="pref_camera_whitebalance_entry_manual">Χειροκιν.</string>
     <string name="pref_camera_whitebalance_entry_measure">Μέτρηση</string>
-    <string name="pref_camera_whitebalance_entryvalue_auto">αυτόμ.</string>
   <string name="pref_camera_whitebalance_title">Ισορροπία λευκού</string>
-    <string name="pref_camera_whitebalance_entryvalue_daylight">φώς μέρας</string>
   <string name="pref_captrue_mirror_title">Εμπρόσθια κάμερα</string>
   <string name="pref_exposure_title">Έκθεση</string>
   <string name="pref_grp_advanced_settings">Προηγμένες ρυθμίσεις</string>
@@ -397,7 +395,6 @@
   <string name="pref_scan_qrcode_entry_off">Off</string>
   <string name="pref_scan_qrcode_entry_on">On</string>
   <string name="pref_scan_qrcode_title">Σάρωση QR κωδικού</string>
-    <string name="pref_mtk_camera_sharpness_default">μέση</string>
   <string name="pref_setting_title">Προσαρμογή</string>
   <string name="pref_settings_mode">Λειτουργία κάμερας</string>
   <string name="pref_video_captrue_ability_title">Δυνατότητα λήψης</string>
