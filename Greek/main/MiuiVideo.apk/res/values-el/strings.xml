@@ -13,7 +13,7 @@
     <string name="airkan_control_device_des">Μπορείτε να ελέγξετε την αναπαραγωγή βίντεο μέσω του πλήκτρου κάτω</string>
   <string name="airkan_device_xiaomi_phone">Xiaomi</string>
     <string name="airkan_tips">"Κάντε κλικ εδώ, για να παίξει το βίντεο 
-Ή για προβολή στην TV"</string>
+Ή για προβολή στο Xiaomi TV Box"</string>
   <string name="airkan_video_playing"/>
     <string name="airkan_video_playing_in">Αναπαραγωγή του βίντεο…</string>
     <string name="alert_ignore">Do not show this page again</string>
