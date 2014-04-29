@@ -1,94 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="sleep_duration_values">
-        <item>15 λεπτά</item>
-        <item>30 λεπτά</item>
-        <item>45 λεπτά</item>
-        <item>1 Ώρα</item>
+        <item>15 εήκξ›</item>
+        <item>30 εήκξ›</item>
+        <item>45 εήκξ›</item>
+        <item>1 λΦ</item>
     </string-array>
     <string-array name="search_category_rbds_entries">
-        <item>Όλοι οι σταθμοί</item>
-        <item>Για ενήλικες</item>
-        <item>Κλασσική</item>
-        <item>Κλασσικό ΡΟΚ</item>
-        <item>Κολεγίου</item>
-        <item>Κάντρυ</item>
-        <item>Επείγοντα</item>
-        <item>Επείγουσα δοκιμή</item>
-        <item>Κέντρα Ξένων Γλωσσών</item>
-        <item>Πληροφορία</item>
-        <item>Τζαζ</item>
-        <item>Νέα</item>
-        <item>Νοσταλγία</item>
-        <item>Παλιά</item>
-        <item>Προσωπικότητες</item>
-        <item>Δημόσια</item>
-        <item>Θρησκευτική Μουσική</item>
-        <item>Θρησκευτική ομιλία</item>
-        <item>Ρυθμική και μπλουζ</item>
-        <item>ΡΟΚ</item>
-        <item>Απαλή</item>
-        <item>Μαλακό ΡΟΚ</item>
-        <item>Απαλός ρυθμός και Μπλουζ</item>
-        <item>Σπορ</item>
-        <item>Ομιλία</item>
-        <item>Τοπ 40</item>
-        <item>Καιρός</item>
+        <item>All Stations</item>
+        <item>Adult Hits</item>
+        <item>Classical</item>
+        <item>Classic Rock</item>
+        <item>College</item>
+        <item>Country</item>
+        <item>Emergency</item>
+        <item>Emergency Test</item>
+        <item>Foreign Language</item>
+        <item>Information</item>
+        <item>Jazz</item>
+        <item>News</item>
+        <item>Nostalgia</item>
+        <item>Oldies</item>
+        <item>Personality</item>
+        <item>Public</item>
+        <item>Religious Music</item>
+        <item>Religious Talk</item>
+        <item>Rhythm and Blues</item>
+        <item>Rock</item>
+        <item>Soft</item>
+        <item>Soft Rock</item>
+        <item>Soft Rhythm and Blues</item>
+        <item>Sports</item>
+        <item>Talk</item>
+        <item>Top 40</item>
+        <item>Weather</item>
     </string-array>
     <string-array name="search_category_rds_entries">
-        <item>Όλοι οι σταθμοί</item>
-        <item>Κουλτουρα</item>
-        <item>Επικαιρότητα</item>
-        <item>"Παιδικά"</item>
-        <item>Μουσική Country</item>
-        <item>Ντοκιμαντέρ</item>
-        <item>Δράμα </item>
-        <item>Ευχάριστη μουσική</item>
-        <item>Εκπαίδευση</item>
-        <item>Έκτακτης ανάγκης</item>
-        <item>Test έκτακτης ανάγκης</item>
-        <item>Οικονομικά</item>
-        <item>Λαϊκή</item>
-        <item>Πληροφορίες</item>
-        <item>Μουσική τζαζ</item>
-        <item>Ελαφρά κλασική μουσική</item>
-        <item>Αναψυχή</item>
-        <item>Νέα</item>
-        <item>Εθνικής Μουσικής</item>
-        <item>Άλλα Μουσική</item>
-        <item>Παλιά</item>
+        <item>All Stations</item>
+        <item>Culture</item>
+        <item>Current Affairs</item>
+        <item>"Children's programs"</item>
+        <item>Country Music</item>
+        <item>Documentary</item>
+        <item>Drama</item>
+        <item>Easy Listening Music</item>
+        <item>Education</item>
+        <item>Emergency</item>
+        <item>Emergency Test</item>
+        <item>Finance</item>
+        <item>Folk Music</item>
+        <item>Information</item>
+        <item>Jazz Music</item>
+        <item>Light classical</item>
+        <item>Leisure</item>
+        <item>News</item>
+        <item>National Music</item>
+        <item>Other Music</item>
+        <item>Oldies Music</item>
         <item>Phone In</item>
-        <item>Πόπ</item>
-        <item>Θρησκεία</item>
-        <item>ΡΟΚ</item>
-        <item>Επιστήμη</item>
-        <item>Σοβαρή κλασική </item>
-        <item>Κοινωνικών Υποθέσεων</item>
-        <item>Σπορ</item>
-        <item>Ταξείδια</item>
-        <item>Ποικίλη</item>
-        <item>Καιρός</item>
+        <item>Pop Music</item>
+        <item>Religion</item>
+        <item>Rock Music</item>
+        <item>Science</item>
+        <item>Serious classical</item>
+        <item>Social Affairs</item>
+        <item>Sport</item>
+        <item>Travel</item>
+        <item>Varied</item>
+        <item>Weather</item>
     </string-array>
     <string-array name="presetlist_edit_category">
-        <item>Μετονομασία</item>
-        <item>Αυτόματη επιλογή</item>
-        <item>Διαγραφή</item>
+        <item>·ήξιηιζΦμΦ</item>
+        <item>¤ςξΆζΦξα ήκγειΨ</item>
+        <item>§γΦΨλΦσ</item>
     </string-array>
     <string-array name="rf_cfg">
-        <item>Τρέχουσες Παράμετροι Σταθμών</item>
+        <item>Get Current Station Parameters</item>
         <item>Get Station Parameters Repeat 20 times</item>
         <item>Get Search station parameters</item>
         <item>Get FM Band sweep parameters</item>
-        <item>Διαμόρφωση παραμέτρων αναζήτησης FM</item>
+        <item>Η£βζγμα κΦλΦζξλϊη ΦηΦΰξαμαν FM</item>
     </string-array>
     <string-array name="cfg_rf">
-        <item>Θέσε FM RSSI Delta</item>
-        <item>Θέσε Signal Threshold</item>
-        <item>RF Στατιστικά</item>
+        <item>¬μή FM RSSI Delta</item>
+        <item>¬μή Signal Threshold</item>
+        <item>RF ΟξΦξγμξγδ›</item>
     </string-array>
     <string-array name="stats_options">
-        <item>Ενεργοποιήστε την επιλογή</item>
-        <item>Ρύθμιση παραμέτρων αναζήτησης FM</item>
-        <item>RF Στατιστικά</item>
+        <item>¨ηήλΨικιαμα ξαν ήκγειΨν</item>
+        <item>Η£ββζγμα κΦλΦζξλϊη Φητηήςαμαν FM</item>
+        <item>RF ΟξΦξγμξγδ›</item>
     </string-array>
 </resources>
