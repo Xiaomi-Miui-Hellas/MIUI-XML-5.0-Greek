@@ -208,7 +208,7 @@
     <string name="operation_paste">Επικόλληση</string>
     <string name="operation_pasting">Αντιγραφή…</string>
     <string name="operation_pause">Παύση</string>
-    <string name="operation_pause_all">Παύση όλων>
+    <string name="operation_pause_all">Παύση όλων></string>
  <string name="operation_rename">Μετονομασία</string>
  <string name="operation_rename_message">Εισαγωγή νέου ονόματος</string>
     <string name="operation_resume">Εκκίνηση</string>
