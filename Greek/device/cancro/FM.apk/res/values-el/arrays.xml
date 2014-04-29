@@ -2,8 +2,8 @@
 <resources>
     <string-array name="sleep_duration_values">
         <item>15 λεπτά<item>
-        <item>30 λεπτάtem>
-        <item>45 λεπτάitem>
+        <item>30 λεπτά<item>
+        <item>45 λεπτά<item>
         <item>1 ώρα<item>
     </string-array>
     <string-array name="search_category_rbds_entries">
@@ -70,25 +70,25 @@
         <item>Weather</item>
     </string-array>
     <string-array name="presetlist_edit_category">
-        <item>����������</item>
-        <item>������� �����؞</item>
-        <item>�������</item>
+        <item></item>
+        <item></item>
+        <item></item>
     </string-array>
     <string-array name="rf_cfg">
         <item>Get Current Station Parameters</item>
         <item>Get Station Parameters Repeat 20 times</item>
         <item>Get Search station parameters</item>
         <item>Get FM Band sweep parameters</item>
-        <item>ǣ����� ��������� ���������� FM</item>
+        <item>Ρύθμιση παραμέτρων αναζήτησης FM</item>
     </string-array>
     <string-array name="cfg_rf">
-        <item>���� FM RSSI Delta</item>
-        <item>���� Signal Threshold</item>
-        <item>RF ���������</item>
+        <item>Θέσε FM RSSI Delta</item>
+        <item>Θέσε Signal Threshold</item>
+        <item>RF Στατιστικά</item>
     </string-array>
     <string-array name="stats_options">
-        <item>����������� ��� �����؞�</item>
-        <item>ǣ������ ��������� ���������� FM</item>
-        <item>RF ���������</item>
+        <item>Ενεργοποίηση της επιλογής</item>
+        <item>FM</item>
+        <item>RF Στατιστικά</item>
     </string-array>
 </resources>
