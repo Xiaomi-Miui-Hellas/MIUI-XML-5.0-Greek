@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="sleep_duration_values">
-        <item>15 еЮко›</item>
-        <item>30 еЮко›</item>
-        <item>45 еЮко›</item>
-        <item>1 лЦ</item>
+        <item>15 О»ОµПЂП„О¬<item>
+        <item>30 О»ОµПЂП„О¬tem>
+        <item>45 О»ОµПЂП„О¬item>
+        <item>1 ПЋПЃО±<item>
     </string-array>
     <string-array name="search_category_rbds_entries">
         <item>All Stations</item>
@@ -70,25 +70,25 @@
         <item>Weather</item>
     </string-array>
     <string-array name="presetlist_edit_category">
-        <item>·ЮойзйжЦмџЦ</item>
-        <item>¤тоўжЦоб ЮкгейШћ</item>
-        <item>§гЦШлЦућ</item>
+        <item>пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ</item>
+        <item>пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅШћ</item>
+        <item>пїЅпїЅпїЅпїЅпїЅпїЅпїЅ</item>
     </string-array>
     <string-array name="rf_cfg">
         <item>Get Current Station Parameters</item>
         <item>Get Station Parameters Repeat 20 times</item>
         <item>Get Search station parameters</item>
         <item>Get FM Band sweep parameters</item>
-        <item>ЗЈвжгмб кЦлЦжќолъз ЦзЦаћобмбн FM</item>
+        <item>ЗЈпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ FM</item>
     </string-array>
     <string-array name="cfg_rf">
-        <item>¬ќмЮ FM RSSI Delta</item>
-        <item>¬ќмЮ Signal Threshold</item>
-        <item>RF ПоЦогмогд›</item>
+        <item>пїЅпїЅпїЅпїЅ FM RSSI Delta</item>
+        <item>пїЅпїЅпїЅпїЅ Signal Threshold</item>
+        <item>RF пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ</item>
     </string-array>
     <string-array name="stats_options">
-        <item>ЁзЮлШйкйџбмб обн ЮкгейШћн</item>
-        <item>ЗЈввжгмб кЦлЦжќолъз ЦзџфзЮтбмбн FM</item>
-        <item>RF ПоЦогмогд›</item>
+        <item>пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅШћпїЅ</item>
+        <item>ЗЈпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ FM</item>
+        <item>RF пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ</item>
     </string-array>
 </resources>
