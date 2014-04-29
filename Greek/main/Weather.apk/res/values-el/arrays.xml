@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="send_item">
-        <item>Text message</item>
+        <item>Μύνημα κειμένου</item>
         <item>Email</item>
     </string-array>
     <string-array name="act_weather_main_listview_json_key">
         <item>wind1</item>
-        <item>紫外线指数</item>
-        <item>穿衣指数</item>
-        <item>舒适度指数</item>
-        <item>洗车指数</item>
-        <item>晾晒指数</item>
-        <item>晨练指数</item>
-        <item>旅游指数</item>
+        <item>Δείκτης UV</item>
+        <item>Δείκτης ένδυσης</item>
+        <item>Δείκτης άνεσης</item>
+        <item>Δείκτης πλύσης</item>
+        <item>Δείκτης ξήρανσης</item>
+        <item>Δείκτης πρωινού</item>
+        <item>Δείκτης Τουρισμού</item>
     </string-array>
     <string-array name="act_weather_main_listview_key">
-        <item>Wind speed:</item>
-        <item>UV index:　</item>
-        <item>Clothing:</item>
-        <item>Comfort:</item>
-        <item>Car wash:</item>
-        <item>Drying index:</item>
-        <item>AM exercise:</item>
-        <item>Leisure:</item>
+        <item>Ταχύτητα ανέμου:</item>
+        <item>Δείκτης UV:　</item>
+        <item>Ρουχισμός:</item>
+        <item>¨Ανεση:</item>
+        <item>Πλύσιμο αυτ.:</item>
+        <item>Δείκτης ξηρασίας:</item>
+        <item>AM άσκηση:</item>
+        <item>Ελεύθερος χρόνος:</item>
     </string-array>
     <string-array name="weather_image">
-        <item>Clear</item>
-        <item>Cloudy</item>
-        <item>Hazy</item>
-        <item>Foggy</item>
-        <item>Severe rain storms</item>
-        <item>Rain storm</item>
-        <item>Heavy rainfall</item>
-        <item>Thunderstorm</item>
-        <item>Showers</item>
-        <item>Heavy rainfall</item>
-        <item>Rain</item>
-        <item>Drizzle</item>
-        <item>Sleet</item>
-        <item>Blizzard</item>
-        <item>Patches of snowfall</item>
-        <item>Heavy snowfall</item>
-        <item>Snowfall</item>
-        <item>Light snowfall</item>
-        <item>Strong sand storm</item>
-        <item>Sand storm</item>
-        <item>Light sand storms</item>
-        <item>Sand storm</item>
-        <item>Hail</item>
-        <item>Dust</item>
-        <item>Haze</item>
+        <item>Νεφελώδης</item>
+        <item>Νεφελώδης </item>
+        <item>Ομιχλώδης</item>
+        <item>Ομίχλη</item>
+        <item>Σοβαρές καταιγίδες</item>
+        <item>Βροχή-καταιγίδα</item>
+        <item>Έντονες βροχοπτώσεις</item>
+        <item>Καταιγίδα</item>
+        <item>Καταιγίδες</item>
+        <item>Ισχυρές βροχοπτώσεις</item>
+        <item>Βροχή</item>
+        <item>Ψιλόβροχο</item>
+        <item>Χιονόνερο</item>
+        <item>Χιονοθύελλα</item>
+        <item>Νιφάδες χιονιού</item>
+        <item>Ισχυρή χιονόπτωση</item>
+        <item>Χιονόπτωση</item>
+        <item>Ελαφρά χιονόπτωση</item>
+        <item>Ισχυρή καταιγίδα άμμου</item>
+        <item>Αμμοθύελα</item>
+        <item>Ασθενής αμμοθύελλα</item>
+        <item>Αμμοθύελλα</item>
+        <item>Χαλάζι</item>
+        <item>Σκόνη</item>
+        <item>Καταχνιά</item>
     </string-array>
     <string-array name="weather_details_key">
         <item>Unavailable</item>
@@ -93,15 +93,15 @@
         <item></item>
         <item></item>
         <item></item>
-        <item>Remember to bring an umbrella!</item>
-        <item>Remember to bring an umbrella!</item>
-        <item>Remember to bring an umbrella!</item>
-        <item>Remember to bring an umbrella!</item>
-        <item>Remember to bring an umbrella!</item>
-        <item>Remember to bring an umbrella!</item>
-        <item>Remember to bring an umbrella!</item>
-        <item>Remember to bring an umbrella!</item>
-        <item>Remember to bring an umbrella!</item>
+        <item>Θυμηθείτε να πάρετε ομπρέλλα!</item>
+        <item>Θυμηθείτε να πάρετε ομπρέλλα!</item>
+        <item>Θυμηθείτε να πάρετε ομπρέλλα!</item>
+        <item>Θυμηθείτε να πάρετε ομπρέλλα!</item>
+        <item>Θυμηθείτε να πάρετε ομπρέλλα!</item>
+        <item>Θυμηθείτε να πάρετε ομπρέλλα!</item>
+        <item>Θυμηθείτε να πάρετε ομπρέλλα!</item>
+        <item>Θυμηθείτε να πάρετε ομπρέλλα!</item>
+        <item>Θυμηθείτε να πάρετε ομπρέλλα!</item>
         <item>Remember to bundle up!</item>
         <item>Remember to bundle up!</item>
         <item>Remember to bundle up!</item>
@@ -118,18 +118,18 @@
         <item>It will be cloudy today.</item>
         <item>Try to stay indoors.</item>
         <item>Drive safely</item>
-        <item>Remember to bring an umbrella!</item>
-        <item>Remember to bring an umbrella!</item>
-        <item>Remember to bring an umbrella!</item>
-        <item>Remember to bring an umbrella!</item>
-        <item>Remember to bring an umbrella!</item>
-        <item>Remember to bring an umbrella!</item>
-        <item>Remember to bring an umbrella!</item>
-        <item>Remember to bring an umbrella!</item>
-        <item>Remember to bring an umbrella!</item>
-        <item>"It's really coming down out there!"</item>
-        <item>Remember to bring a hat and scarf.</item>
-        <item>Bundle up!</item>
+        <item>Θυμηθείτε να πάρετε ομπρέλλα!</item>
+        <item>Θυμηθείτε να πάρετε ομπρέλλα!</item>
+        <item>Θυμηθείτε να πάρετε ομπρέλλα!</item>
+        <item>Θυμηθείτε να πάρετε ομπρέλλα!</item>
+        <item>Θυμηθείτε να πάρετε ομπρέλλα!</item>
+        <item>Θυμηθείτε να πάρετε ομπρέλλα!</item>
+        <item>Θυμηθείτε να πάρετε ομπρέλλα!</item>
+        <item>Θυμηθείτε να πάρετε ομπρέλλα!</item>
+        <item>Θυμηθείτε να πάρετε ομπρέλλα!</item>
+        <item>"Είναι κάπως άσχημα εκί έξω!"</item>
+        <item>Θυμηθείτε να πάρετε ένα καπέλο και κασκόλ.</item>
+        <item>Άσχημα τα πράγματα!</item>
         <item>Remember to wear a hat and scarf!</item>
         <item>Remember to wear a hat and scarf!</item>
         <item>Remember to wear a mask.</item>
@@ -141,9 +141,9 @@
         <item>Try to stay indoors.</item>
     </string-array>
     <string-array name="weather_sms_addons">
-        <item>"It's $ in @."</item>
-        <item>Temperature: % degrees.</item>
-        <item>Remember to bring an umbrella!</item>
+        <item>"Είναι $ σε @."</item>
+        <item>Θερμοκρασία: % βαθμοί.</item>
+        <item>Θυμηθείτε να πάρετε ομπρέλλα!</item>
         <item>Try to stay dry! :)</item>
         <item>"If you're drying clothes outside, remember to take them in later!"</item>
         <item>Avoid driving if possible.</item>
@@ -174,11 +174,11 @@
         <item>0</item>
         <item>Unavailable</item>
         <item>6</item>
-        <item>"Don't forget to use sunscreen."</item>
+        <item>"Μην ξεχάσετε την ηλιοπροστασία."</item>
         <item>7</item>
-        <item>"Don't forget to use sunscreen."</item>
+        <item>"Μην ξεχάσετε την ηλιοπροστασία."</item>
         <item>8</item>
-        <item>"Don't forget to use sunscreen."</item>
+        <item>"Μην ξεχάσετε την ηλιοπροστασία."</item>
         <item>9</item>
         <item>Put on sunscreen if you need to go out!</item>
         <item>10</item>
