@@ -754,7 +754,6 @@
     <string name="debug_drawing_category">Σχεδίαση</string>
     <string name="debug_hw_drawing_category">Hardware accelerated rendering</string>
     <string name="debug_input_category">Εισαγωγή</string>
-    <string name="debug_intent_sender_label">Εντοπισμός σφαλμάτων</string>
     <string name="debug_layout">Εμφάνιση ορίων διάταξης</string>
     <string name="debug_layout_summary">Εμφάνιση ορίων κλιπ, τα περιθώρια, κλπ.</string>
     <string name="debug_log">Πρόγραμμα εμπειρίας χρήστη</string>
