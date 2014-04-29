@@ -17,8 +17,8 @@
   <string name="chooser_wallpaper">Επιλογή ταπετσαρίας από</string>
   <string name="confirm_btn_label">ΟΚ</string>
   <string name="default_folder_title_game">Παιχνίδια</string>
-  <string name="default_folder_title_recommend">Προτείνονται</string>
-  <string name="default_folder_title_security">Κέντρο ασφαλείας</string>
+  <string name="default_folder_title_recommend">Προτάσεις</string>
+  <string name="default_folder_title_security">Ασφάλεια</string>
   <string name="default_folder_title_tools">Εργαλεία</string>
   <string name="default_name">Προκαθορισμένο</string>
   <string name="default_shortcut_title_10086">google.com</string>
