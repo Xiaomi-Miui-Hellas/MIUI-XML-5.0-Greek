@@ -194,7 +194,7 @@
  <string name="operation_decompressing">Αποσυμπίεση </string>
  <string name="operation_delete">Διαγραφή</string>
  <string name="operation_delete_confirm_message">Επιβεβαίωση Διαγραφής </string>
- <string name="operation_delete_confirm_message_folder">Με τη διαγραφή του φακέλου θα διαγραφούν και τα αρχεία του </string>
+ <string name="operation_delete_confirm_message_folder">Με τη διαγραφή του φακέλου θα διαγραφούν και τα αρχεία του 
 "</string>
     <string name="operation_deleting">Διαγράφει…</string>
     <string name="operation_deleting_detail">Διαγράφονται (%1$d/%2$d)</string>
