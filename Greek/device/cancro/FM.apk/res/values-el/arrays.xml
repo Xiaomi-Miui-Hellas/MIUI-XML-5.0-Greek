@@ -88,7 +88,7 @@
     </string-array>
     <string-array name="stats_options">
         <item>Ενεργοποίηση της επιλογής</item>
-        <item>FM</item>
+        <item>Ρύθμιση παραμέτρων αναζήτησης FM</item>
         <item>RF Στατιστικά</item>
     </string-array>
 </resources>
