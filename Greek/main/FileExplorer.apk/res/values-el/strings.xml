@@ -263,7 +263,7 @@
     <string name="tab_phone">Τηλέφωνο</string>
     <string name="temp_file_cleanup_indication">%s προσωρινά αρχεία</string>
     <string name="temp_file_title">Προσωρινά αρχεία</string>
-    <string name="thumbnail_cleanup_indication">%s μικρογραφίες/string>
+    <string name="thumbnail_cleanup_indication">%s μικρογραφίες</string>
     <string name="thumbnail_title">Μικρογραφίες</string>
     <string name="toast_file_not_can_read">Δεν βρέθηκε εφαρμογή να χειριστεί αυτή την ενέργεια</string>
     <string name="trans_task">Δίκτυο μεταφοράς</string>
