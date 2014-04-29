@@ -16,11 +16,6 @@
         <item>Μεγάλο</item>
         <item>Πολύ Μεγάλο</item>
     </string-array>
-    <string-array name="pref_default_zoom_choices">
-        <item>Μικρό</item>
-        <item>Μέτριο</item>
-        <item>Μεγάλο</item>
-    </string-array>
     <string-array name="pref_development_ua_choices">
         <item>Android</item>
         <item>Desktop</item>
@@ -131,12 +126,6 @@
         <item>UTF-8</item>
         <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
     </string-array> 	
-    <string-array name="pref_ua_choices">
-        <item>Android</item>
-        <item>Επιτραπέζιο PC</item>
-        <item>iPhone</item>
-        <item>iPad</item>
-    </string-array>
     <string-array name="pref_volume_key_choices">
         <item>Προηγούμενη σελίδα/Επόμενη σελίδα</item>
         <item>Προηγούμενη καρτέλα/Επόμενη καρτέλα</item>

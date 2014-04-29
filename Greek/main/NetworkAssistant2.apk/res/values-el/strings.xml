@@ -163,7 +163,7 @@
   <string name="traffic_protection_next">Επόμενο</string>
   <string name="traffic_protection_summary">Set alerts for when your data usage reaches a certain level</string>
   <string name="traffic_protection_text_hint">Set a data usage limit</string>
-  <string name="traffic_protection_unknown">"&lt;u&gt;Δεν τα γνωρίζω. Θα τα συμπληρώσω αργότερα.&lt;/u&gt;"</string>
+  <string name="traffic_protection_unknown">Δεν τα γνωρίζω. Θα τα συμπληρώσω αργότερα.</string>
   <string name="traffic_protection_use_data">Data enabled</string>
   <string name="traffic_setting_fragment_area">Locale</string>
   <string name="traffic_setting_fragment_brand">Brand</string>
