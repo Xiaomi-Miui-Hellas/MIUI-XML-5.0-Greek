@@ -69,8 +69,8 @@
     <string name="resource_share_text">"Εδώ είναι ένα θέμα που σκέφτηκα ότι ίσως θα σας άρεσε: %1$s! Σύνδεσμος: %2$s"</string>
     <string name="resource_delete_all">Διαγραφή %1$d επιλεγμένων resources?</string>
     <string name="resource_can_not_selected">"%1$s δεν μπορεί να επιλεγεί"</string>
-    <string name="resource_system_title">System resources</string>
-    <string name="resource_downloaded_title">Downloaded resources</string>
+    <string name="resource_system_title">Πόροι συστήματος</string>
+    <string name="resource_downloaded_title">Πόροι που ελήφθησαν</string>
     <string name="resource_see_more">Δείτε περισσότερα</string>
     <string name="resource_no_result">"Δεν βρίσκω τίποτα"</string>
     <string name="resource_unable_to_access">"Δυστυχώς,
