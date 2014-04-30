@@ -94,9 +94,9 @@
     <string name="delete_label">Διαγραφή</string>
     <string name="save_label">Έγινε</string>
     <string name="discard_label">Άκυρο</string>
-    <string name="snooze_all_label">Όλα snooze</string>
+    <string name="snooze_all_label">Αναβολή όλων</string>
     <string name="dismiss_all_label">Απόρριψη όλων</string>
-    <string name="snooze_label">Snooze</string>
+    <string name="snooze_label">Αναβολή</string>
     <string name="does_not_repeat">Μεμονωμένο γεγονός</string>
     <string name="daily">Καθημερινά</string>
     <string name="every_weekday">Κάθε εργάσιμη (Δευ-Παρ)</string>

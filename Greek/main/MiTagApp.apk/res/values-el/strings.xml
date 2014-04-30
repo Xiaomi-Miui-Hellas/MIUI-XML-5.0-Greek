@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add">Add</string>
-  <string name="add_configure">Add configuration</string>
-  <string name="airplane">Airplane mode</string>
-  <string name="alarm_config_12h">Alarm at 8:00(AM)</string>
-  <string name="alarm_config_24h">Alarm at 8:00</string>
-  <string name="alarm_label">Alarm label (optional)</string>
+  <string name="add">Προσθήκη</string>
+  <string name="add_configure">Προσθήκη διαμόρφωσης</string>
+  <string name="airplane">Λειτ.Πτήσης</string>
+  <string name="alarm_config_12h">Συναγερμός στις 8:00(ΠΜ)</string>
+  <string name="alarm_config_24h">Συναγερμός στις 8:00</string>
+  <string name="alarm_label">Κείμενο (προεραιτικό)</string>
   <string name="alarm_summary_12h">hh:mm a</string>
   <string name="alarm_summary_24h">kk:mm</string>
-  <string name="alarm_time">Alarm time</string>
-  <string name="alarm_value">Alarm %s%%</string>
-  <string name="app">Start app</string>
-  <string name="app_center">App center</string>
+  <string name="alarm_time">Ώρα </string>
+  <string name="alarm_value">Συναγερμός %s%%</string>
+  <string name="app">Έναρξη εφαρμ.</string>
+  <string name="app_center">Κέντρο εφαρμ.</string>
   <string name="app_name">PonPonTile</string>
   <string name="auto_brightness">Αυτόματη φωτεινότητα</string>
   <string name="auto_brightness_on_off">Αυτόματη φωτεινότητα %s</string>
-  <string name="available_networks">Available networks</string>
-  <string name="avg_read_tag">Avg reads per day:</string>
-  <string name="back_to_home">Back</string>
+  <string name="available_networks">Διαθέσιμο δίκτυο</string>
+  <string name="avg_read_tag">Μέσος όρος ανάγνωσης/ημ.:</string>
+  <string name="back_to_home">Πίσωk</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="body_characters">%d/650</string>
-  <string name="brightness">Brightness</string>
+  <string name="brightness">Φωτεινότητα</string>
   <string name="btn_install">Εγκατάσταση</string>
-  <string name="btn_start">Start</string>
-  <string name="btn_write">Write</string>
+  <string name="btn_start">Έωαρξη</string>
+  <string name="btn_write">Εγραφή</string>
   <string name="bump_erase">"To erase a tag,
 touch it with the back of your phone"</string>
-  <string name="bump_start">"To begin, touch the
-back of your phone to a tag"</string>
-  <string name="bump_write">"To write a tag,
-touch it with the back of your phone"</string>
+  <string name="bump_start">"Για να ξεκινήσετε, πιέστε το
+πίσω μέρος του κινητού σας σε μια ετικέτα"</string>
+  <string name="bump_write">"Για να γράψετε ετικέτα, πιέστε το
+πίσω μέρος του κινητού σας σε μια ετικέτα"</string>
   <string name="bump_write_alert">To apply these settings, touch the back of your phone to the tile</string>
-  <string name="call_sb">Call %s</string>
-  <string name="call_to">Call…;</string>
-  <string name="car_mode">Car mode</string>
+  <string name="call_sb">Κλήση %s</string>
+  <string name="call_to">Κλήση…;</string>
+  <string name="car_mode">Λειτ. αυτοκ.</string>
   <string name="characters">%d/72</string>
-  <string name="click_to_choose">Touch to open</string>
+  <string name="click_to_choose">Άγγιγμα για άνοιγμα</string>
   <string name="communication">Τηλέφωνο</string>
   <string name="config_name_hint">Όνομα</string>
-  <string name="connect_to">Connect to %s</string>
-  <string name="contact">Share contact</string>
+  <string name="connect_to">Σύνδεση με %s</string>
+  <string name="contact">Μοίρασμα επαφής</string>
   <string name="contact_address">Διεύθυνση</string>
   <string name="contact_card">Name card</string>
   <string name="contact_compay">Εταιρεία</string>
@@ -159,7 +159,7 @@ touch it with the back of your phone"</string>
   <string name="sound_notification">Ειδοποιήσεις</string>
   <string name="sound_ringer">Ringer</string>
   <string name="sound_voice">Call volume</string>
-  <string name="start_configuration">Configure tag</string>
+  <string name="start_configuration">Διαμόρφωση ετικέτας</string>
   <string name="sure_to_delete_user_config">Delete this task?</string>
   <string name="tag_history">Ιστορικό</string>
   <string name="tag_history_date_format">d/M</string>

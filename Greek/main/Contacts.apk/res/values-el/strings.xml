@@ -21,7 +21,7 @@
     <string name="description_summary">Σύνοψη</string>
     <string name="description_version_szie">Έκδοση: %1$s Μέγεθος: %2$s</string>
     <string name="resource_local">Τοπικό %1$s</string>
-    <string name="resource_online">Online %1$s</string>
+    <string name="resource_online">Δίκτυο %1$s</string>
     <string name="resource_selected">Προτεινόμενο</string>
     <string name="resource_ranking">Δημοφιλή</string>
     <string name="resource_ranking_free">Δωρεάν</string>
@@ -54,14 +54,14 @@
     <string name="download_preview_failed">Απέτυχε να φορτώσει την προεπισκόπηση</string>
     <string name="resource_delete_confirm">Διαγραφή  αυτών των resources?</string>
     <string name="all_resources">Όλα</string>
-    <string name="resource_default_name">Resource</string>
+    <string name="resource_default_name">Πηγή</string>
     <string name="resource_detail">Λεπτομέρειες</string>
     <string name="resource_detail_window_title">%1$s λεπτομέρειες</string>
     <string name="resource_detail_update_log_title">Ενημερώσεις</string>
     <string name="resource_detail_comment_title">Σχόλια</string>
     <string name="resource_detail_recommend_desiner_other_themes">Άλλα θέματα που σχεδιάστηκε από %1$s</string>
     <string name="resource_detail_recommend_other_themes">Στους χρήστες άρεσε επίσης</string>
-    <string name="resource_detail_jump_to_online_title">Online</string>
+    <string name="resource_detail_jump_to_online_title">Δίκτυο</string>
     <string name="resource_detail_jump_to_same_author_title">Ίδιος συντάκτης</string>
     <string name="resource_detail_recommend_desiner_themes">%1$s θέματα</string>
     <string name="resource_share_title">Διαμοιρασμός</string>
@@ -72,7 +72,7 @@
     <string name="resource_system_title">System resources</string>
     <string name="resource_downloaded_title">Downloaded resources</string>
     <string name="resource_see_more">Δείτε περισσότερα</string>
-    <string name="resource_no_result">"Couldn't find anything"</string>
+    <string name="resource_no_result">"Δεν βρίσκω τίποτα"</string>
     <string name="resource_unable_to_access">"Δυστυχώς,
 το περιεχόμενο που ψάχνετε δεν είναι διαθέσιμο στην περιοχή σας."</string>
     <string name="resource_list_title">Επιλεγμένα τελευταία</string>
@@ -122,7 +122,7 @@
     <string name="resource_exchange_has_expired">Ο κωδικός που εισαγάγατε έχει λήξει.</string>
     <string name="resource_exchange_unavailable">"Το θέμα που συνδέεται με τον κωδικό που έχετε εισάγει δεν είναι διαθέσιμο."</string>
     <string name="resource_exchange_has_bought">"Έχετε ήδη αγοράσει αυτό το θέμα."</string>
-    <string name="resource_exchange_success">Enjoy! :)</string>
+    <string name="resource_exchange_success">Χαρείτε το! :)</string>
     <string name="resource_exchange_share_code_dlg_title">Αποστολή</string>
     <string name="resource_exchange_share_code_dlg_content">Ο κωδικός δώρο που αγοράσατε για το θέμα %1$sis: %2$s. Όταν το στείλετε σε άλλο χρήστη MIUI, αυτός ή αυτή μπορεί να το χρησιμοποιήσετε για να κατεβάσει αυτό το θέμα.</string>
     <string name="resource_exchange_share_code_content">"Έχετε λάβει ένα κωδικό δώρο για το θέμα %1$s στο MIUI Theme Store. Ο κωδικός αριθμός είναι: %2$s. Αγγίξτε %3$s για να το χρησιμοποιήσετε τώρα."</string>
@@ -170,16 +170,6 @@
     <string name="resource_hint">Προσοχή</string>
     <string name="resource_ringtone_volume_mute">Ο ήχος κλήσης σας είναι σε σίγαση</string>
     <string name="config_import_vcard_type">Προεπιλογή</string>
-    <string name="config_export_vcard_type">v30_generic</string>
-    <string name="config_export_dir">/mnt/sdcard</string>
-    <string name="config_export_file_prefix" />
-    <string name="config_export_file_suffix" />
-    <string name="config_export_file_extension">vcf</string>
-    <string name="config_export_extensions_to_consider" />
-    <string name="config_prohibited_phone_number_regexp" />
-    <string name="help_url_people_main" />
-    <string name="help_url_people_add" />
-    <string name="help_url_people_edit" />
     <string name="launcherDialer">Τηλέφωνο</string>
     <string name="people">Επαφές</string>
     <string name="contactsList">Επαφές</string>
@@ -474,7 +464,7 @@
     <string name="sms_disambig_title">Επιλέξτε αριθμό</string>
     <string name="make_primary">Θυμήσου την επιλογή</string>
     <string name="quickcontact_missing_app">Καμία εφαρμογή δεν βρέθηκε για να χειριστεί αυτή την ενέργεια</string>
-    <string name="missing_name">(No name)</string>
+    <string name="missing_name">(Ανώνυμο)</string>
     <string name="menu_accounts">Λογαριασμοί</string>
     <string name="menu_clear_frequents">Καθαρισμός συχνών</string>
     <string name="menu_contacts_filter">Επαφές που θα εμφανίζονται</string>
@@ -485,7 +475,7 @@
     <string name="share_via">Αποστολή</string>
     <string name="share_error">"Η επαφή αυτή δεν μπορεί να διαμοιραστεί"</string>
     <string name="nameLabelsGroup">Όνομα</string>
-    <string name="nicknameLabelsGroup">Nickname</string>
+    <string name="nicknameLabelsGroup">Ψευδώνυμο</string>
     <string name="organizationLabelsGroup">Οργανισμός</string>
     <string name="websiteLabelsGroup">Ιστοσελίδα</string>
     <string name="eventLabelsGroup">Γενέθλια</string>
@@ -783,7 +773,7 @@
     <string name="sim_no_contact">Δεν υπάρχουν επαφές στην κάρτα SIM</string>
     <string name="sim_indexed_contact_not_exist">Η θέση %1$d στην κάρτα SIM δεν είναι έγκυρη. Η θέση πρέπει να είναι μεταξύ %2$d και %3$d.</string>
     <string name="sim_contact_search_error">Παρουσιάστηκε σφάλμα</string>
-    <string name="service_provider">Directory</string>
+    <string name="service_provider">Φάκελοι</string>
     <string name="zero_items_selected">Επιλέξτε στοιχεία</string>
     <string name="select_all">Επιλογή όλων</string>
     <string name="deselect_all">Αποεπιλογή όλων</string>
@@ -993,7 +983,7 @@
     <string name="btn_delete_multi_contacts">Διαγραφή %d επαφών</string>
     <string name="btn_split_contact">Διαχωρισμός</string>
     <string name="use_photo_as_primary2">"Χρήση %1$s's φωτογραφίας επαφής"</string>
-    <string name="label_custom_type">Custom</string>
+    <string name="label_custom_type">Προσαρμογή</string>
     <string name="pkgLabel">Επαφές και πληκτρολόγιο</string>
     <string name="preference_smart_group_title">Έξυπνη ομαδοποίηση</string>
     <string name="preference_smart_group_company_title">Βάση εταιρείας</string>
@@ -1052,7 +1042,6 @@
     <string name="device_import_progress_end_message">Εισαγωγή πλήρης</string>
     <string name="device_import_progress_message">Εισαγωγή…</string>
     <string name="device_import_failed_message">Εισαγωγή απέτυχε</string>
-    <string name="hint_distance" />
     <string name="hint_more_contact">Συγχώνευση διπλών επαφών</string>
     <string name="device_import_account_dialog_title">Επιλέξτε ένα λογαριασμό</string>
     <string name="device_import_account_dialog_title_suffix">"

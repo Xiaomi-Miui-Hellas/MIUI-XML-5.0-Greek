@@ -142,9 +142,9 @@
         <item>Συνδρομή 2</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
-        <item>After 1 λεπτό</item>
-        <item>After 5 λεπτά</item>
-        <item>After 10 λεπτά</item>
+        <item>Μετά 1 λεπτό</item>
+        <item>Μετά 5 λεπτά</item>
+        <item>Μετά 10 λεπτά</item>
         <item>Ποτέ</item>
     </string-array>
     <string-array name="power_dialog_cpu_state_items">
@@ -214,8 +214,8 @@
         <item>2 δευτερόλεπτα</item>
     </string-array>
     <string-array name="screen_saturation_title">
-        <item>Brilliant</item>
-        <item>Standard</item>
+        <item>Λαμπρή</item>
+        <item>Τυπική</item>
     </string-array>
     <string-array name="screen_timeout_entries">
         <item>15 δευτερόλεπτα</item>
