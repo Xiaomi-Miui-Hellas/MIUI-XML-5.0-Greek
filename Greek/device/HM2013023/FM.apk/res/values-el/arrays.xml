@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+    <string-array name="sleep_duration_values">
+        <item>15 λεπτά</item>
+        <item>30 λεπτά</item>
+        <item>45 λεπτά</item>
+        <item>1 ώρα</item>
+    </string-array>
+    <string-array name="presetlist_edit_category">
+        <item>Μετονομασία</item>
+        <item>Αυτόματη επιλογή</item>
+        <item>Κατάργηση</item>
+    </string-array>
+    <string-array name="rf_cfg">
+        <item>Get Current Station Parameters</item>
+        <item>Get Station Parameters Repeat 20 times</item>
+        <item>Get Search station parameters</item>
+        <item>Get FM Band sweep parameters</item>
+        <item>Ρύθμιση παραμέτρων αναζήτησης FM</item>
+    </string-array>
+    <string-array name="cfg_rf">
+        <item>Θέσε FM RSSI Delta</item>
+        <item>Θέσε Signal Threshold</item>
+        <item>RF Στατιστικά</item>
+    </string-array>
+    <string-array name="stats_options">
+        <item>Ενεργοποίηση της επιλογής</item>
+        <item>Ρύθμιση παραμέτρων αναζήτησης FM</item>
+        <item>RF Στατιστικά</item>
+    </string-array>
+    </string-array>
+</resources>
