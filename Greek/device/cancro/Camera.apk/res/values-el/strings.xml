@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Import">Εισαγωγή</string>
-  <string name="access_sd_fail">"Αδύνατη πρόσβαση σε αποθήκευση USB."</string>
+  <string name="access_sd_fail">"Αδύνατη πρόσβαση στην SD Card."</string>
   <string name="accessibilit_camera_video_switch_picker_and_state">Εναλλαγή κάμερα και βίντεο (σε χρήση είναι %s)</string>
   <string name="accessibility_camera_auto_flashmode">Αυτόματο φλας</string>
   <string name="accessibility_camera_flash_closemode">Χωρίς φλας</string>
