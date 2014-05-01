@@ -8,7 +8,6 @@
   <string name="accessibility_camera_flashmode">Πάντα με φλας</string>
   <string name="accessibility_camera_picker">Επιλoγή εμπρός / πίσω κάμερας</string>
   <string name="accessibility_close_more_ptions">Απενεργοποίηση επιπλέον επιλογών</string>
-    <string name="accessibility_camera_picker">Εναλλαγή μπρός και πίσω κάμερας</string>
     <string name="accessibility_ev_control">Αντιστάθμιση έκθεσης</string>
     <string name="accessibility_flash_mode_button">FlashButton</string>
   <string name="accessibility_more_ptions_closed">Επιπλέον επιλογές απενεργοποιήθηκαν</string>
