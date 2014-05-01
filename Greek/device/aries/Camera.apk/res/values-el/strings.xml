@@ -6,6 +6,7 @@
   <string name="accessibility_camera_auto_flashmode">Αυτόματο φλας</string>
   <string name="accessibility_camera_flash_closemode">Χωρίς φλας</string>
   <string name="accessibility_camera_flashmode">Πάντα με φλας</string>
+  <string name="accessibility_camera_picker">Výběr zvolené kamery</string>
   <string name="accessibility_camera_switch_back_state">Εναλλαγή κάμερας (τρέχον η πίσω κάμερα)</string>
   <string name="accessibility_camera_switch_front_state">Εναλλαγή κάμερας (τρέχον η εμπρόσθια κάμερα)</string>
   <string name="accessibility_close_more_ptions">Απενεργοποίηση επιπλέον επιλογών</string>
@@ -159,9 +160,6 @@
   <string name="pref_camera_ae_bracket_hdr_entry_hdr">HDR</string>
   <string name="pref_camera_ae_bracket_hdr_entry_off">Off</string>
   <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
-  <string name="pref_camera_ae_bracket_hdr_value_ae_bracket">AE-Bracket</string>
-  <string name="pref_camera_ae_bracket_hdr_value_hdr">HDR</string>
-  <string name="pref_camera_ae_bracket_hdr_value_off">Off</string>
   <string name="pref_camera_antibanding_entry_0">Off</string>
   <string name="pref_camera_antibanding_entry_1">50 Hz</string>
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
@@ -202,7 +200,6 @@
   <string name="pref_camera_flashmode_entry_auto">Αυτόματο</string>
   <string name="pref_camera_flashmode_entry_off">Off</string>
   <string name="pref_camera_flashmode_entry_on">On</string>
-  <string name="pref_camera_flashmode_no_flash">no_flash</string>
   <string name="pref_camera_flashmode_title">Λειτουργία φλας</string>
   <string name="pref_camera_focusmode_entry_auto">Αυτόματο</string>
   <string name="pref_camera_focusmode_entry_continuous">CAF</string>
@@ -238,6 +235,9 @@
   <string name="pref_camera_movie_solid_entry_off">Off</string>
   <string name="pref_camera_movie_solid_entry_on">On</string>
   <string name="pref_camera_movie_solid_title">Movie solid</string>
+  <string name="pref_camera_multiple_face_beauty_entry_off">Zapnuto</string>
+  <string name="pref_camera_multiple_face_beauty_entry_on">Vypnuto</string>
+  <string name="pref_camera_multiple_face_beauty_title">Vylepšení dvou tváří</string>
   <string name="pref_camera_panoramamode_title">Πανόραμα</string>
   <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
   <string name="pref_camera_picture_format_entry_raw">Raw</string>
@@ -258,7 +258,6 @@
   <string name="pref_camera_picturesize_professional_entry_3200x2400">8M(3264X2448)</string>
   <string name="pref_camera_picturesize_professional_entry_3264x1836">6M(3264x1836)</string>
   <string name="pref_camera_picturesize_professional_entry_4208x2368">10M(4208x2368)</string>
-  <string name="pref_camera_picturesize_professional_entry_4208x3120">13M(4208x3120)</string>
   <string name="pref_camera_picturesize_title">Μέγεθος φωτογραφίας</string>
   <string name="pref_camera_picturesize_title_simple_mode">Καρέ κάμερας</string>
   <string name="pref_camera_preview_entry_1000">1 δευτερόλεπτο</string>
@@ -271,7 +270,7 @@
   <string name="pref_camera_preview_value_off">off</string>
   <string name="pref_camera_recordlocation_entry_off">Off</string>
   <string name="pref_camera_recordlocation_entry_on">On</string>
-  <string name="pref_camera_recordlocation_title">Πληροφορίες αποθήκευσης τοποθεσίας φωτογραφίας</string>
+  <string name="pref_camera_recordlocation_title">Πληροφορίες αποθήκευσης GPS</string>
   <string name="pref_camera_redeyereduction_entry_auto">Αυτόματο</string>
   <string name="pref_camera_redeyereduction_entry_disable">Απενεργοποίηση</string>
   <string name="pref_camera_redeyereduction_entry_enable">Ενεργοποίηση</string>
@@ -319,8 +318,6 @@
   <string name="pref_camera_skinToneEnhancement_entry_disable">Απενεργοποίηση</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Ενεργοποίηση</string>
   <string name="pref_camera_skinToneEnhancement_title">Βελτίωση Τόνου Δέρματος</string>
-  <string name="pref_camera_sound_entry_off">Off</string>
-  <string name="pref_camera_sound_entry_on">On</string>
   <string name="pref_camera_sound_title">Ήχοι κάμερας</string>
   <string name="pref_camera_sound_title_entry_off">Off</string>
   <string name="pref_camera_sound_title_entry_on">On</string>

@@ -69,6 +69,7 @@
   <string name="menu_rename_list">Μετονομασία λίστας</string>
   <string name="menu_reorder_list">Αναδιάταξη λίστας</string>
   <string name="menu_save_station_list">Προσθήκη σε λίστα</string>
+    <string name="menu_save_station_list">Προσθήκη στη λίστα</string>
   <string name="menu_save_station_presets">Προσθήκη σε σταθμούς</string>
   <string name="menu_scan_for_preset">Αναζήτηση για σταθμούς</string>
   <string name="menu_scan_start">Αναζήτηση σταθμών</string>
@@ -105,6 +106,8 @@
   <string name="record_fail">Ηχογράφηση απέτυχε</string>
   <string name="record_file_format">%1$s_%2$s</string>
   <string name="record_file_location_format">Κλικ για εμφάνιση αρχείου %s</string>
+    <string name="record_sucess">Επιτυχής ηχογράφηση</string>
+    <string name="record_completed">Ολοκλήρωση ηχογράφησης</string>
   <string name="reduce_af">Μείωση συχνότητας</string>
   <string name="regional_band">Το Περιφερειακό Εύρος θα αφαιρέσει τους αποθηκευμένους σταθμούς</string>
   <string name="search_dialog_title">Σάρωση Σταθμών</string>
@@ -154,4 +157,6 @@
   <string name="turn_on_speaker_phone">Ενεργοποίηση ανοιχτής ακρόασης</string>
   <string name="type_rd"/>
   <string name="view_stations_list">Προβολή λίστας σταθμών</string>
+    <string name="toast_fm_recorder_access_error">"Δεν είναι δυνατή η εγγραφή σε λειτ. επισκέπτη"</string>
+    <string name="msg_fm_starting">Έναρξη...</string>
 </resources>
