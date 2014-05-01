@@ -163,7 +163,6 @@
  <string name="fm_volume"/>
  <string name="fmradio_airplane"/>
  <string name="fmradio_no_headset_at_begin"/>
- <string name="fmradio_start_error"/>
  <string name="fmradio_stop_unexpected"/>
  <string name="max_time declared"/>
  <string name="menu_stations_list"/>
@@ -175,5 +174,8 @@
  <string name="service_start_error_title"/>
  <string name="settings_revert_confirm_title"/>
  <string name="toast_fm_recorder_access_error"/>
+ <string name="max_time"/>
+ <string name="min_time"/>
+ <string name="fmradio_airplane_mode_enable_in_listen"/>
  <string name="view_stations_list">Προβολή λίστας σταθμών</string>
 </resources>
