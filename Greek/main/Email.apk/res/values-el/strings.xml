@@ -727,4 +727,5 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
     <string name="updated_at">Τελευταία Updated%1$s</string>
     <string name="updated_just_now">Just Updated</string>
     <string name="time_error">Time Promblem</string>
+	<string name="chips_waiting_for_directory_result"/>
 </resources>

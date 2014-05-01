@@ -473,4 +473,17 @@
   <string name="view_message_details">Προβολή λεπτομερειών</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="yes">Ναι</string>
-</resources>
+  <string name="confirm_delete_RUIM_message"/>
+  <string name="confirm_delete_all_RUIM_messages"/>
+  <string name="festival_sms_sdcard_unready"/>
+  <string name="message_saved_as_dravt"/>
+  <string name="mx_dspt_disabled"/>
+  <string name="restore_default"/>
+  <string name="ruim_empty"/>
+  <string name="ruim_full_title"/>
+  <string name="ruim_manage_messages_title"/>
+  <string name="save_to_ruim"/>
+  <string name="select_conversations"/>
+  <string name="sending_message"/>
+  <string name="sms_sender declared"/>
+ </resources>

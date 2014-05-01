@@ -305,4 +305,16 @@
     <string name="wifi_state">Κατάσταση WLAN</string>
  <string name="xiaomi_account">Λογαριασμός Xiaomi</string>
     <string name="yes">Ναι</string>
+	<string name="APKTOOL_DUMMY_012a"/>
+	<string name="APKTOOL_DUMMY_012b
+	<string name="clean_transh_box_desctiption"/>
+	<string name="cleanup_help"/>
+	<string name="cleanup_tab_app"/>
+	<string name="cleanup_tab_garbage"/>
+	<string name="copy_success"/>
+	<string name="delete_file_description"/>
+	<string name="load_data_from_local"/>
+	<string name="move_file_description"/>
+	<string name="move_success"/>
+	<string name="networkView_offline"/>
 </resources>
