@@ -69,7 +69,6 @@
   <string name="menu_rename_list">Μετονομασία λίστας</string>
   <string name="menu_reorder_list">Αναδιάταξη λίστας</string>
   <string name="menu_save_station_list">Προσθήκη σε λίστα</string>
-    <string name="menu_save_station_list">Προσθήκη στη λίστα</string>
   <string name="menu_save_station_presets">Προσθήκη σε σταθμούς</string>
   <string name="menu_scan_for_preset">Αναζήτηση για σταθμούς</string>
   <string name="menu_scan_start">Αναζήτηση σταθμών</string>
@@ -100,7 +99,6 @@
   <string name="preset_tune">Συντονισμός</string>
   <string name="presetlist_autoselect_title">Επιβεβαίωση Αυτόματης Επιλογής</string>
   <string name="radio_text_string">Αυτό είναι μια Μεγάλη Φράση Μηνύματος Ράδιο που πρέπει κάνει κύλιση</string>
-  <string name="record_completed">Ηχογράφηση ολοκληρώθηκε</string>
   <string name="record_error_file_removed">Ηχογράφηση σταμάτησε. Το αρχείο ηχογράφησης αφαιρέθηκε.</string>
   <string name="record_error_unknown">Ηχογράφηση σταμάτησε. Άγνωστο σφάλμα κατά την ηχογράφηση.</string>
   <string name="record_fail">Ηχογράφηση απέτυχε</string>
