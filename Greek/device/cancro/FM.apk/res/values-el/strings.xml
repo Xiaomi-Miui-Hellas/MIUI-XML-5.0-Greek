@@ -99,10 +99,10 @@
     <string name="frequency_already_exist">Μία θέση με την ίδια συχνότητα υπάρχει ήδη.</string>
     <string name="alert_title_new_station">Νέος Σταθμός</string>
     <string name="alert_title_delete">Διαγραφή σταθμού?</string>
-    <string name="alert_message_delete_station">This preset will be deleted.</string>
-    <string name="toast_delete_station">%sMHz has been deleted</string>
-    <string name="msg_noantenna_message">No headphones detected. Some functions may not be available.</string>
-    <string name="msg_do_not_support_fm">"This device doesn't support FM Radio"</string>
+    <string name="alert_message_delete_station">Αυτή η θέση θα διαγραφεί.</string>
+    <string name="toast_delete_station">%sMHz έχει διαγραφεί</string>
+    <string name="msg_noantenna_message">Δεν βρέθηκαν ακουστικά. Μερικές λειτουργείες δεν θα είναι διαθέσιμες.</string>
+    <string name="msg_do_not_support_fm">"Αυτή η συσκευή δεν υποστηρίζει FM Ράδιο"</string>
     <string name="exit_fm">Έξοδος</string>
     <string name="toast_sleep_mode">Το Ράδιο θα σταματήσει σε %s</string>
     <string name="toast_sleep_mode_exit">Ακύρωση λειτ. ύπνου</string>
@@ -115,7 +115,7 @@
     <string name="record_error_unknown">Η εγραφή σταμάτησε: άγνωστο λάθος</string>
     <string name="record_error_file_removed">Η εγραφή διαγράφηκε: άγνωστο λάθος</string>
     <string name="turn_on_fm">Άνοιγμα Ραδιοφώνου</string>
-    <string name="turn_off_fm">Κλέισιμο Κλείσιμο</string>
+    <string name="turn_off_fm">Κλείσιμο</string>
     <string name="turn_on_speaker_phone">Άνοιγμα του ηχείου</string>
     <string name="turn_off_speaker_phone">Κλείσιμο ηχείου</string>
     <string name="view_stations_list">Προβολή λίστας σταθμών</string>
