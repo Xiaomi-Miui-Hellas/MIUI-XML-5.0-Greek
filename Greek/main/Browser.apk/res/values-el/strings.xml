@@ -94,7 +94,7 @@
   <string name="browserFrameFormResubmitLabel"/>
   <string name="browserFrameFormResubmitMessage">"Η σελίδα που προσπαθείτε να προβάλετε περιέχει δεδομένα που έχουν σταλθεί ήδη (\"POSTDATA\"). Εάν ξαναστείλετε τα δεδομένα, κάθε κίνηση θα επαναληφθεί (όπως αναζήτηση ή αγορά)."</string>
   <string name="browserFrameNetworkErrorLabel">Πρόβλημα σύνδεσης</string>
-  <string name="browser_bookmarks_page_bookmarks_text">Σελιδοδείκτες</string>
+  <string name="browser_bookmarks_page_bookmarks_text">Πλοηγός</string>
   <string name="browser_history">Πρόσφατες σελίδες</string>
   <string name="cancel">Άκυρο</string>
   <string name="cannot_download">Δυνατότητα λήψης μόνο \"http\" ή \"https\" URLs.</string>
@@ -334,8 +334,8 @@
   <string name="pref_content_auto_light_mode">Αυτόματη φωτεινότητα</string>
   <string name="pref_content_autofit">Αυτόματο μέγεθος σελίδων</string>
   <string name="pref_content_autofit_summary">Αλλαγή των σελίδων για ταίριασμα στην οθόνη</string>
-  <string name="pref_content_block_float_popups">Αποκλεισμός αναδ. παραθύρων</string>
-  <string name="pref_content_block_popups">Αποκλεισμός αναδυόμενων</string>
+  <string name="pref_content_block_float_popups">Φραγή αναδ. παραθύρων</string>
+  <string name="pref_content_block_popups">Φραγή αναδυόμενων</string>
   <string name="pref_content_fontsize_setting">Ρυθμίσεις γραμματοσειράς</string>
   <string name="pref_content_homepage">Ορισμός αρχικής σελίδας</string>
   <string name="pref_content_javascript">Ενεργοποίηση JavaScript</string>

@@ -52,7 +52,7 @@
   <string name="general_menu_favorite">Αγαπημένα</string>
   <string name="general_menu_unfavorite">Αφαίρεση από τα αγαπημένα</string>
   <string name="general_no_yellow_page">Λίστα είναι κενή</string>
-  <string name="general_recent_title">Πρόσφατος</string>
+  <string name="general_recent_title">Πρόσφατες</string>
   <string name="general_yellow_page_title">Γενικά</string>
   <string name="login_before_use">Παρακαλούμε συνδεθείτε πριν από τη χρήση.</string>
   <string name="login_ok">Σύνδεση</string>
@@ -139,7 +139,7 @@
   <string name="try_again">Δοκιμάστε ξανά</string>
   <string name="turn_on_smart_antispam_hint">"Προσδιορίστε κλήσεις από άγνωστους αριθμούς χρησιμοποιώντας τον κατάλογο ετικετών της Xiaomi"</string>
   <string name="turn_on_smart_antispam_summary_off">Να αναζητούνται μόνο οι αριθμοί που αποθηκεύονται σε αυτή τη συσκευή</string>
-  <string name="turn_on_smart_antispam_summary_on">Ανέβασμα και τον εντοπισμός των άγνωστων αριθμούς στα αρχεία καταγραφής κλήσεων και στα μηνυμάτων κειμένου</string>
+  <string name="turn_on_smart_antispam_summary_on">Ανέβασμα και τον εντοπισμός των άγνωστων αριθμών στα αρχεία καταγραφής κλήσεων και στα μηνυμάτων κειμένου</string>
   <string name="turn_on_smart_antispam_title">Εντοπισμός των άγνωστων αριθμών</string>
   <string name="user_notice_identify_summary_format">"Το τηλέφωνό σας θα χρησιμοποιήσει τον κατάλογο ετικετών της  MIUI για να μπλοκάρει τις ανεπιθύμητες κλήσεις όταν συνδέεται με WLAN. Αγγίζοντας \"Συμφωνώ\" συμφωνείτε με την Xiaomi να %1$s και %2$s."</string>
   <string name="user_notice_yp_detail_summary_format">"Μερικές από τις πληροφορίες καταλόγου σας είναι ξεπερασμένες. Θέλετε να τις ενημερώσετε? Αγγίζοντας \"Συμφωνώ\" συμφωνείτε με την Xiaomi να %1$s και %2$s."</string>

@@ -272,7 +272,7 @@
     <string name="contactsAllLabel">Επαφές</string>
     <string name="contactsGroupsLabel">Ομάδες</string>
     <string name="contactsFavoritesLabel">Αγαπημένα</string>
-    <string name="dialerIconLabel">Πρόσφατο</string>
+    <string name="dialerIconLabel">Πρόσφατες</string>
     <string name="recentCallsIconLabel">Αρχείο κλήσεων</string>
     <string name="menu_sendTextMessage">Αποστολή μηνύματος κειμένου</string>
     <string name="recentCalls_callNumber">Κλήση %s</string>
@@ -934,7 +934,7 @@
     <string name="next_birthday">Επόμενα γενέθλια: %s</string>
     <string name="ringLabelsGroup">Ήχος κλήσης</string>
     <string name="default_ringtone">Προεπιλεγμένος ήχος κλήσης</string>
-    <string name="recent_number">Πρόσφατος</string>
+    <string name="recent_number">Πρόσφατες</string>
     <string name="cloud_antispam_mark">Ετικέτα ως spam</string>
     <string name="antispam_mark_my_contribution">"Δείξτε σε άλλους χρήστες που έχω επισημάνει αυτό τον αριθμό."</string>
     <string name="antispam_provider_format">Έχει επισημανθεί ως spam από %s</string>
@@ -1099,7 +1099,7 @@
     <string name="sim_contact_dropdown_menu_select_all_miui">Επιλογή όλων</string>
     <string name="delete_selected_sim_entry_miui">Διαγραφή επιλεγμένων επαφών</string>
     <string name="import_selected_sim_entries_miui">Εισαγωγή επιλεγμένων επαφών</string>
-    <string name="dlg_add_blacklist">Αποκλεισμός αυτού του αριθμού?</string>
+    <string name="dlg_add_blacklist">Φραγή αυτού του αριθμού?</string>
     <string name="dlg_remove_blacklist">Άρση αποκλεισμού αυτού του αριθμού?</string>
     <string name="close_dial_pad">Κλείσιμο πληκτρολογίου</string>
     <string name="dial">Κλήση</string>
@@ -1109,7 +1109,7 @@
     <string name="accessibility_calllog_detail">Λεπτομέρειες αρχείου κλήσης</string>
     <string name="select_groups">Επιλέξτε ομάδες</string>
     <string name="sim_capacity">Προβολή χωρητικότητας κάρτας SIM</string>
-    <string name="sim_capacity_content" formatted="false">Συνολική χωρητικότητα %d, χρησιμοποιείται %d</string>
+    <string name="sim_capacity_content" formatted="false">Συνολική χωρητικότητα %d, χρησιμοποιούνται %d</string>
     <string name="sim_contact_existing">Η επαφή SIM υπάρχει ήδη.</string>
     <string name="sim_contact_invalid">Μη έγκυρη επαφή SIM</string>
     <string name="sim_error_generic_failure">Γενική αποτυχία.</string>

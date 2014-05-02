@@ -19,10 +19,10 @@
     <string name="PinMmi">Αλλαγή αριθμού PIN</string>
     <string name="PwdMmi">Αλλαγή κωδικού πρόσβασης</string>
     <string name="RestrictedChangedTitle">Η περιορισμένη πρόσβαση άλλαξε</string>
-    <string name="RestrictedOnAll">Όλες οι υπηρεσίες φωνής/δεδομένων/SMS έχουν αποκλειστεί.</string>
-    <string name="RestrictedOnAllVoice">Όλες οι υπηρεσίες φωνής έχουν αποκλειστεί.</string>
-    <string name="RestrictedOnData">Η υπηρεσία δεδομένων είναι αποκλεισμένη.</string>
-    <string name="RestrictedOnEmergency">Η υπηρεσία έκτακτης ανάγκης είναι αποκλεισμένη.</string>
+    <string name="RestrictedOnAll">Όλες οι υπηρεσίες φωνής/δεδομένων/SMS έχουν φραγή.</string>
+    <string name="RestrictedOnAllVoice">Όλες οι υπηρεσίες φωνής έχουν φραγή.</string>
+    <string name="RestrictedOnData">Η υπηρεσία δεδομένων είναι φραγμένη.</string>
+    <string name="RestrictedOnEmergency">Η υπηρεσία έκτακτης ανάγκης είναι φραγμένη.</string>
     <string name="RestrictedOnNormal">Η υπηρεσία φωνής έχει αποκλειστεί.</string>
     <string name="RestrictedOnSms">Η υπηρεσία SMS έχει αποκλειστεί.</string>
     <string name="RestrictedOnVoiceData">Οι υπηρεσίες φωνής/δεδομένων έχουν αποκλειστεί.</string>

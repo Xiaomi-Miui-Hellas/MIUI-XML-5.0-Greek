@@ -49,7 +49,7 @@
         <item quantity="one">%1$d αγαπημένο</item>
     </plurals>
     <plurals name="pick_recent_list_title">
-        <item quantity="other">%1$d πρόσφατες επαφές</item>
+        <item quantity="other">%1$d Πρόσφατες επαφές</item>
         <item quantity="one">1 πρόσφατη επαφή</item>
     </plurals>
     <plurals name="hint_search_contacts">

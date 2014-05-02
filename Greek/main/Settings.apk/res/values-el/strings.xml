@@ -131,11 +131,11 @@
     <string name="android_beam_tips">Βεβαιωθείτε ότι οι δύο συσκευές είναι κολλητά, και στη συνέχεια, επιλέξτε το περιεχόμενο που θέλετε να μεταβιβάσετε.</string>
     <string name="android_beam_witch_label">Ενεργοποίηση Android Beam</string>
     <string name="animator_duration_scale_title">Κλίμακα διάρκειας Animator</string>
-    <string name="anti_private_summary">Αποκλεισμός ιδιωτικών ή απόρρητων αριθμών</string>
-    <string name="anti_private_title">Αποκλεισμός ιδιωτικών αριθμών</string>
-    <string name="anti_spam">Λίστα αποκλεισμένων</string>
-    <string name="anti_stranger_summary">Αποκλεισμός κλήσεων από οποιοδήποτε αριθμό δεν περιλαμβάνεται στις Επαφές</string>
-    <string name="anti_stranger_title">Αποκλεισμός κλήσεων από άγνωστους αριθμούς</string>
+    <string name="anti_private_summary">Φραγή ιδιωτικών ή απόρρητων αριθμών</string>
+    <string name="anti_private_title">Φραγή ιδιωτικών αριθμών</string>
+    <string name="anti_spam">Λίστα φραγών</string>
+    <string name="anti_stranger_summary">Φραγή κλήσεων από οποιοδήποτε αριθμό δεν περιλαμβάνεται στις Επαφές</string>
+    <string name="anti_stranger_title">Φραγή κλήσεων από άγνωστους αριθμούς</string>
     <string name="apk_status_damage">Κατεστραμμένο</string>
     <string name="apk_status_duplicate">Αντίγραφο</string>
     <string name="apk_status_install">Εγκατεστημένο</string>
@@ -567,7 +567,7 @@
     <string name="checking">Έλεγχος</string>
  <string name="choose_timezone">Επιλογή ζώνης ώρας</string>
     <string name="clean_confirm_title">Διαγράψτε τα αρχεία αυτά?</string>
-    <string name="cleaner">Καθαριστής</string>
+    <string name="cleaner">Καθαρισμός</string>
     <string name="cleaner_support_hints">Powered by Clean Master</string>
     <string name="cleanning_prefix">Καθάρισμα: %s</string>
  <string name="clear_activities">Εκκαθάριση προεπιλογών</string>
@@ -666,7 +666,7 @@
     <string name="data_usage_app_restrict_dialog_title">Περιορισμός δεδομένων παρασκηνίου?</string>
     <string name="data_usage_app_restricted">περιορισμένα</string>
  <string name="data_usage_app_settings">Προβολή ρυθμίσεων εφαρμογών</string>
-    <string name="data_usage_auto_sync_off_dialog">"Αυτό θα διατηρήσει τα δεδομένα και τη χρήση της μπαταρίας, αλλά θα πρέπει να συγχρονίζετε κάθε λογαριασμό χέρι για να συλλέξει πρόσφατες πληροφορίες. Και δεν θα λαμβάνετε ειδοποιήσεις όταν συμβαίνουν ενημερώσεις".</string>
+    <string name="data_usage_auto_sync_off_dialog">"Αυτό θα διατηρήσει τα δεδομένα και τη χρήση της μπαταρίας, αλλά θα πρέπει να συγχρονίζετε κάθε λογαριασμό χέρι για να συλλέξει >Ενεργοποίηση< πληροφορίες. Και δεν θα λαμβάνετε ειδοποιήσεις όταν συμβαίνουν ενημερώσεις".</string>
     <string name="data_usage_auto_sync_off_dialog_title">Απενεργοποιήστε τα δεδομένα αυτόματου συγχρονισμού?</string>
     <string name="data_usage_auto_sync_on_dialog">"Όποιες αλλαγές κάνετε στους λογαριασμούς σας στο διαδίκτυο θα αντιγραφούν αυτόματα στο τηλέφωνό σας.
 
@@ -942,7 +942,7 @@
     <string name="empty_folder_title">Άδειασμα φακέλου (%d)</string>
     <string name="empty_folder_title_hints">Άδειασμα φακέλου</string>
     <string name="empty_list_msg">"Δεν έχετε καμία εγκατεστημένη εφαρμογή τρίτων."</string>
-    <string name="emptylist_fwlog_call">Οι αποκλεισμένες κλήσεις θα καταγραφούν εδώ</string>
+    <string name="emptylist_fwlog_call">Οι φραγμένες κλήσεις θα καταγραφούν εδώ</string>
     <string name="emptylist_fwlog_ms">Όλα τα μπλοκαρισμένα κείμενα και μηνύματα MMS θα καταγραφεί εδώ</string>
  <string name="enable_adb">Εντοπισμός σφαλμάτων USB</string>
  <string name="enable_adb_summary">Λειτουργία εντοπισμού σφαλμάτων όταν το USB είναι συνδεδεμένο</string>
@@ -953,7 +953,7 @@
     <string name="enable_app_permission_title">Η παρακολούθηση αδειών είναι ενεργοποιημένη</string>
     <string name="enable_compatibility">Προσαρμογή εφαρμογής</string>
     <string name="enable_drive_mode">Λειτουργία αυτοκινήτου</string>
-    <string name="enable_firewall">Αποκλεισμός ανεπιθύμητων κλήσεων</string>
+    <string name="enable_firewall">Φραγή ανεπιθύμητων κλήσεων</string>
     <string name="enable_opengl_traces_title">Ενεργοποίηση ίχνη OpenGL</string>
     <string name="enable_service_title">Χρήση %1$s?</string>
  <string name="enable_snapshot_screenlock">Πάτημα πλήκτρου επιστροφής για στιγμιότυπο οθόνης όταν είναι κλειδωμένο</string>
@@ -1062,7 +1062,7 @@
     <string name="fw_all_day">Καθημερινά</string>
     <string name="fw_blacklist">Λίστα μπλοκαρισμένων</string>
     <string name="fw_blacklist_hint">Οι κλήσεις και τα μηνύματα θα πρέπει να αποκλείονται από προεπιλογή</string>
-    <string name="fw_blocked">Αρχείο αποκλεισμένων</string>
+    <string name="fw_blocked">Αρχείο γραγμένων</string>
     <string name="fw_blocked_count" formatted="false">Μπλοκαρισμένες:%dΚλήσεις και %dΜηνύματα</string>
     <string name="fw_call" formatted="false">Χρόνος κλήσης: %s (%d)</string>
     <string name="fw_call_imported">Εισαγωγή καταγραφής κλήσεων</string>
@@ -1272,13 +1272,13 @@
     <string name="large_file_sort_type_size">Ταξινόμηση κατά μέγεθος</string>
  <string name="large_font">Μεγάλη</string>
     <string name="last_check_canceled">Η προηγούμενη σάρωση ακυρώθηκε</string>
-    <string name="last_check_date_today">"Η πιο πρόσφατη σάρωση: Σήμερα"</string>
-    <string name="last_check_date_yesterday">"Η πιο πρόσφατη σάρωση: Χθες"</string>
+    <string name="last_check_date_today">"Τελευταία σάρωση σήμερα :"</string>
+    <string name="last_check_date_yesterday">"Τελευταία σάρωση χθες :"</string>
     <string name="last_check_never_checked">Σάρωση συνιστάται (για πρώτη φορά)</string>
     <string name="last_checked_date">Η τελευταία σάρωσης ήταν περισσότερο από 30 ημέρες πριν</string>
-    <string name="last_checked_date2">Η πιο πρόσφατη σάρωση ήταν %d ημέρες πριν</string>
+    <string name="last_checked_date2">Τελευταία σάρωση %d ημέρες πριν</string>
     <string name="last_checked_date_mark">πόντοι</string>
-    <string name="last_checked_default">Η πιο πρόσφατη σάρωση ήταν %s ημέρες πριν</string>
+    <string name="last_checked_default">Τελευταία σάρωση %s ημέρες πριν</string>
  <string name="last_synced">Τελευταίος συγχρονισμός %1$s</string>
  <string name="launch_count_label">Αρίθμηση</string>
  <string name="led_colors_summary">Χρώμα ειδοποίησης LED</string>
@@ -1396,7 +1396,7 @@
  <string name="manageapplications_settings_summary">Διαχείριση και αφαίρεση εγκατεστημένων εφαρμογών</string>
  <string name="manageapplications_settings_title">Διαχείριση εφαρμογών</string>
  <string name="manually_add_network">Χειροκίνητη προσθήκη δικτύου</string>
-    <string name="mark_number_dialog_maintitle">Αποκλεισμός και αναφορά αριθμού</string>
+    <string name="mark_number_dialog_maintitle">Φραγή και αναφορά αριθμού</string>
     <string name="mark_number_dialog_subtitle">Αναπτύχθηκε εν μέρει με την Sogou</string>
  <string name="master_clear_accounts">Αυτή τη στιγμή έχετε συνδεθεί με τους παρακάτω λογαριασμούς </string>
  <string name="master_clear_all">Είστε σίγουροι ότι θέλετε να διαγράψετε όλα τα δεδομένα στις εργοστασιακές ρυθμίσεις. Αυτή η λειτουργία δεν μπορεί να αναιρεθεί</string>
@@ -1438,7 +1438,7 @@
  <string name="medium_font">Μεσαία</string>
     <string name="mem_lock">Κλείδωμα</string>
     <string name="mem_unlock">Ξεκλείδωμα</string>
-    <string name="member_firewall_log" formatted="false">Αποκλεισμένοι: Αριθμός%d, Λεπτομέρειες%d</string>
+    <string name="member_firewall_log" formatted="false">Φραγμένοι: Αριθμός %d, Λεπτομέρειες %d</string>
     <string name="memory">Μνήμη</string>
     <string name="memory_apps_usage">Εφαρμογές (δεδομένα εφαρμογών &amp; πολυμέσα)</string>
  <string name="memory_available">Διαθέσιμος</string>
@@ -1622,7 +1622,7 @@ Android File Transfer,
  <string name="notification_sound_title">Προεπιλεγμένη ειδοποίηση</string>
     <string name="notification_summary_of_garbage_cleanup">Το μέγεθος των άχρηστων είναι πάνω %s.</string>
     <string name="notification_summary_of_low_memory">Όταν είναι χαμηλή η μνήμη, δεν θα εγκαταστήσει νέες εφαρμογές</string>
-    <string name="notification_title_firewall_blocked">Αποκλεισμένοι</string>
+    <string name="notification_title_firewall_blocked">Φραγμένοι</string>
     <string name="notification_title_of_garbage_cleanup">Σκεφτείτε το άδειασμα σκουπιδιών</string>
     <string name="notification_title_of_low_memory">Το σύστημα αποθήκευσης έχει χρησιμοποιήσει %s</string>
  <string name="notification_vibrate_abbreviation">Ειδοποιήσεις</string>
@@ -2168,7 +2168,7 @@ Android File Transfer,
  <string name="proxy_error_dismiss">Εντάξει</string>
  <string name="proxy_error_empty_host_set_port">Το πεδίο θύρα πρέπει να είναι κενό αν το πεδίο διακομιστής είναι κενό </string>
  <string name="proxy_error_empty_port">Πρέπει να συμπληρώσετε το πεδίο θύρα </string>
- <string name="proxy_error_invalid_exclusion_list">"Ο κατάλογος αποκλεισμού που πληκτρολογήσατε δεν είναι σωστά διαμορφωμένος. Πληκτρολογήστε μια λίστα διαχωρισμένη με κόμματα των αποκλεισμένων περιοχών"</string>
+ <string name="proxy_error_invalid_exclusion_list">"Ο κατάλογος αποκλεισμού που πληκτρολογήσατε δεν είναι σωστά διαμορφωμένος. Πληκτρολογήστε μια λίστα διαχωρισμένη με κόμματα των φραγμένων περιοχών"</string>
  <string name="proxy_error_invalid_host">Το όνομα διακομιστή που πληκτρολογήσατε δεν είναι έγκυρο </string>
  <string name="proxy_error_invalid_port">Η θύρα που πληκτρολογήσατε δεν είναι έγκυρη </string>
  <string name="proxy_exclusionlist_hint">example com mycomp test com localhost</string>
@@ -2319,7 +2319,7 @@ Android File Transfer,
     <string name="roaming_warning_multiuser">"Όταν επιτρέπετε η περιαγωγή δεδομένων, μπορεί να υπάρξουν σημαντικές χρεώσεις περιαγωγής!
 
 Αυτή η ρύθμιση επηρεάζει όλους τους χρήστες σε αυτό το τηλέφωνο."</string>
-    <string name="rubbish_cleaning">Καθαριστής</string>
+    <string name="rubbish_cleaning">Καθαρισμός</string>
     <string name="running_process_item_removed_user_label">Αφαιρέθηκε ο χρήστης</string>
     <string name="running_process_item_user_label">Χρήστης: %1$s</string>
     <string name="running_processes_item_description_p_p">%1$d διεργασίες and %2$d υπηρεσίες</string>
@@ -2743,7 +2743,7 @@ Android File Transfer,
     <string name="turn_on_smart_antispam_hint">Προσδιορίστε τις ανεπιθύμητες κλήσεις</string>
     <string name="turn_on_smart_antispam_summary_off">Φίλτρο χρησιμοποιώντας την τοπική βάση δεδομένων αριθμό</string>
     <string name="turn_on_smart_antispam_summary_on">Διατίθεται μόνο όταν είναι συνδεδεμένο με WLAN ή 3G δικτύου</string>
-    <string name="turn_on_smart_antispam_title">Εντοπισμός των άγνωστων αριθμούς</string>
+    <string name="turn_on_smart_antispam_title">Εντοπισμός των άγνωστων αριθμών</string>
     <string name="under_keyguard">Κλείδωμα της οθόνης</string>
     <string name="uninstall_all_users_text">Καταργήστε την εγκατάσταση για όλους τους χρήστες</string>
     <string name="uninstall_confirm_title">Απεγκαταστήσετε αυτές τις εφαρμογές</string>
@@ -2913,12 +2913,12 @@ Android File Transfer,
     <string name="vibrate_when_ringing_title">Δονείται όταν κουδουνίζει</string>
     <string name="virus_activity_title">Ιός</string>
     <string name="virus_button_clear">Εκκαθάριση</string>
-    <string name="virus_scan">Σάρωση για ιούς</string>
+    <string name="virus_scan">Σάρωση ιών</string>
  <string name="virus_scan_app_continue">Συνέχεια σάρωσης</string>
  <string name="virus_scan_app_find_risk">%d αποτελεί κίνδυνο, προτείνεται η αφαίρεσή του </string>
  <string name="virus_scan_app_finish">Ολοκληρώθηκε</string>
  <string name="virus_scan_app_force_stop">Η σάρωση σταμάτησε </string>
- <string name="virus_scan_app_is_stop_scan">Θέλετε να σταματήσει η σάρωση για ιούς </string>
+ <string name="virus_scan_app_is_stop_scan">Θέλετε να σταματήσει η σάρωση ιών </string>
  <string name="virus_scan_app_multi_engines">Επιλέξτε μηχανή σάρωσης ενδέχεται να διαρκέσει παραπάνω</string>
  <string name="virus_scan_app_no_risk">Δε βρέθηκαν κίνδυνοι </string>
  <string name="virus_scan_app_passed">Πέρασε τον έλεγχο </string>
@@ -2948,11 +2948,11 @@ Android File Transfer,
     <string name="virus_scan_is_cloud_scanning">Cloud σάρωση ...</string>
     <string name="virus_scan_is_scanning">Σάρωση ...</string>
     <string name="virus_scan_judge_is_virus">Ελέγξτε τις εφαρμογές για ιούς πριν την εγκατάσταση</string>
-    <string name="virus_scan_last_risk">Ύποπτες εφαρμογές ανακαλύφθηκαν στην πιο πρόσφατη σάρωση δεν έχουν να μην αφαιρείται.</string>
-    <string name="virus_scan_last_scan_date">Η πιο πρόσφατη σάρωση ήταν %d ημέρες πριν</string>
-    <string name="virus_scan_last_scan_today">"Πιο πρόσφατη σάρωση: Σήμερα "</string>
-    <string name="virus_scan_last_scan_yesterday">"Πιο πρόσφατη σάρωση: Χτες "</string>
-    <string name="virus_scan_last_time">Πιο πρόσφατη σάρωση: %s</string>
+    <string name="virus_scan_last_risk">Ύποπτες εφαρμογές ανακαλύφθηκαν τελευταία σάρωση δεν έχουν να μην αφαιρείται.</string>
+    <string name="virus_scan_last_scan_date">Τελευταία σάρωση %d ημέρες πριν</string>
+    <string name="virus_scan_last_scan_today">"Τελευταία σάρωση σήμερα :"</string>
+    <string name="virus_scan_last_scan_yesterday">"Τελευταία σάρωση εχθές "</string>
+    <string name="virus_scan_last_time">Τελευταία σάρωση: %s</string>
     <string name="virus_scan_last_virus">Βρέθηκαν οι ιοί στην τελευταία σάρωση.</string>
     <string name="virus_scan_lib_unknow">Τελευταία ενημέρωση: άγνωστο</string>
     <string name="virus_scan_lib_update_success">Ενημέρωση ολοκληρώθηκε!</string>
@@ -2975,7 +2975,7 @@ Android File Transfer,
     <string name="virus_scan_safe">Καθαρισμός</string>
     <string name="virus_scan_settings">Ρυθμίσεις</string>
     <string name="virus_scan_settings_title">Ρυθμίσεις ορισμού ιών</string>
-    <string name="virus_scan_start">Σάρωση για ιούς</string>
+    <string name="virus_scan_start">Σάρωση ιών</string>
     <string name="virus_scan_stop">Παύση</string>
     <string name="virus_scan_support">Powered by Tencent</string>
     <string name="virus_scan_uninstalled_package">%s (εγκατάσταση pkg)</string>

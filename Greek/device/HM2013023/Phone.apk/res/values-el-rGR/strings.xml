@@ -7,10 +7,10 @@
     <string name="associate_sim_missing_message">SIM %1$s δεν είναι διαθέσιμη. Για να πραγματοποιήσετε μια κλήση πάνω από %2$s?</string>
     <string name="associate_sim_missing_other">Άλλο</string>
     <string name="auto_reject_sum">Επιλέξτε τη μέθοδο του αποκλεισμού εισερχόμενων κλήσεων</string>
-    <string name="auto_reject_sum_sip">Αποκλεισμός όλων των κλήσεων στο Διαδίκτυο</string>
-    <string name="auto_reject_sum_video">Αποκλεισμός όλων των κλήσεων βίντεο</string>
+    <string name="auto_reject_sum_sip">Φραγή κλήσεων στο Διαδίκτυο</string>
+    <string name="auto_reject_sum_video">Φραγή κλήσεων βίντεο</string>
     <string name="auto_reject_sum_voice">Αποκλείστε όλες τις φωνητικές κλήσεις</string>
-    <string name="auto_reject_title">Αποκλεισμός όλων των εισερχόμενων κλήσεων</string>
+    <string name="auto_reject_title">Φραγή εισερχόμενων κλήσεων</string>
     <string name="auto_reject_title_sip">Κλήσεις μέσω του Διαδικτύου</string>
     <string name="auto_reject_title_video">Κλήσεις βίντεο</string>
     <string name="auto_reject_title_voice">Φωνητικές κλήσεις</string>

@@ -49,7 +49,7 @@
   <string name="free_style_enter_tip">Σύρετε προς τα κάτω με δύο δάχτυλα για να μεταβείτε στο MiSpace</string>
   <string name="free_style_exit_tip">Σύρετε προς τα πάνω με δύο δάχτυλα για να βγείτε από το MiSpace</string>
   <string name="free_style_londing_text">Προετοιμασία MiSpace…</string>
-  <string name="gadget_clear_button_label">Καθαριστής εργασιών</string>
+  <string name="gadget_clear_button_label">Καθαρισμός εργασιών</string>
   <string name="gadget_clock_12_label">Ρολόϊ 2x1</string>
   <string name="gadget_clock_22_label">Ρολόϊ 2x2</string>
   <string name="gadget_clock_24_label">Ρολόϊ 4x2</string>

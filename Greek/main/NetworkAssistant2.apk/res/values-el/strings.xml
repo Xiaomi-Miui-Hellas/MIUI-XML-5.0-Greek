@@ -8,8 +8,8 @@
   <string name="adjust_traffic_carrier_summary_yesterday">Ενημερώθηκε χθές στις %s</string>
   <string name="adjust_traffic_data">Ορισμός χρήσης δεδομένων</string>
   <string name="app_detail">Λεπτομέρειες</string>
-  <string name="app_mobile">ΔΕΔΟΜΕΝΑ</string>
-  <string name="app_name">Χρήση δεδομένων</string>
+  <string name="app_mobile">Δεδομένα</string>
+  <string name="app_name">Δεδομένα</string>
   <string name="app_version">Έκδοση</string>
   <string name="app_wifi">WLAN</string>
   <string name="background_traffic">Παρασκήνιο %s</string>

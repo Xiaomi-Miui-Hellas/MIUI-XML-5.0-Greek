@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Φρουρός</string>
-  <string name="bl_block_info" formatted="false">Αποκλεισμένα: αριθμός %d, λεπτομέρειες %d</string>
-  <string name="bl_no_blacklist">Χωρίς αποκλεισμένους αριθμούς</string>
-  <string name="bl_no_block_call">Χωρίς αποκλεισμένες κλήσεις</string>
-  <string name="bl_no_block_sms">Χωρίς αποκλεισμένα μηνύματα</string>
-  <string name="dlg_add_blacklist">Αποκλεισμός αυτού του αριθμού?</string>
+  <string name="bl_block_info" formatted="false">Φραγμένα: αριθμός %d, λεπτομέρειες %d</string>
+  <string name="bl_no_blacklist">Χωρίς φραγμένους αριθμούς</string>
+  <string name="bl_no_block_call">Χωρίς φραγμένες κλήσεις</string>
+  <string name="bl_no_block_sms">Χωρίς φραγμένα μηνύματα</string>
+  <string name="dlg_add_blacklist">Φραγή αυτού του αριθμού?</string>
   <string name="dlg_add_keyword">Προσθήκη λέξεων-κλειδιών</string>
   <string name="dlg_add_manual_hint">Εισαγωγή αριθμού τηλεφώνου</string>
   <string name="dlg_add_manual_ok">Προσθήκη</string>
-  <string name="dlg_bl_add_manual">Προσθήκη αριθμού στα αποκλεισμένα</string>
-  <string name="dlg_clear_all_call">Διαγραφή αποκλεισμένων κλήσεων?</string>
+  <string name="dlg_bl_add_manual">Προσθήκη αριθμού στα φραγμένα</string>
+  <string name="dlg_clear_all_call">Διαγραφή φραγμένων κλήσεων?</string>
   <string name="dlg_clear_all_ok">Διαγραφή όλων</string>
   <string name="dlg_clear_all_sms">Διαγραφή όλων των μηνυμάτων?</string>
   <string name="dlg_clear_blacklist">Διαγραφή της λίστας?</string>
@@ -30,7 +30,7 @@
   <string name="dlg_retore">Επαναφορά στην εφαρμογή μηνυμάτων?</string>
   <string name="dlg_retore_ok">Επαναφορά</string>
   <string name="fw_blocked">Στατιστικά αποκλεισμών</string>
-  <string name="fw_blocked_count" formatted="false">Αποκλεισμένα: %d Κλήσεις και %d Μηνύματα</string>
+  <string name="fw_blocked_count" formatted="false">Φραγμένα: %d Κλήσεις και %d Μηνύματα</string>
   <string name="log_count">(%d)</string>
   <string name="marked_by_others">%d άτομα το επισήμαναν ως</string>
   <string name="marked_by_user">επισημάνθηκε από εμένα</string>
@@ -39,43 +39,43 @@
   <string name="menu_add_new_contact">Νέα επαφή</string>
   <string name="menu_bl_add_contact">Επαφές</string>
   <string name="menu_bl_add_manual">Προσθήκη</string>
-  <string name="menu_bl_call_log">Προβολή αποκλεισμένων κλήσεων</string>
+  <string name="menu_bl_call_log">Προβολή φραγμένων κλήσεων</string>
   <string name="menu_bl_clear">Διαγραφή λίστας</string>
   <string name="menu_bl_remove">Διαγραφή από την λίστα</string>
-  <string name="menu_bl_sms_log">Έλεγχος αποκλεισμένων μηνυμάτων</string>
+  <string name="menu_bl_sms_log">Έλεγχος φραγμένων μηνυμάτων</string>
   <string name="menu_call">Κλήση</string>
-  <string name="menu_clear_all_call">Διαγραφή όλων των αποκλεισμένων κλήσεων</string>
-  <string name="menu_clear_all_sms">Διαγραφή όλων των αποκλεισμένων μηνυμάτων</string>
-  <string name="menu_clear_current_call">Διαγραφή όλων των αποκλεισμένων κλήσεων για αυτόν τον αριθμό</string>
-  <string name="menu_clear_current_sms">Διαγραφή όλων των αποκλεισμένων μηνυμάτων που στάλθηκαν από αυτόν τον αριθμό</string>
+  <string name="menu_clear_all_call">Διαγραφή όλων των φραγμένων κλήσεων</string>
+  <string name="menu_clear_all_sms">Διαγραφή όλων των φραγμένων μηνυμάτων</string>
+  <string name="menu_clear_current_call">Διαγραφή όλων των γραγμένων κλήσεων για αυτόν τον αριθμό</string>
+  <string name="menu_clear_current_sms">Διαγραφή όλων των φραγμένων μηνυμάτων που στάλθηκαν από αυτόν τον αριθμό</string>
   <string name="menu_edit">Επεξεργασία</string>
   <string name="menu_mark">Μαρκάρισμα</string>
   <string name="menu_no_block">Άρση αποκλεισμού</string>
   <string name="menu_remove">Διαγραφή</string>
   <string name="menu_restore">Επαναφορά στα μηνύματα</string>
   <string name="menu_sms">Αποστολή μηνύματος</string>
-  <string name="st_advanced_setting_group">Προχωρημένες ρυθμίσεις</string>
-  <string name="st_block_all">Αποκλεισμός μηνυμάτων και κλήσεων</string>
-  <string name="st_block_mute">Αποκλεισμός κλήσεων και σίγαση μηνυμάτων</string>
+  <string name="st_advanced_setting_group">Προχωρημενες ρυθμισεις</string>
+  <string name="st_block_all">Φραγή μηνυμάτων και κλήσεων</string>
+  <string name="st_block_mute">Φραγή κλήσεων και σίγαση μηνυμάτων</string>
   <string name="st_block_private_call_button">Φραγή εισερχόμενων ιδιωτικών αριθμών</string>
-  <string name="st_block_setting_group">Επιλογές λίστας αποκλεισμού</string>
+  <string name="st_block_setting_group">Επιλογες λιστας αποκλεισμου</string>
   <string name="st_block_setting_title">Κλήσεις και μηνύματα</string>
-  <string name="st_block_title">Αποκλεισμός και καταγραφή</string>
-  <string name="st_block_unknown_call">Αποκλεισμός όλων των αγνώστων κλήσεων</string>
-  <string name="st_block_unknown_sms">Αποκλεισμός όλων των αγνώστων μηνυμάτων</string>
+  <string name="st_block_title">Φραγή και καταγραφή</string>
+  <string name="st_block_unknown_call">Φραγή αγνώστων κλήσεων</string>
+  <string name="st_block_unknown_sms">Φραγή αγνώστων μηνυμάτων</string>
   <string name="st_call_group">Κλήση</string>
-  <string name="st_common_setting_group">Ρυθμίσεις φίλτρων</string>
+  <string name="st_common_setting_group">Ρυθμισεις φιλτρων</string>
   <string name="st_filter_keywords_setting_summary1">Τα μηνύματα από άγνωστες επαφές θα αποκλειστούν.</string>
   <string name="st_filter_keywords_setting_summary2">Προσθήκη πολλαπλών λέξεων-κλειδιών που διαχωρίζονται με κόμμα.</string>
-  <string name="st_filter_keywords_setting_title">Ορισμός λέξεων-κλειδιών ως φίλτρα</string>
+  <string name="st_filter_keywords_setting_title">Λέξεις-κλειδιά ως φίλτρα</string>
   <string name="st_filter_keywords_title">Φιλτράρισμα λέξεων-κλειδιών</string>
-  <string name="st_filter_sms_button">Φίλτρο ανεπιθύμητων μηνυμάτων</string>
+  <string name="st_filter_sms_button">Φίλτρο ανεπιθ. μηνυμάτων</string>
   <string name="st_mute_all">Σίγαση κλήσεων και μηνυμάτων</string>
-  <string name="st_mute_block">Σίγαση κλήσεων και αποκλεισμός μηνυμάτων</string>
+  <string name="st_mute_block">Σίγαση κλήσεων και φραγή μηνυμάτων</string>
   <string name="st_mute_title">Αθόρυβη λειτουργία</string>
-  <string name="st_other_setting_group">Άλλες ρυθμίσεις</string>
+  <string name="st_other_setting_group">Αλλες ρυθμισεις</string>
   <string name="st_settings_name">Ρυθμίσεις</string>
-  <string name="st_show_block_notification">Προβολή ειδοποίησης αποκλεισμού</string>
+  <string name="st_show_block_notification">Ειδοποίηση των φραγών</string>
   <string name="st_sms_group">Μηνύματα</string>
   <string name="tab_blacklist">Λίστα</string>
   <string name="tab_block_log">Τείχος προστασίας</string>

@@ -208,8 +208,8 @@
     <string name="serviceNotProvisioned">Η υπηρεσία δεν προβλέπεται.</string>
     <string name="CLIRPermanent">Δεν μπορείτε να αλλάξετε τη ρύθμιση του αναγνωριστικού καλούντος.</string>
     <string name="RestrictedChangedTitle">Η περιορισμένη πρόσβαση άλλαξε</string>
-    <string name="RestrictedOnData">Η υπηρεσία δεδομένων είναι αποκλεισμένη.</string>
-    <string name="RestrictedOnEmergency">Η υπηρεσία έκτακτης ανάγκης είναι αποκλεισμένη.</string>
+    <string name="RestrictedOnData">Η υπηρεσία δεδομένων είναι φραγμένη.</string>
+    <string name="RestrictedOnEmergency">Η υπηρεσία έκτακτης ανάγκης είναι φραγμένη.</string>
     <string name="RestrictedOnNormal">Η υπηρεσία φωνής έχει αποκλειστεί.</string>
     <string name="RestrictedOnAllVoice">Όλες οι υπηρεσίες φωνής έχουν αποκλειστεί.</string>
     <string name="RestrictedOnSms">Η υπηρεσία SMS έχει αποκλειστεί.</string>

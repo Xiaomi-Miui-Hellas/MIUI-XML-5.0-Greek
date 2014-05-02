@@ -367,7 +367,7 @@
         <item>Αποσύνδεση…</item>
         <item>Αποσυνδέθηκε</item>
         <item>Ανεπιτυχής</item>
-        <item>Αποκλεισμένο</item>
+        <item>Φραγμένο</item>
         <item>Προσωρινή αποφυγή κακής σύνδεσης</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
@@ -381,7 +381,7 @@
         <item>Αποσύνδεση από το %1$s…</item>
         <item>Αποσυνδέθηκε</item>
         <item>Ανεπιτυχής</item>
-        <item>Αποκλεισμένο</item>
+        <item>Φραγμένο</item>
         <item>Προσωρινή αποφυγή κακής σύνδεσης</item>
     </string-array>
     <string-array name="wifi_wapi_key_type">
