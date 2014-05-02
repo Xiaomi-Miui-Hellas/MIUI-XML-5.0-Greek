@@ -223,7 +223,7 @@
 	<string name="status_bar_network_flow_exceed">"Σήμερα:%1$s    Υπέρβαση:%2$s    Πακέτο:%3$s"</string>
 	<string name="status_bar_network_flow_today">Σήμερα:%1$s</string>
 	<string name="status_bar_network_name_separator">|</string>
-	<string name="status_bar_no_recent_apps">Δεν υπάρχουν >Ενεργοποίηση< εφαρμογές</string>
+	<string name="status_bar_no_recent_apps">Δεν υπάρχουν πρόσφατες εφαρμογές</string>
 	<string name="status_bar_notification_inspect_item_title">Πληροφορίες εφαρμογής</string>
 	<string name="status_bar_recent_guide_all">Σύρετε προς τα πάνω για κλείσιμο, προς τα κάτω για κλείδωμα</string>
 	<string name="status_bar_recent_guide_bottom">Σύρετε προς τα κάτω για κλείδωμα</string>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.android.cellbroadcastreceiver">
+    <original-package android:name="com.android.cellbroadcastreceiver"/>
+    <uses-permission android:name="android.permission.RECEIVE_SMS"/>
+    <uses-permission android:name="android.permission.RECEIVE_EMERGENCY_BROADCAST"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS"/>
+    <application android:icon="@mipmap/ic_launcher_cell_broadcast" android:label="@string/app_label" android:name="CellBroadcastReceiverApp">
+        <service android:exported="false" android:name="CellBroadcastAlertAudio"/>
+        <service android:exported="false" android:name="CellBroadcastAlertService"/>
+        <service android:exported="false" android:name="CellBroadcastConfigService"/>
+        <service android:exported="false" android:name="CellBroadcastAlertReminder"/>
+        <provider android:authorities="cellbroadcasts" android:name="CellBroadcastContentProvider" android:readPermission="android.permission.READ_CELL_BROADCASTS"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:label="@string/app_label" android:launchMode="singleTask" android:name="CellBroadcastListActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.cellbroadcastreceiver.UPDATE_LIST_VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:exported="true" android:label="@string/sms_cb_settings" android:launchMode="singleTask" android:name="CellBroadcastSettings"/>
+        <activity android:configChanges="keyboard|keyboardHidden|navigation|orientation" android:exported="false" android:launchMode="singleTask" android:name="CellBroadcastAlertDialog" android:theme="@android:style/Theme.Holo.Dialog"/>
+        <activity android:configChanges="keyboard|keyboardHidden|navigation|orientation" android:excludeFromRecents="true" android:exported="false" android:launchMode="singleTask" android:name="CellBroadcastAlertFullScreen" android:theme="@style/AlertFullScreenTheme"/>
+        <activity android:exported="false" android:name="CellBroadcastOptOutActivity"/>
+        <receiver android:name="PrivilegedCellBroadcastReceiver" android:permission="android.permission.BROADCAST_SMS">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SMS_EMERGENCY_CB_RECEIVED"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SMS_CB_RECEIVED"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SMS_SERVICE_CATEGORY_PROGRAM_DATA_RECEIVED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="PrivilegedCellBroadcastReceiver" android:permission="android.permission.READ_PHONE_STATE">
+            <intent-filter>
+                <action android:name="android.cellbroadcastreceiver.GET_LATEST_CB_AREA_INFO"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="CellBroadcastReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.AIRPLANE_MODE"/>
+            </intent-filter>
+        </receiver>
+        <activity android:label="@string/select_subscription_title" android:name="SelectSubscription">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/cell_broadcast_sms_title" android:name="CellBroadcastChannel50Alerts">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

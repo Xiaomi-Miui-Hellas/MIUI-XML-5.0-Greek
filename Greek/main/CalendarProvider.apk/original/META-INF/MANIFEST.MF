@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_45 (Sun Microsystems Inc.)
+
+Name: res/xml/holiday_data_update.xml
+SHA1-Digest: JkPvNs8SfTs9q75XCVaOmd7hBGg=
+
+Name: res/drawable-hdpi/app_icon.png
+SHA1-Digest: O/A235YXwdb5bUwQmKZ8Lc6BusY=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 4ydqFBrQM3QxNwdTs1yHOmEiMWE=
+
+Name: res/layout/dialog_activity.xml
+SHA1-Digest: DRG8LdyJn5PrRtGl7Sk426+Jkdg=
+
+Name: res/drawable-xhdpi/app_icon.png
+SHA1-Digest: QofAU4vj4ywa4b4oHlCKoAnkwOU=
+
+Name: resources.arsc
+SHA1-Digest: 8dSKmLBAGmsLATUjSpCzUr+syG0=
+
+Name: assets/holiday.json
+SHA1-Digest: kYt9uWarSKqend3FSyUxJMv3nGg=
+
+Name: res/xml/syncadapter.xml
+SHA1-Digest: SXgtbzdQAKiQXHLpWha4QiY5bJ8=
+

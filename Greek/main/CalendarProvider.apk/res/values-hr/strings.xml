@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_storage">Kalendar pohrana</string>
+    <string name="upgrade_msg">Nadogradnja baze podataka Kalendara</string>
+    <string name="calendar_default_name">Zadano</string>
+    <string name="calendar_info">Detalji kalendara</string>
+    <string name="calendar_info_error">Greška</string>
+    <string name="calendar_info_no_calendars">Nema kalendara</string>
+    <string name="calendar_info_events">Događaji: %1$d</string>
+    <string name="calendar_info_events_dirty">Događaji: %1$d, Unsaved: %2$d</string>
+    <string name="provider_label">Kalendar</string>
+    <string name="debug_tool_delete_button">Izrisati sada</string>
+    <string name="debug_tool_start_button">Započni</string>
+    <string name="debug_tool_message">Spremate se 1) napraviti kopiju baze podataka kalendara na SD karticu/USB uređaj za pohranu koji može čitati bilo koja aplikacija, i 2) poslati e-poštom. Ne zaboravite izbrisati kopiju čim je uspješno kopirano na uređaj ili e-pošta primljena.</string>
+    <string name="debug_tool_email_sender_picker">Odaberite program za slanje datoteke</string>
+    <string name="debug_tool_email_subject">Kalendar Db u prilogu</string>
+    <string name="debug_tool_email_body">U prilogu je moj kalendar baze podataka sa svim mojim obvezama i osobnim podacima. Pažljivo s njime.</string>
+    <string name="holiday_update_title">Podaci radnih dana trebaju povezivanje na mrežu i ažuriranje</string>
+    <string name="holiday_update_summary">Kliknite provjerite ažuriranja</string>
+    <string name="holiday_data_updating">Ažuriranje...</string>
+    <string name="holiday_data_update_failed">Provjeri pogreške ažuriranja i pokušajte ponovno kasnije.</string>
+    <string name="holiday_data_update_succeed">Provjerite za završena ažuriranja</string>
+    <string name="holiday_data_no_network">Nema mreže, pokušajte ponovno kasnije</string>
+</resources>

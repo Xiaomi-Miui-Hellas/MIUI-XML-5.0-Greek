@@ -1,0 +1,79 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: ajok6ilG0owyDTOBYnpOvnyJPW0=
+
+Name: res/xml/preferences.xml
+SHA1-Digest: 3yyMvBG72S5IWRaMz4aK2QcpCN4=
+
+Name: res/raw/attention_signal.ogg
+SHA1-Digest: ZgjkD7KuRBIfvbBgqy3H2C7ZfcU=
+
+Name: res/xml/preferenceschannel50.xml
+SHA1-Digest: EP+5yE3gQjWIlHgM79rbsguVtqU=
+
+Name: res/layout/cell_broadcast_list_item.xml
+SHA1-Digest: we1NFr01ZNiFZ5fCM8aaZpVx/qY=
+
+Name: resources.arsc
+SHA1-Digest: 7Yul8QPqW5USOCWMBSNpI4OAjkU=
+
+Name: res/layout/delete_broadcast_dialog_view.xml
+SHA1-Digest: XrM4Yr7f6a+PveuLGf4AwAGTDcA=
+
+Name: res/drawable-hdpi/ic_warning_large.png
+SHA1-Digest: LfEw+zGOcg9oAx5avJwVPpiEFWI=
+
+Name: AndroidManifest.xml
+SHA1-Digest: z9DvbW0fysi25fhxvRgLr/16JxA=
+
+Name: res/xml/select_subscription.xml
+SHA1-Digest: 6mhQhNEb4+9kiQvZS9ipjr5oT7A=
+
+Name: res/mipmap-xxhdpi/ic_launcher_cell_broadcast.png
+SHA1-Digest: KVJD1McM6dGNX/piJoy0idAEGws=
+
+Name: res/layout/cell_broadcast_list_screen.xml
+SHA1-Digest: EMwcY2Kvd8v2GnmTwCfByA/L8Q8=
+
+Name: res/drawable-xhdpi/ic_notify_alert.png
+SHA1-Digest: qZRJU6w1hRx5NqloU+YSyylnBLY=
+
+Name: res/drawable-xhdpi/alert_fullscreen_bg.9.png
+SHA1-Digest: 5TQ/aQTXgAMF0wxFaRUJv6gkU0M=
+
+Name: res/drawable-hdpi/stat_color_warning.png
+SHA1-Digest: U21oldS2Ap8hSejRyp0qtQCcyV0=
+
+Name: res/layout/cell_broadcast_alert.xml
+SHA1-Digest: PhTpPLG4HtqfpyQXwKoT8GYWFyg=
+
+Name: res/drawable/list_item_background_unread.xml
+SHA1-Digest: CKY/xoWCa+7z0Ur8flAjQgPGzt4=
+
+Name: res/layout/cell_broadcast_alert_fullscreen.xml
+SHA1-Digest: Owyc7zHIi7I4PIL8+w6V1oHpXa8=
+
+Name: res/drawable-hdpi/ic_notify_alert.png
+SHA1-Digest: ENE24EevsAvTeZK4hwCU2EHodUc=
+
+Name: res/mipmap-hdpi/ic_launcher_cell_broadcast.png
+SHA1-Digest: j5eRjYr2s03G3D9OE8Ro3ZI/e88=
+
+Name: res/xml/preferencesmultisim.xml
+SHA1-Digest: b3jc/tKng1bt6EwzU91dlaogRtY=
+
+Name: res/layout-sw600dp/cell_broadcast_alert_fullscreen.xml
+SHA1-Digest: uqvlJqnpOZ4MN3N3KFr/WH237dU=
+
+Name: res/drawable-hdpi/alert_fullscreen_bg.9.png
+SHA1-Digest: 4ZkLevKtzUqk5ZYMSOyj38GD2U0=
+
+Name: res/drawable/list_item_background_read.xml
+SHA1-Digest: Pu6LOFDMJfc1lwGl6dmHNFIvpW4=
+
+Name: res/mipmap-xhdpi/ic_launcher_cell_broadcast.png
+SHA1-Digest: Cj5j/pcecwpieR4Np0QFW4WwZnQ=
+
+Name: res/mipmap-mdpi/ic_launcher_cell_broadcast.png
+SHA1-Digest: dBrkxrw92wlCVUXZQjmTdv3mzSU=
+
