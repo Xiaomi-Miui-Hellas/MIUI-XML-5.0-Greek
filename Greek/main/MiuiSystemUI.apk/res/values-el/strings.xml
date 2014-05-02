@@ -185,7 +185,7 @@
     <string name="settings_advanced">Ειδικές ρυθμίσεις</string>
   <string name="settings_all_app_display_loading">Φόρτωση, παρακαλώ περιμένετε…</string>
     <string name="settings_basic_settings"></string>
-    <string name="settings_custom_carrier">Vlastní název operátora</string>
+    <string name="settings_custom_carrier">Αλλαγή ονόματος παρόχου</string>
   <string name="settings_custom_notification">Προσαρμογή ρυθμίσεων ειδοποίησης</string>
     <string name="settings_expandable_under_fullscreen">Λειτουργεί μόνο σε πλήρη οθόνη</string>
     <string name="settings_expandable_under_fullscreen_summary">Σέρνοντας από πάνω προς τα κάτω</string>

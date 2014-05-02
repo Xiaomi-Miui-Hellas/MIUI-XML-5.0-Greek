@@ -3177,9 +3177,9 @@ Android File Transfer,
     <string name="wifi_menu_more_options">Περισσότερες επιλογές</string>
     <string name="wifi_menu_p2p">WLAN Direct</string>
  <string name="wifi_menu_scan">Σάρωση</string>
- <string name="wifi_menu_wfd">Wi-Fi Display</string>
+ <string name="wifi_menu_wfd">Οθόνη Wi-Fi</string>
  <string name="wifi_menu_wps_pbc">WPS Push Button</string>
- <string name="wifi_menu_wps_pin">WPS Pin Entry</string>
+ <string name="wifi_menu_wps_pin">Εισαγωγή κωδικού WPS</string>
  <string name="wifi_more">Περισσότερα</string>
  <string name="wifi_network_prefix_length">Μήκος προθέματος δικτύου</string>
  <string name="wifi_not_in_range">Εκτός εμβέλειας</string>
