@@ -8,7 +8,7 @@
   <string name="adjust_traffic_carrier_summary_yesterday">Ενημερώθηκε χθές στις %s</string>
   <string name="adjust_traffic_data">Ορισμός χρήσης δεδομένων</string>
   <string name="app_detail">Λεπτομέρειες</string>
-  <string name="app_mobile">Δεδομένα</string>
+  <string name="app_mobile">Κινητή</string>
   <string name="app_name">Δεδομένα</string>
   <string name="app_version">Έκδοση</string>
   <string name="app_wifi">WLAN</string>
@@ -46,7 +46,7 @@
   <string name="firewall_fragment_sys_listempty">Άδειο</string>
   <string name="firewall_fragment_tab_title_nonsys">Λήφθηκε</string>
   <string name="firewall_fragment_tab_title_sys">Εφαρμογές</string>
-  <string name="firewall_rule_group_title_mobile">Δεδομένα</string>
+  <string name="firewall_rule_group_title_mobile">Κινητή</string>
   <string name="firewall_rule_group_title_wifi">WLAN</string>
   <string name="firewall_service_network_blocked">%1$s έχει περιοριστεί από την χρήση %2$s δικτύων</string>
   <string name="force_stop_dlg_text">"Αν περιορίσετε τα δεδομένων κινητής τηλεφωνίας, ορισμένες εφαρμογές και υπηρεσίες δεν θα λειτουργούν, εκτός αν είστε συνδεδεμένοι σε ένα δίκτυο WLAN."</string>

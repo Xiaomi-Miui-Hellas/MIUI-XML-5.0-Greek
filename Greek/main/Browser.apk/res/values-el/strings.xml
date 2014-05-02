@@ -86,7 +86,7 @@
   <string name="bookmarks_content_is_null">Χωρίς σελιδοδείκτες</string>
   <string name="bookmarks_management">Σελιδοδείκτες</string>
   <string name="bookmarks_root_folder">Γονικός φάκελος</string>
-  <string name="bookmarks_search">Πλοηγός</string>
+  <string name="bookmarks_search">Σελιδοδείκτες</string>
   <string name="bottom_bar_tabs_long_click_down_tip_txt">Σύρετε κάτω για κλείσιμο</string>
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Αυτή είναι η τελευταία καρτέλα</string>
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Σύρετε πάνω για κλείσιμο</string>
@@ -94,7 +94,7 @@
   <string name="browserFrameFormResubmitLabel"/>
   <string name="browserFrameFormResubmitMessage">"Η σελίδα που προσπαθείτε να προβάλετε περιέχει δεδομένα που έχουν σταλθεί ήδη (\"POSTDATA\"). Εάν ξαναστείλετε τα δεδομένα, κάθε κίνηση θα επαναληφθεί (όπως αναζήτηση ή αγορά)."</string>
   <string name="browserFrameNetworkErrorLabel">Πρόβλημα σύνδεσης</string>
-  <string name="browser_bookmarks_page_bookmarks_text">Πλοηγός</string>
+  <string name="browser_bookmarks_page_bookmarks_text">Σελιδοδείκτες</string>
   <string name="browser_history">Πρόσφατες σελίδες</string>
   <string name="cancel">Άκυρο</string>
   <string name="cannot_download">Δυνατότητα λήψης μόνο \"http\" ή \"https\" URLs.</string>
@@ -528,7 +528,7 @@
   <string name="search_easou">Easou</string>
   <string name="search_google">Google</string>
   <string name="search_hint">Αναζήτηση ή εισαγωγή URL</string>
-  <string name="search_label">Πλοηγός</string>
+  <string name="search_label">Αναζήτηση</string>
   <string name="search_s139">139</string>
   <string name="search_settings_description">Σελιδοδείκτες και ιστορικό πλοήγησης</string>
   <string name="search_shipin">Βίντεο</string>

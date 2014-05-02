@@ -54,7 +54,7 @@
   <string name="menu_remove">Διαγραφή</string>
   <string name="menu_restore">Επαναφορά στα μηνύματα</string>
   <string name="menu_sms">Αποστολή μηνύματος</string>
-  <string name="st_advanced_setting_group">Προχωρημενες ρυθμισεις</string>
+  <string name="st_advanced_setting_group">Προχωρημενες ρυθμίσεις</string>
   <string name="st_block_all">Φραγή μηνυμάτων και κλήσεων</string>
   <string name="st_block_mute">Φραγή κλήσεων και σίγαση μηνυμάτων</string>
   <string name="st_block_private_call_button">Φραγή εισερχόμενων ιδιωτικών αριθμών</string>
@@ -73,7 +73,7 @@
   <string name="st_mute_all">Σίγαση κλήσεων και μηνυμάτων</string>
   <string name="st_mute_block">Σίγαση κλήσεων και φραγή μηνυμάτων</string>
   <string name="st_mute_title">Αθόρυβη λειτουργία</string>
-  <string name="st_other_setting_group">Αλλες ρυθμισεις</string>
+  <string name="st_other_setting_group">Αλλες ρυθμίσεις</string>
   <string name="st_settings_name">Ρυθμίσεις</string>
   <string name="st_show_block_notification">Ειδοποίηση των φραγών</string>
   <string name="st_sms_group">Μηνύματα</string>

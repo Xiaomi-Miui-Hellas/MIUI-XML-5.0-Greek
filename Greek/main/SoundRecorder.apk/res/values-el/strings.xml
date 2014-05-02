@@ -57,7 +57,7 @@
   <string name="preference_record_type_dialog_title">Επιλογή τύπου εγραφής</string>
   <string name="pref_title_record_type">Τύπος ηχογράφησης</string>
   <string name="preference_scenes">Ρυθμίσεις σκηνών</string>
-  <string name="preference_silent_mode">Σιωπιλή λειτ. ηχογράφισης</string>
+  <string name="preference_silent_mode">Σιωπηλή λειτ. ηχογράφησης</string>
   <string name="record_list">Λίστα εγγραφών</string>
   <string name="record_loading">Φόρτωση εγγραφής, παρακαλώ περιμένετε.</string>
   <string name="record_name_hour">.</string>

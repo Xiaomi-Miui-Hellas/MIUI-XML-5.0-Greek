@@ -70,7 +70,7 @@
     <string name="camera_key_action_shortcut_title">Συντόμευση</string>
     <string name="camera_key_action_shortcut_wake">Κλείδωμα/Αφύπνιση συσκευής</string>
     <string name="camera_key_action_title">Πλήκτρο MI</string>
-    <string name="camera_key_action_toggle_title">Trigger toggle</string>
+    <string name="camera_key_action_toggle_title">Ορισμός εναλλαγής</string>
     <string name="chooseUsbActivity">Επιλέξτε εφαρμογή για σύνδεση USB</string>
     <string name="compat_mode_help_body">Όταν μια εφαρμογή έχει σχεδιαστεί για μικρότερη οθόνη, δίπλα στο ρολόι εμφανίζεται ο έλεγχος μεγένθυσης.</string>
     <string name="compat_mode_help_header">Μεγέθυνση συμβατότητας</string>

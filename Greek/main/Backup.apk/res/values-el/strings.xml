@@ -26,7 +26,7 @@
   <string name="backup_empty">Δεν βρέθηκαν αντίγραφα ασφαλείας</string>
   <string name="backup_empty_info">Δημιουργήστε αντίγραφα των δεδομένων, ρυθμίσεων και εφαρμογών σας</string>
   <string name="backup_error">Σφάλμα αντίγραφου</string>
-  <string name="backup_failed">Η δημιουργία αντίγραφου απέτυχε παρακαλώ δοκιμάστε ξανά</string>
+  <string name="backup_failed">Η δημιουργία αντιγράφου απέτυχε παρακαλώ δοκιμάστε ξανά</string>
   <string name="backup_file_error">Υπήρξε ένα πρόβλημα με το αρχείο η διεργασία δεν είναι σωστή.</string>
   <string name="backup_finished">Η αντιγραφή ολοκληρώθηκε</string>
   <string name="backup_hint">Μην απενεργοποιήσετε το τηλέφωνο ίσως χάσετε δεδομένα</string>
@@ -39,7 +39,7 @@
   <string name="backup_update">Ενημέρωση</string>
   <string name="batch_delete_backup_confirm">Διαγραφή %d αντιγράφου(ων)?</string>
   <string name="button_abandon">Ακύρωση</string>
-  <string name="button_backup">Δημιουργία αντίγραφου</string>
+  <string name="button_backup">Δημιουργία αντιγράφου</string>
   <string name="button_cancel">Άκυρο</string>
   <string name="button_continue">Συνέχεια</string>
   <string name="button_delete">Διαγραφή</string>

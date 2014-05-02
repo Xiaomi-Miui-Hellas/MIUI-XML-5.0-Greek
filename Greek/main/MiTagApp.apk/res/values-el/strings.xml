@@ -57,7 +57,7 @@ touch it with the back of your phone"</string>
   <string name="dialog_select_account">Select account</string>
   <string name="diselect_all">Αποεπιλογή όλων</string>
   <string name="display">Display</string>
-  <string name="disturb_mode">Do not disturb</string>
+  <string name="disturb_mode">Νυχτερινή σίγαση</string>
   <string name="edit_tag">Επεξεργασία</string>
   <string name="edit_tag_content">touch it with the back of your phone</string>
   <string name="email_body">Message</string>
@@ -151,7 +151,7 @@ touch it with the back of your phone"</string>
   <string name="share_subject">Share one app: %1$s</string>
   <string name="share_wifi">Share WLAN</string>
   <string name="shortcut">Quick tasks</string>
-  <string name="sleep_mode">Do not disturb</string>
+  <string name="sleep_mode">Νυχτερινή σίγαση</string>
   <string name="sms_content">Message</string>
   <string name="sound">Ήχος</string>
   <string name="sound_alarm">Ξυπνητήρι</string>
@@ -163,7 +163,7 @@ touch it with the back of your phone"</string>
   <string name="sure_to_delete_user_config">Delete this task?</string>
   <string name="tag_history">Ιστορικό</string>
   <string name="tag_history_date_format">d/M</string>
-  <string name="task">Trigger tasks</string>
+  <string name="task">Ορισμός ενέργειας</string>
   <string name="toast_import_failed">Failed to import contact</string>
   <string name="toggle">Toggle</string>
   <string name="torch">Torch</string>
