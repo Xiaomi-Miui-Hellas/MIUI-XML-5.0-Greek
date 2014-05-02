@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="activity_not_found">Dεν έχει εγκατασταθεί.</string>
+    <string name="activity_not_found">Δεν έχει εγκατασταθεί.</string>
     <string name="add_call_reject_number">Προσθέσετε έναν αριθμό στη λίστα</string>
     <string name="airplane_mode_on">Αδύνατο το άνοιγμα του SIM toolkit λειτουργία πτήσης.</string>
     <string name="alert_device_error">Σφάλμα στην συσκευή ήχου</string>
     <string name="associate_sim_missing_message">SIM %1$s δεν είναι διαθέσιμη. Για να πραγματοποιήσετε μια κλήση πάνω από %2$s?</string>
     <string name="associate_sim_missing_other">Άλλο</string>
     <string name="auto_reject_sum">Επιλέξτε τη μέθοδο του αποκλεισμού εισερχόμενων κλήσεων</string>
-    <string name="auto_reject_sum_sip">Φραγή κλήσεων στο Διαδίκτυο</string>
-    <string name="auto_reject_sum_video">Φραγή κλήσεων βίντεο</string>
+    <string name="auto_reject_sum_sip">Αποκλεισμός όλων των κλήσεων στο Διαδίκτυο</string>
+    <string name="auto_reject_sum_video">Αποκλεισμός όλων των κλήσεων βίντεο</string>
     <string name="auto_reject_sum_voice">Αποκλείστε όλες τις φωνητικές κλήσεις</string>
-    <string name="auto_reject_title">Φραγή εισερχόμενων κλήσεων</string>
+    <string name="auto_reject_title">Αποκλεισμός όλων των εισερχόμενων κλήσεων</string>
     <string name="auto_reject_title_sip">Κλήσεις μέσω του Διαδικτύου</string>
     <string name="auto_reject_title_video">Κλήσεις βίντεο</string>
     <string name="auto_reject_title_voice">Φωνητικές κλήσεις</string>
