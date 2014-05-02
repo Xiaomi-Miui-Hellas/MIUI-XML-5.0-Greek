@@ -696,4 +696,6 @@ Nastavení telefonu může vyžadovat zvýšené nároky na přenos dat."</strin
     <string name="wifi_tether_wps_pin_error">Nesprávný PIN</string>
     <string name="wifi_tethering_title">Wi-Fi hotspot</string>
     <string name="wifi_wps_fail_error">Nastavení chráněné Wi-Fi sítě selhalo , zkuste to znovu.</string>
+	<string name="dolby_eq_jungle"/>
+	<string name="milicenter_settings"/>
 </resources>
