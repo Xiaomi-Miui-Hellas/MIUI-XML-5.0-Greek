@@ -867,7 +867,7 @@
     <string name="dndm_auto_time_turn_on">Από</string>
     <string name="dndm_auto_time_turn_on_title">Αυτόματη ενεργοποίηση της σίγασης</string>
     <string name="dndm_dlg_remove_ok">Κατάργηση</string>
-    <string name="dndm_dlg_remove_vip">Οι κλήσεις από το πρόσωπο αυτό θα σιγούν όταν το η νυχτερινή σίγαση είναι ενεργοποιημένο</string>
+    <string name="dndm_dlg_remove_vip">Οι κλήσεις από το πρόσωπο αυτό θα σιγούν όταν η νυχτερινή σίγαση είναι ενεργοποιημένο</string>
     <string name="dndm_menu_add_vip_custom">Προσθήκη εξαίρεσης</string>
     <string name="dndm_mute_all">Σίγαση για κλήσεις και μηνύματα.</string>
     <string name="dndm_notification">Η σίγαση είναι ενεργοποιημένη</string>
