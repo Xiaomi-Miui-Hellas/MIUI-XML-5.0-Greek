@@ -203,8 +203,8 @@
   <string name="pref_camera_flashmode_title">Λειτουργία φλας</string>
   <string name="pref_camera_focusmode_entry_auto">Αυτόματο</string>
   <string name="pref_camera_focusmode_entry_continuous">CAF</string>
-  <string name="pref_camera_focusmode_entry_infinity">Infinity</string>
-  <string name="pref_camera_focusmode_entry_macro">Macro</string>
+  <string name="pref_camera_focusmode_entry_infinity">Άπειρο</string>
+  <string name="pref_camera_focusmode_entry_macro">Μάκρο</string>
   <string name="pref_camera_focusmode_entry_normal">Κανονικό</string>
   <string name="pref_camera_focusmode_title">Λειτουργία εστίασης</string>
   <string name="pref_camera_hand_night_title">HHT</string>
@@ -234,10 +234,10 @@
   <string name="pref_camera_long_pressing_burst_shooting_title">Παρατεταμένο πάτημα κουμπιού κλείστρου</string>
   <string name="pref_camera_movie_solid_entry_off">Off</string>
   <string name="pref_camera_movie_solid_entry_on">On</string>
-  <string name="pref_camera_movie_solid_title">Movie solid</string>
-  <string name="pref_camera_multiple_face_beauty_entry_off">Zapnuto</string>
-  <string name="pref_camera_multiple_face_beauty_entry_on">Vypnuto</string>
-  <string name="pref_camera_multiple_face_beauty_title">Vylepšení dvou tváří</string>
+  <string name="pref_camera_movie_solid_title">Σταθερή ταινία</string>
+  <string name="pref_camera_multiple_face_beauty_entry_off">Οff</string>
+  <string name="pref_camera_multiple_face_beauty_entry_on">Οn</string>
+  <string name="pref_camera_multiple_face_beauty_title">Βελτιώσεις προσώπου</string>
   <string name="pref_camera_panoramamode_title">Πανόραμα</string>
   <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
   <string name="pref_camera_picture_format_entry_raw">Raw</string>
@@ -318,6 +318,8 @@
   <string name="pref_camera_skinToneEnhancement_entry_disable">Απενεργοποίηση</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Ενεργοποίηση</string>
   <string name="pref_camera_skinToneEnhancement_title">Βελτίωση Τόνου Δέρματος</string>
+  <string name="pref_camera_sound_entry_off">Ανενεργό</string>
+  <string name="pref_camera_sound_entry_on">Ενεργό</string>
   <string name="pref_camera_sound_title">Ήχοι κάμερας</string>
   <string name="pref_camera_sound_title_entry_off">Off</string>
   <string name="pref_camera_sound_title_entry_on">On</string>
