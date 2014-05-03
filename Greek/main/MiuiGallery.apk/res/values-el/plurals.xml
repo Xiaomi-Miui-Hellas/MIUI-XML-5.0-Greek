@@ -2,7 +2,7 @@
 <resources>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d επιλέχθηκαν</item>
-        <item quantity="zero">%1$d selectedεπιλέχθηκαν</item>
+        <item quantity="zero">%1$d επιλέχθηκαν</item>
         <item quantity="one">%1$d επιλέχθηκε</item>
     </plurals>
     <plurals name="number_of_pictures">
