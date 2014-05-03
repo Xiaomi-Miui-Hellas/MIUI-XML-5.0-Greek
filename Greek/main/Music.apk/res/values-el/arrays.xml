@@ -33,14 +33,14 @@
         <item>Χορός</item>
         <item>Folk</item>
         <item>Heavy metal</item>
-        <item>Χιπ Χοπ</item>
+        <item>Hip Hop</item>
         <item>Τζαζ</item>
         <item>Ποπ</item>
         <item>Ροκ</item>
     </string-array>
     <string-array name="weeklist">
         <item>1 εβδομάδα</item>
-        <item>2 weeks</item>
+        <item>2 εβδομάδες</item>
         <item>3 εβδομάδες</item>
         <item>4 εβδομάδες</item>
         <item>5 εβδομάδες</item>

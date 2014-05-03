@@ -2,11 +2,11 @@
 <resources>
   <string name="app_name">Αναζήτηση</string>
   <string name="apps_search_activity"/>
-  <string name="clear_shortcuts">Kαθαρισμός συντομεύσεων</string>
+  <string name="clear_shortcuts">Καθαρισμός συντομεύσεων</string>
   <string name="clear_shortcuts_agree">Καθαρισμός</string>
   <string name="clear_shortcuts_disagree">"Διαφωνώ"</string>
   <string name="clear_shortcuts_prompt">"Αυτό θα καθαρίσει όλες τις συντομεύσεις και τις πρόσφατες προτάσεις αναζήτησης. (Για να διαγράψετε το ιστορικό περιήγησης, χρησιμοποιήστε τις ρυθμίσεις του προγράμματος περιήγησης.)"</string>
-  <string name="clear_shortcuts_summary">Εκκαθάριση συντομεύσεων και πρόσφατων προτάσεων αναζήτησησ</string>
+  <string name="clear_shortcuts_summary">Εκκαθάριση συντομεύσεων και πρόσφατων προτάσεων αναζήτηση</string>
   <string name="corpus_description_apps">Ονόματα από εγκατεστημένες εφαρμογές</string>
   <string name="corpus_description_web">Αναζήτηση σε ιστό, σελιδοδείκτες και ιστορικού πλοηγού</string>
   <string name="corpus_hint_apps">Αναζήτηση εφαρμογών</string>
@@ -35,5 +35,5 @@
   <string name="search_sources_summary">Επιλέξτε τι αναζητάτε στην συσκευή σας</string>
   <string name="search_widget">Αναζήτηση</string>
   <string name="system_search_category_title">Τηλέφωνο</string>
-  <string name="voice_search_hint_title">Εκφωνίστε:</string>
+  <string name="voice_search_hint_title">Εκφώνησε:</string>
 </resources>
