@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="rcs_app_name">Remote Controller Service</string>
-    <string name="rcs_phoneact_name">Υπηρεσία απομακρισμένης διαχείρησης τηλεφώνου</string>
-    <string name="rcs_service_start">Η υπηρεσία Remote Controller Phone ξεκίνησε.</string>
+    <string name="rcs_phoneact_name">Υπηρεσία απομακρυσμένης διαχείρισης τηλεφώνου</string>
+    <string name="rcs_service_start">Η υπηρεσία Remote Controller τηλεφώνου ξεκίνησε.</string>
     <string name="app_name">Airkan Phone</string>
     <string name="phoneact_name">Διαχειριστής Airkan Phone</string>
     <string name="mdnssdact_name">Διαχειριστής mDNSSD Listener</string>

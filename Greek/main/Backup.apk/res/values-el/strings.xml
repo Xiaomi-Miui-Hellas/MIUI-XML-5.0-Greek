@@ -7,7 +7,7 @@
   <string name="app_name">Αντίγραφα</string>
   <string name="auto_backup">Αυτόματα αντίγραφα</string>
   <string name="auto_backup_all_user_apps">Όλες οι εφαρμογές</string>
-  <string name="auto_backup_choose">Automatically backup</string>
+  <string name="auto_backup_choose">Αυτόματη δημιουργία αντιγράφων ασφαλείας</string>
   <string name="auto_backup_choose_empty">Χωρίς αντίγραφα</string>
   <string name="auto_backup_choose_title">Ορισμός ονόματος</string>
   <string name="auto_backup_date">Συχνότητα (σε μέρες)</string>
@@ -155,7 +155,7 @@ to cancel restore"</string>
   <string name="import_from_xiaomi_account_hint1">1. Εγκαταστήστε το MiTalk και συνδεθείτε.\n2. http://www.miliao.com\n\n3. Πηγαίνετε στις ρυθμίσεις MiTalk και επιλέξτε Αντίγραφο επαφών στο λογαριασμό Xiaomi</string> 
   <string name="import_from_xiaomi_account_hint2">Σημείωση Μεταβείτε στο επόμενο βήμα εάν υπάρχει ήδη αντίγραφο</string>
   <string name="import_from_xiaomi_account_hint_title">Χρησιμοποιήστε το MiTalk για να αποθηκεύσετε επαφές σε άλλα τηλέφωνα όχι στο MI-ONE</string>
-  <string name="just_support_op_with_wifi_connected">Only supported when using Wi-Fi</string>
+  <string name="just_support_op_with_wifi_connected">Υποστηρίζεται μόνο κατά τη χρήση Wi-Fi</string>
   <string name="local_app_name">Αντίγραφα</string>
   <string name="local_backup_window_title">Τοπικό</string>
   <string name="local_home_title">Τοπικό</string>
@@ -235,7 +235,7 @@ to cancel restore"</string>
   <string name="task_restore_cancel_dialog">Η επαναφορά δεν ολοκληρώθηκε, η ακύρωση ίσως επιφέρει απώλεια δεδομένων</string>
   <string name="task_restore_cancel_progress">Ακύρωση…</string>
   <string name="task_restore_finished_local">Δεν υπάρχει ανάγκη για επαναφορά</string>
-  <string name="task_restore_none">Restore not needed</string>
+  <string name="task_restore_none">Δεν χρειάζονται επαναφορά</string>
   <string name="task_running_backup_dialog">Η διαδικασία αντιγραφής είναι σε εξέλιξη, δείτε την πατώντας OK.</string>
   <string name="task_running_backup_hint">Η υπηρεσία εκτελείται στο προσκήνιο, δοκιμάστε πάλι!</string>
   <string name="task_running_dialog">Η διαδικασία αντιγράφου και επαναφοράς εκτελείται δείτε την πατώντας OK</string>
