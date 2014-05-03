@@ -187,7 +187,7 @@
   <string name="resource_selected">Προτεινόμενο</string>
   <string name="resource_send">Αποστολή</string>
   <string name="resource_server_alert_dialog_title">Η υπηρεσία δεν είναι διαθέσιμη προς το παρόν</string>
-  <string name="resource_server_out_of_service">Ο Διακομιστςή δεν είναι διαθέσιμος, δοκιμάστε ξανά αργότερα.</string>
+  <string name="resource_server_out_of_service">Ο Διακομιστής δεν είναι διαθέσιμος, δοκιμάστε ξανά αργότερα.</string>
   <string name="resource_share_subject">Μοιραστείτε το θέμα: %1$s</string>
   <string name="resource_share_text">Εδώ είναι ένα θέμα που σκέφτηκα ότι ίσως θα θέλατε: %1$s! Σύνδεσμος: %2$s</string>
   <string name="resource_share_title">Διαμοιρασμός</string>
@@ -200,7 +200,7 @@
   <string name="resource_trial_end_purchase">Αγορά</string>
   <string name="resource_trial_end_restore">Τερματισμός δοκιμής</string>
   <string name="resource_trial_end_title">Η δοκιμή έληξε.</string>
-  <string name="resource_trial_time">（δοκιμή για %1$d λεπτά）</string>
+  <string name="resource_trial_time">(δοκιμή για %1$d λεπτά)</string>
   <string name="resource_unable_to_access">"Επί του παρόντος διατίθενται στην περιοχή / χώρα σας."</string>
   <string name="resource_unknow_error">Άγνωστο σφάλμα.</string>
   <string name="resource_update">Ενημέρωση</string>

@@ -29,7 +29,7 @@
   <string name="act_weather_update_time">%s ενημερώθηκε</string>
   <string name="add_city">Προσθήκη τοποθεσίας</string>
   <string name="alert_message_delete">Διαγραφή του/των επιλεγμένου/ων %d αρχείου/ων;</string>
-  <string name="alert_provider_message">Χρειάζετε να ενεργοποιήσετε την πρόσβαση τοποθεσίας μέσω του δικτύου κινητής.</string>
+  <string name="alert_provider_message">Χρειάζεται να ενεργοποιήσετε την πρόσβαση τοποθεσίας μέσω του δικτύου κινητής.</string>
   <string name="alert_provider_title">Ειδοποίηση τοποθεσίας</string>
   <string name="alert_title_delete">Διαγραφή</string>
   <string name="app_love_font_lng">%s</string>
@@ -52,7 +52,7 @@
   <string name="aqi_quality_index_pure">έξοχος</string>
   <string name="aqi_quality_index_unhealthy">ανθυγιεινός</string>
   <string name="button_allow">Επέτρεψε</string>
-  <string name="button_not_allow">Αρνήσου</string>
+  <string name="button_not_allow">Άρνηση</string>
   <string name="cancel">Άκυρο</string>
   <string name="enable_gps">GPS</string>
   <string name="enable_notification">Άνοιξε την ειδοποίηση τοποθεσίας</string>
@@ -83,7 +83,7 @@
   <string name="menu_settings">Ρυθμίσεις</string>
   <string name="menu_share">Διαμοιρασμός</string>
   <string name="menu_trend">Τάση</string>
-  <string name="save_screen_shot_failed">Αποτυχία αποθήκευσης στιγμιοτύπου οθόνης.</string>
+  <string name="save_screen_shot_failed">Αποτυχία αποθήκευσης στιγμιότυπου οθόνης.</string>
   <string name="selected_format">Επιλεγμένο/α %d αρχείο/α</string>
   <string name="send_sms_notification">Προσεχείς ειδοποιήσεις καιρού</string>
   <string name="send_sms_notification_summary">"Στείλτε τα σημερινά δεδομένα καιρού στις επαφές σας μέσω γραπτού μηνύματος"</string>
