@@ -109,7 +109,7 @@
         <item>9 δευτερόλεπτα</item>
     </string-array>
     <string-array name="lock_after_timeout_entries">
-        <item>Αμμέσως</item>
+        <item>Αμέσως</item>
         <item>5 δευτερόλεπτα</item>
         <item>15 δευτερόλεπτα</item>
         <item>30 δευτερόλεπτα</item>
@@ -149,7 +149,7 @@
     </string-array>
     <string-array name="power_dialog_cpu_state_items">
         <item>Υψηλή απόδοση</item>
-        <item>Ισοροπημένο</item>
+        <item>Ισορροπημένο</item>
         <item>Σώσιμο Μπαταρίας</item>
     </string-array>
     <string-array name="power_dialog_sleep_items">
@@ -168,7 +168,7 @@
     </string-array>
    <string-array name="power_mode_entries">
         <item>Υψηλή απόδοση</item>
-        <item>Ισοροπημένο</item>
+        <item>Ισορροπημένο</item>
         <item>Σώσιμο Μπαταρίας</item>
     </string-array>
     <string-array name="preferred_app_entries">
@@ -201,11 +201,11 @@
         <item>Κρύο</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
-        <item>Καμμία</item>
+        <item>Καμία</item>
         <item>Εκκίνηση πρόσφατου πίνακα</item>
         <item>Εκκίνηση φωνητικής βοήθειας</item>
         <item>Εκκίνηση του Google now</item>
-        <item>Κλέισιμο τρέχουσας εφαρμογής</item>
+        <item>Κλείσιμο τρέχουσας εφαρμογής</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 δευτερόλεπτο</item>
@@ -257,8 +257,8 @@
     </string-array>
     <string-array name="tts_pitch_entries">
         <item>Πολύ χαμηλό</item>
-        <item>Χαηλό</item>
-        <item>Κανονικόl</item>
+        <item>Χαμηλό</item>
+        <item>Κανονικό l</item>
         <item>Υψηλό</item>
         <item>Πολύ υψηλό</item>
     </string-array>
@@ -305,7 +305,7 @@
     <string-array name="wfd_status">
         <item>Συσκευή συνδεδεμένη, δημιουργείται συνεδρία…</item>
         <item>Δημιουργήθηκε συνεδρία.</item>
-        <item>Κατάρευση συνεδρίας…</item>
+        <item>Κατάρρευση συνεδρίας…</item>
         <item>Αποτυχία συνεδρίας.</item>
         <item>Λήξη χρόνου, ξαναπροσπαθεί…</item>
         <item>Συνδέθηκε η συσκευή</item>
@@ -325,7 +325,7 @@
         <item>Στατική</item>
     </string-array>
     <string-array name="wifi_p2p_status">
-        <item>Συνδεδεμένοd</item>
+        <item>Συνδεδεμένος</item>
         <item>Προσκεκλημένο</item>
         <item>Ανεπιτυχής</item>
         <item>Διαθέσιμο</item>
