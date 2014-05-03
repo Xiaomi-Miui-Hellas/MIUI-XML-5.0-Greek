@@ -391,7 +391,12 @@
     <string name="keyguard_password_enter_puk_code">Πληκτρολογήστε τον κωδικό PUK και τον νέο κωδικό PIN</string>
     <string name="keyguard_password_enter_puk_prompt">Κωδικός PUK</string>
     <string name="keyguard_password_entry_touch_hint"><font size="17">Αγγίξτε για εισαγ. κωδ. πρόσβ.</font></string>
-    <string name="keyguard_password_wrong_pin_code">Εσφαλμένος κωδικός PIN.</string>
+    <string name="keyguard_password_wrong_pin_code">Εσφαλμένος κωδικός PIN!</string>
+    <string name="keyguard_password_pin_failed">Αποτυχία εισόδου PIN!</string>
+    <string name="keyguard_password_puk_failed">Αποτυχία εισόδου PUK!</string>
+    <string name="keyguard_password_wrong_pin_code">Ο PIN είναι λάθος!</string>
+    <string name="keyguard_password_wrong_puk_code">Ο PUK είναι λάθος!</string>
+    <string name="keyguard_pin_accepted">Code accepté</string>
     <string name="kg_emergency_call_label">Κλήσεις επείγουσας ανάγκης</string>
     <string name="kg_enter_confirm_pin_hint">Επιβεβαιώστε τον απαιτούμενο κωδικό PIN</string>
     <string name="kg_failed_attempts_almost_at_login" formatted="false">"Σχεδιάσατε το μοτίβο ξεκλειδώματος εσφαλμένα %d φορές. Μετά από %d ανεπιτυχείς προσπάθειες ακόμη, θα σας ζητηθεί να ξεκλειδώσετε το τηλέφωνό σας με τη χρήση ενός λογαριασμού ηλεκτρονικού ταχυδρομείου.
@@ -542,6 +547,8 @@
     <string name="more_item_label">Περισσότερα</string>
     <string name="needPuk">Η κάρτα SIM έχει κλειδωθεί με κωδικό PUK. Πληκτρολογήστε τον κωδικό PUK για να την ξεκλειδώσετε.</string>
     <string name="needPuk2">Πληκτρολογήστε τον κωδικό PUK2 για την κατάργηση αποκλεισμού της κάρτας SIM.</string>
+    <string name="msim_carrier_text_format" formatted="false">%s, %s</string>
+    <string name="msim_kg_sim_pin_msg_format" formatted="false">SUB:%d : %s.</string>
     <string name="network_available_sign_in">Σύνδεση σε δίκτυο</string>
     <string name="new_app_action">Εκκίνηση της εφαρμογής %1$s</string>
     <string name="new_app_description">Διακοπή της παλιάς εφαρμογής χωρίς αποθήκευση.</string>
@@ -840,6 +847,8 @@
     <string name="permgrouplab_voicemail">Αυτόματος τηλεφωνητής</string>
     <string name="permgrouplab_wallpaper">Ταπετσαρία</string>
     <string name="permgrouplab_writeDictionary">Εγγραφή στο λεξικό χρήστη</string>
+    <string name="permission">Δικαίωμα</string>
+    <string name="permission_remember_choice">Απομνημόνευση</string>
     <string name="permission_request_notification_title">Απαιτείται άδεια</string>
     <string name="permission_request_notification_with_subtitle">"Ζητήθηκε άδεια
 για τον λογαριασμό %s."</string>
@@ -1090,6 +1099,8 @@
     <string name="progress_erasing">Διαγραφή χώρου αποθήκευσης USB...</string>
     <string name="progress_unmounting">Αποσύνδεση του χώρου αποθήκευσης USB...</string>
     <string name="reboot_safemode_confirm">Θέλετε να κάνετε επανεκκίνηση στην ασφαλή λειτουργία; Αυτό θα απενεργοποιήσει όλες τις εφαρμογές τρίτων που έχετε εγκαταστήσει. Θα γίνει επαναφορά τους στην επόμενη επανεκκίνηση.</string>
+    <string name="progress_nomediapresent">Δεν υπάρχουν αφαιρούμενα μέσα…</string>
+    <string name="reboot_safemode_confirm">Θέλετε να κάνετε επανεκκίνηση σε ασφαλή λειτουργία; Αυτή η λειτουργία θα απενεργοποιήσει όλες τις εφαρμογές τρίτων που έχετε εγκαταστήσει. Θα πρέπει να ενεργοποιηθεί εκ νέου στην επόμενη επανεκκίνηση.</string>
     <string name="reboot_safemode_title">Επανεκκίνηση στην ασφαλή λειτουργία</string>
     <string name="recent_tasks_title">Πρόσφατα</string>
     <string name="relationTypeAssistant">Βοηθός</string>
@@ -1236,6 +1247,12 @@
     <string name="status_bar_device_locked">Η συσκευή κλειδώθηκε.</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_internal">Εσωτερικός χώρος αποθήκευσης</string>
+    <string name="stk_cc_ss_to_dial">Aίτημα για τροποποίηση του SS σε DIAL.</string>
+    <string name="stk_cc_ss_to_ss">Aίτημα για τροποποίηση του SS σε νέο SS.</string>
+    <string name="stk_cc_ss_to_ussd">Aίτημα για τροποποίηση του SS σε USSD.</string>
+    <string name="stk_cc_ussd_to_dial">Aίτημα για τροποποίηση του USSD σε DIAL.</string>
+    <string name="stk_cc_ussd_to_ss">Aίτημα για τροποποίηση του USSD σε SS.</string>
+    <string name="stk_cc_ussd_to_ussd">Aίτημα για τροποποίηση του USSD σε νέο USSD.</string>
     <string name="storage_sd_card">Κάρτα SD</string>
     <string name="storage_usb">Χώρος αποθήκευσης USB</string>
     <string name="submit">Υποβολή</string>
