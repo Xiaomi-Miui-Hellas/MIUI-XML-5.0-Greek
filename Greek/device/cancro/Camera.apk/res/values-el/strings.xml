@@ -16,7 +16,6 @@
   <string name="accessibility_review_thumbnail">Πρόσφατη φωτογραφία</string>
   <string name="accessibility_show_setting_panel_button">Προσαρμογή</string>
   <string name="accessibility_shutter_button">Κουμπί κλείστρου</string>
-
     <string name="accessibility_skin_beautify_closed">Βελτιστοποίηση χρώματος δέρματος ανενεργό</string>
   <string name="accessibility_skin_beautify_opened">Βελτιστοποίηση χρώματος δέρματος ενεργό</string>
   <string name="accessibility_switch_to_back_view">Αλλαγή στη πίσω κάμερα</string>
@@ -27,7 +26,6 @@
   <string name="app_details">Πληροφ. εφαρμογής:</string>
   <string name="auto">Αυτόματο</string>
   <string name="bg_replacement_message">"Τοποθετήστε τη συσκευή και
-
 Βγείτε από το καρέ για μια στιγμή"</string>
   <string name="camera_disabled">Η κάμερα έχει απενεργοποιηθεί λόγο ρυθμίσεων ασφαλείας.</string>
   <string name="camera_error_title">Σφάλμα κάμερας</string>
@@ -303,7 +301,6 @@
   <string name="pref_camera_picture_format_title">Φορμά Φωτογραφιών</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Ευρεία 16:9</string>
   <string name="pref_camera_picturesize_entry_standard">Στάνταρ 4:3</string>
-
   <string name="pref_camera_picturesize_title">Μέγεθος φωτογραφίας</string>
   <string name="pref_camera_picturesize_title_simple_mode">Μέγεθος φωτογραφίας</string>
   <string name="pref_camera_raw_data_title">RAW</string>
@@ -362,7 +359,6 @@
   <string name="pref_camera_volumekey_function_entry_shutter">Κλείστρο</string>
   <string name="pref_camera_volumekey_function_entry_volume">Ένταση</string>
   <string name="pref_camera_volumekey_function_entry_zooming">Zoom</string>
-
   <string name="pref_camera_volumekey_function_title">Λειτουργία πλήκτρων ήχου</string>
   <string name="pref_camera_watermark_entry_off">Οff</string>
   <string name="pref_camera_watermark_entry_on">Οn</string>
@@ -372,12 +368,10 @@
   <string name="pref_camera_whitebalance_entry_daylight">Φως ημέρας</string>
   <string name="pref_camera_whitebalance_entry_fluorescent">Φθορίζων</string>
   <string name="pref_camera_whitebalance_entry_incandescent">Λαμπτήρας</string>
-
   <string name="pref_camera_whitebalance_entry_manual">Χειροκιν.</string>
     <string name="pref_camera_whitebalance_entry_measure">Μέτρηση</string>
     <string name="pref_camera_whitebalance_k_value_title">Ισορροπία λευκού τιμή Κ</string>
   <string name="pref_camera_whitebalance_title">Ισορροπία λευκού</string>
-  <string name="pref_captrue_mirror_title">Εμπρόσθια κάμερα</string>
   <string name="pref_camera_zsl_entry_off">Ανενεργό</string>
   <string name="pref_camera_zsl_entry_on">Ενεργό (Μεγ. 1M Pixels)</string>
   <string name="pref_camera_zsl_title">ZSL</string>
