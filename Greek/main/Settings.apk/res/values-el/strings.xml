@@ -3292,7 +3292,7 @@ Touch "<b>Back</b> to connect to a different WLAN network.</string>
     <string name="wifi_share_login_summary">If this is a public network, you can share it with other MIUI users.</string>
     <string name="wifi_share_notification_summary">MIUI has connected you to a public WLAN network.</string>
     <string name="wifi_share_other_network">Other networks</string>
-    <string name="wifi_share_qrcode_finish">Finish</string>
+    <string name="wifi_share_qrcode_finish">Τέλος</string>
     <string name="wifi_share_qrcode_summary">Use Camera to scan QR Code</string>
     <string name="wifi_share_qrcode_title">Share WLAN</string>
     <string name="wifi_share_show_network">Show networks</string>
