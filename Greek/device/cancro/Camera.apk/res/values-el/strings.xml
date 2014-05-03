@@ -26,6 +26,7 @@
   <string name="app_details">Πληροφ. εφαρμογής:</string>
   <string name="auto">Αυτόματο</string>
   <string name="bg_replacement_message">"Τοποθετήστε τη συσκευή και
+
 Βγείτε από το καρέ για μια στιγμή"</string>
   <string name="camera_disabled">Η κάμερα έχει απενεργοποιηθεί λόγο ρυθμίσεων ασφαλείας.</string>
   <string name="camera_error_title">Σφάλμα κάμερας</string>
