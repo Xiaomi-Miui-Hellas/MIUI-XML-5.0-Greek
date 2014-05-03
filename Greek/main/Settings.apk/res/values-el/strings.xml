@@ -994,7 +994,7 @@
     <string name="fancy_icon_power_center">com.miui.powercenter.PowerCenter</string>
     <string name="fcc_equipment_id">ID Εξοπλισμού</string>
  <string name="filter">Φίλτρο</string>
- <string name="filter_apps_all">Όλα</string>
+ <string name="filter_apps_all">Όλες</string>
     <string name="filter_apps_cached">Στην Cache</string>
     <string name="filter_apps_disabled">Απενεργοποιημένες</string>
  <string name="filter_apps_onsdcard">Στην κάρτα SD</string>
@@ -2675,7 +2675,7 @@ Android File Transfer,
     <string name="toast_backup_uninstall_success">Δημιουργία αντιγράφων ασφαλείας και απεγκατάσταση ολοκληρώθηκε</string>
     <string name="toast_cleanup_success">Δεδομένα εκκαθαρίζονται</string>
     <string name="toast_garbage_cleanup_success">Καθαρίσατε με επιτυχία</string>
-    <string name="toast_qucik_scan_list_empty">Τα πάντα φαίνεται καλά, δεν χρειάζεται να καθαρίσει!</string>
+    <string name="toast_qucik_scan_list_empty">Τα πάντα φαίνονται καλά, δεν χρειάζεται καθαρισμός!</string>
     <string name="toast_removed_from_white_list">Έχει αφαιρεθεί από το λευκό κατάλογο</string>
     <string name="toast_shortcut_install">Συντόμευση τοποθετήθηκε στην Αρχική οθόνη</string>
     <string name="toast_shortcut_uninstall">Συντόμευση αφαιρέθηκε</string>
@@ -3336,7 +3336,7 @@ Android File Transfer,
  <string name="wifi_wapi_cert_cancel_button">Ακύρωση</string>
  <string name="wifi_wapi_cert_create_subdir">Δημιουργία φακέλου</string>
     <string name="wifi_wapi_cert_delet_subdir">Επιλέξτε ένα πιστοποιητικό που να ταιριάζει</string>
-    <string name="wifi_wapi_cert_install">Εγκατάσταση WAPI Πιστοποίησης</string>
+    <string name="wifi_wapi_cert_install">Εγκατάσταση WAPI πιστοποίησης</string>
  <string name="wifi_wapi_cert_install_button">Εγκατάσταση</string>
     <string name="wifi_wapi_cert_mgmt_as_dont_exist">Η Κάρτα SD δεν έχει πιστοποιητικό AS.</string>
     <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">AS μορφή του πιστοποιητικού είναι εσφαλμένη.</string>
