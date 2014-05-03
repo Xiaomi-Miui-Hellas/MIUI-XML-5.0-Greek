@@ -391,7 +391,6 @@
     <string name="keyguard_password_enter_puk_code">Πληκτρολογήστε τον κωδικό PUK και τον νέο κωδικό PIN</string>
     <string name="keyguard_password_enter_puk_prompt">Κωδικός PUK</string>
     <string name="keyguard_password_entry_touch_hint"><font size="17">Αγγίξτε για εισαγ. κωδ. πρόσβ.</font></string>
-    <string name="keyguard_password_wrong_pin_code">Εσφαλμένος κωδικός PIN!</string>
     <string name="keyguard_password_pin_failed">Αποτυχία εισόδου PIN!</string>
     <string name="keyguard_password_puk_failed">Αποτυχία εισόδου PUK!</string>
     <string name="keyguard_password_wrong_pin_code">Ο PIN είναι λάθος!</string>
@@ -1098,7 +1097,6 @@
     <string name="preposition_for_year">το %s</string>
     <string name="progress_erasing">Διαγραφή χώρου αποθήκευσης USB...</string>
     <string name="progress_unmounting">Αποσύνδεση του χώρου αποθήκευσης USB...</string>
-    <string name="reboot_safemode_confirm">Θέλετε να κάνετε επανεκκίνηση στην ασφαλή λειτουργία; Αυτό θα απενεργοποιήσει όλες τις εφαρμογές τρίτων που έχετε εγκαταστήσει. Θα γίνει επαναφορά τους στην επόμενη επανεκκίνηση.</string>
     <string name="progress_nomediapresent">Δεν υπάρχουν αφαιρούμενα μέσα…</string>
     <string name="reboot_safemode_confirm">Θέλετε να κάνετε επανεκκίνηση σε ασφαλή λειτουργία; Αυτή η λειτουργία θα απενεργοποιήσει όλες τις εφαρμογές τρίτων που έχετε εγκαταστήσει. Θα πρέπει να ενεργοποιηθεί εκ νέου στην επόμενη επανεκκίνηση.</string>
     <string name="reboot_safemode_title">Επανεκκίνηση στην ασφαλή λειτουργία</string>
