@@ -27,7 +27,7 @@
     <string name="download_no_application_title">Αδύνατο άνοιγμα αρχείου</string>
     <string name="remove_download">Αφαίρεση</string>
     <string name="delete_download">Διαγραφή</string>
-    <string name="keep_queued_download">Κράτιση</string>
+    <string name="keep_queued_download">Κράτηση</string>
     <string name="cancel_running_download">Άκυρο</string>
     <string name="retry_download">Δοκιμή ξανά</string>
     <string name="deselect_all">Αποεπιλογή Όλων</string>
@@ -74,5 +74,5 @@
     <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
     <string name="xunlei_switch">Μηχανή λήψεων Xunlei</string>
     <string name="turn_off_xunlei_title">Απενεργοποίηση της μηχανής λήψεων Xunlei</string>
-    <string name="turn_off_xunlei_message">Μπορεί να έχετε αργή ταχύτητα λέψεων</string>
+    <string name="turn_off_xunlei_message">Μπορεί να έχετε αργή ταχύτητα λήψεων</string>
 </resources>

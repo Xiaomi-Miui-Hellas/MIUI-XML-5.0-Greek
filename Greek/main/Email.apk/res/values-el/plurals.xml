@@ -94,7 +94,7 @@
         <item quantity="other">%1$d αδιάβαστα</item>
     </plurals>
     <plurals name="empty_folder_dialog_message">
-        <item quantity="other">%1$d μηνύματα θα διαγραφούν μόνημα.</item>
-        <item quantity="one">%1$d μήνυμα θα διαγραφεί μόνημα.</item>
+        <item quantity="other">%1$d μηνύματα θα διαγραφούν μόνιμα.</item>
+        <item quantity="one">%1$d μήνυμα θα διαγραφεί μόνιμα.</item>
     </plurals>
 </resources>

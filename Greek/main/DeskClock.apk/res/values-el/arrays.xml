@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="alarm_set">
-        <item>Ξυπνητήρι 1 minute από τώρα.</item>
+        <item>Ξυπνητήρι 1 λεπτό από τώρα.</item>
         <item>Ξυπνητήρι σε %1$s από τώρα.</item>
         <item>Ξυπνητήρι σε %2$s από τώρα.</item>
         <item>Ξυπνητήρι σε %1$s και %2$s από τώρα.</item>
@@ -30,7 +30,7 @@
         <item>30 λεπτά</item>
     </string-array>
     <string-array name="volume_button_setting_entries">
-        <item>Συνέχεισε</item>
+        <item>Συνέχισε</item>
         <item>Προσωρινή διακοπή</item>
         <item>Κλείσιμο</item>
     </string-array>
@@ -53,13 +53,13 @@
         <item>Μία φορά</item>
         <item>Καθημερινά</item>
         <item>Εργάσιμες μέρες</item>
-        <item>Δευ εώς Παρ</item>
+        <item>Δευ έως Παρ</item>
         <item>Προσαρμογή</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Μία φορά</item>
         <item>Καθημερινά</item>
-        <item>Δευ εώς Παρ</item>
+        <item>Δευ έως Παρ</item>
         <item>Προσαρμογή</item>
     </string-array>
 </resources>

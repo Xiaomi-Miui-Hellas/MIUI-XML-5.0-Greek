@@ -89,7 +89,7 @@
     <string name="resource_download_trial">Δωρεάν δοκιμή</string>
     <string name="resource_apply_trial">Δοκιμάστε τώρα</string>
     <string name="resource_on_trial">Δοκιμή: %1$s</string>
-    <string name="resource_trial_time">δοκιμή για %1$d λεπτά）</string>
+    <string name="resource_trial_time">δοκιμή για %1$d λεπτά</string>
     <string name="resource_trial_end_title">Λήξη δοκιμαστικού</string>
     <string name="resource_trial_end_message">Η δοκιμή του %1$s έληξε. Αν σας αρέσει, μπορείτε να το αγοράσετε.</string>
     <string name="resource_trial_end_restore">Τερματισμός δοκιμής</string>
@@ -150,7 +150,7 @@
     <string name="resource_comment_upload_not_logined">Θα πρέπει να συνδεθείτε πρώτα</string>
     <string name="resource_comment_upload_not_bought">"Θα πρέπει να εφαρμόσετε το θέμα για να μπορέσετε να γράψετε σχόλια γι'αυτό"</string>
     <string name="resource_comment_invalid">Αγγίξτε τα αστέρια για να βαθμολογήσετε το θέμα</string>
-    <string name="resource_comment_expand_full_text">Επεκτείνετε όλο το κείμενο▼</string>
+    <string name="resource_comment_expand_full_text">Επεκτείνετε όλο το κείμενο ▼</string>
     <string name="resource_comment_title">Σχόλια: %1$s</string>
     <string name="resource_comment_edit_title">Επεξεργασία σχολίου: %1$s</string>
     <string name="resource_comment_edit_comment">Προσθέστε σχόλια</string>
@@ -373,7 +373,7 @@
     <string name="callBack">Επανάκληση</string>
     <string name="callAgain">Καλέστε ξανά</string>
     <string name="returnCall">Επιστροφή κλήσης</string>
-    <string name="callDetailsDurationFormat" formatted="false">%s mins %s secs</string>
+    <string name="callDetailsDurationFormat" formatted="false">%s λεπτά %s δευτ.</string>
     <string name="favoritesFrequentContacted">Συχνές επαφές</string>
     <string name="favoritesFrequentCalled">Συχνές κλήσεις</string>
     <string name="add_contact_dlg_message_fmt">Προσθήκη \"%s\" στις επαφές?</string>
@@ -818,7 +818,7 @@
     <string name="preference_export">Εξαγωγή</string>
     <string name="preference_others">Άλλο</string>
     <string name="wipe_data">Εκκαθάριση δεδομένων</string>
-    <string name="check_unsynchronized_accounts">Θύμισέ μου να συγχρονίζω τους λογαριασμούς</string>
+    <string name="check_unsynchronized_accounts">Θύμισε μου να συγχρονίζω τους λογαριασμούς</string>
     <string name="frequency_three_days">Κάθε 3 μέρες</string>
     <string name="frequency_weekly">Κάθε βδομάδα</string>
     <string name="frequency_none">Ποτέ</string>
@@ -849,8 +849,8 @@
     <string name="sim_card_no_free_space_message">Δεν υπάρχει αρκετός χώρος</string>
     <string name="sim_contacts">Επαφές της κάρτας SIM</string>
     <string name="export_sim_contacts_dialog_message">Η κάρτα SIM μπορεί να αποθηκεύσει %d επαφές</string>
-    <string name="export_sim_contact_finish">Eξαγωγή ολοκληρώθηκε</string>
-    <string name="export_sim_contact_finish_success">Αντιγράφηκαν %d επαφές</string>
+    <string name="export_sim_contact_finish">Εξαγωγή ολοκληρώθηκε</string>
+    <string name="export_sim_contact_finish_success">Αντιγράφηκαν  %d επαφές</string>
     <string name="export_sim_contact_finish_failure">Μεταφέρθηκαν: %1$d Απομένουν: %2$d</string>
     <string name="sim_export_loading">Ανάγνωση της κάρτας SIM…</string>
     <string name="pref_title_account_import">Εισαγωγή από το λογαριασμό</string>
@@ -929,7 +929,7 @@
     <string name="custom_nickname_hint">Πληκτρολογήστε ψευδώνυμο</string>
     <string name="open_contact">Προβολή επαφής</string>
     <string name="send_contact_shortcut_todesktop_success">Προσθέστε στην Αρχική οθόνη</string>
-    <string name="date_picker_label">Θύμισέ μου 3 μέρες πριν και πάλι την ημέρα της</string>
+    <string name="date_picker_label">Θύμισε μου 3 μέρες πριν και πάλι την ημέρα της</string>
     <string name="today">Σήμερα</string>
     <string name="next_birthday">Επόμενα γενέθλια: %s</string>
     <string name="ringLabelsGroup">Ήχος κλήσης</string>

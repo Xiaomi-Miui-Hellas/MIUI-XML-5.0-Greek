@@ -4,7 +4,7 @@
     <string name="app_label">Αποθήκευση Επαφών</string>
     <string name="provider_label">Επαφές</string>
     <string name="upgrade_msg">Αναβάθμιση χώρου δεδομένων των Επαφών.</string>
-    <string name="upgrade_out_of_memory_notification_ticker">Η αναβάθμιση των επαφών χρειάζεται περισότερη μνήμη.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Η αναβάθμιση των επαφών χρειάζεται περισσότερη μνήμη.</string>
     <string name="upgrade_out_of_memory_notification_title">Αναβάθμιση του χώρου των Επαφών.</string>
     <string name="upgrade_out_of_memory_notification_text">Αγγίξτε για ολοκλήρωση της αναβάθμισης.</string>
     <string name="default_directory">Επαφές</string>
