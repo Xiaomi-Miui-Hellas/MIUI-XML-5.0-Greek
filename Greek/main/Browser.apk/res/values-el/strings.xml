@@ -42,7 +42,7 @@
   <string name="autofill_profile_editor_address_line_1">Διεύθυνση γραμμή 1:</string>
   <string name="autofill_profile_editor_address_line_1_hint">Οδός, ταχ. θυρίδα:</string>
   <string name="autofill_profile_editor_address_line_2">Διεύθυνση γραμμή 2:</string>
-  <string name="autofill_profile_editor_address_line_2_hint">Διαμέρισμα, κτίριο, όροφος, κ.λπ.</string>
+  <string name="autofill_profile_editor_address_line_2_hint">Διαμέρισμα, κτίριο, όροφος, κ.λ.π.</string>
   <string name="autofill_profile_editor_city">Πόλη:</string>
   <string name="autofill_profile_editor_company_name">Εταιρεία:</string>
   <string name="autofill_profile_editor_country">Χώρα:</string>
@@ -445,7 +445,7 @@
   <string name="pref_privacy_enable_geolocation_summary">Να επιτρέπεται σε σελίδες να έχουν πρόσβαση στην τοποθεσία σας</string>
   <string name="pref_privacy_formdata_title">Δεδομένα φόρμας</string>
   <string name="pref_privacy_location_title">Τοποθεσία</string>
-  <string name="pref_privacy_security_title">Ιδιωτικότατα &amp; ασφάλεια</string>
+  <string name="pref_privacy_security_title">Ιδιωτικότητα &amp; ασφάλεια</string>
   <string name="pref_reading_mode_enabled_title">Λειτουργία ανάγνωσης</string>
   <string name="pref_reading_mode_enabled_title_summary">Πρέπει να είναι ενεργοποιημένη η JavaScript</string>
   <string name="pref_save_bandwidth_mode_summary">"Ο πλοηγός δεν θα χρησιμοποιήσει δεδομένα κινητής για προ-φόρτωση των σελίδων ή εμφάνιση εικόνων"</string>
