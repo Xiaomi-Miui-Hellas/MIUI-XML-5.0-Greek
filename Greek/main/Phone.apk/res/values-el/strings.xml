@@ -897,7 +897,6 @@
     <string name="register_on_network">Εγγραφή σε	%s…</string>
     <string name="register_network_failed_message_miui">"Δεν μπορούν να εγγραφούν στο δίκτυο που έχετε επιλέξει. Για να επιλέξετε προτιμώμενη δίκτυο αυτόματα?"</string>
     <string name="register_network_failed_title_miui">Υπηρεσία δεν είναι διαθέσιμη</string>
-  <string name="register_on_network">Εγγραφή στο %s…</string>
     <string name="registration_done">Δηλωμένος στο δίκτυο.</string>
     <string name="registration_status_checking_status">Έλεγχος κατάστασης...</string>
     <string name="registration_status_done">Λήψη κλήσεων.</string>
@@ -1074,7 +1073,6 @@
     <string name="sub_2">SUB 2</string>
   <string name="sub_3">SUB 3</string>
     <string name="sub_one">Διαχειριστείτε τις συνδρομές 1</string>
-    <string name="sub_3">SUB 3</string>
     <string name="subone">Συνδρομή 1</string>
     <string name="subtwo">Συνδρομή 2</string>
     <string name="sum_carrier_select">Επιλέξτε ένα φορέα δικτύου</string>
