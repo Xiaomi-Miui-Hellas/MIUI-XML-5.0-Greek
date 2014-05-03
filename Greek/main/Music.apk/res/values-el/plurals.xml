@@ -49,7 +49,7 @@
         <item quantity="one">Υπάρχει %d τραγούδι στην SD card</item>
     </plurals>
     <plurals name="NNNtrackstoplaylist">
-        <item quantity="other">%d τραγούδια πριστέθηκαν στην λίστα.</item>
+        <item quantity="other">%d τραγούδια προστέθηκαν στην λίστα.</item>
         <item quantity="one">1 τραγούδι προστέθηκε στην λίστα.</item>
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
