@@ -7,10 +7,10 @@
   <string name="action_close">Κλείσιμο</string>
   <string name="action_lock_screen">Lock screen</string>
   <string name="action_open_camera">Κάμερα</string>
-  <string name="action_open_flashlight">Φλάς</string>
+  <string name="action_open_flashlight">Φλας</string>
   <string name="action_open_or_close_motion">On/Off Κίνησης</string>
   <string name="action_open_other_app">Άλλες εφαρμογές</string>
-  <string name="action_open_sound_recorder">Εγραφή ήχου</string>
+  <string name="action_open_sound_recorder">Εγγραφή ήχου</string>
   <string name="action_open_wechat">Άνοιγμα WeChat</string>
   <string name="action_phone">Τηλέφωνο</string>
   <string name="action_screen_shot">Στιγμιότυπο</string>

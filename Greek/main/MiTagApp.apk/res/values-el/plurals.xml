@@ -9,8 +9,8 @@
         <item quantity="one">ενέργεια</item>
     </plurals>
     <plurals name="history_description">
-        <item quantity="other">εγραφες</item>
-        <item quantity="one">εγραφήd</item>
+        <item quantity="other">εγγραφές</item>
+        <item quantity="one">εγγραφή d</item>
     </plurals>
     <plurals name="select_n_item">
         <item quantity="other">%d επιλεγμένα</item>

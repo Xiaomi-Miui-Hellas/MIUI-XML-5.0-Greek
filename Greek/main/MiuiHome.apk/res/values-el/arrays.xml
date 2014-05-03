@@ -18,11 +18,11 @@
     </string-array>
     <string-array name="gadget_weather_theme_type_entries">
         <item>Προκαθορισμένο</item>
-        <item>Κλασικόc</item>
+        <item>Κλασικός</item>
     </string-array>
     <string-array name="gadget_weather_image">
         <item>Καθαρός</item>
-        <item>Συνεφιά</item>
+        <item>Συννεφιά</item>
         <item>Λίγη ομίχλη</item>
         <item>Ομιχλώδης</item>
         <item>Σοβαρή καταιγίδα</item>
