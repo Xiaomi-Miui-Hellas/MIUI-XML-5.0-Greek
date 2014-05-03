@@ -3,7 +3,7 @@
     <string-array name="numberup">
         <item>Μια σελίδα ανά πλευρά</item>
         <item>Δύο σελίδες ανά πλευρά</item>
-        <item>Τέσσερις σελίδες ανά πλευράFour page per side</item>
+        <item>Τέσσερις σελίδες ανά πλευρά</item>
     </string-array>
     <string-array name="orientation">
         <item>Κάθετα</item>
