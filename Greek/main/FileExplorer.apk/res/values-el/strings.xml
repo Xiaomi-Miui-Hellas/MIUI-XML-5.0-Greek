@@ -3,7 +3,7 @@
     <string name="account_bind_prompt">Μετεγκατάσταση δεδομένων χρήστη… Αυτό μπορεί να διαρκέσει μερικά λεπτά.</string>
     <string name="add_task">Προσθήκη εργασιών</string>
     <string name="adding_upload_tasks">Πρόσθεση εργασίας…</string>
-    <string name="already_signin_description">"Είστε ήδη συνδεμένος."</string>
+    <string name="already_signin_description">"Είστε ήδη συνδεδεμένος."</string>
     <string name="app_cache_cleanup_indication">%s cache</string>
     <string name="app_cache_title">Cache εφαρμογών</string>
     <string name="app_garbage_cleanup_indication">%s σκουπίδια</string>
@@ -54,7 +54,7 @@
     <string name="confirm">Επιβεβαίωση</string>
     <string name="confirm_know">ΟΚ</string>
  <string name="copy_failed">Η αντιγραφή απέτυχε</string>
-    <string name="count_down_time">Εκκίνιση σε %d δευτ.</string>
+    <string name="count_down_time">Εκκίνηση σε %d δευτ.</string>
     <string name="create_kuaipan_shortcut_pref">Τοποθέτηση στην αρχική οθόνη</string>
     <string name="create_new_folder_desctiption">Δημιουργία φακέλου…</string>
     <string name="create_new_folder_failed">Αποτυχία δημιουργίας φακέλου</string>
@@ -64,7 +64,7 @@
     <string name="data_size_label">Δεδομένα</string>
  <string name="decompress_cancel">Άκυρο</string>
  <string name="decompress_confirm">Αποσυμπίεση </string>
-    <string name="decompress_fail">Αποτυχία αποσυμίεσης: αρχείο κατεστραμμένο ή ένα αρχείο με το ίδιο όνομα υπάρχει ήδη.</string>
+    <string name="decompress_fail">Αποτυχία αποσυμπίεσης: αρχείο κατεστραμμένο ή ένα αρχείο με το ίδιο όνομα υπάρχει ήδη.</string>
  <string name="decompress_success">Αποσυμπιέστηκε επιτυχώς</string>
  <string name="decompress_to">Αποσυμπίεση…</string>
     <string name="decompress_to_here">Αποσυμπίεση εδώ!</string>
@@ -106,7 +106,7 @@
  <string name="file_info_modified">Τροποποίηση :</string>
  <string name="file_info_size">Μέγεθος :</string>
     <string name="file_loading">Φορτώνει…</string>
-    <string name="file_too_large">Αποστυχία αποστολής: πολύ μεγάλο αρχείο.</string>
+    <string name="file_too_large">Αποτυχία αποστολής: πολύ μεγάλο αρχείο.</string>
     <string name="finished">Ολοκληρώθηκε</string>
     <string name="folder_exist">Ο φάκελος ήδη υπάρχει</string>
     <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Άγγιξε&lt;/a>να πάει στον κάδο ανακύκλωσης</string>
@@ -134,7 +134,7 @@
     <string name="instruction_pre">Αγγίξτε για να ξεκινήσει ο διακομιστής FTP</string>
     <string name="item_name">Ανώνυμος φάκελος</string>
     <string name="kuaipan_label">Kuaipan</string>
-    <string name="kuaipan_over_space">Έλειψη χώρου</string>
+    <string name="kuaipan_over_space">Έλλειψη χώρου</string>
     <string name="kuaipan_prompt">Σημείωση</string>
     <string name="kuaipan_prompt_message">"
  Ο εξυπηρετητής δεν είναι διαθέσιμος, παρακαλώ δοκιμάστε αργότερα…
@@ -158,7 +158,7 @@
     <string name="migrate_announcement_title">Ολοκλήρωση μετεγκατάστασης</string>
     <string name="move_failed">Αδυναμία αποκοπής</string>
     <string name="multi_select_title">%1$s επιλέχθηκαν</string>
-    <string name="name_illegal">Δώστε άνα όνομα</string>
+    <string name="name_illegal">Δώστε ένα όνομα</string>
     <string name="net_lose_connected">Η σύνδεση χάθηκε</string>
     <string name="networkView_notConnected">Μη διαθέσιμο δίκτυο.</string>
     <string name="new_folder_name">Ανώνυμος φάκελος</string>
@@ -242,7 +242,7 @@
     <string name="show_message">Θα χρειαστεί να κατεβάσετε αυτό το αρχείο για να μπορέσετε να το ανοίξετε.</string>
     <string name="sign_description">Συνδέεται…</string>
     <string name="signin_error">Απέτυχε η σύνδεση με το διακομιστή. Ελέγξτε τη σύνδεση δικτύου σας.</string>
-    <string name="signin_success">"Καλοσωρίσατε!
+    <string name="signin_success">"Καλωσορίσατε!
 Προστέθηκε %1$s ελεύθερος χώρος"</string>
     <string name="space_info">KuaiPan: %1$s διαθέσιμα, %2$s συνολικά</string>
     <string name="space_usage">Σε χρήση</string>
@@ -276,14 +276,14 @@
     <string name="ui_filechange_btn_download">Λήψη αρχείων</string>
     <string name="ui_filechange_btn_upload">Αποστολή αρχείων</string>
     <string name="ui_main_menu_option_sign_in">Είσοδος</string>
-    <string name="ui_main_menu_option_task_manage">Διαχείρηση μεταφορών</string>
+    <string name="ui_main_menu_option_task_manage">Διαχείριση μεταφορών</string>
     <string name="ui_main_progress_txt_open_file">Λήψη…</string>
     <string name="ui_main_toast_favorite_removed">Κατάργηση αγαπημένου</string>
     <string name="ui_main_toast_operation_failed">Αποτυχία αγαπημένου %1$s</string>
     <string name="uninstall_app_data">Διαγραφή εφαρμογής με όλα τα δεδομένα</string>
     <string name="unmount_inform_text">Αποσύνδεση USB χώρου?</string>
     <string name="upload_failed">Αποτυχία αποστολής</string>
-    <string name="upload_file_toolarge_message">%1$d απέτυχαν στην αποστολή: Μη \u0009 στέλεντε αρχεία μεγαλύτερα από 300M.</string>
+    <string name="upload_file_toolarge_message">%1$d απέτυχαν στην αποστολή: Μη \u0009 στέλνετε αρχεία μεγαλύτερα από 300M.</string>
     <string name="uploading">Αποστολή…</string>
     <string name="used">Σε χρήση</string>
     <string name="user_guide">Εισαγωγή στο KuaiPan</string>

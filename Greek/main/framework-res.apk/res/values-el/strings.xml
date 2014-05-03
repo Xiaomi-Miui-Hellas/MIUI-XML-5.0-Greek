@@ -504,7 +504,7 @@
     <string name="permdesc_brick">Επιτρέπει στην εφαρμογή τη μόνιμη απενεργοποίηση όλων των λειτουργιών του τηλεφώνου, το οποίο είναι εξαιρετικά επικίνδυνο.</string>
     <string name="permlab_reboot">αναγκαστική επανεκκίνηση τηλεφώνου</string>
     <string name="permdesc_reboot">Επιτρέπει στην εφαρμογή να προκαλέσει αναγκαστική επανεκκίνηση του τηλεφώνου.</string>
-    <string name="permlab_mount_unmount_filesystems">πρόσβ. σε σύστ.αρχ.αποθ.χώρ.USB</string>
+    <string name="permlab_mount_unmount_filesystems">Πρόσβ. σε σύστ.αρχ.αποθ.χώρ.USB</string>
     <string name="permdesc_mount_unmount_filesystems">Επιτρέπει στην εφαρμογή τη σύνδεση και αποσύνδεση συστημάτων αρχείων για αφαιρούμενο χώρο αποθήκευσης.</string>
     <string name="permlab_mount_format_filesystems">διαγραφή αποθ. χώρου USB</string>
     <string name="permdesc_mount_format_filesystems">Επιτρέπει στην εφαρμογή τη διαμόρφωση αφαιρούμενου χώρου αποθήκευσης.</string>
@@ -792,7 +792,7 @@
     <string name="lockscreen_glogin_password_hint">Κωδικός πρόσβασης</string>
     <string name="lockscreen_glogin_submit_button">Σύνδεση</string>
     <string name="lockscreen_glogin_invalid_input">Μη έγκυρο όνομα χρήστη ή κωδικός πρόσβασης.</string>
-    <string name="lockscreen_glogin_account_recovery_hint">"Ξεχάσατε το όνομα χρήστη ή τον κωδικό πρόσβασής σας;
+    <string name="lockscreen_glogin_account_recovery_hint">"Ξεχάσατε το όνομα χρήστη ή τον κωδικό πρόσβασης σας;
 Επισκεφτείτε τη διεύθυνση "<b>google.com/accounts/recovery</b>.</string>
     <string name="lockscreen_glogin_checking_password">Έλεγχος...</string>
     <string name="lockscreen_unlock_label">Ξεκλείδωμα</string>
@@ -889,7 +889,7 @@
     <string name="save_password_remember">Διατήρηση</string>
     <string name="save_password_never">Ποτέ</string>
     <string name="open_permission_deny">Δεν έχετε άδεια για να ανοίξετε αυτήν τη σελίδα.</string>
-    <string name="text_copied">Το κείμενο αντιγράφηκε στο πρόχειρο.</string>
+    <string name="text_copied">Το κείμενο αντιγράφτηκε στο πρόχειρο.</string>
     <string name="more_item_label">Περισσότερα</string>
     <string name="prepend_shortcut_label">Πλήκτρο Menu+</string>
     <string name="menu_space_shortcut_label">διάστημα</string>
@@ -944,7 +944,7 @@
     <string name="capital_off">Ανενεργό</string>
     <string name="whichApplication">Ολοκλήρωση ενέργειας με τη χρήση</string>
     <string name="alwaysUse">Χρήση από προεπιλογή για αυτήν την ενέργεια.</string>
-    <string name="clearDefaultHintMsg">Εκκθάριση προεπιλογής στις Ρυθμίσεις συστήματος > Εφαρμογές > Ληφθείσες.</string>
+    <string name="clearDefaultHintMsg">Εκκαθάριση προεπιλογής στις Ρυθμίσεις συστήματος > Εφαρμογές > Ληφθείσες.</string>
     <string name="chooseActivity">Επιλέξτε μια ενέργεια</string>
     <string name="chooseUsbActivity">Επιλέξτε μια εφαρμογή για τη συσκευή USB</string>
     <string name="noApplications">Δεν υπάρχουν εφαρμογές, οι οποίες μπορούν να εκτελέσουν αυτήν την ενέργεια.</string>
@@ -975,7 +975,7 @@
     <string name="screen_compat_mode_show">Να εμφανίζονται πάντα</string>
     <string name="screen_compat_mode_hint">Ενεργοποιήστε το ξανά στις Ρυθμίσεις συστημάτων > Εφαρμογές > Ληφθείσες.</string>
     <string name="smv_application">Η εφαρμογή %1$s (διεργασία %2$s) παραβίασε την αυτοεπιβαλλόμενη πολιτική StrictMode.</string>
-    <string name="smv_process">Η διεργασία %1$s παραβίασε την αυτοεπιβαλόμενη πολιτική StrictMode.</string>
+    <string name="smv_process">Η διεργασία %1$s παραβίασε την αυτοεπιβαλλόμενη πολιτική StrictMode.</string>
     <string name="android_upgrading_title">Το Android αναβαθμίζεται...</string>
     <string name="android_upgrading_apk">Βελτιστοποίηση της εφαρμογής %1$d από %2$d.</string>
     <string name="android_upgrading_starting_apps">Έναρξη εφαρμογών.</string>
@@ -1165,7 +1165,7 @@
     <string name="progress_unmounting">Αποσύνδεση του χώρου αποθήκευσης USB...</string>
     <string name="progress_erasing">Διαγραφή χώρου αποθήκευσης USB...</string>
     <string name="format_error">Δεν ήταν δυνατή η διαγραφή του χώρου αποθήκευσης USB.</string>
-    <string name="media_bad_removal">Η κάρτα SD καταργήθηκε πριν την αποπροσάρτησή της.</string>
+    <string name="media_bad_removal">Η κάρτα SD καταργήθηκε πριν την αποπροσάρτηση  της.</string>
     <string name="media_checking">Αυτή τη στιγμή γίνεται έλεγχος του αποθηκευτικού χώρου USB.</string>
     <string name="media_removed">Η κάρτα SD έχει αφαιρεθεί.</string>
     <string name="media_shared">Αυτή τη στιγμή ο αποθηκευτικός χώρος USB χρησιμοποιείται από κάποιον υπολογιστή.</string>
@@ -1319,7 +1319,7 @@
     <string name="kg_login_password_hint">Κωδικός πρόσβασης</string>
     <string name="kg_login_submit_button">Σύνδεση</string>
     <string name="kg_login_invalid_input">Μη έγκυρο όνομα χρήστη ή κωδικός πρόσβασης.</string>
-    <string name="kg_login_account_recovery_hint">"Ξεχάσατε το όνομα χρήστη ή τον κωδικό πρόσβασής σας;
+    <string name="kg_login_account_recovery_hint">"Ξεχάσατε το όνομα χρήστη ή τον κωδικό πρόσβασης σας;
 Επισκεφτείτε τη διεύθυνση "<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_login_checking_password">Έλεγχος λογαριασμού…</string>
     <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Έχετε πληκτρολογήσει εσφαλμένα τον κωδικό σας PIN %d φορές. 

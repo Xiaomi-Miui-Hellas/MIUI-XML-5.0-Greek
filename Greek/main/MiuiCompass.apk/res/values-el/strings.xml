@@ -5,7 +5,7 @@
   <string name="altitude_unit">μ</string>
   <string name="app_label">Πυξίδα</string>
   <string name="calibrate_failed_no_location">Αποτυχία Βαθμονόμησης: Αδυναμία λήψης για το τρέχον γεωγραφικό πλάτος και μήκος</string>
-  <string name="calibrate_failed_timeout">Η βαθμονόμηση απέτυχε: Το χρονικό όριο του διακομιστή έλειξε</string>
+  <string name="calibrate_failed_timeout">Η βαθμονόμηση απέτυχε: Το χρονικό όριο του διακομιστή έληξε</string>
   <string name="calibrate_success">Ολοκλήρωση βαθμονόμησης</string>
   <string name="cannot_get_location">Άγνωστη τοποθεσία</string>
   <string name="dialog_calibrat_altitude">Βαθμονόμηση υψομέτρου μέσω της σύνδεσης στο Internet.</string>
