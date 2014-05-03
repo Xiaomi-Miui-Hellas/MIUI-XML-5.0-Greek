@@ -272,6 +272,8 @@
     <string name="gpsVerifYes">Ναι</string>
     <string name="grant_credentials_permission_message_footer">Θέλετε να επιτρέψετε αυτή την αίτηση;</string>
     <string name="grant_credentials_permission_message_header">Η παρακάτω εφαρμογή ή οι παρακάτω εφαρμογές ζητούν άδεια για άμεση πρόσβαση στο λογαριασμό σας, η οποία θα ισχύει και για μελλοντική χρήση.</string>
+  <string name="gps_assistance_enable_message">To A-GPS είναι ενεργοποιημένo για την επιτάχυνση στο κλείδωμα θέσης του GPS, το οποίο μπορεί να επιβαρύνει με πρόσθετες χρεώσεις.</string>
+  <string name="gps_assistance_enable_title">Μηνύματα ειδοποίησης</string>
     <string name="grant_permissions_header_text">Αίτημα πρόσβασης</string>
     <string name="granularity_label_character">χαρακτήρας</string>
     <string name="granularity_label_line">γραμμή</string>
@@ -1338,4 +1340,5 @@
     <string name="year">year</string>
     <string name="years">years</string>
     <string name="yes">OK</string>
+  <string name="zz_keyguard_accessibility_voice_unlock">Φωνητικό ξεκλείδωμα</string>
 </resources>

@@ -3,7 +3,7 @@
     <string name="ContactScreen">Διαχειριστείτε τις επαφές SIM</string>
     <string name="ExportContactScreen">Εξαγωγή επαφών στην κάρτα SIM</string>
     <string name="accept_modify_call_request_prompt">Αποδοχή τροποποίησης του αιτήματος κλήσης?</string>
-    <string name="absent_num">Αριθμός λάθος</string>
+    <string name="absent_num">Λείπει ο αριθμός</string>
     <string name="accessibility_call_muted">Κλήση σε σίγαση.</string>
     <string name="accessibility_speakerphone_enabled">Ανοικτή συνομιλία ενεργοποιημένη.</string>
     <string name="addSimEntries">Προσθήκη επαφών SIM</string>
@@ -33,8 +33,8 @@
     <string name="always_enable_mms_miui">Πάντα να λαμβάνονται τα MMS</string>
     <string name="always_enable_mms_summary_miui">Λήψη MMS, ακόμη και όταν τα δεδομένα είναι απενεργοποιημένα</string>
     <string name="answer_and_hangup_miui">Τερματισμός και απάντηση εισερχόμενης κλήσης</string>
-    <string name="answer_features_setting_category_miui">Απάντηση</string>
-    <string name="answer_miui">Απάντηση</string>
+    <string name="answer_features_setting_category_miui">Παράμετροι απάντησης</string>
+    <string name="answer_miui">Μπορείτε πάντα να ρυθμίσετε την αυτόματη κείμενο πληρώσεως μέσω του Πλοηγού &gt; Ρυθμίσεις &gt; Γενικά</string>
     <string name="answer_state_setting_summary">Πρόσθετες επιλογές εισερχόμενων κλήσεων</string>
     <string name="answer_state_setting_title">Ρυθμίσεις εισερχομένων κλήσεων</string>
     <string name="answer_widget_dialog_title_miui">Επιλέξτε χειρονομία απάντησης</string>
@@ -42,6 +42,7 @@
     <string name="answer_widget_sliding_vertical_miui">Κάθετο πέρασμα</string>
     <string name="answer_widget_title_miui">Χειρονομία απάντησης</string>
     <string name="antispam_marked_count">Αναφορά από %1$d MIUI χρήστες</string>
+  <string name="antispam_marked_title">%1$s</string>
     <string name="antispam_notification_title">Άγνωστος αριθμός</string>
     <string name="antispam_provider">Αναγνωρίστηκε ως %s</string>
     <string name="apn_settings">Ονόματα σημείου πρόσβασης</string>
@@ -112,6 +113,7 @@
     <string name="bf_news_settings">Οικονομικές Ειδήσεις</string>
     <string name="callFailed_cb_enabled">"Δεν μπορείτε να κάνετε εξερχόμενες κλήσεις όσο η φραγή κλήσεων είναι ενεργοποιημένη."</string>
     <string name="callFailed_congestion">Φορτωμένο δίκτυο</string>
+  <string name="callFailed_dialToDial">Το ερώτημα τροποποιήθηκε ώστε να καλέσετε ένα διαφορετικό αριθμό</string>
     <string name="callFailed_dialToSs">Το αίτημα κλήσης τροποποιήθηκε σε SS αίτημα.</string>
     <string name="callFailed_dialToUssd">Το αίτημα κλήσης τροποποιήθηκε σε USSD αίτημα.</string>
     <string name="callFailed_dialTodial">Το αίτημα κλήσης τροποποιήθηκε σε με διαφορετικό αριθμό.</string>
@@ -180,7 +182,8 @@
     <string name="calling_via_template">Κλήση μέσω %s</string>
     <string name="calling_via_template_miui">"Κλήση μέσω ^1
 "<b>^2</b></string>
-    <string name="cancel">Ακύρωση</string>
+  <string name="callwait_open_hint">\"\ "Αναμονή Κλήσεων \" είναι μια υπηρεσία που παρέχεται από τον φορέα εκμετάλλευσης, εάν λάβετε ένα \ "MMI τον κωδικό σφάλματος \" εντολών, παρακαλούμε επικοινωνήστε με τον τοπικό φορέα σας για να ανοίξετε την υπηρεσία αναμονής κλήσεων</string>
+	<string name="cancel">Ακύρωση</string>
     <string name="cancel_call">Ακύρωση</string>
     <string name="card_01">Κάρτα 1 / SUB 1</string>
     <string name="card_02">Κάρτα 2 / SUB 2</string>
@@ -444,6 +447,7 @@
     <string name="enforce_proximity_summary_miui">Το τηλέφωνο θα κλειδώνει αυτόματα όταν τοποθετείται σε μια τσέπη</string>
     <string name="enforce_proximity_title_miui">Αποτροπή κλήσεων από την τσέπη</string>
     <string name="enterName">Όνομα</string>
+  <string name="enter_callbarring_password">"Εισάγετε έναν κωδικό πρόσβασης για τη φραγή κλήσεων (4 ψηφία)"</string>
     <string name="enterNumber">Τηλέφωνο</string>
     <string name="enter_input">Απαιτείται εισαγωγή. Δοκιμάστε ξανά!</string>
     <string name="enter_pin2_text">PIN2</string>
@@ -477,6 +481,7 @@
     <string name="fdn_failed">Η Λειτουργία FDN απέτυχε.</string>
     <string name="fdn_invalid_number">"Ο FDN δεν ενημερώθηκε, επειδή ο αριθμός δεν μπορεί να υπερβαίνει τα 20 ψηφία."</string>
     <string name="fdn_miui">Σταθεροί αριθμοί κλήσης</string>
+  <string name="fdn_unavailable">Μη διαθέσιμη υπηρεσία FDN</string>
     <string name="fdn_summary_miui">Περιορισμός εξερχόμενων κλήσεων σε εισηγμένες FDNs, ή αριθμούς με συγκεκριμένα προθέματα</string>
     <string name="fw_change_failed">"Δεν ήταν δυνατή η αλλαγή του αριθμού προώθησης.
 Επικοινωνήστε με το φορέα σας, εάν το πρόβλημα παραμένει."</string>
@@ -538,6 +543,7 @@
     <string name="invalidPin2">Πληκτρολογήστε έναν αριθμό PIN2 που είναι 4 έως 8 αριθμούς.</string>
     <string name="invalidPuk2">Πληκτρολογήστε έναν αριθμό PUK2 που αποτελείται από 8 αριθμούς.</string>
     <string name="invalid_new_pin2_miui">Μη έγκυρο PIN2. Πληκτρολογήστε έναν αριθμό PIN2 που έχει μήκος 4 έως 8 αριθμούς.</string>
+  <string name="invalid_password">Παρακαλώ εισάγετε τον 4-ψήφιο.</string>
     <string name="invalid_new_pin_miui">Μη έγκυρο PIN. Πληκτρολογήστε έναν κωδικό PIN που είναι 4 έως 8 αριθμούς.</string>
     <string name="invalid_pin2_miui">Μη έγκυρο PIN2. Πληκτρολογήστε έναν κωδικό PIN που είναι 4 έως 8 αριθμούς.</string>
     <string name="invalid_pin_miui">Μη έγκυρο PIN. Πληκτρολογήστε έναν κωδικό PIN που είναι 4 έως 8 αριθμούς.</string>
@@ -572,6 +578,15 @@
     <string name="label_rn2dp">PIN ξεκλειδώματος UIM Δικτύου 2</string>
     <string name="label_rspdp">PIN ξεκλειδώματος UIM παρόχου</string>
     <string name="label_sdp">PIN ξεκλειδώματος SIM</string>
+  <string name="label_subscription">Για την εγραφή</string>
+  <string name="lable_all_incoming">Όλες οι εισερχόμενες κλήσεις</string>
+  <string name="lable_all_out_except">Εξερχόμενες διεθνείς κλήσεις εκτός από τη χώρα ΡίΜΝ</string>
+  <string name="lable_all_outgoing">Όλες οι εξερχόμενες κλήσεις</string>
+  <string name="lable_all_outgoing_international">Εξερχόμενες διεθνείς κλήσεις</string>
+  <string name="lable_call_barring">Φραγή κλήσεων</string>
+  <string name="lable_disable">Απενεργοποίηση</string>
+  <string name="lable_enable">Ενεργοποίηση</string>
+  <string name="lable_incoming_calls_except">Εισερχόμενες κλήσεις κατά την περιαγωγή</string>
     <string name="label_spdp">PIN ξεκλειδώματος SIM παρόχου</string>
     <string name="lafs_disable">Πρόγραμμα πτήσεων τοπικών αεροδρομίων ανενεργό</string>
     <string name="lafs_enable">Πρόγραμμα πτήσεων τοπικών αεροδρομίων ενεργό</string>
@@ -613,6 +628,7 @@
     <string name="mismatchPin">"Οι αριθμοί PIN που πληκτρολογήσατε δεν ταιριάζουν. Δοκιμάστε ξανά."</string>
     <string name="mismatchPin2">"Οι αριθμοί PIN2 που πληκτρολογήσατε δεν ταιριάζουν. Δοκιμάστε ξανά."</string>
     <string name="mismatch_pin2_miui">"Οι αριθμοί PIN2 δεν ταιριάζουν"</string>
+  <string name="mismatch_password">Οι κωδικοί πρόσβασης δεν ταιριάζουν. Παρακαλώ δοκιμάστε ξανά.</string>
     <string name="mismatch_pin_miui">"Τα PIN δεν ταιριάζουν"</string>
     <string name="missed_call_notify_five_times_miui">5 φορές</string>
     <string name="missed_call_notify_none_miui">Χωρίς υπενθύμιση</string>
@@ -651,6 +667,7 @@
     <string name="networks_title_miui">Φορείς δικτύου</string>
     <string name="newPin2Label">Νέο PIN2</string>
     <string name="newPinLabel">Νέο PIN</string>
+  <string name="new_password_label">Νέος κωδικός πρόσβασης (4 ψηφία)</string>
     <string name="new_cards_available">Νέα κάρτα διαθέσιμη. Παρακαλώ ρυθμίστε τις συνδρομές.</string>
     <string name="new_pin2_hint_miui">Νέο PIN2</string>
     <string name="new_pin_hint_miui">Νέο PIN</string>
@@ -701,8 +718,13 @@
     <string name="ok">OK</string>
     <string name="oldPin2Label">Παλιό PIN2</string>
     <string name="oldPinLabel">Παλιό PIN</string>
+  <string name="old_password_label">Παλιός κωδικός (4 ψηφία)</string>
     <string name="old_pin2_hint_miui">Τρέχων PIN2</string>
     <string name="old_pin_hint_miui">Τρέχων PIN</string>
+  <string name="oldman_answer_call_button_text">Απαντήσετε</string>
+  <string name="oldman_dialpad_button_text">Συνθέτης</string>
+  <string name="oldman_end_call_button_text">Τέλος</string>
+  <string name="oldman_reject_call_button_text">Απόρριψη</string>
     <string name="onHold">Σε αναμονή</string>
     <string name="onscreenAddCallText">Προσθήκη κλήσης</string>
     <string name="onscreenAddParticipant">Προσθήκη συμμετέχοντος</string>
@@ -736,6 +758,7 @@
     <string name="onscreen_swap_calls_text_miui">Ανταλλαγή</string>
     <string name="onscreen_tools_off_miui">Εργαλεία</string>
     <string name="onscreen_tools_on_miui">Εργαλεία</string>
+  <string name="open_miui">Άνοιξε</string>
     <string name="optional_summary">&lt;Προαιρετικό></string>
     <string name="ota_activate">Ενεργοποίηση</string>
     <string name="ota_call_end">Πίσω</string>
@@ -762,10 +785,10 @@
 Δοκιμάστε ξανά ή καλέστε την υπηρεσία εξυπηρέτησης πελατών για περισσότερες επιλογές."</string>
     <string name="other_settings">Άλλες ρυθμίσεις κλήσεων</string>
     <string name="other_settings_miui">Άλλο</string>
+  <string name="password_changed">Ο κωδικός άλλξε με επιτυχία</string>
     <string name="password_title">Κωδικός</string>
     <string name="pause_prompt_no">Όχι</string>
-    <string name="pause_prompt_str">"Αποστολή ήχων
-"</string>
+    <string name="pause_prompt_str">"Αποστολή ήχων"</string>
     <string name="pause_prompt_yes">Ναι</string>
     <string name="payphone">Καρτοκινητή </string>
     <string name="phoneAppLabel">Τηλέφωνο</string>
@@ -817,6 +840,7 @@
     <string name="preferred_network_mode_gsm_only_summary">Προτιμώμενη λειτουργία δικτύου: GSM μόνο</string>
     <string name="preferred_network_mode_gsm_wcdma_summary">Προτιμώμενη λειτουργία δικτύου: GSM / WCDMA</string>
     <string name="preferred_network_mode_lte_cdma_evdo_summary">Προτιμώμενη λειτουργία δικτύου: CDMA + LTE / EVDO</string>
+  <string name="preferred_network_mode_lte_cdma_summary">Προτιμώμενη λειτουργία δικτύου: LTE/CDMA</string>
     <string name="preferred_network_mode_lte_gsm_wcdma_summary">Προτιμώμενη λειτουργία δικτύου: GSM / WCDMA / LTE</string>
     <string name="preferred_network_mode_lte_summary">Προτιμώμενη λειτουργία δικτύου: LTE</string>
     <string name="preferred_network_mode_lte_wcdma_summary">Προτιμώμενη λειτουργία δικτύου: LTE / WCDMA</string>
@@ -836,6 +860,7 @@
     <string name="preferred_network_mode_wcdma_perf_summary">Προτιμώμενη λειτουργία δικτύου: WCDMA προτιμάται</string>
     <string name="preferred_network_type_3g_only_warning_miui">"Δεν θα είστε σε θέση να συνδεθείτε σε ένα δίκτυο, αν η κάρτα SIM δεν έχει λειτουργικότητα 3G."</string>
     <string name="preferred_network_type_cdma_miui">CDMA</string>
+  <string name="preferred_network_type_group_title_miui">Δίκτυο κινητής τηλεφωνίας (%s)</string>
     <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_miui">Προτιμήστε τα δίκτυα 3G</string>
     <string name="preferred_network_type_pref_entries_auto_miui">Αυτόματο</string>
@@ -843,6 +868,7 @@
     <string name="preferred_network_type_pref_entries_only_2g_miui">Μόνο δίκτυα 2G (εξοικονομεί μπαταρία)</string>
     <string name="preferred_network_type_pref_entries_only_3g_miui">Μόνο δίκτυα 3G</string>
     <string name="preferred_network_type_td_scdma_miui">GSM/TD-SCDMA</string>
+  <string name="preferred_network_type_tds_cdma_miui">GSM/TD-SCDMA</string>
     <string name="preferred_network_type_title_miui">Προτιμώμενος τύπος δικτύου</string>
     <string name="primary_account_summary_with">Βασικός λογαριασμός. %s</string>
     <string name="private_num">Περιορισμένος αριθμός</string>
@@ -871,6 +897,7 @@
     <string name="register_on_network">Εγγραφή σε	%s…</string>
     <string name="register_network_failed_message_miui">"Δεν μπορούν να εγγραφούν στο δίκτυο που έχετε επιλέξει. Για να επιλέξετε προτιμώμενη δίκτυο αυτόματα?"</string>
     <string name="register_network_failed_title_miui">Υπηρεσία δεν είναι διαθέσιμη</string>
+  <string name="register_on_network">Εγγραφή στο %s…</string>
     <string name="registration_done">Δηλωμένος στο δίκτυο.</string>
     <string name="registration_status_checking_status">Έλεγχος κατάστασης...</string>
     <string name="registration_status_done">Λήψη κλήσεων.</string>
@@ -1045,6 +1072,7 @@
     <string name="sub3_summary">Διαχείριση Συνδρομής 3</string>
     <string name="sub_1">SUB 1</string>
     <string name="sub_2">SUB 2</string>
+  <string name="sub_3">SUB 3</string>
     <string name="sub_one">Διαχειριστείτε τις συνδρομές 1</string>
     <string name="sub_3">SUB 3</string>
     <string name="subone">Συνδρομή 1</string>
