@@ -627,7 +627,7 @@
  <string name="credentials_reset_summary">Αφαίρεση όλων των πιστοποιητικών</string>
  <string name="credentials_reset_warning">Λανθασμένος κωδικός. Έχετε άλλη μια προσπάθεια προτού ο χώρος διαπιστευτηρίων διαγραφεί </string>
  <string name="credentials_reset_warning_plural">Λανθασμένος κωδικός. Έχετε ακόμα %1$d προσπάθειες προτού ο χώρος διαπιστευτηρίων διαγραφεί </string>
- <string name="credentials_title">Αποθηκευτικός χώρος διαπιστευτηρίων</string>
+ <string name="credentials_title">Αποθηκευτικος χωρος πιστοποιητικων</string>
  <string name="credentials_unlock_hint">Εισαγάγετε τον κωδικό για το χώρο διαπιστευτηρίων </string>
  <string name="credentials_wrong_password">Λανθασμένος κωδικός </string>
  <string name="crypt_keeper_button_text">Κρυπτογράφηση τηλεφώνου</string>
@@ -756,7 +756,7 @@
     <string name="debug_input_category">Εισαγωγη</string>
     <string name="debug_layout">Εμφάνιση ορίων διάταξης</string>
     <string name="debug_layout_summary">Εμφάνιση ορίων κλιπ, περιθωρίων, κλπ.</string>
-    <string name="debug_log">Πρόγραμμα εμπειρίας χρήστη</string>
+    <string name="debug_log">Προγραμμα εμπειριας χρηστη</string>
     <string name="debug_monitoring_category">Παρακολουθηση</string>
     <string name="deep_clean_summary_install_apps_interval">χρησιμοποιήθηκαν %d μέρες του χρόνου</string>
     <string name="deep_clean_summary_install_apps_new">δεν έχει χρησιμοποιηθεί ποτέ</string>
@@ -790,7 +790,7 @@
  <string name="device_admin_add_title">Διαχειριστής συσκευής</string>
  <string name="device_admin_settings_title">Ρυθμίσεις διαχειριστή συσκευής</string>
  <string name="device_admin_status">Αυτός ο διαχειριστής είναι ενεργός και επιτρέπει στην εφαρμογή %1$s να εκτελεί τις ακόλουθες λειτουργίες</string>
- <string name="device_admin_title">Διαχείριση συσκευής</string>
+ <string name="device_admin_title">Διαχειριση συσκευης</string>
  <string name="device_admin_warning">Η ενεργοποίηση του διαχειριστή θα επιτρέψει στην εφαρμογή %1$s να εκτελεί τις ακόλουθες λειτουργίες</string>
  <string name="device_cpu">CPU </string>
  <string name="device_cpu2_info">"Dual Core"</string>
@@ -2428,7 +2428,7 @@ Android File Transfer,
  <string name="search_vpn">VPN</string>
  <string name="search_wallpaper">Ταπετσαρία</string>
  <string name="search_wifi">Wi-Fi</string>
- <string name="security_passwords_title">Κωδικοί πρόσβασης</string>
+ <string name="security_passwords_title">Κωδικοι προσβασης</string>
  <string name="security_privacy_settings_title">Ασφάλεια &amp; απόρρητο</string>
     <string name="security_relative">που αφορούν την ασφάλεια</string>
     <string name="security_settings_billing_desc">Αυτή η εφαρμογή μπορεί να σας χρεώσει χρήματα:</string>
@@ -2517,7 +2517,7 @@ Android File Transfer,
  <string name="sim_lock_on">Απαιτείται κωδικός PIN για χρήση του τηλεφώνου</string>
  <string name="sim_lock_settings">Ρυθμίσεις κλειδώματος κάρτας SIM</string>
  <string name="sim_lock_settings_category">Ρύθμιση κλειδώματος κάρτας SIM</string>
- <string name="sim_lock_settings_title">Κλείδωμα κάρτας SIM</string>
+ <string name="sim_lock_settings_title">Κλειδωμα καρτας SIM</string>
     <string name="sim_management_title">Διαχείριση SIM</string>
  <string name="sim_pin_change">Αλλαγή κωδικού PIN</string>
  <string name="sim_pin_toggle">Κλείδωμα κάρτας SIM</string>
@@ -2785,7 +2785,7 @@ Android File Transfer,
  <string name="unlock_set_unlock_summary">Παρακαλούμε ενεργοποιήστε κωδικό οθόνη για να ορίσετε την προστασία του κωδικού πρόσβασης</string>
  <string name="unmount_inform_text">Η κάρτα SD θα αποσυνδεθεί </string>
  <string name="untitled_apn">Χωρίς τίτλο</string>
- <string name="upload_debug_log_summary">Ανεβάστε debug log μόνο όταν η σύνδεση WLAN διαθέσιμα για να βοηθήσουν την ομάδα MIUI αναπτύξει μια πιο σταθερή ROM</string>
+ <string name="upload_debug_log_summary">Ανεβάστε debug log μόνο όταν η σύνδεση WLAN είναι διαθέσιμη για να βοηθήσετε την ομάδα της MIUI αναπτύξει μια πιο σταθερή ROM</string>
  <string name="upload_debug_log_title">Ανεβάστε debug log</string>
  <string name="usage_log">Στατιστικά χρήσης της εφαρμογής</string>
     <string name="usage_name_percent">"%1$s -  %2$s%%"</string>
