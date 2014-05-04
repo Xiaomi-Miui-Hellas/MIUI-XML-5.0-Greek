@@ -576,7 +576,7 @@
     <string name="lafs_enable">Πρόγραμμα πτήσεων τοπικών αεροδρομίων ενεργό</string>
     <string name="list_language_dtitle">Γλώσσες</string>
     <string name="list_language_summary">Επιλέξτε τη γλώσσα των ειδήσεων</string>
-    <string name="list_language_title">Γλώσσα</string>
+    <string name="list_language_title">Γλωσσα</string>
     <string name="load_networks_progress">Αναζήτηση…</string>
     <string name="local_disable">Τοπικές ειδήσεις απενεργοποιημένες</string>
     <string name="local_enable">Τοπικές ειδήσεις ενεργοποιημένες</string>
@@ -1011,7 +1011,7 @@
     <string name="sip_call_options_entry_3">Ρωτήστε για κάθε κλήση</string>
     <string name="sip_call_options_title">Χρήση κλήσεων μέσω Διαδικτύου</string>
     <string name="sip_call_options_wifi_only_entry_1">Για όλες τις κλήσεις</string>
-    <string name="sip_call_options_wifi_only_title">Χρήση κλήσεων μέσω Διαδικτύου (WLAN μόνο)</string>
+    <string name="sip_call_options_wifi_only_title">Χρήση κλήσεων μέσω Διαδικτύου (Μόνο WLAN)</string>
     <string name="sip_edit_new_title">Στοιχεία του λογαριασμού SIP</string>
     <string name="sip_edit_title">Στοιχεία του λογαριασμού SIP</string>
     <string name="sip_menu_add">Προσθήκη</string>
@@ -1022,7 +1022,7 @@
     <string name="sip_settings">Ρυθμίσεις κλήσεων μέσω Internet</string>
     <string name="sip_settings_miui">Κλήσεις μέσω Διαδικτύου</string>
     <string name="sip_system_decide">Αυτόματο</string>
-    <string name="sliding_down_hint_miui">Σύρετε προς τα κάτω για απάντηση</string>
+    <string name="sliding_down_hint_miui">Σύρετε κάτω για απάντηση</string>
     <string name="sliding_target_hint_miui">Ακουμπήστε το στόχο</string>
     <string name="sliding_up_hint_miui">Σύρετε προς τα πάνω για απόρριψη</string>
     <string name="sms_content">Περιεχόμενο:</string>

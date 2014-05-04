@@ -1232,9 +1232,9 @@
     <string name="action_menu_overflow_description">Περισσότερες επιλογές</string>
     <string name="action_bar_home_description_format">%1$s, %2$s</string>
     <string name="action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-    <string name="storage_internal">Εσωτερικός χώρος αποθήκευσης</string>
+    <string name="storage_internal">Εσωτερικος χωρος αποθηκευσης</string>
     <string name="storage_sd_card">Κάρτα SD</string>
-    <string name="storage_usb">Χώρος αποθήκευσης USB</string>
+    <string name="storage_usb">Χωρος αποθηκευσης USB</string>
     <string name="extract_edit_menu_button">Επεξεργασία</string>
     <string name="data_usage_warning_title">Προειδοποίηση χρήσης δεδομένων</string>
     <string name="data_usage_warning_body">Αγγίξτε για προβολή χρήσης/ρυθμ.</string>
