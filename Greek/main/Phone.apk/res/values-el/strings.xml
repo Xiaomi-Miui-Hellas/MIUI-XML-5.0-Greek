@@ -1190,7 +1190,6 @@
 Those strings make the compiler to raise the error Resource entry xxxxxxxxxxxxx is already defined
 Disabled for the moment until found the source of problem
 
-    <string name="call_barring_sum">Ρύθμιση αποκλεισμού φωνητικών κλήσεων</string>
     <string name="wrong_password">Λανθασμένος κωδικός πρόσβασης</string>
     <string name="simContacts_title">Διαχείριση των επαφών της κάρτας SIM</string>
   <string name="password_changed">Ο κωδικός άλλξε με επιτυχία</string>
@@ -1211,7 +1210,6 @@ Disabled for the moment until found the source of problem
   <string name="lable_call_barring">Φραγή κλήσεων</string>
   <string name="lable_disable">Απενεργοποίηση</string>
   <string name="lable_enable">Ενεργοποίηση</string>
-  <string name="lable_incoming_calls_except">Εισερχόμενες κλήσεις κατά την περιαγωγή</string>
   <string name="invalid_password">Παρακαλώ εισάγετε τον 4-ψήφιο.</string>
   <string name="enter_callbarring_password">"Εισάγετε έναν κωδικό πρόσβασης για τη φραγή κλήσεων (4 ψηφία)"</string>
     <string name="default_notification_description">Προεπιλεγμένος ήχος (%1$s)</string>
