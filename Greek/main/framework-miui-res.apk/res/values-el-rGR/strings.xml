@@ -183,11 +183,11 @@
   <string name="unlockscreen_low_battery">Συνδέστε τον φορτιστή σας</string>
   <string name="unlockscreen_recharge_completed">Φόρτισε</string>
   <string name="unlockscreen_recharging_message">Φορτίζει %d%%</string>
-  <string name="user_agreement1">Θα χρησιμοποιήσετε το σύστημα και τις online υπηρεσίες που παρέχονται από την Xiaomi, παρακαλώ διαβάστε</string>
+  <string name="user_agreement1">Για να χρησιμοποιήσετε το σύστημα και τις online υπηρεσίες που παρέχονται από την Xiaomi, παρακαλώ διαβάστε τα</string>
   <string name="user_agreement2">" Συμφωνία χρήσης"</string>
   <string name="user_agreement3">" και "</string>
   <string name="user_agreement4">Ιδιωτικό απόρρητο</string>
-  <string name="user_agreement5">，Κάντε κλικ στο OK αν συμφωνείτε και είστε πρόθυμοι να συμμορφωθείτε με το παραπάνω περιεχόμενο, κάντε κλικ στο κουμπί Άκυρο αν δεν συμφωνείτε.</string>
+  <string name="user_agreement5">. Κάντε κλικ στο OK αν συμφωνείτε και είστε πρόθυμοι να συμμορφωθείτε με το παραπάνω περιεχόμενο, κάντε κλικ στο κουμπί Άκυρο αν δεν συμφωνείτε.</string>
   <string name="v5_date_time_picker_dialog_title">Ορισμός υπενθύμισης</string>
   <string name="v5_deselect_all">Αποεπιλογή όλων</string>
   <string name="v5_edit_mode_title_empty">Έλεγχος αντικειμένων</string>

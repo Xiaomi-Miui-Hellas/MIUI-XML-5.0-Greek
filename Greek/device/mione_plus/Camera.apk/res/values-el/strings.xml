@@ -332,7 +332,7 @@
   <string name="pref_camera_volumekey_function_entry_shutter">Κλείστρο</string>
   <string name="pref_camera_volumekey_function_entry_volume">Ένταση</string>
   <string name="pref_camera_volumekey_function_entry_zooming">Zoom</string>
-  <string name="pref_camera_volumekey_function_title">Λειτουργίες κουμιού ήχου</string>
+  <string name="pref_camera_volumekey_function_title">Λειτουργίες πλήκτρου έντασης</string>
   <string name="pref_camera_watermark_entry_off">Off</string>
   <string name="pref_camera_watermark_entry_on">On</string>
   <string name="pref_camera_watermark_title">Υδατογράφημα ώρας</string>

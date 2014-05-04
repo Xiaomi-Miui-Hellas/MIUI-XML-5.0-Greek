@@ -204,7 +204,7 @@
   <string name="more">Περισσότερα</string>
   <string name="music_browser_label">Μουσική</string>
   <string name="music_filter">Φίλτρα αρχείων</string>
-  <string name="music_filter_helper">Για απόκρυψη αρχείων που δεν είναι σχετίζονται με τη μουσική, το μέγεθος του φίλτρου μεγέθους έχει οριστεί στα 800K. Το όριο μπορεί να ρυθμιστεί στις Ρυθμίσεις / Φίλτρα αρχείων.</string>
+  <string name="music_filter_helper">Για να γίενι απόκρυψη των αρχείων που δεν σχετίζονται με τη μουσική, το όριο του φίλτρου μεγέθους έχει οριστεί στα 800K. Το όριο μπορεί να ρυθμιστεί στις Ρυθμίσεις / Φίλτρα αρχείων.</string>
   <string name="music_not_loaded">Δεν βρέθηκαν αρχεία ήχου!</string>
   <string name="music_open_other_connect">Λήψη μουσική με χρήση δεδομένων κινητής</string>
   <string name="music_picker_title">Επιλογή τραγουδιού</string>
