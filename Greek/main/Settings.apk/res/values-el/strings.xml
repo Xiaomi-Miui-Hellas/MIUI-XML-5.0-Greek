@@ -1456,7 +1456,7 @@
  <string name="memory_size">Συνολικός χώρος</string>
     <string name="memory_suffix">GB</string>
     <string name="memory_title">Διαθέσιμα: %1$s\u0009\u0009Total: %2$s</string>
-    <string name="memory_used_suffix">Χρησιμοποιούνται</string>
+    <string name="memory_used_suffix">Σε χρήση</string>
  <string name="menu_cancel">Απόρριψη</string>
  <string name="menu_delete">Διαγραφή APN</string>
     <string name="menu_edit">Επεξεργασία</string>
@@ -1689,7 +1689,7 @@ Android File Transfer,
     <string name="optimize_residual_header_left">Υπολείμματα: %d</string>
     <string name="optimize_residual_list_empty_content">Δεν βρέθηκαν κατάλοιπα</string>
     <string name="optimize_tips_ad_content">Εικόνες, κείμενο, και άλλο περιεχόμενο διαφήμισης το οποίο αποθηκεύεται από τρίτους παρόχους υπηρεσιών στο τηλέφωνό σας.</string>
-    <string name="optimize_tips_ad_title">Αρχεία των διαφημίσεων:</string>
+    <string name="optimize_tips_ad_title">Διαφημίσεις:</string>
     <string name="optimize_tips_apk_content">"Χρησιμοποιείται για να εγκαταστήσετε εφαρμογές στη συσκευή σας, όμως δεν κάνουν τίποτα, αφού έχετε ήδη εγκαταστήσει την εφαρμογή."</string>
     <string name="optimize_tips_apk_title">Πακέτα:</string>
     <string name="optimize_tips_cache_content">Δημιουργούνται από εφαρμογές και διεργασίες που τα απαιτούν μόνο προσωρινά (π.χ. εικόνες).</string>
@@ -1697,7 +1697,7 @@ Android File Transfer,
     <string name="optimize_tips_residual_content">"Τα αρχεία (π.χ. βίντεο, wallpapers, μουσική, κλπ.) που έχουν κατεβάσει στην κάρτα SD της συσκευής σας από τις εφαρμογές που έχουν ήδη καταργηθεί. Επειδή ορισμένα από αυτά τα αρχεία μπορεί ακόμα να είναι χρήσιμη για σας, σας συνιστούμε να χρησιμοποιήσετε το προηγμένη λειτουργία κατά τον καθαρισμό υπολειμματική αρχεία. "</string>
     <string name="optimize_tips_residual_title">Υπολείμματα:</string>
     <string name="optimize_tips_title">Βοήθεια</string>
-    <string name="optimize_title_ad">Αρχεία των διαφημίσεων</string>
+    <string name="optimize_title_ad">Διαφημίσεις</string>
     <string name="optimize_title_apk">Πακέτα</string>
     <string name="optimize_title_cache">Μνήμη</string>
     <string name="optimize_title_residual">Υπολείμματα</string>
@@ -2395,7 +2395,7 @@ Android File Transfer,
  <string name="sdcard_unmount">Αποσύνδεση κάρτας SD</string>
     <string name="se_route_ese">Ενσωματωμένα ασφαλές στοιχείο</string>
     <string name="se_route_uicc">Ασφαλές στοιχείο στην κάρτα SIM</string>
-    <string name="search_about">περίπου</string>
+    <string name="search_about">Σχετικά</string>
     <string name="search_accelerometer">Επιταχυνσιόμετρο</string>
  <string name="search_access_control">Έλεγχος πρόσβασης</string>
     <string name="search_airplane">αεροπλάνο</string>
@@ -2586,7 +2586,7 @@ Android File Transfer,
  <string name="storage_settings">Αποθηκευτικός χώρος</string>
  <string name="storage_settings_summary">Αποσύνδεση κάρτας SD προβολή διαθέσιμου χώρου</string>
  <string name="storage_settings_title">Ρυθμίσεις αποθηκευτικού χώρου</string>
-    <string name="storage_size_content">%1$s χρησιμοποιούνται | %2$s διαθέσιμα</string>
+    <string name="storage_size_content">%1$s σε χρήση | %2$s διαθέσιμα</string>
     <string name="storage_size_title">Αποθηκευτικός χώρος</string>
  <string name="storage_title_usb">Σύνδεση USB με υπολογιστή</string>
  <string name="storageuse_settings_summary">Χρήση χώρου από εφαρμογές</string>

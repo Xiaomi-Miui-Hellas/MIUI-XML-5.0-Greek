@@ -96,7 +96,7 @@
   <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_end_time_summary">Έως</string>
   <string name="power_save_on_time_start_time_summary">Από</string>
-  <string name="pref_about">Περίπου</string>
+  <string name="pref_about">Σχετικά</string>
   <string name="pref_about_traffic_title">Ρυθμίσεις χρήσης δεδομένων</string>
   <string name="pref_add_traffic_pkg">Επιπλέον αγορασμένα δεδομένα</string>
   <string name="pref_adjust_data_usage">Πρότυπο μηνύματος Carrier</string>
@@ -108,7 +108,7 @@
   <string name="pref_avaible_traffic">Πρόγραμμα ασύρματων</string>
   <string name="pref_category_title_other">Πρόσθετες ρυθμίσεις</string>
   <string name="pref_check_network_diagnostics">Ελέγξτε αν η σύνδεση δεδομένων σας λειτουργεί κανονικά</string>
-  <string name="pref_connect_settings_enable_background">Επιτρέψτε την κίνηση δεδομένων παρασκηνίου</string>
+  <string name="pref_connect_settings_enable_background">Ναι στα δεδομένα παρασκηνίου</string>
   <string name="pref_connect_settings_enable_background_hint">"Επιτρέψτε στις εφαρμογές να χρησιμοποιούν τα δεδομένα, όταν δεν τα χρησιμοποιείτε"</string>
   <string name="pref_connect_settings_exceed_limit">Περιορισμός μέγιστης χρήσης δεδομένων</string>
   <string name="pref_connect_settings_exceed_limit_hint">Κόψτε τη σύνδεση δεδομένων όταν η χρήση δεδομένων φτάσει στο όριο</string>
@@ -140,8 +140,8 @@
   <string name="pref_title_declaration">Σημαντική ενημέρωση</string>
   <string name="pref_title_mobile_traffic">Δείτε τη χρήση δεδομένων, ενώ κλειδωμένο</string>
   <string name="pref_title_network_diagnostics">Διαγνωστικά δικτύου</string>
-  <string name="pref_title_traffic_speed_state">Εμφάνιση της ταχύτητας του δικτύου στη γραμμή κατάστασης</string>
-  <string name="pref_title_update_notification">Εμφάνιση κοινοποιήσεων χρήσης δεδομένων</string>
+  <string name="pref_title_traffic_speed_state">Ταχύτητα δικτύου στη μπάρα</string>
+  <string name="pref_title_update_notification">Ειδοποίηση χρήσης δεδομένων</string>
   <string name="pref_version">Έκδοση %s</string>
   <string name="pref_warning_values">Επίπεδο προειδοποίησης χρήσης δεδομένων</string>
   <string name="right_precent">100%</string>
