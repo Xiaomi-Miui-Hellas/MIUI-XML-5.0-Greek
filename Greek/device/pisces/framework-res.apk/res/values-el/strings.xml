@@ -544,10 +544,10 @@
     <string name="month_day_year" formatted="false">%d %B %Y</string>
     <string name="month_year" formatted="false">%-B %Y</string>
     <string name="more_item_label">Περισσότερα</string>
-    <string name="needPuk">Η κάρτα SIM έχει κλειδωθεί με κωδικό PUK. Πληκτρολογήστε τον κωδικό PUK για να την ξεκλειδώσετε.</string>
-    <string name="needPuk2">Πληκτρολογήστε τον κωδικό PUK2 για την κατάργηση αποκλεισμού της κάρτας SIM.</string>
     <string name="msim_carrier_text_format" formatted="false">%s, %s</string>
     <string name="msim_kg_sim_pin_msg_format" formatted="false">SUB:%d : %s.</string>
+    <string name="needPuk">Η κάρτα SIM έχει κλειδωθεί με κωδικό PUK. Πληκτρολογήστε τον κωδικό PUK για να την ξεκλειδώσετε.</string>
+    <string name="needPuk2">Πληκτρολογήστε τον κωδικό PUK2 για την κατάργηση αποκλεισμού της κάρτας SIM.</string>
     <string name="network_available_sign_in">Σύνδεση σε δίκτυο</string>
     <string name="new_app_action">Εκκίνηση της εφαρμογής %1$s</string>
     <string name="new_app_description">Διακοπή της παλιάς εφαρμογής χωρίς αποθήκευση.</string>
@@ -1096,8 +1096,8 @@
     <string name="preposition_for_time">στις %s</string>
     <string name="preposition_for_year">το %s</string>
     <string name="progress_erasing">Διαγραφή χώρου αποθήκευσης USB...</string>
-    <string name="progress_unmounting">Αποσύνδεση του χώρου αποθήκευσης USB...</string>
     <string name="progress_nomediapresent">Δεν υπάρχουν αφαιρούμενα μέσα…</string>
+    <string name="progress_unmounting">Αποσύνδεση του χώρου αποθήκευσης USB...</string>
     <string name="reboot_safemode_confirm">Θέλετε να κάνετε επανεκκίνηση σε ασφαλή λειτουργία; Αυτή η λειτουργία θα απενεργοποιήσει όλες τις εφαρμογές τρίτων που έχετε εγκαταστήσει. Θα πρέπει να ενεργοποιηθεί εκ νέου στην επόμενη επανεκκίνηση.</string>
     <string name="reboot_safemode_title">Επανεκκίνηση στην ασφαλή λειτουργία</string>
     <string name="recent_tasks_title">Πρόσφατα</string>
@@ -1244,13 +1244,13 @@
     <string name="ssl_certificate_is_valid">Αυτό το πιστοποιητικό είναι έγκυρο.</string>
     <string name="status_bar_device_locked">Η συσκευή κλειδώθηκε.</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="storage_internal">Εσωτερικός χώρος αποθήκευσης</string>
     <string name="stk_cc_ss_to_dial">Aίτημα για τροποποίηση του SS σε DIAL.</string>
     <string name="stk_cc_ss_to_ss">Aίτημα για τροποποίηση του SS σε νέο SS.</string>
     <string name="stk_cc_ss_to_ussd">Aίτημα για τροποποίηση του SS σε USSD.</string>
     <string name="stk_cc_ussd_to_dial">Aίτημα για τροποποίηση του USSD σε DIAL.</string>
     <string name="stk_cc_ussd_to_ss">Aίτημα για τροποποίηση του USSD σε SS.</string>
     <string name="stk_cc_ussd_to_ussd">Aίτημα για τροποποίηση του USSD σε νέο USSD.</string>
+    <string name="storage_internal">Εσωτερικός χώρος αποθήκευσης</string>
     <string name="storage_sd_card">Κάρτα SD</string>
     <string name="storage_usb">Χώρος αποθήκευσης USB</string>
     <string name="submit">Υποβολή</string>
