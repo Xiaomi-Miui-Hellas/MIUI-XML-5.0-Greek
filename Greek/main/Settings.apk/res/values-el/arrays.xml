@@ -208,9 +208,9 @@
         <item>Κλείσιμο τρέχουσας εφαρμογής</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
-        <item>0.5 δευτερόλεπτο</item>
+        <item>0.5 δευτερόλεπτα</item>
         <item>1 δευτερόλεπτο</item>
-        <item>1.5 δευτερόλεπτα</item>
+        <item>1.5 δευτερόλεπτο</item>
         <item>2 δευτερόλεπτα</item>
     </string-array>
     <string-array name="screen_saturation_title">
