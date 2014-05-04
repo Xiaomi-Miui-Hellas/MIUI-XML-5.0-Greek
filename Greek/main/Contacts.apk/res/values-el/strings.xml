@@ -271,7 +271,7 @@
     <string name="listFoundAllContactsZero">Δεν υπάρχουν επαφές</string>
     <string name="contactsAllLabel">Επαφές</string>
     <string name="contactsGroupsLabel">Ομάδες</string>
-    <string name="contactsFavoritesLabel">Αγαπημένα</string>
+    <string name="contactsFavoritesLabel">Αγαπημενα</string>
     <string name="dialerIconLabel">Πρόσφατες</string>
     <string name="recentCallsIconLabel">Αρχείο κλήσεων</string>
     <string name="menu_sendTextMessage">Αποστολή μηνύματος κειμένου</string>
@@ -468,8 +468,8 @@
     <string name="menu_accounts">Λογαριασμοί</string>
     <string name="menu_clear_frequents">Καθαρισμός συχνών</string>
     <string name="menu_contacts_filter">Επαφές που θα εμφανίζονται</string>
-    <string name="menu_import_export">Εισαγωγή/εξαγωγή</string>
-    <string name="dialog_import_export">Εισαγωγή/εξαγωγή επαφών</string>
+    <string name="menu_import_export">Εισαγωγή/Εξαγωγή</string>
+    <string name="dialog_import_export">Εισαγωγή/Εξαγωγή επαφών</string>
     <string name="dialog_import">Εισαγωγή επαφών</string>
     <string name="menu_share">Διαμοιρασμός</string>
     <string name="share_via">Αποστολή</string>
@@ -1076,7 +1076,7 @@
     <string name="batch_delete">Ομαδική διαγραφή</string>
     <string name="batch_delete_msg">"Διαγραφή %d επαφών? Τα αντίστοιχα δεδομένα που έχετε αποθηκευμένα στο Mi Cloud θα διαγραφούν επίσης."</string>
     <string name="starred_contacts">Αγαπημένα</string>
-    <string name="other_contacts">Άλλες επαφές</string>
+    <string name="other_contacts">Αλλες επαφες</string>
     <string name="set_photo_failed_msg">Αποτυχία εκχώρησης εικόνας.</string>
     <string name="contact_is_readOnly">"Δεν μπορείτε να επεξεργαστείτε τις επαφές που είναι μόνο για ανάγνωση"</string>
     <string name="profile_name">Το προφίλ μου</string>

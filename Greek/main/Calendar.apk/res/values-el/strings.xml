@@ -33,7 +33,7 @@
     <string name="synced">συγχρονισμένο</string>
     <string name="not_synced">ασυγχρόνιστο</string>
     <string name="acct_not_synced">"Αυτός ο λογαριασμό δεν συγχρονίζεται οπότε τα μπορεί να μην έχετε ενημερωμένα ημερολόγια."</string>
-    <string name="accounts">Λογαριασμοί &amp; συγχρονισμός</string>
+    <string name="accounts">Λογαριασμοί &amp; Συγχρονισμός</string>
     <string name="select_synced_calendars_title">Ημερολόγια για συγχρονισμό</string>
     <string name="select_synced_calendars_button">Ημερολόγια για συγχρονισμό</string>
     <string name="hint_what">Περιεχόμενο υπενθύμισης γεγονότος</string>
