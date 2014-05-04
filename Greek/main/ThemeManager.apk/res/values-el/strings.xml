@@ -36,7 +36,7 @@
   <string name="description_uploadtime">Ενημέρωση:</string>
   <string name="description_version">Έκδοση:</string>
   <string name="description_version_szie">Έκδοση: %1$s Μέγεθος: %2$s</string>
-  <string name="desktop_wallpaper">Desktop</string>
+  <string name="desktop_wallpaper">Επιφάνεια εργασίας  </string>
   <string name="download_failed">Η λήψη απέτυχε!</string>
   <string name="download_preview_failed">Απέτυχε να φορτώσει η προεπισκόπηση</string>
   <string name="download_success">Η λήψη ολοκληρώθηκε!</string>
@@ -234,7 +234,7 @@
   <string name="theme_component_title_contact">Πληκτρολόγιο</string>
   <string name="theme_component_title_font">Γραμματοσειρά</string>
   <string name="theme_component_title_framework">Πλαίσιο</string>
-  <string name="theme_component_title_icon">Εικόνα</string>
+  <string name="theme_component_title_icon">Εικονίδια</string>
   <string name="theme_component_title_launcher">Σπίτι</string>
   <string name="theme_component_title_lockstyle">Οθόνη κλειδώματος</string>
   <string name="theme_component_title_lockwallpaper">Ταπετσαρία οθόνης κλειδώματος</string>

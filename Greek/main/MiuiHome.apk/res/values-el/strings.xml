@@ -118,13 +118,13 @@
   <string name="pref_icon_shadow_title">Σκιά εικονιδίου</string>
   <string name="pref_keep_in_memory_summary">Κρατήστε τον launcher ενεργό όταν η μνήμη είναι χαμηλή.</string>
   <string name="pref_keep_in_memory_title">Κράτημα στην μνήμη</string>
-  <string name="pref_keep_layout_summary">Η αλλαγή της εικονιδίων μπορεί να διαταράξει την διάταξη της επιφάνειας εργασίας σας.</string>
+  <string name="pref_keep_layout_summary">Η αλλαγή των εικονιδίων μπορεί να διαταράξει την διάταξη της επιφάνειας εργασίας σας.</string>
   <string name="pref_keep_layout_title">Χρήση τρέχουσας διάταξης</string>
   <string name="pref_render_in_truecolor_summary">Η απενεργοποίηση αυτής της επιλογής θα βελτιώσει τις επιδόσεις.</string>
   <string name="pref_render_in_truecolor_title">Υψηλής ποιότητας γραφικά</string>
   <string name="pref_screen_transformation_type_title">Εφέ</string>
   <string name="pref_wallpaper_scroll_type_title">Τύποι κύλισης ταπετσαρίας</string>
-  <string name="preferences_general_title">Γενικές ρυθμίσεις</string>
+  <string name="preferences_general_title">Γενικες ρυθμισεις</string>
   <string name="preferences_title">Ρυθμίσεις Launcher</string>
   <string name="reset_scene_prompt">H σκηνή θα επανέλθει στην προεπιλεγμένη διάταξη</string>
   <string name="resource_select">Επιλογή</string>

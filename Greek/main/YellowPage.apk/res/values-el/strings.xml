@@ -90,7 +90,7 @@
   <string name="packages_select_sim_cards_title">Παρακαλώ επιλέξτε κάρτα SIM</string>
   <string name="packages_select_to_buy_title">Αγοράστε το ακόλουθο:</string>
   <string name="packages_title">Πακέτα δεδομένων κινητής τηλεφωνίας</string>
-  <string name="packages_wait_for_op_reply">"Περιμένετε το μήνυμα επιβεβαίωσης του φορέα του δικτύου"</string>
+  <string name="packages_wait_for_op_reply">"Περιμένετε το μήνυμα επιβεβαίωσης του φορέα δικτύου"</string>
   <string name="payment_back">Πίσω</string>
   <string name="payment_failed_common_problems">Παρουσιάστηκε ένα πρόβλημα κατά τη διαδικασία της πληρωμής.</string>
   <string name="payment_unknown_status_summary">Ελέγξτε τη σύνδεση δικτύου σας και προσπαθήστε ξανά.</string>
