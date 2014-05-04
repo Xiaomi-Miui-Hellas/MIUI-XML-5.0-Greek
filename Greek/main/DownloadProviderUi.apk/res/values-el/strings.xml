@@ -70,7 +70,7 @@
     <string name="editmode_menu_delete">Διαγραφή</string>
     <string name="all_downloads">Όλες οι λήψεις</string>
     <string name="app_downloads">%s λήψεις</string>
-    <string name="xunlei_brand">Με τη δύναμη Xunlei</string>
+    <string name="xunlei_brand">Powered by Xunlei</string>
     <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
     <string name="xunlei_switch">Μηχανή λήψεων Xunlei</string>
     <string name="turn_off_xunlei_title">Απενεργοποίηση της μηχανής λήψεων Xunlei</string>

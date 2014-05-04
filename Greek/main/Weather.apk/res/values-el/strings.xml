@@ -68,7 +68,7 @@
   <string name="local_city">Τοπικές πόλεις</string>
   <string name="location_allow_err">Αποτυχία εντοπισμού.</string>
   <string name="location_management">Τοποθεσίες</string>
-  <string name="location_notification">Ειδοποιήσεις καιρού</string>
+  <string name="location_notification">Ειδοποιησεις καιρου</string>
   <string name="menu_about">Σχετικά</string>
   <string name="menu_add">Προσθήκη πόλης</string>
   <string name="menu_around">Περιβάλλον</string>
@@ -112,7 +112,7 @@
   <string name="sina_share_success">Διαμοιράστηκε επιτυχώς!</string>
   <string name="sina_token_expired_warning">Ο Weibo λογαριασμός έχει λήξει, παρακαλώ επανασυνδεθείτε</string>
   <string name="sina_token_invalid_warning">Ο Weibo λογαριασμός είναι λανθασμένος, παρακαλώ δοκιμάστε ξανά</string>
-  <string name="sms_notification">Διαμοιρασμός μέσω SMS</string>
+  <string name="sms_notification">Διαμοιρασμος μεσω SMS</string>
   <string name="tip_weather">Ειδοποίηση καιρού MIUI</string>
   <string name="tip_weather_info_content_1">Λήψη στρωμάτων!</string>
   <string name="tip_weather_info_title_1">%1$s αναμενόμενη θερμοκρασία διαφέρει κατά %2$d βαθμούς</string>

@@ -31,7 +31,7 @@
         <item>1 βδομάδα</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Προεπιλογή Locale</item>
+        <item>Τοπική Προεπιλογή</item>
         <item>Σάββατο</item>
         <item>Κυριακή</item>
         <item>Δευτέρα</item>
@@ -172,7 +172,7 @@
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Πάντα</item>
-        <item>Μόνο όταν ο ήχος κλήσης είναι σε σιωπηλό</item>
+        <item>Μόνο όταν ο ήχος κλήσης είναι στο σιωπηλό</item>
         <item>Ποτέ</item>
     </string-array>
     <string-array name="widget_style_list">

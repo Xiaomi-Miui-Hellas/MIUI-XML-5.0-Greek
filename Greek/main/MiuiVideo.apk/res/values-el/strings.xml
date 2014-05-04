@@ -229,11 +229,11 @@
     <string name="offline_no_source">Δεν υπάρχει διαθέσιμη πηγή caching</string>
     <string name="offline_no_wifi">Δεν χρησιμοποιείτε wifi, παρακαλούμε να ελέγξετε την επιλογή στην σελίδα ρυθμίσεων, αν θέλετε να κάνετε cache τώρα.</string>
     <string name="offline_select_better_source">Έχει μετατραπεί σε διαθέσιμη caching πηγή</string>
-    <string name="offline_setting">Offline πολυμέσα</string>
+    <string name="offline_setting">Offline πολυμεσα</string>
     <string name="ok">OK</string>
     <string name="online_video">Online Βίντεο</string>
     <string name="open_camera">Κάμερα</string>
-    <string name="other_setting">Άλλο</string>
+    <string name="other_setting">Αλλο</string>
     <string name="others">Άλλα</string>
     <string name="pause_download">Παύση Προσωρινής αποθήκευσης</string>
     <string name="paused">Σε παύση</string>
@@ -244,7 +244,7 @@
     <string name="pick_video_to_myfavorite">Επιλέξτε τα στοιχεία</string>
     <string name="play">Αναπαραγωγή</string>
     <string name="play_length_colon">"Διάρκεια: "</string>
-    <string name="play_setting">Αναπαραγωγή</string>
+    <string name="play_setting">Αναπαραγωγη</string>
     <string name="playvideo">Αναπαραγωγή</string>
     <string name="pps">PPS</string>
     <string name="pptv">PPTV</string>
@@ -259,7 +259,7 @@
     <string name="rank">Βαθμολογία</string>
     <string name="receive_ad_notify">Λειτουργία ειδοποίησης μηνύματος/πίεσης</string>
     <string name="receive_ad_notify_summary">Μετά το άνοιγμα, για να λαμβάνετε τα τελευταία και δημοφιλή ειδοποίηση Βίντεο</string>
-    <string name="recentplay">Πρόσφατα έπαιξαν</string>
+    <string name="recentplay">Έπαιξαν πρόσφατα</string>
     <string name="recommendation">Μάλλον θα σας αρέσουν</string>
     <string name="reloading_tip">"Δεν ήταν δυνατή η σύνδεση με το δίκτυο"</string>
     <string name="retrieving">Ανάκτηση ...</string>

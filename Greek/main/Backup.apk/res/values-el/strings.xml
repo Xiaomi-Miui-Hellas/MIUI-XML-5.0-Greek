@@ -59,7 +59,7 @@ Ok για ακύρωση της διαδικασίας"</string>
   <string name="cloud_app_backup_date">"Αντιγράφηκε την "</string>
   <string name="cloud_app_backup_pending">Σε αναμονή…</string>
   <string name="cloud_app_backup_progress">Δημιουργία αντιγράφων…</string>
-  <string name="cloud_app_backup_summary">Αυτόματα αντίγραφα ασφαλείας εφαρμογών και δεδομένων χρήστη όταν η συσκευή φορτίζει και είναι συνδεδεμένη σε δίκτυο Wi-Fi</string>
+  <string name="cloud_app_backup_summary">Αυτόματη δημιουργία αντιγράφων ασφαλείας των εφαρμογών και δεδομένων χρήστη όταν η συσκευή φορτίζει και είναι συνδεδεμένη σε δίκτυο Wi-Fi</string>
   <string name="cloud_app_backup_title">Αντίγραφο MiCloud</string>
   <string name="cloud_app_check_data">Αναζήτηση δεδομένων από το MiCloud…</string>
   <string name="cloud_app_check_data_fail">Αποτυχία εύρεσης δεδομένων από το MiCloud</string>

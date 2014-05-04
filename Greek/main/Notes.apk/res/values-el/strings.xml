@@ -79,11 +79,11 @@
 	<string name="pref_desc_mode_grid">Πλέγμα</string>
   <string name="pref_desc_mode_list">Λίστα</string>
   <string name="pref_title_alarm_when_silent">Συναγερμός σε σίγαση</string>
-  <string name="pref_title_common">Κοινές ρυθμίσεις</string>
+  <string name="pref_title_common">Κοινες ρυθμισεις</string>
   <string name="pref_title_data_export">Εξαγωγή δεδομένων</string>
   <string name="pref_title_data_export_to_sdcard">Εξαγωγή στην SD card</string>
   <string name="pref_title_font_size">Μέγεθος Γραμματοσειράς</string>
-  <string name="pref_title_note_style">Στυλ Σημείωσης</string>
+  <string name="pref_title_note_style">Στυλ Σημειωσης</string>
   <string name="preferences_bg_random_appear_title">Τυχαίο χρώμα σημειώματος</string>
   <string name="preferences_title">Ρυθμίσεις</string>
   <string name="search">Σημειώσεις</string>

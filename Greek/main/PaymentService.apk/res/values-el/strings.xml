@@ -436,8 +436,8 @@ SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολ�
   <string name="summary_lockpattern">Απαίτηση μοναδικού μοτίβου κλειδώματος για MiCredit</string>
   <string name="title_change_lockpattern">Αλλαγή του κλειδώματος μοτίβου</string>
   <string name="title_discounts">Εκπτώσεις</string>
-  <string name="title_gesture">Μοτίβο κλειδώματος</string>
-  <string name="title_giftcard">Προσφορές</string>
+  <string name="title_gesture">Μοτιβο κλειδωματος</string>
+  <string name="title_giftcard">Προσφορες</string>
   <string name="title_lockpattern">Απαιτείται Μοτίβο κλειδώματος</string>
   <string name="title_mili_center">MiCredits</string>
   <string name="title_myaccount">Ο λογαριασμός μου: %s</string>
@@ -448,7 +448,7 @@ SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολ�
   <string name="title_pay_record">Αρχεία πληρωμών</string>
   <string name="title_recharge">Συμπληρώστε MiCredit</string>
   <string name="title_recharge_record">Αρχεία ανανεώσεων</string>
-  <string name="title_transaction">Συναλλαγές</string>
+  <string name="title_transaction">Συναλλαγες</string>
   <string name="title_visible_pattern">Κάντε το μοτίβο ορατό</string>
   <string name="voucher_edit_hint">Κωδικός</string>
   <string name="voucher_edit_limit">ψηφία</string>

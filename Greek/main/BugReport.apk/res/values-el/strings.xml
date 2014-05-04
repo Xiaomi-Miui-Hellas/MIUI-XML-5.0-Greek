@@ -9,7 +9,7 @@
     <string name="menu_discard">Απόρριψη</string>
     <string name="description">Εισάγετε περιγραφή (απαιτείται)</string>
     <string name="btn_send">Αποστολή</string>
-    <string name="err_type">Τύπος σφάλματος</string>
+    <string name="err_type">Τυπος σφαλματος</string>
     <string name="err_type_reboot">Επανεκκίνηση συστήματος</string>
     <string name="err_type_force_close">Εξαναγκαστικός τερματισμός</string>
     <string name="err_type_network">Προβλήματα δικτύου</string>
@@ -21,9 +21,9 @@
     <string name="status_msg_pending_upload">Ανεβαίνουν %d σχόλια…</string>
     <string name="status_msg_collecting_log">Συλλογή αρχείων καταγραφής</string>
     <string name="action_submit">Καταχώριση</string>
-    <string name="section_err_type">Τύπος σφάλματος</string>
-    <string name="section_description">Περιγραφή</string>
-    <string name="section_screenshot">Στιγμιότυπο</string>
+    <string name="section_err_type">Τυπος σφαλματος</string>
+    <string name="section_description">Περιγραφη</string>
+    <string name="section_screenshot">Στιγμιοτυπο</string>
     <string name="toast_report_sent_succeed">Η αναφορά έχει σταλεί</string>
     <string name="toast_report_sent_failed">Αποτυχία αποστολής αναφοράς</string>
     <string name="toast_report_copied_to_clipboard">Αναφορά αντιγράφηκε στο clipboard</string>

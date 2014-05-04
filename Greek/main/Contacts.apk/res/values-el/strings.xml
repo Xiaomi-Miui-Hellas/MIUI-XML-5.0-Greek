@@ -401,7 +401,7 @@
     <string name="no_sdcard_message">Δεν βρέθηκε χώρος αποθήκευσης.</string>
     <string name="import_from_sim">Εισαγωγή από κάρτα SIM</string>
     <string name="import_from_sim2">Εισαγωγή από κάρτα SIM 2</string>
-    <string name="import_from_sdcard">Εισαγωγή από το αποθηκευτικό χώρο</string>
+    <string name="import_from_sdcard">Εισαγωγή από τον αποθηκευτικό χώρο</string>
     <string name="export_to_sdcard">Εξαγωγή στον αποθηκευτικό χώρο</string>
     <string name="share_visible_contacts">Κοινή χρήση επαφών</string>
     <string name="import_one_vcard_string">Εισαγωγή ενός αρχείου vCard</string>
@@ -639,7 +639,7 @@
     <string name="activity_title_contacts_filter">Επαφές για εμφάνιση</string>
     <string name="menu_settings">Ρυθμίσεις</string>
     <string name="menu_help">Βοήθεια</string>
-    <string name="preference_displayOptions">Επιλογές εμφάνισης</string>
+    <string name="preference_displayOptions">Επιλογες εμφανισης</string>
     <string name="organization_company_and_title">%1$s, %2$s</string>
     <string name="hint_findContacts">Εύρεση επαφών</string>
     <string name="non_phone_caption">Αριθμός τηλεφώνου</string>
@@ -814,8 +814,8 @@
     <string name="group_add_fail_toast">Αποτυχία προσθήκης επαφής</string>
     <string name="picker_postal_title">Επιλέξτε ένα ταχυδρομικό κώδικα</string>
     <string name="picker_email_title">Επιλέξτε email</string>
-    <string name="preference_import">Εισαγωγή</string>
-    <string name="preference_export">Εξαγωγή</string>
+    <string name="preference_import">Εισαγωγη</string>
+    <string name="preference_export">Εξαγωγη</string>
     <string name="preference_others">Άλλο</string>
     <string name="wipe_data">Εκκαθάριση δεδομένων</string>
     <string name="check_unsynchronized_accounts">Θύμισε μου να συγχρονίζω τους λογαριασμούς</string>
@@ -861,7 +861,7 @@
     <string name="import_to_xiaomi_account_progress_message">Εισαγωγή…</string>
     <string name="import_to_xiaomi_account_progress_finish">Ολοκληρώθηκε η εισαγωγή</string>
     <string name="import_to_xiaomi_account_title">Θέλετε να εισαγάγετε τις παρακάτω επαφές στο Xiaomi λογαριασμό σας?</string>
-    <string name="select_show_contacts">Λίστα επαφών</string>
+    <string name="select_show_contacts">Λιστα επαφων</string>
     <string name="rebuild_t9_index_dialog_message">Ανακατασκευή…</string>
     <string name="pref_key_rebuild_t9_index_title">Ανακατασκευή των στοιχείων του δείκτη</string>
     <string name="pref_key_rebuild_t9_index_message">Αναδόμηση του δείκτη για την επίλυση ζητημάτων αναζήτησης</string>
@@ -874,10 +874,10 @@
 
  Για να ξεκινήσετε, πατήστε το εικονίδιο συγχώνευσης στο κάτω μέρος της οθόνης σας."</string>
     <string name="ic_menu_back">Πίσω</string>
-    <string name="preference_display">Προβολή</string>
+    <string name="preference_display">Προβολη</string>
     <string name="preference_simple_mode_title">Απόκρυψη φωτογραφιών και πληροφοριών</string>
     <string name="preference_simple_mode_description">Απόκρυψη εικόνων και άλλων στοιχείων επικοινωνίας στην προβολή λίστας</string>
-    <string name="preference_contacts">Επαφές</string>
+    <string name="preference_contacts">Επαφες</string>
     <string name="preference_contacts_display">Προβολή προτιμήσεων</string>
     <string name="preference_contacts_more">Οργάνωση επαφών</string>
     <string name="preference_contacts_filter">Διαμορφώστε την λίστα επαφών</string>
@@ -886,7 +886,7 @@
     <string name="preference_telocation_summary_teloc_off">Απόκρυψη τοποθεσίας επαφής</string>
     <string name="preference_telocation_summary_countrycode_on">Αυτόματη κλήση κωδικού χώρας</string>
     <string name="preference_telocation_summary_countrycode_off">"Μη αυτόματη κλήση κωδικού χώρας"</string>
-    <string name="preference_phone">Τηλέφωνο</string>
+    <string name="preference_phone">Τηλεφωνο</string>
     <string name="preference_dial_pad_touch_tone_title">Ήχοι πληκτρολογίου</string>
     <string name="preference_auto_ip_title">Αυτόματο πρόθεμα IP</string>
     <string name="preference_auto_ip_summary_disable">Απενεργοποιημένο</string>
@@ -985,7 +985,7 @@
     <string name="use_photo_as_primary2">"Χρήση %1$s's φωτογραφίας επαφής"</string>
     <string name="label_custom_type">Προσαρμογή</string>
     <string name="pkgLabel">Επαφές και πληκτρολόγιο</string>
-    <string name="preference_smart_group_title">Έξυπνη ομαδοποίηση</string>
+    <string name="preference_smart_group_title">Εξυπνη ομαδοποιηση</string>
     <string name="preference_smart_group_company_title">Βάση εταιρείας</string>
     <string name="preference_smart_group_company_summary">Ομαδοποίηση βάση εταιρείας</string>
     <string name="preference_smart_group_location_title">Βάση τοποθεσίας</string>

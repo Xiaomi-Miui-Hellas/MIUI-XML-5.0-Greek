@@ -77,8 +77,8 @@
   <string name="HIPS_Perm_AudioRecorder">Ηχογράφηση</string>
   <string name="HIPS_Perm_AudioRecorder_Desc">Τοπική κλήση και καταγραφή ήχου</string>
   <string name="HIPS_Perm_AudioRecorder_Hint">%1$s μπορεί να καταγράφει κλήσεις και ήχους</string>
-  <string name="HIPS_Perm_Bluetooth_Connectivity">ενεργοποίηση Bluetooth</string>
-  <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">ενεργοποίηση Bluetooth</string>
+  <string name="HIPS_Perm_Bluetooth_Connectivity">Ενεργοποίηση Bluetooth</string>
+  <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Ενεργοποίηση Bluetooth</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">%1$s μπορεί να κάνει χρήση Bluetooth</string>
   <string name="HIPS_Perm_Call">Τηλεφωνική κλήση</string>
   <string name="HIPS_Perm_Call_Desc">Δυνατότητα κλήσης, απάντησης ή απόρριψης τηλεφωνικών κλήσεων</string>
