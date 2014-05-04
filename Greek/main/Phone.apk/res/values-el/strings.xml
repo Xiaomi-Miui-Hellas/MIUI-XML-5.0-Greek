@@ -138,7 +138,6 @@
     <string name="callUnanswered_forwarded">Η κλήση δεν απαντήθηκε και προωθήθηκε</string>
     <string name="call_assistant_miui">Βοηθός κλήσης</string>
     <string name="call_forwarding_number_hint_miui">Εισάγετε τον αριθμό για να προωθείτε τις εισερχόμενες κλήσεις</string>
-    <string name="call_barring_sum">Ρύθμιση αποκλεισμού φωνητικών κλήσεων</string>
     <string name="call_forwarding_settings">Ρυθμίσεις προώθησης κλήσης</string>
     <string name="call_forwarding_settings_miui">Ρυθμίσεις προώθησης κλήσεων</string>
     <string name="call_ind_services">Ανεξάρτητες Υπηρεσίες κλήσης</string>
@@ -182,7 +181,7 @@
     <string name="calling_via_template">Κλήση μέσω %s</string>
     <string name="calling_via_template_miui">"Κλήση μέσω ^1
 "<b>^2</b></string>
-  <string name="callwait_open_hint">\"\ "Αναμονή Κλήσεων \" είναι μια υπηρεσία που παρέχεται από τον φορέα εκμετάλλευσης, εάν λάβετε ένα \ "MMI τον κωδικό σφάλματος \" εντολών, παρακαλούμε επικοινωνήστε με τον τοπικό φορέα σας για να ανοίξετε την υπηρεσία αναμονής κλήσεων</string>
+  <string name="callwait_open_hint">\"\"Αναμονή Κλήσεων\" είναι μια υπηρεσία που παρέχεται από τον φορέα εκμετάλλευσης, εάν λάβετε ένα \"MMI τον κωδικό σφάλματος\" εντολών, παρακαλούμε επικοινωνήστε με τον τοπικό φορέα σας για να ανοίξετε την υπηρεσία αναμονής κλήσεων</string>
 	<string name="cancel">Ακύρωση</string>
     <string name="cancel_call">Ακύρωση</string>
     <string name="card_01">Κάρτα 1 / SUB 1</string>
@@ -244,7 +243,6 @@
     <string name="cfnry_title_miui">Προώθηση όταν δεν απαντάω</string>
     <string name="cfu_title_miui">Προώθηση πάντα</string>
     <string name="change_num">Ενημέρωση</string>
-    <string name="change_password">Αλλαγή του κωδικού πρόσβασης για αποκλεισμό κλήσεων</string>
     <string name="change_pin">Αλλαγή αριθμού PIN κάρτας SIM</string>
     <string name="change_pin2">Αλλαγή PIN2</string>
     <string name="change_pin2_miui">Αλλαγή PIN2</string>
@@ -276,7 +274,6 @@
     <string name="confirm_delete_message_title_miui">Διαγράψτε αυτό το μήνυμα?</string>
     <string name="confirm_delete_sim_entry_miui">%d επαφές στην κάρτα SIM θα διαγραφούν.</string>
     <string name="confirm_no_countrycode_for_custom_location_miui">Εισάγετε τον αριθμό τηλεφώνου χωρίς κωδικό χώρας</string>
-    <string name="confirm_password_label">Επιβεβαίωση νέου κωδικού</string>
     <string name="confirm_pin2_hint_miui">Επιβεβαιώστε το νέο PIN2</string>
     <string name="confirm_pin_hint_miui">Επιβεβαίωση νέου PIN</string>
     <string name="connect_disconnect_vibrate_none_miui">Κανένα</string>
@@ -314,12 +311,10 @@
     <string name="data_enable_summary">Ενεργοποίηση πρόσβασης δεδομένων μέσω δικτύου κινητής τηλεφωνίας</string>
     <string name="data_enabled">Δεδομένα ενεργά</string>
     <string name="deact_all_sub_not_supported">Η απενεργοποίηση όλων των συνδρομών δεν υποστηρίζεται.</string>
-    <string name="deactivate_all">Διαγραφή όλων</string>
     <string name="default_contacts_countrycode_hint_miui">Εισάγετε τον κωδικό της χώρας</string>
     <string name="default_contacts_countrycode_miui">Προεπιλεγμένος κωδικός χώρας</string>
     <string name="default_contacts_countrycode_sum_miui">Προεπιλεγμένος κωδικός χώρας για τις επαφές σας: %s</string>
     <string name="default_ims_call_type">Φωνή</string>
-    <string name="default_notification_description">Προεπιλεγμένος ήχος (%1$s)</string>
     <string name="default_preference_summary">&lt;Δεν έχει οριστεί></string>
     <string name="delete">Διαγραφή</string>
     <string name="deleteAllSimEntries">Διαγραφή επαφών SIM</string>
@@ -447,7 +442,6 @@
     <string name="enforce_proximity_summary_miui">Το τηλέφωνο θα κλειδώνει αυτόματα όταν τοποθετείται σε μια τσέπη</string>
     <string name="enforce_proximity_title_miui">Αποτροπή κλήσεων από την τσέπη</string>
     <string name="enterName">Όνομα</string>
-  <string name="enter_callbarring_password">"Εισάγετε έναν κωδικό πρόσβασης για τη φραγή κλήσεων (4 ψηφία)"</string>
     <string name="enterNumber">Τηλέφωνο</string>
     <string name="enter_input">Απαιτείται εισαγωγή. Δοκιμάστε ξανά!</string>
     <string name="enter_pin2_text">PIN2</string>
@@ -543,7 +537,6 @@
     <string name="invalidPin2">Πληκτρολογήστε έναν αριθμό PIN2 που είναι 4 έως 8 αριθμούς.</string>
     <string name="invalidPuk2">Πληκτρολογήστε έναν αριθμό PUK2 που αποτελείται από 8 αριθμούς.</string>
     <string name="invalid_new_pin2_miui">Μη έγκυρο PIN2. Πληκτρολογήστε έναν αριθμό PIN2 που έχει μήκος 4 έως 8 αριθμούς.</string>
-  <string name="invalid_password">Παρακαλώ εισάγετε τον 4-ψήφιο.</string>
     <string name="invalid_new_pin_miui">Μη έγκυρο PIN. Πληκτρολογήστε έναν κωδικό PIN που είναι 4 έως 8 αριθμούς.</string>
     <string name="invalid_pin2_miui">Μη έγκυρο PIN2. Πληκτρολογήστε έναν κωδικό PIN που είναι 4 έως 8 αριθμούς.</string>
     <string name="invalid_pin_miui">Μη έγκυρο PIN. Πληκτρολογήστε έναν κωδικό PIN που είναι 4 έως 8 αριθμούς.</string>
@@ -578,15 +571,6 @@
     <string name="label_rn2dp">PIN ξεκλειδώματος UIM Δικτύου 2</string>
     <string name="label_rspdp">PIN ξεκλειδώματος UIM παρόχου</string>
     <string name="label_sdp">PIN ξεκλειδώματος SIM</string>
-  <string name="label_subscription">Για την εγραφή</string>
-  <string name="lable_all_incoming">Όλες οι εισερχόμενες κλήσεις</string>
-  <string name="lable_all_out_except">Εξερχόμενες διεθνείς κλήσεις εκτός από τη χώρα ΡίΜΝ</string>
-  <string name="lable_all_outgoing">Όλες οι εξερχόμενες κλήσεις</string>
-  <string name="lable_all_outgoing_international">Εξερχόμενες διεθνείς κλήσεις</string>
-  <string name="lable_call_barring">Φραγή κλήσεων</string>
-  <string name="lable_disable">Απενεργοποίηση</string>
-  <string name="lable_enable">Ενεργοποίηση</string>
-  <string name="lable_incoming_calls_except">Εισερχόμενες κλήσεις κατά την περιαγωγή</string>
     <string name="label_spdp">PIN ξεκλειδώματος SIM παρόχου</string>
     <string name="lafs_disable">Πρόγραμμα πτήσεων τοπικών αεροδρομίων ανενεργό</string>
     <string name="lafs_enable">Πρόγραμμα πτήσεων τοπικών αεροδρομίων ενεργό</string>
@@ -628,7 +612,6 @@
     <string name="mismatchPin">"Οι αριθμοί PIN που πληκτρολογήσατε δεν ταιριάζουν. Δοκιμάστε ξανά."</string>
     <string name="mismatchPin2">"Οι αριθμοί PIN2 που πληκτρολογήσατε δεν ταιριάζουν. Δοκιμάστε ξανά."</string>
     <string name="mismatch_pin2_miui">"Οι αριθμοί PIN2 δεν ταιριάζουν"</string>
-  <string name="mismatch_password">Οι κωδικοί πρόσβασης δεν ταιριάζουν. Παρακαλώ δοκιμάστε ξανά.</string>
     <string name="mismatch_pin_miui">"Τα PIN δεν ταιριάζουν"</string>
     <string name="missed_call_notify_five_times_miui">5 φορές</string>
     <string name="missed_call_notify_none_miui">Χωρίς υπενθύμιση</string>
@@ -667,7 +650,6 @@
     <string name="networks_title_miui">Φορείς δικτύου</string>
     <string name="newPin2Label">Νέο PIN2</string>
     <string name="newPinLabel">Νέο PIN</string>
-  <string name="new_password_label">Νέος κωδικός πρόσβασης (4 ψηφία)</string>
     <string name="new_cards_available">Νέα κάρτα διαθέσιμη. Παρακαλώ ρυθμίστε τις συνδρομές.</string>
     <string name="new_pin2_hint_miui">Νέο PIN2</string>
     <string name="new_pin_hint_miui">Νέο PIN</string>
@@ -688,7 +670,6 @@
     <string name="not_connected_miui">"Δεν συνδέθηκε"</string>
     <string name="not_voice_capable">Η φωνητική κλήση δεν υποστηρίζεται</string>
     <string name="notification_action_end_call">Τερματισμός κλήσης</string>
-    <string name="notification_dialing">Κλήση</string>
     <string name="notification_incoming_call">Εισερχόμενη κλήση</string>
     <string name="notification_missedCallTicker">Αναπάντητη κλήση από %s</string>
     <string name="notification_missedCallTitle">Αναπάντητη κλήση</string>
@@ -718,13 +699,8 @@
     <string name="ok">OK</string>
     <string name="oldPin2Label">Παλιό PIN2</string>
     <string name="oldPinLabel">Παλιό PIN</string>
-  <string name="old_password_label">Παλιός κωδικός (4 ψηφία)</string>
     <string name="old_pin2_hint_miui">Τρέχων PIN2</string>
     <string name="old_pin_hint_miui">Τρέχων PIN</string>
-  <string name="oldman_answer_call_button_text">Απαντήσετε</string>
-  <string name="oldman_dialpad_button_text">Συνθέτης</string>
-  <string name="oldman_end_call_button_text">Τέλος</string>
-  <string name="oldman_reject_call_button_text">Απόρριψη</string>
     <string name="onHold">Σε αναμονή</string>
     <string name="onscreenAddCallText">Προσθήκη κλήσης</string>
     <string name="onscreenAddParticipant">Προσθήκη συμμετέχοντος</string>
@@ -785,7 +761,6 @@
 Δοκιμάστε ξανά ή καλέστε την υπηρεσία εξυπηρέτησης πελατών για περισσότερες επιλογές."</string>
     <string name="other_settings">Άλλες ρυθμίσεις κλήσεων</string>
     <string name="other_settings_miui">Άλλο</string>
-  <string name="password_changed">Ο κωδικός άλλξε με επιτυχία</string>
     <string name="password_title">Κωδικός</string>
     <string name="pause_prompt_no">Όχι</string>
     <string name="pause_prompt_str">"Αποστολή ήχων"</string>
@@ -1008,7 +983,6 @@
     <string name="simContacts_airplaneMode">Για να εισαγάγετε επαφές από την κάρτα SIM, απενεργοποιήστε πρώτα τη λειτουργία πτήσης.</string>
     <string name="simContacts_empty">Δεν υπάρχουν επαφές στην κάρτα SIM σας.</string>
     <string name="simContacts_emptyLoading">Ανάγνωση από την κάρτα SIM…</string>
-    <string name="simContacts_title">Διαχείριση των επαφών της κάρτας SIM</string>
     <string name="sim_contact_dropdown_menu_deselect_all_miui">Αποεπιλογή όλων</string>
     <string name="sim_contact_dropdown_menu_select_all_miui">Επιλογή όλων</string>
     <string name="sim_contact_name_miui">Όνομα</string>
@@ -1199,7 +1173,6 @@
     <string name="wait_prompt_str">"Αποστολή των παρακάτω τόνων?
 "</string>
     <string name="wild_prompt_str">Αντικαταστήστε το χαρακτήρα με</string>
-    <string name="wrong_password">Λανθασμένος κωδικός πρόσβασης</string>
     <string name="xdivert_active">Ενεργή</string>
     <string name="xdivert_button">x-Divert Ρυθμίσεις</string>
     <string name="xdivert_enternumber_error">Εισάγετε τον αριθμό τηλεφώνου και για τις δύο συνδρομές</string>
@@ -1213,3 +1186,37 @@
     <string name="xdivert_summary">Ρυθμίσεις CFNRc</string>
     <string name="xdivert_title">x-Divert</string>
 </resources>
+<!--
+Those strings make the compiler to raise the error Resource entry xxxxxxxxxxxxx is already defined
+Disabled for the moment until found the source of problem
+
+    <string name="call_barring_sum">Ρύθμιση αποκλεισμού φωνητικών κλήσεων</string>
+    <string name="wrong_password">Λανθασμένος κωδικός πρόσβασης</string>
+    <string name="simContacts_title">Διαχείριση των επαφών της κάρτας SIM</string>
+  <string name="password_changed">Ο κωδικός άλλξε με επιτυχία</string>
+  <string name="oldman_answer_call_button_text">Απαντήσετε</string>
+  <string name="oldman_dialpad_button_text">Συνθέτης</string>
+  <string name="oldman_end_call_button_text">Τέλος</string>
+  <string name="oldman_reject_call_button_text">Απόρριψη</string>
+  <string name="old_password_label">Παλιός κωδικός (4 ψηφία)</string>
+    <string name="notification_dialing">Κλήση</string>
+  <string name="new_password_label">Νέος κωδικός πρόσβασης (4 ψηφία)</string>
+  <string name="mismatch_password">Οι κωδικοί πρόσβασης δεν ταιριάζουν. Παρακαλώ δοκιμάστε ξανά.</string>
+  <string name="lable_incoming_calls_except">Εισερχόμενες κλήσεις κατά την περιαγωγή</string>
+  <string name="label_subscription">Για την εγραφή</string>
+  <string name="lable_all_incoming">Όλες οι εισερχόμενες κλήσεις</string>
+  <string name="lable_all_out_except">Εξερχόμενες διεθνείς κλήσεις εκτός από τη χώρα ΡίΜΝ</string>
+  <string name="lable_all_outgoing">Όλες οι εξερχόμενες κλήσεις</string>
+  <string name="lable_all_outgoing_international">Εξερχόμενες διεθνείς κλήσεις</string>
+  <string name="lable_call_barring">Φραγή κλήσεων</string>
+  <string name="lable_disable">Απενεργοποίηση</string>
+  <string name="lable_enable">Ενεργοποίηση</string>
+  <string name="lable_incoming_calls_except">Εισερχόμενες κλήσεις κατά την περιαγωγή</string>
+  <string name="invalid_password">Παρακαλώ εισάγετε τον 4-ψήφιο.</string>
+  <string name="enter_callbarring_password">"Εισάγετε έναν κωδικό πρόσβασης για τη φραγή κλήσεων (4 ψηφία)"</string>
+    <string name="default_notification_description">Προεπιλεγμένος ήχος (%1$s)</string>
+    <string name="deactivate_all">Διαγραφή όλων</string>
+    <string name="confirm_password_label">Επιβεβαίωση νέου κωδικού</string>
+    <string name="change_password">Αλλαγή του κωδικού πρόσβασης για αποκλεισμό κλήσεων</string>
+    <string name="call_barring_sum">Ρύθμιση αποκλεισμού φωνητικών κλήσεων</string>
+-->
