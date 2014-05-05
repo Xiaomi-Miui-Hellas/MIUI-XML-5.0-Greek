@@ -67,7 +67,7 @@
   <string name="internal_build">Εσωτερική έκδοση</string>
   <string name="kernel_upgrade_link"/>
   <string name="kernel_upgrade_version"/>
-  <string name="later">Επανεκκίνηση αργότερα</string>
+  <string name="later">Επανεκ. αργότερα</string>
   <string name="loading">Γίνεται αίτηση</string>
   <string name="md5_check_cancelled">Ο έλεγχος του MD5 ακυρώθηκε cancelled</string>
   <string name="mione_update_fail_description">Παρακαλώ αναβαθμίστε ξανά</string>
@@ -100,7 +100,7 @@
   <string name="paused_queued_for_network">Αναμονή για σύνδεση δικτύου Waiting for network connection</string>
   <string name="paused_queued_for_wifi">Αναμονή για σύνδεση Wi-Fi</string>
   <string name="previous">Προηγούμενο</string>
-  <string name="reboot_later">Επανεκκίνηση αργότερα</string>
+  <string name="reboot_later">Επανεκ. αργότερα</string>
   <string name="reboot_now">Επανεκκίνηση τώρα</string>
   <string name="reboot_to_new_system">Επανεκκίνηση στη νέα έκδοση</string>
   <string name="recommend">Πρόταση</string>
