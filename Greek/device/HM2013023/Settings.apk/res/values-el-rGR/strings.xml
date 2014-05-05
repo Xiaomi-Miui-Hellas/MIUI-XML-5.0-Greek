@@ -25,8 +25,8 @@
     <string name="EM_NotifyDialog_title">Ειδοποίηση EM</string>
     <string name="MobileNetwork_Category">Δίκτυο κινητής τηλεφωνίας</string>
     <string name="MobileNetwork_DataConn_off">Απενεργοποιημένη σύνδεση δεδομένων</string>
-    <string name="MobileNetwork_SIM1_Active">SIM1 is Active</string>
-    <string name="MobileNetwork_SIM2_Active">SIM2 is Active</string>
+    <string name="MobileNetwork_SIM1_Active">SIM1 Ενεργή</string>
+    <string name="MobileNetwork_SIM2_Active">SIM2 Ενεργή</string>
     <string name="MobileNetwork_SIM_Active">Η σύνδ. δεδ. για τη SIM %1$s είναι ενεργή</string>
     <string name="MobileNetwork_off_Summary">Ενεργοποιήστε τη σύνδεση δεδομένων πριν τη χρήση A-GPS</string>
     <string name="MobileNetwork_on_Summary">Το A-GPS πρέπει να έχει πρόσβαση στο δίκτυο κιν. τηλ. μέσω συνδέσεων δεδομένων</string>
@@ -78,7 +78,7 @@
     <string name="accessibility_toggle_script_injection_preference_title">Βελτίωση προσβασιμότητας στον ιστό</string>
     <string name="accessibility_toggle_speak_password_preference_title">Εκφώνηση κωδικών πρόσβασης</string>
     <string name="activity_not_found">Η εφαρμογή δεν έχει εγκατασταθεί στο τηλέφωνό σας.</string>
-    <string name="adjust_3d_depth_title">"Adjust games' 3D depth"</string>
+    <string name="adjust_3d_depth_title">"Ρύθμιση παιχνιδιών: βάθος 3D"</string>
     <string name="agps_OK">OK</string>
     <string name="agps_disable_on_reboot">Απενεργοποίηση μετά από επανεκκίνηση</string>
     <string name="agps_disable_on_reboot_summary">Απενεργοποίηση της λειτουργίας A-GPS μετά από επανεκκίνηση του τηλεφώνου</string>
@@ -130,8 +130,8 @@
     <string name="battery_info_status_charging_wireless">(ασύρματο)</string>
     <string name="battery_level">%s%%</string>
     <string name="battery_percent">Ποσοστό μπαταρίας</string>
-    <string name="beam_mgmt_tab_download_title">RECEIVED</string>
-    <string name="beam_mgmt_tab_upload_title">SENT</string>
+    <string name="beam_mgmt_tab_download_title">ΛΗΦΘΗΚΕ</string>
+    <string name="beam_mgmt_tab_upload_title">ΣΤΑΛΘΗΚΕ</string>
     <string name="beam_share_clear_confirm_dialog_message">Εκκαθάριση όλου του ιστορικού;</string>
     <string name="beam_share_clear_confirm_dialog_title">Εκκαθάριση όλων</string>
     <string name="beam_share_clear_item_dailog_message">Το στοιχείο θα διαγραφεί.</string>
@@ -152,14 +152,14 @@
     <string name="bluetooth_advanced_settings">Σύνθετες ρυθμίσεις</string>
     <string name="bugreport_in_power">Αναφορές σφαλμάτων μενού λειτουργίας</string>
     <string name="bugreport_in_power_summary">Συμπερίληψη επιλογής στο μενού λειτουργίας για λήψη αναφοράς σφαλμάτων</string>
-    <string name="bugreport_tool_log_toast">Log saved to %s</string>
-    <string name="bugreport_tool_log_toast_generate_bugreport">Generating bug report (takes about 1 minute)</string>
-    <string name="button_disconnect_network">Disconnect from network</string>
+    <string name="bugreport_tool_log_toast">Σώθηκε στο %s</string>
+    <string name="bugreport_tool_log_toast_generate_bugreport">Δημιουργία αναφοράς λαθών (κάνει περίπου 1 λεπτό)</string>
+    <string name="button_disconnect_network">Αποσύνδεση από το δίκτυο</string>
     <string name="camera_app_name">Φωτογραφική μηχανή</string>
     <string name="camera_command_summary_format">Μπορείτε να πείτε %1$s ή %2$s για λήψη.</string>
-    <string name="change_data_conn_message">%1$s is not availible now, change the default data connection to %2$s?</string>
-    <string name="change_data_conn_title">Change data connection</string>
-    <string name="color_calibration_none">Native</string>
+    <string name="change_data_conn_message">%1$s δεν είναι διαθέσιμο τώρα, αλλάξτε την σύνδεση στο %2$s?</string>
+    <string name="change_data_conn_title">Αλλαγή σύννδεσης δεδομένων</string>
+    <string name="color_calibration_none">Γνήσια</string>
     <string name="color_calibration_srgb">sRGB</string>
     <string name="confirm_title">Επιβεβαίωση</string>
     <string name="cpu_dtm_summary">Περιορίστε τη μέγιστη απόδοση της CPU για να διατηρήσετε τη διάρκεια ζωής της μπαταρίας και να μειώσετε τη θερμοκρασία της συσκευής.</string>
@@ -167,7 +167,7 @@
     <string name="current_suffix">(Τρέχον)</string>
     <string name="custom_build_version">Προσαρμοσμένη έκδοση Build</string>
     <string name="custom_theme_name">Νέο [%1$s]</string>
-    <string name="data_connection_dialog_title">Data Connection Change</string>
+    <string name="data_connection_dialog_title">Αλλαγή σύνδεσης δεδομένων</string>
     <string name="data_usage_restrict_background_multiuser">"Αν περιορίσετε τη χρήση των δεδομένων κινητής τηλεφωνίας στο παρασκήνιο, ορισμένες εφαρμογές και υπηρεσίες δεν θα λειτουργούν, εκτός εάν είστε συνδεδεμένοι σε δίκτυο Wi-Fi.
 
 Αυτή η ρύθμιση επηρεάζει όλους τους χρήστες στο συγκεκριμένο τηλέφωνο."</string>
@@ -176,8 +176,8 @@
     <string name="deny">Άρνηση</string>
     <string name="dialog_apn_disabled">Απενεργοποιημένο APN.</string>
     <string name="dialog_apn_disabled_msg">Απενεργοποιήστε τη λειτουργία πτήσης πριν από την ενεργοποίηση των ρυθμίσεων APN.</string>
-    <string name="dialog_title_color_calibration">Color Correction preset</string>
-    <string name="dialog_title_hdmi_color_calibration">Color Correction preset</string>
+    <string name="dialog_title_color_calibration">Προκαθορισμένη διόρθωση χρωμάτων</string>
+    <string name="dialog_title_hdmi_color_calibration">Προκαθορισμένη διόρθωση χρωμάτων</string>
     <string name="display_default">Προβολή</string>
     <string name="display_personalize">Εξατομίκευση</string>
     <string name="display_settings_scences_title">Σκηνές</string>
@@ -187,19 +187,19 @@
     <string name="dlg_error_unmount_usb_title"/>
     <string name="dlg_mount_external_sd_summary">Αν τοποθετήσετε κάρτα SD, θα διακοπούν ορισμένες εφαρμογές που χρησιμοποιείτε.</string>
     <string name="dlg_mount_external_sd_title">Τοποθέτηση κάρτας SD;</string>
-    <string name="dolby_bassboost_high">Strong</string>
-    <string name="dolby_bassboost_low">Soft</string>
-    <string name="dolby_bassboost_normal">Normal</string>
-    <string name="dolby_bassboost_title">Bass:</string>
-    <string name="dolby_mode_movie">Video</string>
-    <string name="dolby_mode_music">Music</string>
-    <string name="dolby_mode_off">Off</string>
-    <string name="dolby_movie_advance">Video enhancer</string>
-    <string name="dolby_music_advance">Music enhancer</string>
-    <string name="dolby_roomsize_high">Outdoor</string>
-    <string name="dolby_roomsize_low">Indoor</string>
-    <string name="dolby_roomsize_normal">Normal</string>
-    <string name="dolby_roomsize_summary">Surround sound settings only available for headphones</string>
+    <string name="dolby_bassboost_high">Δυνατά</string>
+    <string name="dolby_bassboost_low">Μαλακάt</string>
+    <string name="dolby_bassboost_normal">Κανονικά</string>
+    <string name="dolby_bassboost_title">Μπάσσα:</string>
+    <string name="dolby_mode_movie">Βίντεο</string>
+    <string name="dolby_mode_music">Μουσική</string>
+    <string name="dolby_mode_off">Οff</string>
+    <string name="dolby_movie_advance">Βελτίωση Βίντεο</string>
+    <string name="dolby_music_advance">Βελτίωση μουσικής</string>
+    <string name="dolby_roomsize_high">Υπαίθριος</string>
+    <string name="dolby_roomsize_low">Εσωτερικός</string>
+    <string name="dolby_roomsize_normal">Κανονικός</string>
+    <string name="dolby_roomsize_summary">Η ρύθμιση ήχου Surround  είναι διαθέσιμη μόνο για τα ακουστικά</string>
     <string name="dolby_roomsize_title">Surround：</string>
     <string name="drm_reset_dialog_msg">Αυτή η λειτουργία θα διαγράψει όλες τις άδειες που υπάρχουν σε αυτήν τη συσκευή. Συνέχεια;</string>
     <string name="drm_reset_toast_msg">Οι άδειες έχουν διαγραφεί με επιτυχία</string>
@@ -214,8 +214,8 @@
     <string name="enable_gps_confirm_message">It needs a wireless data connection to acquire GPS assistance data (EPO, A-GPS) that may cause extra network fee. Are you sure to turn on GPS?</string>
     <string name="enable_opengl_traces_title">Ενεργοποίηση ιχνών OpenGL</string>
     <string name="enable_sim">Enable</string>
-    <string name="enable_wifi_display">Enable Wireless display</string>
-    <string name="enable_wifi_tether">Enable Wi-Fi hotspot</string>
+    <string name="enable_wifi_display">Ενεργ. Wi-Fi οθόνης</string>
+    <string name="enable_wifi_tether">Ενεργ. Wi-Fi hotspot</string>
     <string name="epo_about_message">"\u0009Η τεχνολογία EPO (Extended Prediction Orbit) είναι μια καινοτόμα αποκλειστική τεχνολογία A-GPS της MediaTek που βασίζεται σε διακομιστή εκτός σύνδεσης. 
 \u0009Υποστηρίζει πρόβλεψη δορυφορικής τροχιάς μέχρι 30 ημέρες, κάτι που μπορεί να ενισχύσει πολύ την εμπειρία του χρήστη, βελτιώνοντας τον χρόνο μέχρι τον πρώτο εντοπισμό (TTFF) του GPS."</string>
     <string name="epo_about_title">Πληροφορίες για το EPO</string>
@@ -350,24 +350,23 @@
     <string name="gps_time_sync_attention_gps_on">"Για να λάβετε την ώρα χρησιμοποιώντας το GPS, πρέπει να περιμένετε 1 λεπτό περίπου μέχρι να εντοπίσει το GPS τη θέση σας. Η διαδικασία εντοπισμού θέσης μπορεί να αποτύχει αν η λήψη σήματος είναι κακή.
 
 Χρήση της ώρας που παρέχεται από GPS;"</string>
-    <string name="gsm_to_wifi_connect_type_title">Cellular->Wi-Fi</string>
-    <string name="hdmi_3d_display_enable_summary">Enable to support 3D games</string>
-    <string name="hdmi_3d_display_enable_title">3D Display</string>
-    <string name="hdmi_3d_help_title">About HDMI 3D Stereoscopic support</string>
+    <string name="gsm_to_wifi_connect_type_title">Κινητή->Wi-Fi</string>
+    <string name="hdmi_3d_display_enable_summary">Ενεργοποίηση για υποστήριξη 3D παιχνιδιών
+    <string name="hdmi_3d_help_title">Σχετικά με την υποστήριξη HDMI 3D</string>
     <string name="hdmi_3d_stereo_separation_label">3D</string>
-    <string name="hdmi_3dplay_control_disable_subtext">3D Stereoscopic output to external 3D display disabled</string>
-    <string name="hdmi_3dplay_control_enable_subtext">3D Stereoscopic output to external 3D display enabled</string>
-    <string name="hdmi_3dplay_control_text">Enable 3D</string>
+    <string name="hdmi_3dplay_control_disable_subtext">Η 3D αναπαραγωγή στην εξωτερική οθόνη 3D ανενεργή</string>
+    <string name="hdmi_3dplay_control_enable_subtext">Η 3D αναπαραγωγή στην εξωτερική οθόνη 3D ενεργή</string>
+    <string name="hdmi_3dplay_control_text">3D Οn</string>
     <string name="hdmi_3dplay_settings_title">HDMI</string>
     <string name="hdmi_audio_toggler">Ήχος</string>
-    <string name="hdmi_color_calibration_none">Native</string>
+    <string name="hdmi_color_calibration_none">Φυσική</string>
     <string name="hdmi_color_calibration_srgb">sRGB</string>
-    <string name="hdmi_notification_content">Click to configure HDMI</string>
-    <string name="hdmi_notification_title">HDMI cable connected</string>
-    <string name="hdmi_settings">HDMI settings</string>
-    <string name="hdmi_settings_summary">Click to configure HDMI</string>
+    <string name="hdmi_notification_content">Κλικ για ρύθμιση HDMI</string>
+    <string name="hdmi_notification_title">HDMI καλώδιο συνδεμένο</string>
+    <string name="hdmi_settings">HDMI Ρυθμίσεις</string>
+    <string name="hdmi_settings_summary">Κλικ για ρύθμιση HDMI</string>
     <string name="hdmi_toggler">HDMI</string>
-    <string name="hdmi_video_resolution">Video resolution</string>
+    <string name="hdmi_video_resolution">Ανάλυση βίντεο</string>
     <string name="hdmi_video_toggler">Βίντεο</string>
     <string name="incoming_call_app_name">Εισερχόμενη κλήση</string>
     <string name="incomming_command_summary_format">Μπορείτε να πείτε %1$s ή %2$s για απάντηση ή απόρριψη των εισερχόμενων κλήσεων.</string>
@@ -626,10 +625,10 @@
     <string name="wifi_ap_wps_pin_title">Εισαγάγετε το PIN του ομότ. πρόγρ.-πελάτη</string>
     <string name="wifi_channel">Προτιμώμενο κανάλι</string>
     <string name="wifi_channel_width">Πλάτος καναλιών</string>
-    <string name="wifi_configured_ap_list">Previously configured APs</string>
-    <string name="wifi_connect_ap_summary">Specify network connection type</string>
+    <string name="wifi_configured_ap_list">Λίστα Προηγούμενων APs</string>
+    <string name="wifi_connect_ap_summary">Προσδιορίστε τύπο σύνδεσης</string>
     <string name="wifi_connect_failed_message">Δεν ήταν δυνατή η σύνδεση του τηλεφώνου σε αυτό το δίκτυο Wi-Fi.</string>
-    <string name="wifi_connect_type_title">Auto connect type</string>
+    <string name="wifi_connect_type_title">Αυτόματη σύνδεση</string>
     <string name="wifi_display_available_devices">Διαθέσιμες συσκευές</string>
     <string name="wifi_display_details">Ρυθμίσεις προβολής</string>
     <string name="wifi_display_disconnect_text">Με αυτόν τον τρόπο θα τερματιστεί η σύνδεσή σας με τη συσκευή:<b>%1$s</b></string>
@@ -652,7 +651,7 @@
     <string name="wifi_display_summary_off">απενεργοποιημένη</string>
     <string name="wifi_display_summary_on">ενεργή</string>
     <string name="wifi_dont_skip">Χωρίς παράλειψη</string>
-    <string name="wifi_failover_gprs_content">Wi-Fi is unavailable, try to connect to mobile network?</string>
+    <string name="wifi_failover_gprs_content">Μη διαθέσιμο Wi-Fi, να συνδεθείτε στο δίκτυο κινητής τηλεφωνίας?</string>
     <string name="wifi_hex_password">Δεκαεξαδικός κωδικός πρόσβασης</string>
     <string name="wifi_ipv4_address">Διεύθυνση IPv4</string>
     <string name="wifi_ipv6_address">Διεύθυνση IPv6</string>
@@ -660,16 +659,16 @@
     <string name="wifi_no_cert_for_wapi">Δεν είναι δυνατή η εύρεση της πιστοποίησης για το σημείο πρόσβασης στο οποίο συνδέεστε.</string>
     <string name="wifi_p2p_delete_group_message">Διαγραφή αυτής της ομάδας;</string>
     <string name="wifi_p2p_remembered_groups">Ομάδες που έχουν διατηρηθεί</string>
-    <string name="wifi_priority_changed" formatted="false">Old priority value=%s, New value=%s</string>
-    <string name="wifi_priority_settings_label">Priority settings</string>
-    <string name="wifi_priority_settings_summary">Tap to set priority for each access point</string>
-    <string name="wifi_priority_settings_title">AP priority settings</string>
-    <string name="wifi_priority_type_summary">Set priority for each access point manually</string>
-    <string name="wifi_priority_type_title">Set AP priority manually</string>
+    <string name="wifi_priority_changed" formatted="false">Προτεραιότητα παλιά τιμή=%s, Νέα τιμή=%s</string>
+    <string name="wifi_priority_settings_label">Ρυθμίσεις προτεραιότητας</string>
+    <string name="wifi_priority_settings_summary">Πιέστε για ρύθμιση προτεραιότητας σε κάθε access point</string>
+    <string name="wifi_priority_settings_title">Ρυθμίσεις προτεραιότητας AP</string>
+    <string name="wifi_priority_type_summary">Θέστε προτεραιότητα για κάθε access point με το χέρι</string>
+    <string name="wifi_priority_type_title">Ορισμός AP προτεραιότητας με το χέρι</string>
     <string name="wifi_required_info_text">Για να ολοκληρώσετε τη ρύθμιση, το tablet σας χρειάζεται πρόσβαση σε δίκτυο Wi-Fi. Μετά τη ρύθμιση, μπορείτε να κάνετε εναλλαγή μεταξύ δεδομένων κινητής τηλεφωνίας και δικτύου Wi-Fi.</string>
     <string name="wifi_security_wapi_certificate">Πιστοποιητικό WAPI</string>
     <string name="wifi_security_wapi_psk">WAPI PSK</string>
-    <string name="wifi_signal_found_msg">Current connection signal is weak, would you like to use another Wi-Fi network?</string>
+    <string name="wifi_signal_found_msg">Το τρέχον σήμα σύνδεσης είναι αδύναμο, θα θέλατε να χρησιμοποιήσετε ένα άλλο δίκτυο Wi-Fi?</string>
     <string name="wifi_skip_anyway">Παράλειψη</string>
     <string name="wifi_skipped_message">"ΠΡΟΕΙΔΟΠΟΙΗΣΗ: ενδέχεται να ισχύουν επιπλέον χρεώσεις από την εταιρεία κινητής τηλεφωνίας.
 
