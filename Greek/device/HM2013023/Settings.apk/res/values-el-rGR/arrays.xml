@@ -14,9 +14,9 @@
         <item>Κλήση στοίβας σε glGetError</item>
     </string-array>
     <string-array name="media_feedback_level_entries">
-        <item>Strong</item>
-        <item>Medium</item>
-        <item>Light</item>
+        <item>Ισχυρό</item>
+        <item>Μέτριο</item>
+        <item>Ελαφρύ</item>
     </string-array>
     <string-array name="gemini_sim_info_number_display_format_entries">
         <item>Πρώτα 4 ψηφία</item>
@@ -34,9 +34,9 @@
         <item>Μόνο GSM</item>
     </string-array>
     <string-array name="wifi_connect_type_entries">
-        <item>Automatically connect</item>
-        <item>Manually connect</item>
-        <item>Always ask</item>
+        <item>Αυτόματη σύνδεση</item>
+        <item>Σύνδεση με το χέρι</item>
+        <item>Πάντα ρώτα</item>
     </string-array>
     <string-array name="network_use_entry">
         <item>Μόνο οικιακό δίκτυο</item>
@@ -59,9 +59,9 @@
         <item>1080p 24Hz</item>
     </string-array>
     <string-array name="hdmi_video_mode_entries">
-        <item>Full screen</item>
-        <item>Best fit</item>
-        <item>Original size</item>
+        <item>Πλήρης οθόνη</item>
+        <item>Ταίριασμα</item>
+        <item>Αρχικό μέγεθος</item>
     </string-array>
     <string-array name="sim_slot">
         <item>(δεν έχει καθοριστεί)</item>
