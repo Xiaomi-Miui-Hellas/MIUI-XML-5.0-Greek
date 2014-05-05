@@ -56,6 +56,7 @@
   <string name="recommend">Προτείνω</string>
   <string name="running_notification">Xiaomi MiKey</string>
   <string name="select_device">Επιλογή συσκευής?</string>
+  <string name="setting_vibrate_desc">Η λειτουργία ειδοποίησης δονεί το τηλέφωνο.</string>
   <string name="short_click_1">1x</string>
   <string name="short_click_10">10x</string>
   <string name="short_click_2">2x</string>

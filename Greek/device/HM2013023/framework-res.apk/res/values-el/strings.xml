@@ -1335,7 +1335,7 @@
     <string name="wifi_p2p_turnon_message">Ξεκινήστε τη λειτουργία Wi-Fi Direct. Θα απενεργοποιηθεί η λειτουργία πελάτη/φορητού σημείου πρόσβασης Wi-Fi.</string>
     <string name="wifi_watchdog_network_disabled">Δεν είναι δυνατή η σύνδεση στο Wi-Fi</string>
     <string name="wifi_watchdog_network_disabled_detailed">" έχει κακή σύνδεση στο Διαδίκτυο."</string>
-    <string name="year">year</string>
-    <string name="years">years</string>
+    <string name="year">χρόνος</string>
+    <string name="years">χρόνια</string>
     <string name="yes">OK</string>
 </resources>
