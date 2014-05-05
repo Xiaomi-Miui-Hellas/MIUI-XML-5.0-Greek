@@ -1801,7 +1801,7 @@ Android File Transfer,
     <string name="perm_hips_security_prompt_root_step4">"Ορισμένες εφαρμογές με δικαιώματα root μπορεί να καταστρέψουν το υλικό της συσκευής σας."</string>
     <string name="perm_hips_security_prompt_root_step5">Να είστε προσεκτικοί: Μόνο χορηγήσει άδεια για root στις εφαρμογές από πηγές που εμπιστεύεστε.</string>
     <string name="perm_hips_security_prompt_root_step6">Παραχώρηση %1$s δικαιώματα root?</string>
-    <string name="perm_hips_security_prompt_title">%1$s προσπαθεί να %2$s</string>
+    <string name="perm_hips_security_prompt_title">Το %1$s προσπαθεί να %2$s</string>
     <string name="perm_hips_send_sms_content">Περιεχόμενο:</string>
     <string name="perm_hips_send_sms_data">Αποστολή SMS σε %1$s:%2$d</string>
     <string name="perm_hips_send_sms_port">Θύρα Desk:</string>
@@ -1888,7 +1888,7 @@ Android File Transfer,
  <string name="personal_data_section_title">Προσωπικα δεδομενα</string>
     <string name="phone_call_noise_suppression">Καταστολή θορύβου στις κλήσεις</string>
  <string name="phone_info_label">Πληροφορίες τηλεφώνου</string>
- <string name="phone_language">Γλώσσα</string>
+ <string name="phone_language">Γλωσσα</string>
  <string name="pico_installed">Εγκατεστημένο</string>
  <string name="pico_languages_and_voices">Γλώσσες και φωνές</string>
  <string name="pico_not_installed">Δεν είναι εγκατεστημένο</string>
@@ -2627,7 +2627,7 @@ Android File Transfer,
     <string name="system_update_settings_list_item_summary"/>
  <string name="system_update_settings_list_item_title">Ενημερώσεις συστήματος</string>
     <string name="tab_title_external_storage">Εξωτερική αποθήκευση</string>
-    <string name="tab_title_internal_storage">Εσωτερικος χωρος αποθηκευσης</string>
+    <string name="tab_title_internal_storage">Εσωτερικός χώρος αποθήκευσης</string>
     <string name="tab_title_sdcard_storage">SD card</string>
     <string name="terms_title">Όροι και προϋποθέσεις</string>
     <string name="testing">Δοκιμές</string>
