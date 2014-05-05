@@ -2,7 +2,7 @@
 <resources>
     <plurals name="confirm_delete_conversation">
         <item quantity="other">Διαγραφή επιλεγμένων %1$s συνομιλιών?</item>
-        <item quantity="one">Διαγράψτε αυτή τη συζήτηση?</item>
+        <item quantity="one">Διαγραφή αυτής της συζήτησης?</item>
     </plurals>
     <plurals name="slide_duration">
         <item quantity="other">%s δευτερόλεπτα</item>

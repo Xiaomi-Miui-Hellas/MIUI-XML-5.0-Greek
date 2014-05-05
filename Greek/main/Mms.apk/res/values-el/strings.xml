@@ -2,7 +2,7 @@
 <resources>
   <string name="activity_not_found">Δεν μπορεί να βρεθεί ένα πρόγραμμα για να ανοίξετε το συνημμένο</string>
   <string name="activity_not_found_uri">Δεν μπορεί να βρεθεί ένα πρόγραμμα για το σκοπό αυτό</string>
-  <string name="addBlackList">Προσθήκη στη μαύρη λίστα</string>
+  <string name="addBlackList">Προσθ. στη μαύρη λίστα</string>
   <string name="add_attachment">Επισυνάψτε</string>
   <string name="add_bookmark">Αγαπημένα</string>
   <string name="add_contact">Επαφή</string>

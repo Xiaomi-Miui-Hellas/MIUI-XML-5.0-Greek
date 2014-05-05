@@ -400,7 +400,7 @@ SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολ�
   <string name="progress_success_pay_summary">%1$s MiCredits προστέθηκαν, %2$s MiCredits πληρώθηκαν</string>
   <string name="progress_success_pay_title">%1$s MiCredit πληρωμή ολοκληρώθηκε</string>
   <string name="progress_success_recharge_summary">Υπόλοιπο λογαριασμού: %1$s MiCredits.</string>
-  <string name="progress_success_recharge_title">%1$s MiCredit ανανέωση ολοκληρώθηκε</string>
+  <string name="progress_success_recharge_title">%1$s MiCredit. Ανανέωση ολοκληρώθηκε</string>
   <string name="progress_voucher_creating">Προσθέτοντας MiCredit στο λογαριασμό σας, παρακαλώ περιμένετε ...</string>
   <string name="progress_warning_check">"Η πληρωμή δεν έχει φτάσει ακόμα τον λογαριασμό σας. 
 Θα ελέγξουμε ξανά εντός δύο εργάσιμων ημερών."</string>
