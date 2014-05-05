@@ -190,7 +190,7 @@
     <string name="HIPS_SecurityPrompt_AcceptRoot">Αποδοχή</string>
     <string name="HIPS_SecurityPrompt_Caption">Προειδοποίηση ασφαλείας</string>
   <string name="HIPS_SecurityPrompt_Next">Επόμενο</string>
-    <string name="HIPS_SecurityPrompt_Reject">Απορριφθέντα (%d)</string>
+    <string name="HIPS_SecurityPrompt_Reject">Απόρριψη (%d)</string>
     <string name="HIPS_SecurityPrompt_Remember">Αποθήκευση της επιλογής μου</string>
     <string name="HIPS_SecurityPrompt_ROOT_Caption">Προσοχή!</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step1">Θέλετε να επιτρέψετε στο %1$s να αποκτήσει δικαιώματα ROOT;</string>
