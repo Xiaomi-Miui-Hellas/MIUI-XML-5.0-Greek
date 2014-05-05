@@ -351,7 +351,7 @@
 
 Χρήση της ώρας που παρέχεται από GPS;"</string>
     <string name="gsm_to_wifi_connect_type_title">Κινητή->Wi-Fi</string>
-    <string name="hdmi_3d_display_enable_summary">Ενεργοποίηση για υποστήριξη 3D παιχνιδιών
+    <string name="hdmi_3d_display_enable_summary">Ενεργοποίηση για υποστήριξη 3D παιχνιδιών</string>
     <string name="hdmi_3d_help_title">Σχετικά με την υποστήριξη HDMI 3D</string>
     <string name="hdmi_3d_stereo_separation_label">3D</string>
     <string name="hdmi_3dplay_control_disable_subtext">Η 3D αναπαραγωγή στην εξωτερική οθόνη 3D ανενεργή</string>
