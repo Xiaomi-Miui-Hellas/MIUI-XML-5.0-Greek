@@ -687,4 +687,6 @@
     <string name="wifi_tether_wps_pin_error">Μη έγκυρο PIN</string>
     <string name="wifi_tethering_title">Σημείο πρ. Wi-Fi</string>
     <string name="wifi_wps_fail_error">Αποτυχία ρύθμισης προστατευμένου Wi-Fi. Δοκιμάστε ξανά.</string>
-</resources>
+	<string name="dolby_eq_jungle"/>
+	<string name="milicenter_settings"/>
+	</resources>
