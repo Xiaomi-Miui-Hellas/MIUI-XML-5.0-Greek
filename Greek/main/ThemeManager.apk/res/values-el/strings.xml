@@ -235,7 +235,7 @@
   <string name="theme_component_title_font">Γραμματοσειρά</string>
   <string name="theme_component_title_framework">Πλαίσιο</string>
   <string name="theme_component_title_icon">Εικονίδια</string>
-  <string name="theme_component_title_launcher">Σπίτι</string>
+  <string name="theme_component_title_launcher">Αρχική οθόνη</string>
   <string name="theme_component_title_lockstyle">Οθόνη κλειδώματος</string>
   <string name="theme_component_title_lockwallpaper">Ταπετσαρία οθόνης κλειδώματος</string>
   <string name="theme_component_title_miwallpaper">Ταπετσαρία</string>

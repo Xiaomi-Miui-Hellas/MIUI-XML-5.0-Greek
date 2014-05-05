@@ -1173,7 +1173,7 @@
     <string name="hello_world">Γεια σου κόσμε!</string>
     <string name="help_label">Βοήθεια</string>
     <string name="history_details_title">Λεπτομέρειες Ιστορικού</string>
-    <string name="home_key">Σπίτι</string>
+    <string name="home_key">Αρχική οθόνη</string>
     <string name="ime_security_warning">%1$sΑυτή η μέθοδος εισόδου μπορεί να καταγράψει ότι πληκτρολογείτε, συμπεριλαμβανομένων των κωδικών πρόσβασης, αριθμούς πιστωτικών καρτών και άλλα προσωπικά δεδομένα. Θέλετε να χρησιμοποιήσετε αυτή τη μέθοδο εισαγωγής?</string>
     <string name="immediately_destroy_activities">"Μην κρατάτε τις δραστηριότητες"</string>
     <string name="immediately_destroy_activities_summary">Καταστρέψτε κάθε δραστηριότητα μόλις ο χρήστης την αφήνει</string>
