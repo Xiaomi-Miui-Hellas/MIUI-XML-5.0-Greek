@@ -853,7 +853,7 @@
     <string name="export_sim_contact_finish_success">Αντιγράφηκαν  %d επαφές</string>
     <string name="export_sim_contact_finish_failure">Μεταφέρθηκαν: %1$d Απομένουν: %2$d</string>
     <string name="sim_export_loading">Ανάγνωση της κάρτας SIM…</string>
-    <string name="pref_title_account_import">Εισαγωγή από το λογαριασμό</string>
+    <string name="pref_title_account_import">Εισαγωγη απο το λογαριασμο</string>
     <string name="pref_title_import_from_account">Εισαγωγή από το Λογαριασμό Xiaomi</string>
     <string name="pref_summary_import_from_account">Μεταφορά επαφών από λογαριασμούς Google και Exchange στο Xiaomi λογαριασμό μου</string>
     <string name="import_to_xiaomi_account_confirm">Εισαγωγή</string>
