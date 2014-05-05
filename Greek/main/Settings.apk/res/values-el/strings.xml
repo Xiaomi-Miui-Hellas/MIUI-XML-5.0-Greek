@@ -35,10 +35,10 @@
     <string name="accessibility_global_gesture_preference_summary_off">Off</string>
     <string name="accessibility_global_gesture_preference_summary_on">On</string>
     <string name="accessibility_global_gesture_preference_title">Συντόμευση Προσβασιμότητας</string>
- <string name="accessibility_long_press_timeout_title">Χρόνος πίεσης πλήκτρου</string>
- <string name="accessibility_menu_item_settings">Ρυθμίσεις</string>
- <string name="accessibility_no_services_installed">Δεν υπάρχουν εγκατεστημένες υπηρεσίες</string>
- <string name="accessibility_power_button_ends_call_title">Τερματισμός κλήσεων με Power</string>
+    <string name="accessibility_long_press_timeout_title">Χρόνος πίεσης πλήκτρου</string>
+    <string name="accessibility_menu_item_settings">Ρυθμίσεις</string>
+    <string name="accessibility_no_services_installed">Δεν υπάρχουν εγκατεστημένες υπηρεσίες</string>
+    <string name="accessibility_power_button_ends_call_title">Τερματισμός κλήσεων με Power</string>
     <string name="accessibility_screen_magnification_enable">Χειρονομίες μεγέθυνσης</string>
     <string name="accessibility_screen_magnification_summary">"Όταν αυτή η λειτουργία είναι ενεργοποιημένη, μπορείτε να κάνετε ζουμ μέσα και έξω αγγίζοντας την οθόνη τρεις φορές.
 
