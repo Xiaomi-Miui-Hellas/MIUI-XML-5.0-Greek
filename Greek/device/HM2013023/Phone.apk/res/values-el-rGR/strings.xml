@@ -4,6 +4,12 @@
     <string name="add_call_reject_number">Προσθέσετε έναν αριθμό στη λίστα</string>
     <string name="airplane_mode_on">Αδύνατο το άνοιγμα του SIM toolkit λειτουργία πτήσης.</string>
     <string name="alert_device_error">Σφάλμα στην συσκευή ήχου</string>
+    <string name="airplane_mode_on">Αδύνατο το άνοιγμα του SIM toolkit λειτουργία πτήσης.</string>
+    <string name="alert_device_error">Σφάλμα στην συσκευή ήχου</string>
+    <string name="airplane_mode_on">Αδύνατο το άνοιγμα του SIM toolkit λειτουργία πτήσης.</string>
+    <string name="alert_device_error">Σφάλμα στην συσκευή ήχου</string>
+    <string name="airplane_mode_on">Αδύνατο το άνοιγμα του SIM toolkit λειτουργία πτήσης.</string>
+    <string name="alert_device_error">Σφάλμα στην συσκευή ήχου</string>
     <string name="associate_sim_missing_message">SIM %1$s δεν είναι διαθέσιμη. Για να πραγματοποιήσετε μια κλήση πάνω από %2$s?</string>
     <string name="associate_sim_missing_other">Άλλο</string>
     <string name="auto_reject_sum">Επιλέξτε τη μέθοδο του αποκλεισμού εισερχόμενων κλήσεων</string>
@@ -25,7 +31,7 @@
     <string name="callFailed_dsac_vt_resource_unavailable">Η κλήση βίντεο δεν μπορεί να ολοκληρωθεί, επειδή ο αριθμός που καλείτε δεν έχει κάλυψη 3G . Θέλετε να κάνετε μια φωνητική κλήση?</string>
     <string name="callFailed_simError_slotNumber">Ελαττωματική υποδοχή κάρτας SIM. %d</string>
     <string name="call_additional_sum">Άλλο</string>
-    <string name="call_barring_sum">Φραγή φωνητικών κλήσεων</string>    
+    <string name="call_barring_sum">Φραγή φωνητικών κλήσεων</string>
     <string name="call_reject_list_add">Προσθήκη</string>
     <string name="call_reject_list_delete">Διαγραφή</string>
     <string name="call_reject_no_name">Χωρίς όνομα</string>
@@ -59,7 +65,7 @@
     <string name="cb_menu_language">Γλάωσσα</string>
     <string name="cdma_cfu_dialog_sum">Πάντα να χρησιμοποιείτε αυτό τον αριθμό</string>
     <string name="cdma_cfu_title">China Telecom</string>
-    <string name="cdma_not_support">"Το CDMA δεν υποστηρίζει αυτή τη λειτουργία"</string>
+    <string name="cdma_not_support">Το CDMA δεν υποστηρίζει αυτή τη λειτουργία</string>
     <string name="cell_broadcast">Εκπομπή κυψέλης</string>
     <string name="cell_broadcast_settings">Ρυθμίσεις εκπομπής κυψέλης</string>
     <string name="change_password">Αλλαγή κωδικού πρόσβασης</string>
@@ -75,7 +81,7 @@
     <string name="dialog_network_priority_title">Προτεραιότητα</string>
     <string name="disable_data_connection_msg">Ακύρωση αυτόματης αναζήτησης διτκύων. Συνέχεια?</string>
     <string name="dm_lock">DM κλειδωμένο</string>
-    <string name="dm_unlock">DM ξεκλειδωμένο</string>   
+    <string name="dm_unlock">DM ξεκλειδωμένο</string>
     <string name="dual_mic_title">Μείωση θορύβου περιβάλλοντος</string>
     <string name="dual_mic_turnoff">Απενεργοποίηση μείωση θορύβου</string>
     <string name="dual_mic_turnon">Ενεργοποίηση μείωσης θορύβου</string>
@@ -87,8 +93,7 @@
     <string name="dualtalk_tip_accept_disconnect_voice">Přijetím tohoto hovoru ukončíte hlasové hovory.</string>
     <string name="enable_3G_service">Povolit 3G</string>
     <string name="enable_sip_dialog_message">Internetový hovor je deaktivován, chcete ho aktivovat?</string>
-    <string name="end_call_because_can_not_hold">"Ukončit současný hovor, protože ho nelze podržet."</string>
-    <string name="enter_callbarring_password">Vložte heslo hovoru(4 čísla)</string>
+    <string name="end_call_because_can_not_hold">Ukončit současný hovor, protože ho nelze podržet.</string>
     <string name="enter_ip_prefix_number">Zadejte číslo předvolby</string>
     <string name="error_sdcard_access">Není přístup k SD kartě</string>
     <string name="error_title">Chyba</string>
@@ -108,18 +113,18 @@
     <string name="gemini_3g_disable_warning_case1">Služby 3G nejsou pro tuto SIM dostupné. Data se mohou načítat pomaleji. Nastavení 3G můžete změnit v Nastavení > Mobilní sítě. Chcete zvolit tuto SIM?</string>
     <string name="gemini_3g_disable_warning_case2">Je nutné povolit data v roamingu pro tuto SIM, což může zvýšit poplatky! Služby 3G nejsou pro tuto SIM dostupné. Data se mohou načítat pomaleji. Nastavení 3G můžete změnit v Nastavení > Mobilní sítě. Chcete povolit data v roamingu pro tuto SIM?</string>
     <string name="gemini_3g_indic">3G</string>
-    <string name="gemini_data_connection">Datové připojení</string>    
+    <string name="gemini_data_connection">Datové připojení</string>
     <string name="gsm_umts_network_preferences_dialogtitle">Režim sítě</string>
     <string name="gsm_umts_network_preferences_title">Režim sítě</string>
     <string name="gsm_umts_network_preferneces_summary">nenastaveno!</string>
     <string name="imei">IMEI</string>
     <string name="incall_toast_hold">Podržet</string>
     <string name="incall_toast_unhold">Obnovit</string>
-    <string name="international_dialing_add_country_code" formatted="false">"Zadáváte telefonní číslo %s. Chcete přidat před číslo kód Vaší země (+%s)?"</string>
-    <string name="international_dialing_add_country_code_and_area_code">"Zadáváte telefonní číslo %1$s, %2$s. Chcete přidat před číslo kód Vaší země a města (+%3$s)?"</string>
+    <string name="international_dialing_add_country_code" formatted="false">Zadáváte telefonní číslo %s. Chcete přidat před číslo kód Vaší země (+%s)?</string>
+    <string name="international_dialing_add_country_code_and_area_code">Zadáváte telefonní číslo %1$s, %2$s. Chcete přidat před číslo kód Vaší země a města (+%3$s)?</string>
     <string name="international_dialing_add_country_code_and_area_code_without_prefix">Chcete přidat předvolbu země a Vašeho města?</string>
-    <string name="international_dialing_add_country_code_default_input_area_code" formatted="false">"Zadáváte telefonní číslo %s. Pokud se nenacházíte v %s, zadejte místní předvolbu."</string>
-    <string name="international_dialing_add_country_code_input_area_code">"Zadáváte telefonní číslo %s. Zadejte i místní předvolbu."</string>
+    <string name="international_dialing_add_country_code_default_input_area_code" formatted="false">Zadáváte telefonní číslo %s. Pokud se nenacházíte v %s, zadejte místní předvolbu.</string>
+    <string name="international_dialing_add_country_code_input_area_code">Zadáváte telefonní číslo %s. Zadejte i místní předvolbu.</string>
     <string name="international_dialing_area_code">místní předvolba</string>
     <string name="international_dialing_call_button">Volat</string>
     <string name="international_dialing_change_country_prefix">"Nenacházíte se v %s. Změnit předvolbu na '+'?"</string>
@@ -131,7 +136,7 @@
     <string name="international_dialing_invalid_number">Číslo není správné. Chcete ho přesto vytočit?</string>
     <string name="international_dialing_need_area_code">Je nutné zadat místní předvolbu.</string>
     <string name="international_dialing_no">Ne. Použít číslo:</string>
-    <string name="international_dialing_select_country">"Volání do zahraničí. Zadejte předvolbu země"</string>
+    <string name="international_dialing_select_country">Volání do zahraničí. Zadejte předvolbu země</string>
     <string name="international_dialing_title">Mezinárodní hovor</string>
     <string name="international_dialing_yes">Ano. Použít číslo:</string>
     <string name="internet_call">Internetový hovor</string>
@@ -199,9 +204,6 @@ hovoru aktivované"</string>
     <string name="network_forbidden">zakázané</string>
     <string name="network_id">ID sítě</string>
     <string name="network_setting_all_forbidden_dialog">Žádné dostupné sítě. Zkuste přepnout na 3G sítě, nebo zadejte síť manuálně.</string>
-    <string name="networksettings_tips_data_disabled">Vypnout datové služby? Služby jako odesílání a přijímání MMS, nebo Email nebudou dostupné.</string>
-    <string name="networksettings_tips_data_enabled">Zapnout datové služby? Mohou se zvýšit Vaše poplatky za přenos dat!</string>
-    <string name="new_password_label">Nové heslo (4 čísla)</string>    
     <string name="no_search_result">Nic nebylo nalezeno</string>
     <string name="no_service_msg">"Momentálně nejsou dostupné žádné služby operátora.
 Doporučujeme použít \"Automatický výběr\", nebo vybrat jiného operátora."</string>
@@ -238,11 +240,9 @@ Opravdu chcete aktivovat preferování mobilních dat?"</string>
     <string name="pin_length_indicate">(4-8 čísel)</string>
     <string name="pin_name">PIN</string>
     <string name="plmn_list_setting_add_plmn">Nový PLMN</string>
-    <string name="plmn_list_setting_title">Preferovaná síť</string>
     <string name="preferred_network_mode_scdma_only_summary">Preferovaný režim sítě: pouze TD-SCDMA</string>
     <string name="preferred_network_mode_scdma_perf_summary">Preferovaný režim sítě: preferované TD-SCDMA</string>
     <string name="puk_length_indicate">(8 čísel)</string>
-    <string name="reminder">Připomínka</string>
     <string name="reset">Reset</string>
     <string name="reset_alert">Chcete vymazat hodnotu spotřebovaných dat?</string>
     <string name="reset_data_usage">Reset spotřebovaných dat</string>
@@ -253,7 +253,7 @@ Opravdu chcete aktivovat preferování mobilních dat?"</string>
     <string name="select_trash">Koš</string>
     <string name="selected_item_count">Vybráno: %d</string>
     <string name="service_3g_off">Vypnuto</string>
-    <string name="show_always_title">"Neupozorňovat znovu"</string>
+    <string name="show_always_title">Neupozorňovat znovu</string>
     <string name="simContacts_emptyLoading_ex">Načítání kontaktů z %s…</string>
     <string name="simContacts_title">Vybrat kontakty na import</string>
     <string name="sim_manage_call_via">Volat přes</string>
@@ -283,7 +283,7 @@ Opravdu chcete aktivovat preferování mobilních dat?"</string>
     <string name="simlock_newsiminsert">Byla vložena nová SIM karta</string>
     <string name="simlock_nocard">Žádná</string>
     <string name="simlock_ok">OK</string>
-    <string name="simlock_pinnotmatched">"Nesouhlasí."</string>
+    <string name="simlock_pinnotmatched">Nesouhlasí.</string>
     <string name="simlock_retriesleft">"Zbývá: "</string>
     <string name="simlock_returntocall">Zpět k hovoru</string>
     <string name="simlock_secondsim">pro druhou SIM</string>
@@ -402,6 +402,6 @@ unavailable"</string>
     <string name="vt_vocie_answer">Voice answer</string>
     <string name="vt_voice_connecting">Voice call connecting</string>
     <string name="vt_wait_voice">Waiting for voice call connecting</string>
-    <string name="which_call_to_activate">Který hovor aktivovat?</string>    
+    <string name="which_call_to_activate">Který hovor aktivovat?</string>
     <string name="wrong_password">Nesprávné heslo</string>
 </resources>
