@@ -85,7 +85,8 @@
     <string name="dualtalk_tip_accept_disconnect_outgoing">Με την αποδοχή αυτής της κλήσης θα τερματίσετε την εξερχόμενη κλήση..</string>
     <string name="dualtalk_tip_accept_disconnect_outgoing_reject_incoming">Με την αποδοχή αυτής της κλήσης θα τερματίσετε την εξερχόμενη κλήση και θα απορρίψετε όλες τις άλλες εισερχόμενες κλήσεις.</string>
     <string name="dualtalk_tip_accept_disconnect_voice">Η αποδοχή αυτής της κλήσης θα τερματίσει τις φωνητικές κλήσεις.</string>
-    <string name="enable_3G_service">Ενεργοποίηση 3G</string>
+    <string name="enable">Enable</string>
+	<string name="enable_3G_service">Ενεργοποίηση 3G</string>
     <string name="enable_sip_dialog_message">Οι ιντερνετικές κλήσεις είναι απενεργοποιημένες, θέλετε να ενεργοποιηθούν?</string>
     <string name="end_call_because_can_not_hold">"Η κλήση τερματίστηκε, διότι δεν μπορούσε να κρατηθεί."</string>
     <string name="enter_ip_prefix_number">Εισάγετε τον αριθμό προθέματος</string>
@@ -238,6 +239,7 @@
     <string name="pin2_name">PIN2</string>
     <string name="pin_length_indicate">(4-8 ψηφία)</string>
     <string name="pin_name">PIN</string>
+    <string name="plmn_list_setting_title">Προτιμώμενα δίκτυα</string>
     <string name="plmn_list_setting_add_plmn">Νέο PLMN</string>
     <string name="preferred_network_mode_scdma_only_summary">Προτιμώμενη λειτουργία δικτύου: TD-SCDMA μόνο</string>
     <string name="preferred_network_mode_scdma_perf_summary">Προτιμώμενη λειτουργία δικτύου: TD-SCDMA προτιμάται</string>

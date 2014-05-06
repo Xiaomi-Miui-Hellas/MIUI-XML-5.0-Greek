@@ -150,4 +150,28 @@
   <string name="turn_on_fm">Ενεργοποίηση FM</string>
   <string name="turn_on_speaker_phone">Ενεργοποίηση ανοιχτής ακρόασης</string>
   <string name="view_stations_list">Προβολή λίστας σταθμών</string>
+	<string name=">APKTOOL_DUMMY_0065">false</string>
+	<string name="FMR_DSP_Version_text">DSP Έκδοση</string>
+	<string name="FMR_Patch_Version">None.</string>
+	<string name="FMR_Patch_Version_text">None.</string>
+	<string name="aud_output_mode">Τύπος εξόδου ήχου</string>
+	<string name="by_headset">.</string>
+	<string name="empty">Άδειο</string>
+	<string name="fm">FM</string>
+	<string name="fm_volume">Ένταση φωνής</string>
+	<string name="fmradio_airplane_mode_enable_in_listen">Ενεργό FM σε λειτ.πτήσης</string>
+	<string name="fmradio_no_headset_at_begin">Δεν υπάρχουν συνδεμένα ακουστικά</string>
+	<string name="fmradio_start_error">Σφάλμα εκκίνησης</string>
+	<string name="fmradio_stop_unexpected">Άγνωστο σφάλμα</string>
+	<string name="menu_stations_list">Λίστα σταθμών</string>
+	<string name="msg_unable_start_fm_title">Αδύνατη η εκκίνηση</string>
+	<string name="revert_to_fac">Αναίρεση</string>
+	<string name="sel_audio_output">Επιλογή εξόδου ήχου</string>
+	<string name="service_start_error_msg">Άγνωστο σφάλμα</string>
+	<string name="service_start_error_title">Αδυναμία εκκίνησης</string>
+	<string name="settings_revert_confirm_title">Αναίρεση ρυθμίσεων ?</string>
+	<string name="toast_fm_recorder_access_error">Αδυναμία έναρξης εγγραφής</string>
+	<string name="max_time">Μέγιστη ώρα</string>
+	<string name="min_time">Ελάχιστη ώρα</string>
+	
 </resources>
