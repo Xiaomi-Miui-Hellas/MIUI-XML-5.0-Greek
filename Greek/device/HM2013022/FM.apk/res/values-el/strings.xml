@@ -13,7 +13,7 @@
   <string name="audio_db_album_name">"Εγγραφές ράδιο "</string>
   <string name="audio_db_artist_name">"Εγγραφές ράδιο "</string>
     <string name="audio_db_playlist_name">"Εγγραφές ράδιο "</string>
-  <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
+  <string name="audio_db_title_format">dd-MM-yyyy HH:mm:ss</string>
   <string name="audio_type_mono">Μονοφωνικό</string>
   <string name="audio_type_stereo">Στερεοφωνικό</string>
   <string name="auto_select_af">Εναλλακτική συχνότητα</string>
