@@ -410,15 +410,12 @@
 <string name="category_plmn_list">Λίστα PLMN</string>
 <string name="contact_incall">Επαφές</string>
 <string name="dialog_network_mode_title">Υπηρεσία</string>
-<string name="dialog_network_priority_title">Προτεραιότητα</string>
-<string name="endOngoingCall">Τερματισμός κλήσης</string>
 <string name="endOngoingCall">Τερματισμός κλήσης</string>
 <string name="enter_callbarring_password">Εισαγάγετε τον κωδικό πρόσβ. φραγής κλήσεων (4 ψηφία)</string>
 <string name="file_path_error">Σφάλμα διαδρομής αρχείου, αποτυχία αποθήκευσης εγγραφής</string>
 <string name="filemanager">Διαχείριση αρχείων</string>
 <string name="holdOngoingCall">Κλήση σε αναμονή</string>
 <string name="labelSDN">Αριθμοί κλήσης υπηρεσίας</string>
-<string name="mismatch_password">Οι νέοι κωδ. πρόσβ. δεν συμφωνούν. Δοκιμάστε ξανά.</string>
 <string name="network_always_on_enable">Χρήση μεγαλύτερης ισχύος σε ορισμένα δίκτυα κινητής τηλεφωνίας</string>
 <string name="network_always_on_warning">Η απενεργοποίηση των πάντα ενεργών φορητών δεδομένων θα προκαλέσει προβλήματα σύνδεσης σε ορισμένες εφαρμογές. Χρησιμοποιήστε τη λειτουργία χειροκίνητης ανανέωσης στις εφαρμογές για την ενημέρωση των online δεδομένων.</string>
 <string name="new_password_label">Νέος κωδικός πρόσβασης (4 ψηφία)</string>
@@ -426,10 +423,6 @@
 <string name="notification_sim_changed_selection_text">Κάντε κλικ εδώ για αλλαγή ρύθμισης</string>
 <string name="notification_sim_changed_selection_title">Η SIM άλλαξε</string>
 <string name="onscreenShowDialpadText">Πληκτρολόγιο κλήσης</string>
-<string name="pch_data_prefer_message">"Η προτίμηση υπηρεσίας δεδομένων κινητής τηλεφωνίας χρησιμοποιείται για να βελτιώνεται η αποτελεσματικότητα της μετάδοσης δεδομένων, αλλά μπορεί να επηρεάσει την ικανότητά σας να λαμβάνετε κλήσεις. Η λειτουργία αυτή δεν συνιστάται.
-    
-   
-    Επιλογή προτίμησης υπηρεσίας δεδομένων κιν. τηλ.;"</string>
 <string name="plmn_mcc_mnc_error">Τα πεδία MCC/MNC δεν πρέπει να είναι κενά!</string>
 <string name="pref_camera_coloreffect_entry_aqua">Γαλάζιο</string>
 <string name="pref_camera_coloreffect_entry_blackboard">Μαυροπίνακας</string>
@@ -452,7 +445,6 @@
 <string name="ring_only_once_title">Ένα μόνο κουδούνισμα</string>
 <string name="setting_for_3G_service">Υπηρεσία 3G</string>
 <string name="simSDNContacts_empty">Η λίστα SDN είναι κενή.</string>
-<string name="sip_call_options_title_single_sim">Επιλογές κλήσης Internet</string>
 <string name="storage_phone">Αποθηκευτικός χώρος τηλεφώνου</string>
 <string name="storage_sd_card">Κάρτα SD</string>
 <string name="sum_sdn">Εμφάνιση αριθμών κλήσης υπηρεσίας (SDN)</string>
