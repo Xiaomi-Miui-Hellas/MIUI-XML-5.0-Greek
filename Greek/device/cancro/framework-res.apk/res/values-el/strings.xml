@@ -395,7 +395,7 @@
     <string name="keyguard_password_puk_failed">Αποτυχία εισόδου PUK!</string>
     <string name="keyguard_password_wrong_pin_code">Ο PIN είναι λάθος!</string>
     <string name="keyguard_password_wrong_puk_code">Ο PUK είναι λάθος!</string>
-    <string name="keyguard_pin_accepted">Code accepté</string>
+    <string name="keyguard_pin_accepted">Κωδικός δεκτός !</string>
     <string name="kg_emergency_call_label">Κλήσεις επείγουσας ανάγκης</string>
     <string name="kg_enter_confirm_pin_hint">Επιβεβαιώστε τον απαιτούμενο κωδικό PIN</string>
     <string name="kg_failed_attempts_almost_at_login" formatted="false">"Σχεδιάσατε το μοτίβο ξεκλειδώματος εσφαλμένα %d φορές. Μετά από %d ανεπιτυχείς προσπάθειες ακόμη, θα σας ζητηθεί να ξεκλειδώσετε το τηλέφωνό σας με τη χρήση ενός λογαριασμού ηλεκτρονικού ταχυδρομείου.
