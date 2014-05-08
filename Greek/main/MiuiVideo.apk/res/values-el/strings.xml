@@ -27,7 +27,7 @@
     <string name="authenticated_failed">Αποτυχία εισόδου</string>
     <string name="authenticating"><CDATA>Επαλήθευση </CDATA></string>
     <string name="authenticating_manually">Αποτυχία πιστοποίησης</string>
-    <string name="auto_play">Αυτόματη προβολή όταν είναι έτοιμο</string>
+    <string name="auto_play">Αυτόματη προβολή</string>
     <string name="auto_play_summary">Αναπαραγωγή βίντεο όταν το buffering ή η λήψη του έχει τελειώσει</string>
     <string name="be_living_status">Ζωντανά</string>
     <string name="bestv">Bestv</string>
@@ -52,7 +52,7 @@
     <string name="cant_connecting">"Δεν ήταν δυνατή η σύνδεση με το διακομιστή"</string>
     <string name="channel_more">Περισσότερα</string>
     <string name="check_network">δεν μπορεί να συνδεθεί με το δίκτυο, ελέγξτε το δίκτυο</string>
-    <string name="clear_cache">Καθαρισμός προσωρινής μνήμης εικόνων</string>
+    <string name="clear_cache">Καθαρισμός προσωρινής μνήμης</string>
     <string name="clear_cache_success">Η προσωρινή μνήμη καθάρισε</string>
     <string name="clear_cache_summary">Καθάρισε τις προσωρινά αποθηκευμένες εικόνες από το πρόγραμμα περιήγησης Βίντεο</string>
     <string name="clear_history">Καθαρισμός ιστορικού</string>
@@ -73,7 +73,7 @@
     <string name="comment_publish">Υποβολή</string>
     <string name="comment_submiting">Υποβολή ...</string>
     <string name="connecting">Σύνδεση ...</string>
-    <string name="continue_to_play_nextset">Αναπαραγωγή του επόμενου επεισοδίου αυτόματα</string>
+    <string name="continue_to_play_nextset">Αυτ.στο επόμενο επεισόδιο</string>
     <string name="continue_to_play_nextset_summary">«Όταν το επεισόδιο που βλέπετε έχει τελειώσει το επόμενο θα αρχίσει αυτόματα"</string>
     <string name="count_bu">Prt. %d</string>
     <string name="count_ge">%d στοιχεία</string>
@@ -221,7 +221,7 @@
   <string name="nowifi_alert_dialog_message">Χρησιμοποίηση δικτύου κινητής τηλεφωνίας για λήψη του βίντεο, θέλετε να συνεχίσετε?</string>
   <string name="nowifi_alert_dialog_title">Συναγερμός κίνησης δεδομένων</string>
     <string name="offline_alert_title">Προσωρινή αποθήκευση κοινοποιήσεων</string>
-    <string name="offline_alert_wifi">Χρησιμοποιείτε κυψελοειδές δίκτυο, για να μην καταναλώνετε τα δεδομένα σας, τα καθήκοντα προσωρινής αποθήκευσης είναι σε παύση και θα συνεχιστούν όταν μεταβείτε σε δίκτυο Wi-Fi.</string>
+    <string name="offline_alert_wifi">Χρησιμοποιείτε δίκτυο κινητής τηλεφωνίας, για να μην καταναλώνετε τα δεδομένα σας, τα καθήκοντα προσωρινής αποθήκευσης είναι σε παύση και θα συνεχιστούν όταν μεταβείτε σε δίκτυο Wi-Fi.</string>
     <string name="offline_continue">Συνέχεια</string>
     <string name="offline_max_promote">Αναμονή για προσωρινή αποθήκευση, υπάρχουν μόνο 2 εργασίες caching που μπορούν να τρέχουν ταυτόχρονα.</string>
     <string name="offline_media">Διαθέσιμα χωρίς σύνδεση</string>
@@ -308,8 +308,8 @@
     <string name="update_to_count_ji">Ενημέρωση στο Επ. %d</string>
     <string name="update_to_count_qi">Ενημέρωση στην Σ. %s</string>
     <string name="updatedalready">Ενημέρωση</string>
-    <string name="use_cellular_network">Χρησιμοποιήσετε κυψελοειδές δίκτυο</string>
-    <string name="use_cellular_network_summary">χρησιμοποιήσετε κυψελοειδές δίκτυο για να κατεβάσετε τα βίντεο, αυτό θα προκαλέσει το κόστος της κυκλοφορίας.</string>
+    <string name="use_cellular_network">Χρήση δικτύου κινητής</string>
+    <string name="use_cellular_network_summary">χρησιμοποιήστε δίκτυο κινητής τηλεφωνίας για να κατεβάσετε τα βίντεο, αυτό θα προκαλέσει το κόστος της κυκλοφορίας.</string>
     <string name="variety">Ποικιλία</string>
     <string name="video">Βίντεο</string>
   <string name="video_info_audio_bitrate_label">Bitrate ήχου:</string>

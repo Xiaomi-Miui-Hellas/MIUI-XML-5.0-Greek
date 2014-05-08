@@ -134,7 +134,7 @@
     <string name="international_dialing_no">Όχι. Χρησιμοποιείτε τον αρχικό αριθμό:</string>
     <string name="international_dialing_select_country">"Φαίνεται ότι έχετε κάνει μια διεθνή κλήση. Παρακαλώ επιλέξτε τον προορισμό σας."</string>
     <string name="international_dialing_title">Βοηθός κλήσης</string>
-    <string name="international_dialing_yes">Ναι. Χρησιμοποιήστε τον παρακάτω αριθμό:</string>
+    <string name="international_dialing_yes">Ναι. Χρήση του παρακάτω αριθμού:</string>
     <string name="internet_call">Κλήσεις μέσω Διαδικτύου</string>
     <string name="invalid_password">Πληκτρολογήστε έναν 4ψήφιο κωδικό πρόσβασης</string>
     <string name="ip_dial_error_toast_for_no_ip_prefix_number">Παρακαλούμε, εισάγετε IP πρόθεμα πρώτα στις ρυθμίσεις φωνητικής κλήσης.</string>

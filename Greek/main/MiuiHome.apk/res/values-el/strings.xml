@@ -42,7 +42,7 @@
   <string name="free_style_edit_bar_select_app">Επιλογή εφαρμογής</string>
   <string name="free_style_edit_bottom_empty_tip">Αγγίξτε το τετράγωνο για αλλαγή</string>
   <string name="free_style_edit_drawer">Σχεδιασμός</string>
-  <string name="free_style_edit_move_tip">Παρατεταμένο πάτημα για μεταφορά</string>
+  <string name="free_style_edit_move_tip">Κράτημα για μεταφορά</string>
   <string name="free_style_edit_tab_free_component">Ελεύθερα συστατικά</string>
   <string name="free_style_edit_tab_shortcut">Συντομεύσεις</string>
   <string name="free_style_edit_tab_widget">Widgets</string>

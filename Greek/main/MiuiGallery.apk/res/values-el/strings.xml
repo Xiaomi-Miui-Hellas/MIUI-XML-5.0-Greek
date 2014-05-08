@@ -322,7 +322,7 @@
   <string name="owner_album_subtitle">Shared with %1$s members</string>
 	<string name="path">Διαδρομή</string>
   <string name="people">Άτομα</string>
-  <string name="photo_page_always_rotate">Αυτόματη περιστροφή φωτογραφιών</string>
+  <string name="photo_page_always_rotate">Αυτόμ. περιστροφή φωτογραφιών.</string>
   <string name="photo_page_save_image">Αποθήκευση</string>
   <string name="photo_page_save_uri_image_fail">Αποτυχία αποθήκευσης.</string>
   <string name="photo_page_save_uri_image_ok">Αποθήκευση φωτογραφίας στον φάκελο της κάμερας.</string>
@@ -425,7 +425,7 @@
   <string name="slideshow">Παρουσίαση</string>
   <string name="slideshow_category">Κατηγορια παρουσιασης</string>
   <string name="slideshow_dream_name">Slideshow</string>
-	<string name="slideshow_interval">Χρονικό διάστημα Slideshow</string>
+	<string name="slideshow_interval">Διάρκεια Slideshow</string>
 	<string name="slideshow_interval_dialog_title">Το διάστημα πρέπει να είναι μεγαλύτερο απο 0 δευτερόλεπτα</string>
 	<string name="slideshow_interval_invalid">Το χρονικό διάστημα είναι λανθασμένο, πρέπει να είναι 1~3600. Θα επαναφερθεί η προεπιλεγμένη τιμή</string>
 	<string name="slideshow_repeat_mode">Επανάληψη</string>

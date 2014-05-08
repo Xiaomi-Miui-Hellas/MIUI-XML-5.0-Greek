@@ -233,7 +233,7 @@
   <string name="pref_camera_jpegquality_title">Ποιότητα Εικόνας</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_off">Εστίαση</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_on">Λήψη burst</string>
-  <string name="pref_camera_long_pressing_burst_shooting_title">Παρατεταμένο πάτημα κουμπιού κλείστρου</string>
+  <string name="pref_camera_long_pressing_burst_shooting_title">Κράτημα κουμπιού κλείστρου</string>
   <string name="pref_camera_movie_solid_entry_off">Off</string>
   <string name="pref_camera_movie_solid_entry_on">On</string>
   <string name="pref_camera_movie_solid_title">Movie solid</string>

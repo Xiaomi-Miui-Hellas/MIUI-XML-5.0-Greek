@@ -835,7 +835,7 @@
     <string name="dirac_mode_in_ear">Mi in-ear ακουστικά lite</string>
     <string name="dirac_mode_off">Dirac off</string>
     <string name="dirac_mode_piston_100">Mi in-ear ακουστικά</string>
-    <string name="dirac_switch_summary">"Χρησιμοποιήστε την Dirac ενισχυτή ήχου όταν χρησιμοποιούνται τα ηχεία του τηλεφώνου"</string>
+    <string name="dirac_switch_summary">"Χρησιμοποιήστε τον Dirac ενισχυτή ήχου όταν χρησιμοποιούνται τα ηχεία του τηλεφώνου"</string>
     <string name="dirac_switch_title">Τεχνολογία ήχου Dirac</string>
     <string name="disable_adb_debug_summary">Απενεργοποίηση του εντοπισμού σφαλμάτων USB</string>
     <string name="disable_anti_spam_summary">Το Φίλτρο μηνυμάτων έχει απενεργοποιηθεί</string>
@@ -2908,7 +2908,7 @@ Android File Transfer,
  <string name="vibrate_category_title">Δονηση</string>
  <string name="vibrate_in_normal_title">Δόνηση στο κανονικό προφίλ</string>
  <string name="vibrate_in_silent_title">Δόνηση όταν είναι στο αθόρυβο</string>
-    <string name="vibrate_input_devices">Χρησιμοποιήστε δονητή</string>
+    <string name="vibrate_input_devices">Χρήση δόνησης</string>
     <string name="vibrate_input_devices_summary">Ανακατεύθυνση δονητή στο παιχνίδι ελεγκτή όταν είναι συνδεδεμένο.</string>
     <string name="vibrate_when_ringing_title">Δόνηση όταν κουδουνίζει</string>
     <string name="virus_activity_title">Ιός</string>
@@ -2931,7 +2931,7 @@ Android File Transfer,
  <string name="virus_scan_app_stop_scan">Παύση σάρωσης</string>
  <string name="virus_scan_app_uninstall">Μαζική απεγκατάσταση %d </string>
  <string name="virus_scan_app_waiting">Αναμονή για</string>
-    <string name="virus_scan_can_use_wifi">Χρησιμοποιήστε τους online ορισμούς για να σαρώσετε</string>
+    <string name="virus_scan_can_use_wifi">Χρήση του WiFi για σάρωση</string>
     <string name="virus_scan_clean_dialog_message">Καθάρισμα...</string>
     <string name="virus_scan_clear">Εκκαθάριση</string>
     <string name="virus_scan_dangerous">Κίνδυνος</string>

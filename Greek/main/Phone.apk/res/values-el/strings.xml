@@ -11,7 +11,7 @@
     <string name="add_fdn_contact">Προσθέστε σταθερό αριθμό κλήσης</string>
     <string name="add_sip_account">Προσθήκη λογαριασμού</string>
     <string name="add_vm_number_str">Προσθήκη αριθμού</string>
-    <string name="add_zero_prefix">Προσθέστε 0 ως πρόθεμα για κινητά</string>
+    <string name="add_zero_prefix">Προσθήκη 0 προθέμ. στα κινητά</string>
     <string name="adding_fdn_contact">Προσθέτοντας τον σταθερό αριθμό κλήσης…</string>
     <string name="additional_cdma_call_settings">Πρόσθετες ρυθμίσεις CDMA κλήσεων</string>
     <string name="additional_gsm_call_settings">Πρόσθετες ρυθμίσεις</string>
@@ -75,14 +75,14 @@
     <string name="auto_country_code_miui">Προσθέστε τον κωδικό της χώρας</string>
     <string name="auto_country_code_sum_miui">Αυτόματη προσθήκη του κωδικού της χώρας πριν από την κλήση των επαφών</string>
     <string name="auto_ip_add_exception_numbers_miui">Προσθήκη αριθμών</string>
-    <string name="auto_ip_exception_miui">"Αριθμοί που δεν χρειάζονται IP πρόθεμα"</string>
+    <string name="auto_ip_exception_miui">"Δεν χρειάζονται IP πρόθεμα"</string>
     <string name="auto_ip_exception_summary_miui">%d σύνολο</string>
     <string name="auto_ip_exception_summary_more_miui">,... %d σύνολο</string>
     <string name="auto_ip_no_exceptions_miui">"Προσθέστε αριθμούς που δεν απαιτούν πρόθεμα IP"</string>
     <string name="auto_ip_remove_exception_numbers_confirm_miui">%d αριθμοί θα διαγράφονται.</string>
     <string name="auto_ip_setting_miui">Αυτόματες ρυθμίσεις IP</string>
     <string name="auto_ip_summary_not_enabled">δεν έχει ενεργοποιηθεί</string>
-    <string name="auto_ip_support_local_numbers">Πάντοτε να χρησιμοποιείτε το πρόθεμα IP</string>
+    <string name="auto_ip_support_local_numbers">Πάντα χρήση IP προθέματος</string>
     <string name="auto_record_call_summary_miui">Όλες οι κλήσεις που καταγράφονται, θα αποθηκεύονται στο φάκελο MIUI/sound_recorder/call_rec</string>
     <string name="auto_record_call_title_miui">Αυτόματη εγγραφή</string>
     <string name="auto_record_scenario_enteries_always_miui">Όλοι οι αριθμοί</string>
@@ -366,7 +366,7 @@
     <string name="dial_emergency_error">Η κλήση δεν πραγματοποιήθηκε. %s δεν είναι αριθμός έκτακτης ανάγκης!</string>
     <string name="dial_pad_autocomplete">Αυτόματη συμπλήρωση πληκτρολογίου</string>
     <string name="dial_related_setting_catory_miui">Κληση</string>
-    <string name="dialerKeyboardHintText">Χρησιμοποιήστε το πληκτρολόγιο για να καλέσετε</string>
+    <string name="dialerKeyboardHintText">Χρήση πληκτρολογίου για να καλέσετε</string>
     <string name="disable">Απενεργοποίηση</string>
     <string name="disable_all_cf_miui">Απενεργοποιήστε όλες τις δυνατότητες προώθησης κλήσεων</string>
     <string name="disable_cfb_forbidden">"Ο φορέας σας δεν υποστηρίζει την απενεργοποίηση της προώθησης κλήσεων όταν το τηλέφωνό σας είναι κατειλημμένο."</string>

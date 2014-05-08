@@ -35,11 +35,11 @@
     <string name="Network_Initiate">Αίτημα δικτύου</string>
     <string name="Network_Initiate_Summary_off">Να απορρίπτεται στο δίκτυο το αίτημα θέσης</string>
     <string name="Network_Initiate_Summary_on">Να επιτρέπεται στο δίκτυο το αίτημα θέσης</string>
-    <string name="Network_Local_and_Roaming_Summary">Χρησιμοποιήστε το A-GPS τόσο με το οικιακό δίκτυο όσο και με το δίκτυο περιαγωγής</string>
-    <string name="Network_Only_Local_Summary">Χρησιμοποιήστε το A-GPS μόνο σε οικιακό δίκτυο</string>
+    <string name="Network_Local_and_Roaming_Summary">Χρήση του A-GPS τόσο με το οικιακό δίκτυο όσο και με το δίκτυο περιαγωγής</string>
+    <string name="Network_Only_Local_Summary">Χρήση του A-GPS μόνο σε οικιακό δίκτυο</string>
     <string name="Network_Roaming_dialog_content">Η χρήση A-GPS σε δίκτυο με περιαγωγή μπορεί να επιφέρει πρόσθετες χρεώσεις περιαγωγής.</string>
     <string name="Network_Roaming_dialog_title">Προσοχή</string>
-    <string name="Network_Used">Δίκτυο που χρησιμοποιείται</string>
+    <string name="Network_Used">Δίκτυο σε χρήση</string>
     <string name="Phone_vibrate_summary">Δόνηση για εισερχόμενες κλήσεις</string>
     <string name="USER_RESPONSE_TIMEOUT">Αναμονή χρονικού ορίου επαλήθευσης</string>
     <string name="WiFiNetwork_on_title">Wi-Fi συνδεδεμένο</string>
@@ -90,7 +90,7 @@
     <string name="agps_profile_select">Διακομιστής A-GPS</string>
     <string name="agps_profile_select_Title">Προφίλ SUPL</string>
     <string name="agps_settings_enable">A-GPS</string>
-    <string name="agps_settings_enable_off">Χρησιμοποιήστε δεδομένα βοήθειας για επιτάχυνση του χρόνου μέχρι τον πρώτο εντοπισμό (TTFF) για την τοποθεσία GPS</string>
+    <string name="agps_settings_enable_off">Χρήση δεδομένων βοήθειας για επιτάχυνση του χρόνου μέχρι τον πρώτο εντοπισμό (TTFF) για την τοποθεσία GPS</string>
     <string name="agps_settings_enable_on">Το GPS μπορεί να επιταχύνει το χρόνο μέχρι τον πρώτο εντοπισμό (TTFF) με δεδομένα βοήθειας μέσω μιας ασύρματης σύνδεσης δεδομένων</string>
     <string name="agps_settings_eng_enable">Ρυθμίσεις A-GPS</string>
     <string name="agps_settings_eng_summary">Διαμόρφωση ρυθμίσεων A-GPS</string>

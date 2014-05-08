@@ -49,10 +49,10 @@
   <string name="overwrite_dialog_message">%s υπάρχει ήδη. Θέλετε να το διαγράψετε?</string>
   <string name="pause">Παύση</string>
   <string name="play_record">Αναπαραγωγή</string>
-  <string name="preference_enable_earpiece_summary">Χρήση του δέκτη για εξωτερική αναπαραγωγή</string>
-  <string name="preference_enable_earpiece_title">Χρήση του δέκτη για αναπαραγωγή ήχου</string>
-  <string name="preference_led_indicator">Δείκτης ηχογράφησης με οθόνη κλειδωμένη</string>
-  <string name="preference_led_indicator_prompt">Προβολή στο δείκτη LED και την μπάρα κατάστασης όταν η οθόνη είναι κλιδωμένη</string>
+  <string name="preference_enable_earpiece_summary">Εξωτερική αναπαραγωγή</string>
+  <string name="preference_enable_earpiece_title">Αναπαραγωγή ήχου</string>
+  <string name="preference_led_indicator">Ένδειξη με κλειδωμένη οθόνη</string>
+  <string name="preference_led_indicator_prompt">Προβολή στο δείκτη LED και την μπάρα κατάστασης όταν η οθόνη είναι κλειδωμένη</string>
   <string name="preference_record_scenes_dialog_title">Επιλογή σκηνής εγγραφής</string>
   <string name="preference_record_type_dialog_title">Επιλογή τύπου εγγραφής</string>
   <string name="pref_title_record_type">Τύπος ηχογράφησης</string>

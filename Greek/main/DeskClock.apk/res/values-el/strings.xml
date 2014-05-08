@@ -7,7 +7,7 @@
  <string name="alarm_ascending_mode_summary">Αύξηση της έντασης πριν από την αφύπνιση </string>
  <string name="alarm_ascending_mode_title">Αύξηση έντασης</string>
  <string name="alarm_disabled">Απενεργοποιημένο</string>
- <string name="alarm_in_silent_mode_title">Αφύπνιση κατά τη λειτουργία σίγασης</string>
+ <string name="alarm_in_silent_mode_title">Αφύπνιση ενεργή στη σίγαση</string>
  <string name="alarm_klaxon_service_desc">Η υπηρεσία αναπαραγωγής ήχου για ξυπνητήρια όπου ορίζονται στο DeskClock </string>
  <string name="alarm_label_hint">Ετικέτα αφύπνισης</string>
  <string name="alarm_list_title">Αφυπνίσεις</string>
