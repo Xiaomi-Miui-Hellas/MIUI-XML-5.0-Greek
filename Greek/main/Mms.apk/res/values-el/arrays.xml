@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="prefEntries_ringtone_repeat">
-        <item>Μια φορά</item>
-        <item>Δυο φορές</item>
-        <item>Τρεις φορές</item>
+        <item>Μία φορά</item>
+        <item>Δύο φορές</item>
+        <item>Τρείς φορές</item>
         <item>Πέντε φορές</item>
         <item>Δέκα φορές</item>
     </string-array>

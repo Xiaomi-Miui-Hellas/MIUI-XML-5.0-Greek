@@ -4,7 +4,7 @@
   <string name="activate_fail_notification_title">Παρακαλώ ενεργοποιήστε ξανά την υπηρεσία συγχρονισμού Xiaomi</string>
   <string name="activating">Ενεργοποίηση…</string>
   <string name="alarm_message_12_hour_formate">aah:mm</string>
-  <string name="alwaysUsePrompt">Ορισμός ως προεπιλογή (καμία ερώτηση την επόμενη φορά)</string>
+  <string name="alwaysUsePrompt">Ορισμός ως προεπιλογή (χωρίς ερώτηση)</string>
   <string name="android_lockscreen_glogin_instructions">Για ξεκλείδωμα εισέλθετε στο λογαριασμό σας</string>
   <string name="app_no_notification">Καμία Ειδοποίηση</string>
   <string name="app_notificaiton_on_notificationBar">Μπάρα Ειδοποιήσεων</string>

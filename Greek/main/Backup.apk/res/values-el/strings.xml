@@ -21,11 +21,11 @@
   <string name="auto_backup_time">Πλάνο αντιγράφου</string>
   <string name="auto_backup_user_data">Εφαρμογές</string>
   <string name="backup">Έναρξη αντιγραφής</string>
-  <string name="backup_data">Δεδομένα αντίγραφου</string>
+  <string name="backup_data">Δεδομένα αντιγράφου</string>
   <string name="backup_delete">Διαγραφή:</string>
   <string name="backup_empty">Δεν βρέθηκαν αντίγραφα ασφαλείας</string>
   <string name="backup_empty_info">Δημιουργήστε αντίγραφα των δεδομένων, ρυθμίσεων και εφαρμογών σας</string>
-  <string name="backup_error">Σφάλμα αντίγραφου</string>
+  <string name="backup_error">Σφάλμα αντιγράφου</string>
   <string name="backup_failed">Η δημιουργία αντιγράφου απέτυχε παρακαλώ δοκιμάστε ξανά</string>
   <string name="backup_file_error">Υπήρξε ένα πρόβλημα με το αρχείο η διεργασία δεν είναι σωστή.</string>
   <string name="backup_finished">Η αντιγραφή ολοκληρώθηκε</string>
@@ -134,7 +134,7 @@ to cancel restore"</string>
   <string name="data_no_enough_space_message">Η εσωτερική μνήμη είναι μικρότερη από 30MB και η επαναφορά ίσως αποτύχει Θέλετε σίγουρα να συνεχίσετε </string>
   <string name="date_format">HH mm ss dd/MM/yyyy</string>
   <string name="delete">Διαγραφή</string>
-  <string name="delete_backup_process">Διαγραφή αντίγραφου ασφαλείας παρακαλώ περιμένετε </string>
+  <string name="delete_backup_process">Διαγραφή αντιγράφου ασφαλείας παρακαλώ περιμένετε </string>
   <string name="delete_failed_backup_confirm">Το αρχείο περιέχει σφάλμα αδύνατη η επαναφορά</string>
   <string name="dir_date_format">HH-mm-ss_dd-MM-yyyy</string>
   <string name="disable_encrypt_title">Η κρυπτογράφηση έχει απενεργοποιηθεί</string>
@@ -212,7 +212,7 @@ to cancel restore"</string>
   <string name="settings_summary">Αντίγραφο ρυθμίσεων μηνυμάτων και τηλεφώνου</string>
   <string name="sms_title">Μηνύματα</string>
   <string name="software_backup_info">Αντίγραφο εφαρμογών και των δεδομένων τους</string>
-  <string name="start_backup">Εκκίνηση δημιουργίας αντίγραφου ασφαλείας</string>
+  <string name="start_backup">Εκκίνηση δημιουργίας αντιγράφου ασφαλείας</string>
   <string name="start_restore">Επαναφορά</string>
   <string name="succeed">Επιτυχής δημιουργία αντιγράφων</string>
   <string name="system_backup">Αντίγραφα</string>

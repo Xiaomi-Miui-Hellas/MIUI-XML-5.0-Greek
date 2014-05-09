@@ -401,8 +401,8 @@
     <string name="no_sdcard_message">Δεν βρέθηκε χώρος αποθήκευσης.</string>
     <string name="import_from_sim">Εισαγωγή από κάρτα SIM</string>
     <string name="import_from_sim2">Εισαγωγή από κάρτα SIM 2</string>
-    <string name="import_from_sdcard">Εισαγωγή από τον αποθηκευτικό χώρο</string>
-    <string name="export_to_sdcard">Εξαγωγή στον αποθηκευτικό χώρο</string>
+    <string name="import_from_sdcard">Εισαγωγή από αποθηκευτικό χώρο</string>
+    <string name="export_to_sdcard">Εξαγωγή στον αποθηκευτικό. χώρο</string>
     <string name="share_visible_contacts">Κοινή χρήση επαφών</string>
     <string name="import_one_vcard_string">Εισαγωγή ενός αρχείου vCard</string>
     <string name="import_multiple_vcard_string">Εισαγωγή πολλαπλών αρχείων vCard</string>
@@ -434,7 +434,7 @@
     <string name="vcard_export_request_rejected_message">Η αίτηση εξαγωγής vCard έχει απορριφθεί. Δοκιμάστε ξανά αργότερα.</string>
     <string name="vcard_unknown_filename">επαφή</string>
     <string name="percentage">%s%%</string>
-    <string name="confirm_export_title">εξαγωγή επαφών?</string>
+    <string name="confirm_export_title">Εξαγωγή επαφών</string>
     <string name="confirm_export_message">Η λίστα επαφών σας θα εξαχθεί στο αρχείο: %s.</string>
     <string name="exporting_contact_failed_title">"Δεν ήταν δυνατή η εξαγωγή"</string>
     <string name="exporting_contact_failed_message">"Τα στοιχεία επικοινωνίας δεν εξήχθησαν.
@@ -875,7 +875,7 @@
  Για να ξεκινήσετε, πατήστε το εικονίδιο συγχώνευσης στο κάτω μέρος της οθόνης σας."</string>
     <string name="ic_menu_back">Πίσω</string>
     <string name="preference_display">Προβολη</string>
-    <string name="preference_simple_mode_title">Απόκρυψη φωτογραφιών και πληροφοριών</string>
+    <string name="preference_simple_mode_title">Απόκρυψη στοιχείων</string>
     <string name="preference_simple_mode_description">Απόκρυψη εικόνων και άλλων στοιχείων επικοινωνίας στην προβολή λίστας</string>
     <string name="preference_contacts">Επαφες</string>
     <string name="preference_contacts_display">Προβολή προτιμήσεων</string>
