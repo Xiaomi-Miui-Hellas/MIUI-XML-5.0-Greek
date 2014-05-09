@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="sim_manage_call_via">Κλήση μέσω</string>
+  <string name="sim_picker_settings">Pick SIM card for settings</string>
+  <string name="sim_slot_alert_message_3g">Insert the %s SIM card into the first slot, you can enjoy high-speed 3G network.</string>
+  <string name="sim_slot_alert_message_disable">Keep the %s SIM card is inserted into the first slot, it may not work properly.</string>
+</resources>
