@@ -79,7 +79,7 @@
   <string name="HIPS_Perm_AudioRecorder_Hint">Μπορούν να καταγράφουν κλήσεις και ήχους...(%1$)</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity">Ενεργοποίηση Bluetooth</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Ενεργοποίηση Bluetooth</string>
-  <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">%1$s μπορεί(ούν) να κάνει(ουν) χρήση Bluetooth</string>
+  <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">Μπορούν να κάνουν χρήση Bluetooth...(%1$)</string>
   <string name="HIPS_Perm_Call">Τηλεφωνική κλήση</string>
   <string name="HIPS_Perm_Call_Desc">Δυνατότητα κλήσης, απάντησης ή απόρριψης τηλεφωνικών κλήσεων</string>
   <string name="HIPS_Perm_Call_Hint">%1$s εφαρμογ(ή)ές έχουν το δικαίωμα να κάν(ει)ουν κλήσεις, να απαντήσουν ή να απορρίψουν τηλεφωνικές κλήσεις</string>
@@ -107,7 +107,7 @@
   <string name="HIPS_Perm_Location_CellInfo">εντοπισμός θέσης μέσω δικτύου κινητής</string>
   <string name="HIPS_Perm_Location_CellLocation">εντοπισμός θέσης μέσω δικτύου κινητής</string>
   <string name="HIPS_Perm_Location_Desc">Ανίχνευση του τηλεφώνου σας μέσω του δικτύου ή GPS</string>
-  <string name="HIPS_Perm_Location_Hint">%1$s εφαρμογές έχουν την άδεια να ανιχνεύσουν το τηλέφωνό σας</string>
+  <string name="HIPS_Perm_Location_Hint">Έχουν την άδεια να ανιχνεύσουν το τηλέφωνό σας...(%1$)</string>
   <string name="HIPS_Perm_Location_Monitor">παρακολουθείτε τη θέση σας</string>
   <string name="HIPS_Perm_Location_Source_Cellular">Πηγή: Δίκτυο Κινητής</string>
   <string name="HIPS_Perm_Location_Source_GPS">Πηγή: GPS</string>
