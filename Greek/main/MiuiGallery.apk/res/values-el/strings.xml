@@ -322,7 +322,7 @@
   <string name="owner_album_subtitle">Shared with %1$s members</string>
 	<string name="path">Διαδρομή</string>
   <string name="people">Άτομα</string>
-  <string name="photo_page_always_rotate">Αυτόμ. περιστροφή φωτογραφιών.</string>
+  <string name="photo_page_always_rotate">Αυτ. περιστροφή φωτογραφιών.</string>
   <string name="photo_page_save_image">Αποθήκευση</string>
   <string name="photo_page_save_uri_image_fail">Αποτυχία αποθήκευσης.</string>
   <string name="photo_page_save_uri_image_ok">Αποθήκευση φωτογραφίας στον φάκελο της κάμερας.</string>

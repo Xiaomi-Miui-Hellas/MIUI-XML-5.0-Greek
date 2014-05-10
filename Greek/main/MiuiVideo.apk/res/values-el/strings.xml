@@ -257,7 +257,7 @@
     <string name="quarter_bell_alert_message_cancel">"Μετά την άρση της κράτησης, δεν θα λάβετε μια υπενθύμιση πριν από την έναρξη του προγράμματος"</string>
     <string name="quarter_bell_alert_title">υπενθύμιση</string>
     <string name="rank">Βαθμολογία</string>
-    <string name="receive_ad_notify">Λειτουργία ειδοποίησης μηνύματος/πίεσης</string>
+    <string name="receive_ad_notify">Λειτ. ειδοποίησης μηνύματος</string>
     <string name="receive_ad_notify_summary">Μετά το άνοιγμα, για να λαμβάνετε τα τελευταία και δημοφιλή ειδοποίηση Βίντεο</string>
     <string name="recentplay">Έπαιξαν πρόσφατα</string>
     <string name="recommendation">Μάλλον θα σας αρέσουν</string>

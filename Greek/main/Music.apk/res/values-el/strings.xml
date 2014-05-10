@@ -20,14 +20,14 @@
   <string name="albums_title">Άλμπουμ</string>
   <string name="albumsongseparator">""</string>
   <string name="all_tracks">Όλα τα τραγούδια</string>
-  <string name="android_album_settings">Χρησιμοποιήστε ενσωματωμένων εικόνων άλμπουμ</string>
+  <string name="android_album_settings">Χρησιμ. ενσωμ. εικ. άλμπουμ</string>
   <string name="android_album_summary">Χρησιμοποιώντας το αυτόματο άλμπουμ για τα τραγούδια μπορεί να προκαλέσει σφάλματα.</string>
   <string name="artist_albums">Όλα τα άλμπουμ</string>
   <string name="artist_details_format" formatted="false">%1$s, %2$s</string>
   <string name="artist_edit">Καλλιτέχνης</string>
   <string name="artist_hot_audios">Δημοφιλές τραγούδι</string>
   <string name="artists_title">Καλλιτέχνες</string>
-  <string name="auto_correct_id3_settings">Ρυθμίσεις αυτόματης διόρθωσης ID3</string>
+  <string name="auto_correct_id3_settings">Ρυθμίσεις αυτ. διόρθωσης ID3</string>
   <string name="auto_correct_id3_summary">Ο αλγόριθμος αποτυπώματος ήχου θα διορθώσει τα δεδομένα ID3 όταν παίζει.</string>
   <string name="batch_correct_id3_completed">Η μαζική διόρθωση των ID3 ολοκληρώθηκε!</string>
   <string name="billboard">Billboard</string>

@@ -402,7 +402,7 @@
     <string name="import_from_sim">Εισαγωγή από κάρτα SIM</string>
     <string name="import_from_sim2">Εισαγωγή από κάρτα SIM 2</string>
     <string name="import_from_sdcard">Εισαγωγή από αποθηκευτικό χώρο</string>
-    <string name="export_to_sdcard">Εξαγωγή στον αποθηκευτικό. χώρο</string>
+    <string name="export_to_sdcard">Εξαγωγή στον αποθηκευτικό χώρο</string>
     <string name="share_visible_contacts">Κοινή χρήση επαφών</string>
     <string name="import_one_vcard_string">Εισαγωγή ενός αρχείου vCard</string>
     <string name="import_multiple_vcard_string">Εισαγωγή πολλαπλών αρχείων vCard</string>

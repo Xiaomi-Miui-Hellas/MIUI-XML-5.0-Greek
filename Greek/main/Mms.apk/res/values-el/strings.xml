@@ -230,7 +230,7 @@
   <string name="mx_count_dspt">Από την ενεργοποίηση, η MIUI έχει στείλει %1$d cloud μήνυμα(τα) για σας (%2$s)</string>
   <string name="mx_current_status">Τρέχουσα κατάσταση: Συνδεδεμένος</string>
   <string name="mx_dspt">Αποστολή μηνυμάτων μέσω του Διαδικτύου μεταξύ MIUI, ενεργοποιήστε για να στείλετε μέσω του φορέα κινητής όταν αυτή αποτύχει</string>
-  <string name="mx_enable">Ενεργοποίηση μηνυμάτων cloud</string>
+  <string name="mx_enable">Ενεργοποίηση μην. cloud</string>
   <string name="mx_enable_int_popup_msg">Το Cloud Messaging σας επιτρέπει να στείλετε μηνύματα μεταξύ των χρηστών MIUI. Για να το ενεργοποιήσετε ένα διεθνές SMS θα σταλεί. Ενδέχεται να ισχύουν χρεώσεις μηνυμάτων φορέα.</string>
   <string name="mx_enable_popup_msg">Το Cloud Messaging σας επιτρέπει να στέλνετε μηνύματα μέσω MIUI. Ένα κανονικό SMS απαιτείται για την ενεργοποίηση και μπορεί να ισχύουν χρεώσεις φορέα. Θέλετε να το ενεργοποιήσετε τώρα?</string>
   <string name="mx_int_warning_notice">Ένα διεθνές SMS θα αποσταλεί για την ενεργοποίηση Cloud Messaging, μπορεί να ισχύουν οι κανονικές χρεώσεις της εταιρείας</string>
