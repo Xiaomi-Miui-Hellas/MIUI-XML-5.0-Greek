@@ -15,7 +15,7 @@
     <string name="backup_enc_password_optional">Αν θέλετε να κρυπτογραφήσετε τα δεδομένα του αντιγράφου, παρακαλώ εισάγετε κωδικό:</string>
     <string name="restore_enc_password_text">Αν τα δεδομένα προς επαναφορά είναι κρυπτογραφημένα, παρακαλώ εισάγετε τον κωδικό:</string>
     <string name="toast_backup_started">Εκκίνηση δημιουργίας αντιγράφου…</string>
-    <string name="toast_backup_ended">Η δημιουργία αντιγράφου ολοκληρώθηκε</string>
+    <string name="toast_backup_ended">Ολοκλήρωση ανάκτησης</string>
     <string name="toast_restore_started">Εκκίνηση επαναφοράς…</string>
     <string name="toast_restore_ended">Η επαναφορά ολοκληρώθηκε</string>
     <string name="toast_timeout">Το χρονικό όριο έληξε</string>
