@@ -117,7 +117,7 @@
   <string name="expired">Έληξε</string>
   <string name="fade_effect_settings">Ρυθμίσεις Απόσβεσης</string>
   <string name="fade_effect_summary">Ενεργοποιεί την απόσβεση μεταξύ των τραγουδιών</string>
-  <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+  <string name="fast_scroll_alphabet">" ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ"</string>
   <string name="file_not_found">Το αρχείο δεν υπάρχει</string>
   <string name="filter_by_duration">Φίλτρο ανά διάρκεια</string>
   <string name="filter_by_duration_format">%2$dλεπ%5$2dδευ</string>
@@ -204,7 +204,7 @@
   <string name="more">Περισσότερα</string>
   <string name="music_browser_label">Μουσική</string>
   <string name="music_filter">Φίλτρα αρχείων</string>
-  <string name="music_filter_helper">Για να γίενι απόκρυψη των αρχείων που δεν σχετίζονται με τη μουσική, το όριο του φίλτρου μεγέθους έχει οριστεί στα 800K. Το όριο μπορεί να ρυθμιστεί στις Ρυθμίσεις / Φίλτρα αρχείων.</string>
+  <string name="music_filter_helper">Για να γίνει απόκρυψη των αρχείων που δεν σχετίζονται με τη μουσική, το όριο του φίλτρου μεγέθους έχει οριστεί στα 800K. Το όριο μπορεί να ρυθμιστεί στις Ρυθμίσεις / Φίλτρα αρχείων.</string>
   <string name="music_not_loaded">Δεν βρέθηκαν αρχεία ήχου!</string>
   <string name="music_open_other_connect">Λήψη μουσική με χρήση δεδομένων κινητής</string>
   <string name="music_picker_title">Επιλογή τραγουδιού</string>
