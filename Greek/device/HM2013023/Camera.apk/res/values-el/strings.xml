@@ -3,16 +3,32 @@
   <string name="Import">Εισαγωγέας</string>
     <string name="access_phone_fail_no_product">Nelze získat přístup k USB úložišti</string>
   <string name="access_sd_fail">"Αδύνατη πρόσβαση στην SD Card."</string>
+
+
+
+
     <string name="access_sd_fail_no_product">Δεν είναι δυνατή η πρόσβαση στην κάρτα SD</string>
     <string name="accessibility_camera_picker">Εναλλαγή μπρός και πίσω κάμερας</string>
+
+
+
+
+
+
   <string name="accessibility_review_thumbnail">Πρόσφατη φωτογραφία</string>
+
+
   <string name="accessibility_shutter_button">Κουμπί κλείστρου</string>
+
+
+
   <string name="accessibility_zoom_control">Έλεγχος ζουμ</string>
     <string name="albums">Άλμπουν</string>
     <string name="aperture">Διάφραγμα</string>
     <string name="app_details">Λεπτομέριες εφαρμ:</string>
     <string name="auto">Αυτόματο</string>
-    <string name="bg_replacement_message">"Τοποθετίστε την συσκευή σας σε μια σταθερή επιφάνεια,
+    <string name="bg_replacement_message">"Τοποθετήστε την συσκευή σας σε μια σταθερή επιφάνεια,
+
 
 
 
@@ -24,6 +40,7 @@
     <string name="can_not_play_video">Ξεκλειδώστε την οθόνη για αναπαραγωγή</string>
     <string name="cancel">Άκυρο</string>
   <string name="cannot_connect_camera_once">"Αδύνατη σύνδεση σε κάμερα"</string>
+
   <string name="clear_effects">Καθαρισμός εφέ</string>
   <string name="close">Κλείσιμο</string>
   <string name="cloud_album_details">Πληροφορίες άλμπουμ στο σύνεφο:</string>
@@ -80,7 +97,29 @@
   <string name="error_app_unsupported_hfr_codec">Μόνο Η264 κωδικοποίηση βίντεο υποστηρίζεται όταν το HFR είναι ενεργό</string>
   <string name="error_app_unsupported_raw_wavelet">Η αποθορύβηση δεν θα είναι ενεργή όταν λαβάνετε raw φωτογραφίες</string>
   <string name="error_fail_to_start_audio_capture">Σφάλμα καταγραφής ήχου: Το μικρόφωνο μπορεί να χρησιμοποιήται από άλλες εφαρμογές.</string>
+
+
+
+
     <string name="face_beauty_age_alias_female_0_7">Θύλη 0-7</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   <string name="file_size">Μέγεθος αρχείου</string>
   <string name="find_cloud_album">Εύρεση QR κωδικού σε άλμπουμ στο σύννεφο</string>
   <string name="find_market_qrcode">Εύρεση QR κωδικού market</string>
@@ -121,8 +160,12 @@
   <string name="locations">Τοποθεσίες</string>
   <string name="maker">Δημιουργός</string>
   <string name="manual">Χειροκίνητα</string>
+
+
+
   <string name="mimetype">Τύποι ΜΙΜΕ</string>
   <string name="model">Μοντέλο</string>
+
   <string name="no_storage">Εισάγετε κάρτα SD πριν χρησιμοποιήσετε την κάμερα.</string>
   <string name="no_thumbnail">Καμία μικρογραφία</string>
   <string name="not_enough_space">Εσωτερική μνήμη είναι πλήρης.</string>
@@ -162,11 +205,22 @@
   <string name="pref_camera_autoexposure_title">Ρυθμίσεις αυτόματης έκθεσης</string>
   <string name="pref_camera_coloreffect_entry_aqua">Aqua</string>
     <string name="pref_camera_coloreffect_entry_blackboard">Χαρτόνι</string>
+
+
+
+
+
   <string name="pref_camera_coloreffect_entry_mono">Mono</string>
   <string name="pref_camera_coloreffect_entry_mosaic">Μωσαϊκό</string>
+
+
   <string name="pref_camera_coloreffect_entry_none">Κανένα</string>
+
   <string name="pref_camera_coloreffect_entry_posterize">Σε πόστερ</string>
     <string name="pref_camera_coloreffect_entry_sepia_blue">Μπλε σέπια</string>
+
+
+
     <string name="pref_camera_coloreffect_entry_whiteboard">Ασπροπίνακας</string>
   <string name="pref_camera_coloreffect_title">Χρωματικό εφέ</string>
     <string name="pref_camera_coloreffect_title_simple_mode">Φίλτρο</string>
@@ -177,6 +231,20 @@
   <string name="pref_camera_current_k_value">Τρέχουσα τιμή</string>
   <string name="pref_camera_default_suffix">" (προκαθορισμένο)"</string>
   <string name="pref_camera_denoise_title">Λειτουργία Αποθορύβησης</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   <string name="pref_camera_facedetection_entry_off">Off</string>
   <string name="pref_camera_facedetection_entry_on">On</string>
   <string name="pref_camera_facedetection_title">Ανίχνευση Προσώπου</string>
@@ -187,10 +255,16 @@
   <string name="pref_camera_focusmode_entry_auto">Αυτόματο</string>
   <string name="pref_camera_focusmode_entry_continuous">Συνεχή</string>
   <string name="pref_camera_focusmode_entry_infinity">Άπειρο</string>
+
   <string name="pref_camera_focusmode_entry_macro">Μάκρο</string>
+
   <string name="pref_camera_focusmode_entry_normal">Κανονική</string>
   <string name="pref_camera_focusmode_title">Λειτουργία εστίασης</string>
   <string name="pref_camera_hand_night_title">Νυχτερινή Λειτουργεία</string>
+
+
+
+
     <string name="pref_camera_hfr_entry_2x">60</string>
     <string name="pref_camera_hfr_entry_3x">90</string>
     <string name="pref_camera_hfr_entry_4x">120</string>
@@ -201,8 +275,16 @@
   <string name="pref_camera_histogram_title">Ιστόγραμμα</string>
   <string name="pref_camera_id_title">Επιλογή κάμερας</string>
   <string name="pref_camera_iso_entry_auto">Αυτόματο</string>
+
+
+
+
+
+
+
     <string name="pref_camera_iso_title">Τιμή ISO</string>
   <string name="pref_camera_jpegquality_entry_fine">Καλή</string>
+
   <string name="pref_camera_jpegquality_entry_normal">Κανονική</string>
   <string name="pref_camera_jpegquality_entry_superfine">Άριστη</string>
   <string name="pref_camera_jpegquality_title">Ποιότητα Εικόνας</string>
@@ -212,11 +294,40 @@
   <string name="pref_camera_movie_solid_entry_off">Off</string>
   <string name="pref_camera_movie_solid_entry_on">On</string>
   <string name="pref_camera_movie_solid_title">Σταθερή λήψη</string>
+
+
+
+
+
+
+
+
+
+
+
   <string name="pref_camera_panoramamode_title">Πανόραμα</string>
   <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
   <string name="pref_camera_picture_format_entry_raw">RAW</string>
   <string name="pref_camera_picture_format_title">Φορμά Φωτογραφιών</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Ευρεία 16:9</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   <string name="pref_camera_picturesize_entry_standard">Πρότυπο 4:3</string>
   <string name="pref_camera_picturesize_title">Μέγεθος φωτογραφίας</string>
   <string name="pref_camera_picturesize_title_simple_mode">Μέγεθος φωτογραφίας</string>
@@ -224,6 +335,7 @@
     <string name="pref_camera_preview_entry_2000">2 δευτερ.</string>
     <string name="pref_camera_preview_entry_5000">5 δευτερ.</string>
     <string name="pref_camera_preview_entry_off">Οff</string>
+
     <string name="pref_camera_recordlocation_entry_off">Off</string>
   <string name="pref_camera_recordlocation_entry_on">On</string>
   <string name="pref_camera_recordlocation_title">Χρήση τοποθεσίας GPS</string>
@@ -258,10 +370,13 @@
     <string name="pref_camera_sharpness_entry_low">ΧΑμηλήá</string>
     <string name="pref_camera_sharpness_entry_middle">Μέτρια (προεπιλογή)</string>
     <string name="pref_camera_sharpness_title">Οξύτητα</string>
+
   <string name="pref_camera_skinToneEnhancement_entry_auto">Αυτόματη Βελτίωση</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Απενεργοποίηση</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Ενεργοποίηση</string>
   <string name="pref_camera_skinToneEnhancement_title">Βελτίωση Τόνου Δέρματος</string>
+
+
   <string name="pref_camera_sound_title">Ήχοι κάμερας</string>
   <string name="pref_camera_sound_title_entry_off">Off</string>
   <string name="pref_camera_sound_title_entry_on">On</string>
@@ -276,15 +391,20 @@
   <string name="pref_camera_video_duration_entry_30">30 λεπτά</string>
   <string name="pref_camera_video_duration_entry_mms">30 δευτερόλεπτα(MMS)</string>
   <string name="pref_camera_video_duration_title">Διάρκεια Βίντεο</string>
+
   <string name="pref_camera_volumekey_function_entry_shutter">Κλείστρο</string>
   <string name="pref_camera_volumekey_function_entry_volume">Ένταση</string>
   <string name="pref_camera_volumekey_function_entry_zooming">Zoom</string>
   <string name="pref_camera_volumekey_function_title">Πλήκτρα λειτουργιών Volume</string>
+
+
   <string name="pref_camera_whitebalance_entry_auto">Αυτόματο</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Νεφελώδης</string>
   <string name="pref_camera_whitebalance_entry_daylight">Φως ημέρας</string>
   <string name="pref_camera_whitebalance_entry_fluorescent">Φθορίζων</string>
     <string name="pref_camera_whitebalance_entry_incandescent">Λαμπτήρας</string>
+
+
   <string name="pref_camera_whitebalance_k_value_title">Ισορροπία λευκού τιμή Κ</string>
   <string name="pref_camera_whitebalance_title">Ισορροπία λευκού</string>
     <string name="pref_camera_zsl_entry_off">Off (συνιστάται)</string>
@@ -298,9 +418,11 @@
   <string name="pref_grp_capture_settings">Ρυθμίσεις λήψεων</string>
   <string name="pref_grp_picture_settings">Ρυθμίσεις φωτογραφίας</string>
   <string name="pref_grp_restore_settings">Επαναφορά προεπιλογών</string>
+
   <string name="pref_scan_qrcode_entry_off">Off</string>
   <string name="pref_scan_qrcode_entry_on">On</string>
   <string name="pref_scan_qrcode_title">Σάρωση QR κωδικού</string>
+
   <string name="pref_settings_mode">Λειτουργία κάμερας</string>
   <string name="pref_video_captrue_ability_title">Δυνατότητα λήψης</string>
     <string name="pref_video_continuous_focus">Kontinuální ostření</string>
@@ -336,10 +458,16 @@
   <string name="preparing_sd">Προετοιμασία εσωτερικής μνήμης…</string>
   <string name="qq_details">Πληροφορίες QQ:</string>
   <string name="qr_code_details">"Πληροφορίες QR κωδικού: "</string>
+
     <string name="record_back_pressed_hint">Πατήστε Πίσω για να σταματήσει η εγγραφή</string>
+
+
+
+
   <string name="review_cancel">ΑΚΥΡΟ</string>
   <string name="rotate_left">Περιστροφή αριστερά</string>
   <string name="rotate_right">Περιστροφή δεξιά</string>
+
   <string name="scan_qrcode">Ανάγνωση QR κωδικού</string>
   <string name="secure_access_web_url">Ασφαλή πρόσβαση web</string>
   <string name="see_app_details">Προβολή πληροφοριών εφαρμογής</string>
@@ -361,6 +489,7 @@
   <string name="show_videos_only">Μόνο βίντεο</string>
   <string name="simple_mode_button_text_audio_capture">Κλείσιμο καταγραφής ήχου</string>
   <string name="simple_mode_button_text_color_effect">Κλείσιμο φίλτρου</string>
+
   <string name="simple_mode_button_text_hand_night">Έξοδος λειτουργίας νυκτός</string>
   <string name="simple_mode_button_text_hdr">Κλείσιμο λειτοργίας HDR</string>
   <string name="simple_mode_button_text_panorama">Κλείσιμο πανόραμα</string>
@@ -374,6 +503,7 @@
   <string name="spaceIsLow_content">Σας τελειώνει ο χώρος στο αποθηκευτικό μέσω USB. Αλλάξτε την ρύθμιση ποιότητας ή διαγράψτε μερικές φωτογραφίες ή άλλα αρχεία.</string>
   <string name="success_message_import_from_account">Εισαγωγή επιτυχής</string>
   <string name="tags">Ετικέτες</string>
+
   <string name="tap_to_focus">Ακουμπήστε για εστίαση.</string>
   <string name="time">Ώρα</string>
   <string name="time_lapse_error">Λάθος μέγεθος βίντεο για εγγραφή time-lapse.</string>
@@ -382,10 +512,12 @@
   <string name="toast_burst_snap_finished_end">Ληφθείσες φωτογραφίες</string>
   <string name="toast_burst_snap_finished_start">Burst shooting ολοκληρώθηκε</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Το Burst shooting δεν είναι διαθέσιμο όταν είναι ενεργή η ηχογράφηση.</string>
+
   <string name="toast_burst_snap_forbidden_when_hdr_open">Το Burst shooting δεν υποστηρίζεται όταν είναι ενεργό το HDR.</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Το Burst shooting δεν υποστηρίζεται όταν το ISO δεν είναι ρυθμισμένο στο 'αυτόματο'."</string>
   <string name="toast_start_audio_capture">Κάντε έναν ήχο για να ξεκινήσει το κλείστρο</string>
   <string name="undo">ΑΝΑΙΡΕΣΗ</string>
+
   <string name="video_camera_label">Βίντεο</string>
     <string name="video_err">Αδύνατη η αναπαραγωγή του βίντεο.</string>
   <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
@@ -400,7 +532,9 @@
   <string name="wechat_details">Πληροφορίες WeChat:</string>
   <string name="white_balance">Ισορροπία λευκού</string>
   <string name="width">Πλάτος</string>
+
   <string name="wifi_connect_fail">Το χρονικό όριο σύνδεσης σε δίκτυο Wi-Fi έληξη ή υπάρχει σφάλμα</string>
+
   <string name="wifi_connect_success">Επιτυχής σύνδεση σε δίκτυο Wi-Fi</string>
   <string name="wifi_connecting">Wi-Fi συνδέεται…</string>
   <string name="wifi_details">Πληροφορίες δικτύου Wi-Fi:</string>
