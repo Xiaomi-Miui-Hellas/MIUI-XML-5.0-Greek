@@ -231,7 +231,6 @@
   <string name="history_most_visited">Δημοφιλή</string>
   <string name="history_saved_webpage">Αποθήκευση σελίδας</string>
   <string name="history_track">Ιστορικό</string>
-  <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_set">Αρχική ρυθμίστηκε</string>
   <string name="http">http://</string>
   <string name="import_bookmarks_dialog_add">Προσθήκη σελιδοδεικτών σε λογαριασμό Google</string>
@@ -462,7 +461,6 @@
   <string name="pref_set_homepage_to">Ορισμός σε</string>
   <string name="pref_setting_title">Ρυθμίσεις σελίδας</string>
   <string name="pref_text_zoom">Μεγεθος κειμενου</string>
-  <string name="pref_ua_mione_entry">MiOne</string>
   <string name="pref_ua_string">Σύμβολο User agent</string>
   <string name="pref_ua_title">Διαχειριση user agent</string>
   <string name="pref_use_instant_search">Αναζήτηση Google instant</string>
@@ -509,7 +507,6 @@
   <string name="replace">Αντικατάσταση</string>
   <string name="report_reading_mode_issue">Αναφορά προβλήματος κατάστασης ανάγνωσης στο MIUI</string>
   <string name="return_to_homepage">Επιστροφή στην αρχική</string>
-  <string name="rlz_access_point">Y1</string>
   <string name="same_bookmarks_warning">Ο σελιδοδείκτης υπάρχει ήδη</string>
   <string name="same_folder_name_warning">Ο φάκελος υπάρχει ήδη</string>
   <string name="save">ΟΚ</string>
@@ -524,20 +521,13 @@
   <string name="search_bing">Bing</string>
   <string name="search_button_text">Πάμε</string>
   <string name="search_cancel">Άκυρο</string>
-  <string name="search_dianping">Cate</string>
   <string name="search_easou">Easou</string>
   <string name="search_google">Google</string>
   <string name="search_hint">Αναζήτηση ή εισαγωγή URL</string>
   <string name="search_label">Αναζήτηση</string>
-  <string name="search_s139">139</string>
   <string name="search_settings_description">Σελιδοδείκτες και ιστορικό πλοήγησης</string>
-  <string name="search_shipin">Βίντεο</string>
-  <string name="search_sogou">Sogou</string>
-  <string name="search_taobao">Taobao</string>
   <string name="search_the_web">Αναζήτηση ίντερνετ</string>
-  <string name="search_tupian">Εικόνα</string>
   <string name="search_yahoo">Yahoo</string>
-  <string name="search_yicha">Yicha</string>
   <string name="security_warning">Ειδοποίηση ασφαλείας</string>
   <string name="select_dot">Επιλέξτε κείμενο</string>
   <string name="send_bookmark_to_home_screen">Αποστολή στην αρχική οθόνη</string>
@@ -581,6 +571,7 @@
   <string name="uploads_disabled">Ανέβασμα αρχείων έχει απενεργοποιηθεί.</string>
   <string name="url_copy_done">Η ιστοσελίδα αντιγράφηκε</string>
   <string name="url_hint">Εύρεση ή εισαγωγή ιστοσελίδας</string>
+  <string name="url_visit_confirm">Θα επισκευτείτε</string>
   <string name="user_defined_webpage">Πρόσθεση ιστοσελίδας</string>
   <string name="user_defined_webpage_title">Πρόσθεση ιστοσελίδας στην αρχική σελίδα</string>
   <string name="username">Όνομα</string>
