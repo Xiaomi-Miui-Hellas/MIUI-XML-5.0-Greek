@@ -8,21 +8,21 @@
   <string name="accessibility_review_thumbnail">Πρόσφατη φωτογραφία</string>
   <string name="accessibility_shutter_button">Κουμπί κλείστρου</string>
   <string name="accessibility_zoom_control">Έλεγχος ζουμ</string>
-    <string name="albums">Albums</string>
-    <string name="aperture">Aperture</string>
-    <string name="app_details">App details:</string>
-    <string name="auto">Auto</string>
-    <string name="bg_replacement_message">"Set your device on a stable surface,
+    <string name="albums">Άλμπουν</string>
+    <string name="aperture">Διάφραγμα</string>
+    <string name="app_details">Λεπτομέριες εφαρμ:</string>
+    <string name="auto">Αυτόματο</string>
+    <string name="bg_replacement_message">"Τοποθετίστε την συσκευή σας σε μια σταθερή επιφάνεια,
 
 
 
- and step out of view for a moment"</string>
-    <string name="camera_disabled">Camera has been disabled</string>
-    <string name="camera_error_title">Camera error</string>
-    <string name="camera_label">Camera</string>
-    <string name="camera_settings_label">Camera settings</string>
-    <string name="can_not_play_video">Unlock screen to view playback</string>
-    <string name="cancel">Cancel</string>
+ και βγείτε από το οπτικό πεδίο για μια στιγμή"</string>
+    <string name="camera_disabled">Η κάμερα απενεργοποιήθηκε</string>
+    <string name="camera_error_title">Σφάλμα κάμερας</string>
+    <string name="camera_label">Κάμερα</string>
+    <string name="camera_settings_label">Ρυθμίσεις κάμερας</string>
+    <string name="can_not_play_video">Ξεκλειδώστε την οθόνη για αναπαραγωγή</string>
+    <string name="cancel">Άκυρο</string>
   <string name="cannot_connect_camera_once">"Αδύνατη σύνδεση σε κάμερα"</string>
   <string name="clear_effects">Καθαρισμός εφέ</string>
   <string name="close">Κλείσιμο</string>
@@ -166,7 +166,6 @@
   <string name="pref_camera_coloreffect_entry_mosaic">Μωσαϊκό</string>
   <string name="pref_camera_coloreffect_entry_none">Κανένα</string>
   <string name="pref_camera_coloreffect_entry_posterize">Σε πόστερ</string>
-  <string name="pref_camera_contrast_title">Αντίθεση</string>
     <string name="pref_camera_coloreffect_entry_sepia_blue">Μπλε σέπια</string>
     <string name="pref_camera_coloreffect_entry_whiteboard">Ασπροπίνακας</string>
   <string name="pref_camera_coloreffect_title">Χρωματικό εφέ</string>
