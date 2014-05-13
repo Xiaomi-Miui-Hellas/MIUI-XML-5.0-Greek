@@ -37,7 +37,6 @@
     <string name="cannot_connect_camera_twice">"Still can't connect to camera. Try restarting your phone."</string>
   <string name="error_app_unsupported">Ανάλυση βίντεο δεν υποστηρίζεται από αυτόν τον κωδικοποιητή.</string>
     <string name="empty">" "</string>
-  <string name="error_app_unsupported">Ανάλυση βίντεο δεν υποστηρίζεται από αυτόν τον κωδικοποιητή.</string>
   <string name="error_app_unsupported_hfr_720p">720P υποστηρίζει μέχρι 90FPS</string>
   <string name="error_app_unsupported_hfr_codec">Μόνο Η264 κωδικοποίηση βίντεο υποστηρίζεται όταν το HFR είναι ενεργό</string>
   <string name="error_app_unsupported_raw_wavelet">Η αποθορύβηση δεν θα είναι ενεργή όταν λαβάνετε raw φωτογραφίες</string>
@@ -129,7 +128,6 @@
     <string name="path">Path</string>
     <string name="people">People</string>
   <string name="pref_advanced_settings">Προηγμένες</string>
-    <string name="pref_advanced_settings">Advanced</string>
     <string name="pref_camcorder_settings_category">Camera settings</string>
     <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
     <string name="pref_camera_antibanding_entry_0">Off</string>
@@ -165,7 +163,6 @@
     <string name="pref_camera_coloreffect_entry_xproii">XProII</string>
     <string name="pref_camera_coloreffect_entry_yesteryear">Yesteryear</string>
   <string name="pref_camera_coloreffect_title">Χρωματικό εφέ</string>
-  <string name="pref_camera_contrast_title">Αντίθεση</string>
   <string name="pref_camera_current_k_value">Τρέχουσα τιμή</string>
   <string name="pref_camera_default_suffix">" (προκαθορισμένο)"</string>
   <string name="pref_camera_denoise_title">Λειτουργία Αποθορύβησης</string>
@@ -330,7 +327,6 @@
   <string name="pref_camera_whitebalance_entry_auto">Αυτόματο</string>
     <string name="pref_camera_watermark_entry_on">On</string>
     <string name="pref_camera_watermark_title">Time watermark</string>
-    <string name="pref_camera_whitebalance_entry_auto">Auto</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Νεφελώδης</string>
   <string name="pref_camera_whitebalance_entry_daylight">Φως ημέρας</string>
   <string name="pref_camera_whitebalance_entry_fluorescent">Φθορίζων</string>
