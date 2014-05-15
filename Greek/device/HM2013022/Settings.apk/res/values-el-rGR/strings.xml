@@ -191,6 +191,7 @@
     <string name="dolby_bassboost_low">Μαλακάt</string>
     <string name="dolby_bassboost_normal">Κανονικά</string>
     <string name="dolby_bassboost_title">Μπάσσα:</string>
+    <string name="dolby_eq_jungle"/>
     <string name="dolby_mode_movie">Βίντεο</string>
     <string name="dolby_mode_music">Μουσική</string>
     <string name="dolby_mode_off">Οff</string>
@@ -398,6 +399,7 @@
     <string name="memory_clear_cache_message">Θα διαγραφούν δεδομένα cache για όλες τις εφαρμογές.</string>
     <string name="memory_clear_cache_title">Να διαγραφούν τα δεδομένα προσωρινής μνήμης;</string>
     <string name="memory_media_cache_usage">Δεδομένα προσωρινής μνήμης</string>
+    <string name="milicenter_settings"/>
     <string name="mota_system_update_summary">Έλεγχος ενημέρωσης συστήματος στο διακομιστή</string>
     <string name="move_app_to_where">Μετακίνηση σε %s</string>
     <string name="mtk_datausage_amount_editor_title">Ποσότητα δεδομένων που χρησιμοποιούνται</string>
@@ -578,8 +580,8 @@
     <string name="user_you_section">Εσείς</string>
     <string name="verify_applications">Επαλήθευση εφαρμογών</string>
     <string name="verify_applications_summary">Να μην επιτρέπεται ή να γίνεται προειδοποίηση πριν από την εγκατάσταση εφαρμογών που μπορεί να είναι επικίνδυνες</string>
-    <string name="verify_apps_over_usb_title">Επαλήθευση εφαρμογών μέσω USB</string>
     <string name="verify_apps_over_usb_summary">Έλεγχος εφαρμογών που έχουν εγκατασταθεί μέσω ADB/ADT για επιβλαβή συμπεριφορά.</string>
+    <string name="verify_apps_over_usb_title">Επαλήθευση εφαρμογών μέσω USB</string>
     <string name="vibrate_title">Δόνηση</string>
     <string name="video_call_summary">Ορίστε τον προεπιλεγμένο ήχο κλήσης για τις κλήσεις βίντεο</string>
     <string name="video_call_title">Ήχος κλήσης για κλήση βίντεο</string>
@@ -685,8 +687,6 @@
     <string name="wifi_tether_wps_connect_summary">Επιλογή λειτουργίας ρύθμισης προστατευμένου Wi-Fi</string>
     <string name="wifi_tether_wps_connect_title">Σύνδεση WPS</string>
     <string name="wifi_tether_wps_pin_error">Μη έγκυρο PIN</string>
-    <string name="wifi_tethering_title">Σημείο πρ. Wi-Fi</string>
-    <string name="wifi_wps_fail_error">Αποτυχία ρύθμισης προστατευμένου Wi-Fi. Δοκιμάστε ξανά.</string>
-	<string name="dolby_eq_jungle"/>
-	<string name="milicenter_settings"/>
+	<string name="wifi_tethering_title">Σημείο πρ. Wi-Fi</string>
+	<string name="wifi_wps_fail_error">Αποτυχία ρύθμισης προστατευμένου Wi-Fi. Δοκιμάστε ξανά.</string>
 	</resources>

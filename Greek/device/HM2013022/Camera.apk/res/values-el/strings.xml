@@ -302,7 +302,7 @@
   <string name="pref_scan_qrcode_title">Σάρωση QR κωδικού</string>
   <string name="pref_settings_mode">Λειτουργία κάμερας</string>
   <string name="pref_video_captrue_ability_title">Δυνατότητα λήψης</string>
-    <string name="pref_video_continuous_focus">Kontinuální ostření</string>
+    <string name="pref_video_continuous_focus">Συνεχής εστίαση</string>
     <string name="pref_video_continuous_focus_entry_off">Οff</string>
     <string name="pref_video_continuous_focus_entry_on">Οn</string>
     <string name="pref_video_quality_entry_1080p">1080p</string>

@@ -138,7 +138,7 @@
   <string name="system_backup_apply_helper">Η συσκευή θα επανεκκινήσει αυτόματα για να γίνει εφαρμογή της αναβάθμισης</string>
   <string name="system_backup_ask">Επανάληψη ερώτησης</string>
   <string name="system_backup_button_text">Εκτέλεση αντιγράφου ασφαλείας συστήματος πριν την αναβάθμιση</string>
-  <string name="system_backup_cancel_text">Επανεκκίνηση για αναβάθμιση</string>
+  <string name="system_backup_cancel_text">Αναβάθμιση τώρα</string>
   <string name="system_backup_download_helper">Η συσκευή θα επανεκκινήσει αυτόματα για να αναβαθμιστεί όταν ολοκληρωθεί η λήψη</string>
   <string name="system_backup_error_message">Δεν βρέθηκε αντίγραφο ασφαλείας MIUI, παρακαλώ δημιουργήστε αντίγραφο ασφαλείας χειροκίνητα</string>
   <string name="system_backup_helper">Η αναβάθμιση του συστήματος δεν θα διαγράψει δεδομένα χρήστη. Παρόλα αυτά, προτείνεται η λήψη ενός αντιγράφου ασφαλείας των δεδομένων χρήστη πριν την αναβάθμιση</string>
