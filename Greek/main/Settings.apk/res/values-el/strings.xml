@@ -879,7 +879,7 @@
     <string name="details_title">Χρησιμοποιήστε λεπτομέρειες</string>
     <string name="dev_settings_warning_message">Αυτές οι ρυθμίσεις προορίζονται για χρήση ανάπτυξης μόνο. Μπορούν να προκαλέσουν τη συσκευή σας και τις εφαρμογές για να σπάσουν ή να παρεκτρέπονται</string>
     <string name="dev_settings_warning_title">Να επιτρέπονται οι ρυθμίσεις ανάπτυξης </string>
-    <string name="development_enable">Επιλογές για προγραμματιστές</string>
+    <string name="development_enable">Επιλ. για προγραμματιστές</string>
     <string name="development_settings_not_available">Οι Επιλογές για προγραμματιστές δεν είναι διαθέσιμες για αυτόν τον χρήστη</string>
     <string name="development_settings_summary">Επιλ. για προγραμματιστές</string>
     <string name="development_settings_title">Επιλ. για προγραμματιστές</string>
@@ -2874,7 +2874,7 @@ Android File Transfer,
     <string name="sync_one_time_sync">Πατήστε για συγχρονισμό τώρα %1$s</string>
     <string name="sync_plug"><font fgcolor="#ffffffff">Καλωσορίσατε στο συγχρονισμό της Google!</font>" 
 Η Google σας δίνει την ικανότητα συγχρονισμού των δεδομένων σας, έτσι ώστε να τα έχετε διαθέσιμα όπου και εάν βρίσκεστε. "</string>
-    <string name="sync_settings">Λογαριασμοί &amp; Συγχρονισμός</string>
+    <string name="sync_settings">Λογαριασ. &amp; Συγχρονισμός</string>
     <string name="sync_wifi_label">Ρύθμιση συγχρονισμού Wi-Fi </string>
     <string name="sync_wifi_only">Μόνο WLAN</string>
     <string name="system">Σύστημα</string>

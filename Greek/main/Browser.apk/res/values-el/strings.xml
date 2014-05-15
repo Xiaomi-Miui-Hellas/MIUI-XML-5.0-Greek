@@ -10,7 +10,7 @@
   <string name="accessibility_button_go">Πάμε</string>
   <string name="accessibility_button_more">Περισσότερες επιλογές</string>
   <string name="accessibility_button_navscreen">Διαχείριση σελίδων</string>
-  <string name="accessibility_button_newincognitotab">Άνοιγμα σε νέα incognito καρτέλα</string>
+  <string name="accessibility_button_newincognitotab">Άνοιγμα σε νέα καρτέλα πλοηγού</string>
   <string name="accessibility_button_newtab">Άνοιγμα νέας καρτέλας</string>
   <string name="accessibility_button_refresh">Ανανέωση σελίδας</string>
   <string name="accessibility_button_search">Αναζήτηση</string>
@@ -18,7 +18,7 @@
   <string name="accessibility_button_uaswitch">Εναλλαγή user agent</string>
   <string name="accessibility_button_voice">Εκκίνηση αναζήτησης με φωνή</string>
   <string name="accessibility_state_frozen">Αποθηκευμένη σελίδα</string>
-  <string name="accessibility_state_incognito">Σελίδα Incognito</string>
+  <string name="accessibility_state_incognito">Σελίδα Πλοηγού</string>
   <string name="accessibility_transition_navscreen">Διαχείριση καρτελών</string>
   <string name="account">Λογαριασμός</string>
   <string name="account_chooser_dialog_title">Επιλογή λογαριασμού</string>
@@ -246,7 +246,7 @@
   <string name="import_bookmarks_wizard_done">Έγινε</string>
   <string name="import_bookmarks_wizard_next">Επόμενο</string>
   <string name="import_bookmarks_wizard_previous">Προηγούμενο</string>
-  <string name="in_incognito">Λειτουργία Incognito είναι ενεργή, δεν θα κρατηθεί κανένα ιστορικό πλοήγησης.</string>
+  <string name="in_incognito">Η λειτουργία σελίδας πλοηγού είναι ενεργή, δεν θα κρατηθεί κανένα ιστορικό πλοήγησης.</string>
   <string name="instant_search_label">Google με Instant (Labs)</string>
   <string name="is_first_history_item">Αυτό είναι το πρώτο αντικείμενο ιστορικού</string>
   <string name="is_first_tab">Αυτή είναι η πρώτη καρτέλα</string>
@@ -295,7 +295,7 @@
   <string name="network_show_wifi_setting_tip_dialog_setting_title">"Εάν χρησιμοποιείτε το δίκτυο κινητής για πρόσβαση στο Internet, το MIUI θα σας ειδοποιήσει εάν βρεθούν κοντά διαθέσιμα ασύρματα δίκτυα"</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Διαθέσιμο τοπικό δίκτυο Wi-Fi</string>
   <string name="new_folder">Νέος φάκελος</string>
-  <string name="new_incognito_tab">Νέα incognito καρτέλα</string>
+  <string name="new_incognito_tab">Νέα καρτέλα πλοηγού</string>
   <string name="new_tab">Νέα καρτέλα</string>
   <string name="no">Όχι</string>
   <string name="no_subfolders">Χωρίς υποφακέλους.</string>

@@ -437,7 +437,7 @@
   <string name="timed_message_expired_title_2">Αποστολή τώρα?</string>
   <string name="timed_message_in_total">... (%d συνολικά)</string>
   <string name="timed_message_to">προς</string>
-  <string name="title_collapse_sp_messages">Συνδυάστε τα μηνύματα του παρόχου υπηρεσιών</string>
+  <string name="title_collapse_sp_messages">Συνδυασμός μυνημ. παρόχου</string>
   <string name="title_date_type">Χρονοσήμανση μηνυμάτων</string>
   <string name="title_timed_message_dialog">Διαμόρφωση χρονομετρημένου μηνύματος</string>
   <string name="to_address_label">"Προς: "</string>

@@ -10,7 +10,7 @@
   <string name="apply_font_tip">Το Θέμα περιέχει γραμματοσειρά. Απαιτείται επανεκκίνηση.</string>
   <string name="apply_lockscreen_paper_tips">"Οι αλλαγές στην ταπετσαρία δεν υποστηρίζονται από την τρέχουσα οθόνη κλειδώματος. Η νέα ταπετσαρία της οθόνης κλειδώματος μπορεί να μην είναι ορατή."</string>
   <string name="apply_theme_no_select_message">Παρακαλώ επιλέξτε συστατικά</string>
-  <string name="apply_theme_with_ringtones">Εφαρμογή θέματος με ήχους κλήσης</string>
+  <string name="apply_theme_with_ringtones">Ενεργοποίηση ήχων κλήσης</string>
   <string name="backup_preference_title">Δημιουργία αντιγράφων ασφαλείας θέματος</string>
   <string name="backup_theme_dialog_message">"Δημιουργία αντιγράφων ασφαλείας για το τρέχον θέμα %1$s"</string>
   <string name="backup_theme_dialog_ok">Αντίγραφο ασφαλείας</string>

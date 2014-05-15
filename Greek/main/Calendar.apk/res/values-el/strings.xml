@@ -33,7 +33,7 @@
     <string name="synced">συγχρονισμένο</string>
     <string name="not_synced">ασυγχρόνιστο</string>
     <string name="acct_not_synced">"Αυτός ο λογαριασμό δεν συγχρονίζεται οπότε τα μπορεί να μην έχετε ενημερωμένα ημερολόγια."</string>
-    <string name="accounts">Λογαριασμοί &amp; Συγχρονισμός</string>
+    <string name="accounts">Λογαριασ. &amp; Συγχρονισμός</string>
     <string name="select_synced_calendars_title">Ημερολόγια για συγχρονισμό</string>
     <string name="select_synced_calendars_button">Ημερολόγια για συγχρονισμό</string>
     <string name="hint_what">Περιεχόμενο υπενθύμισης γεγονότος</string>
@@ -250,7 +250,7 @@
     <string name="month_medium_february">Φεβ</string>
     <string name="month_medium_march">Μαρ</string>
     <string name="month_medium_april">Απρ</string>
-    <string name="month_medium_may">Μαϊ</string>
+    <string name="month_medium_may">Μαι</string>
     <string name="month_medium_june">Ιουν</string>
     <string name="month_medium_july">Ιουλ</string>
     <string name="month_medium_august">Αυγ</string>
