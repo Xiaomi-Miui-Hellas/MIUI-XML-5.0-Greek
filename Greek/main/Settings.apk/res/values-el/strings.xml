@@ -1593,7 +1593,7 @@
     <string name="mem_unlock">Ξεκλείδωμα</string>
     <string name="member_firewall_log" formatted="false">Φραγμένοι: Αριθμός %d, Λεπτομέρειες %d</string>
     <string name="memory">Μνήμη</string>
- <string name="memory_apps_usage">Εφαρμογές (δεδομένα εφαρμογών &amp; πολυμέσα)</string>
+ <string name="memory_apps_usage">Εφαρμογές (δεδομένα &amp; πολυμέσα)</string>
  <string name="memory_available">Διαθέσιμος</string>
  <string name="memory_available_read_only">Διαθέσιμο (μόνο για ανάγνωση)</string>
     <string name="memory_available_suffix">Διαθέσιμο</string>

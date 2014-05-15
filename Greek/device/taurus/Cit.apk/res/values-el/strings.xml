@@ -10,6 +10,22 @@
   <string name="cit_ac_charger_out">φορτιστής AC αποσυνδέθηκε</string>
   <string name="cit_accelermeter_sensor_check_summary">Η οθόνη θα προβάλει X, Y, Z acceleration (Σημείωση: Όταν η συσκευή κάνει κυκλική κίνηση οι τιμές θα αλλάηξουν με βάση τον προσανατολισμό</string>
   <string name="cit_accelermeter_sensor_check_title">Δοκιμή Accelerometer</string>
+    <string name="cit_audio_lb_backmic_to_speaker_title">Δοκιμή πίσω μικροφώνου</string>
+    <string name="cit_audio_lb_mainmic_to_earpiece_title">Δοκιμή βασικού μικροφώνου</string>
+    <string name="cit_audio_lb_phonecall_title">Εξομοίωση κλήσης</string>
+    <string name="cit_audio_lb_summary_backmic_to_speaker">"Δοκιμή πίσω μικροφώνου στο ηχείο. 
+
+Γυρίστε το τηλέφωνο, μιλήστε στο πίσω μικρόφωνο, θα πρέπει να ακουστεί η φωνή στο ηχείο "</string>
+    <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Δοκιμή βασικού μικροφώνου.
+
+Κρατήστε το τηλέφωνο σαν να κάνει μια κλήση, μιλίστε στο κεντρικό μικρόφωνο, θα πρέπει να ακούσετε τη φωνή από το ακουστικό"</string>
+    <string name="cit_audio_lb_summary_phonecall">"Δοκιμή εξομοίωσης κλήσης.
+
+Κρατήστε το τηλέφωνο σαν να κάνει μια κλήση, Μιλήστε με το κύριο μικρόφωνο, θα πρέπει να ακούσετε τη φωνή στο ακουστικό. Κάντε το τεστ σε ήσυχο περιβάλλον"</string>
+    <string name="cit_audio_lb_summary_topmic_to_speaker">"Δοκιμή μικροφώνου κορυφής.
+
+ Γυρίστε το τηλέφωνο, μιλήστε στο μικρόφωνο κορυφής, θα πρέπει να ακούσετε τη φωνή στο ηχείο"</string>
+    <string name="cit_audio_lb_topmic_to_speaker_title">Δοκιμή μικροφώνου κορυφής</string>
   <string name="cit_audio_loopback_check_one_title">Δοκιμή μικροφώνου στον δέκτη</string>
   <string name="cit_audio_loopback_check_summary_first">Θα δοκιμαστεί η επιστροφή του κεντρικού μικροφώνου</string>
   <string name="cit_audio_loopback_check_summary_second">Αναποδογυρίστε τη συσκευή και δοκιμάστε την επιστροφή από τα άλλα μικρόφωνα</string>
@@ -18,8 +34,8 @@
   <string name="cit_audio_loopback_next">Επόμενο</string>
   <string name="cit_audio_loopback_previous">Προηγούμενο</string>
   <string name="cit_audio_loopback_summary_dualmic_earpiece">"Δοκιμή κλήσης, μιλώντας στη συσκευή θα περάσει ο ήχος από το κεντρικό μικρόφωνο και θα ακουστεί απευθείας."</string>
-  <string name="cit_battery_temp_fail">Δοκιμή μπαταρίας απέτυχε με (τιμή=%d)</string>
-  <string name="cit_battery_temp_pass">Δοκιμή μπαταρίας πέτυχε</string>
+  <string name="cit_battery_temp_fail">Κακή θερμοκρασία μπαταρίας (τιμή=%d)</string>
+  <string name="cit_battery_temp_pass">Κανονική θερμοκρασία μπαταρίας</string>
   <string name="cit_batterylight_blue">Μπλε</string>
   <string name="cit_batterylight_green">Πράσινο</string>
   <string name="cit_batterylight_red">Κόκκινο</string>
@@ -143,7 +159,7 @@
   <string name="cit_sd_mount">Προσάρτηση κάρτας SD</string>
   <string name="cit_sd_mount_sucess">Επιτυχής προσάρτηση κάρτας SD</string>
   <string name="cit_sd_mp3_not_existed">"Το αρχείο music.mp3 δεν βρέθηκε στο γονικό φάκελο της κάρτας SD, προσθέστε το αρχείο και δοκιμάστε ξανά αναπαραγωγή."</string>
-  <string name="cit_sd_plugged_in">Η κάρτα SD προσαρτήθηκε, αφαιρέστε την κάρτα SD</string>
+  <string name="cit_sd_plugged_in">Η κάρτα SD εισάχθηκε, αφαιρέστε την κάρτα SD</string>
   <string name="cit_sd_plugged_out">Η κάρτα SD αποπροσαρτήθηκε, προσαρτήστε την κάρτα SD</string>
   <string name="cit_sd_plugin_check_summary">Η δοκιμή θα αναγνωρίσει την κατάσταση προσάρτησης της κάρτας SD, η οθόνη θα δείξει "Η κάρτα SD προσαρτήθηκε"</string>
   <string name="cit_sd_plugin_check_title">Δοκιμή προσάρτησης κάρτας SD</string>
@@ -171,9 +187,15 @@
   <string name="cit_stop_calibration">Λήξη βαθμονόμησης</string>
   <string name="cit_tool">Εργαλεία</string>
   <string name="cit_tool_bluetooth">Εργαλεία δοκιμής Bluetooth</string>
+    <string name="cit_tool_bluetooth_dut">Bluetooth test</string>
+    <string name="cit_tool_bluetooth_le_tx_h">Bluetooth test (2.480GHz)</string>
+    <string name="cit_tool_bluetooth_le_tx_l">Bluetooth test (2.402GHz)</string>
   <string name="cit_tool_bluetooth_mode">Λειτουργία δοκιμής Bluetooth</string>
+    <string name="cit_tool_bluetooth_not_on">Bluetooth není zapnutý!</string>
   <string name="cit_tool_bluetooth_off">Απενεργοποίηση Bluetooth</string>
   <string name="cit_tool_bluetooth_on">Ενεργοποίηση Bluetooth</string>
+    <string name="cit_tool_bluetooth_tx_h">Bluetooth test（2.480GHz)</string>
+    <string name="cit_tool_bluetooth_tx_l">Bluetooth test（2.402GHz)</string>
   <string name="cit_tool_log">Αρχεία Καταγραφής</string>
   <string name="cit_tool_log_bugreport">Αναφορά Bug</string>
   <string name="cit_tool_log_dmesg">DMESG</string>
@@ -186,11 +208,35 @@
   <string name="cit_tool_log_ril">Αρχείο καταγραφής RIL</string>
   <string name="cit_tool_log_toast">Αρχείο καταγραφής αποθηκεύτηκε σε %s</string>
   <string name="cit_tool_log_toast_generate_bugreport">Η αναφορά κατάστασης bug μπορεί να χρεαστεί μέχρι και 10 δευτερόλεπτα για να παραχθεί</string>
+    <string name="cit_tool_modem">Δοκιμή Μόντεμ</string>
+    <string name="cit_tool_modem_bugreport">Αναφορά MODEM</string>
+    <string name="cit_tool_modem_exit_ftm">Έξοδος</string>
+    <string name="cit_tool_modem_offline_log">Οn/Off καταγραφής εκτός σύνδεσης</string>
+    <string name="cit_tool_nfc">NFC Τεστ</string>
+    <string name="cit_tool_nfc_st">NFC ST:</string>
+    <string name="cit_tool_nfc_st_confreq">Συχν:</string>
+    <string name="cit_tool_nfc_st_run">Έναρξη</string>
+    <string name="cit_tool_nfc_st_stop">Στοπ</string>
   <string name="cit_tool_wifi">Εργαλεία δοκιμής Wi-Fi</string>
+  <string name="cit_tool_wifi_5g_100a">Tx:100/6M/13dBm</string>
+  <string name="cit_tool_wifi_5g_100b">Tx:100/54M/13dBm</string>
+  <string name="cit_tool_wifi_5g_100c">Tx:100/MCS0/13dBm</string>
+  <string name="cit_tool_wifi_5g_100d">Tx:100/MCS7/13dBm</string>
+  <string name="cit_tool_wifi_5g_165a">Tx:165/6M/13dBm</string>
+  <string name="cit_tool_wifi_5g_165b">Tx:165/54M/13dBm</string>
+  <string name="cit_tool_wifi_5g_165c">Tx:165/MCS0/13dBm</string>
+  <string name="cit_tool_wifi_5g_165d">Tx:165/MCS7/13dBm</string>
+  <string name="cit_tool_wifi_5g_36a">Tx:36/6M/13dBm</string>
+  <string name="cit_tool_wifi_5g_36b">Tx:36/54M/13dBm</string>
+  <string name="cit_tool_wifi_5g_36c">Tx:36/MCS0/13dBm</string>
+  <string name="cit_tool_wifi_5g_36d">Tx:36/MCS7/13dBm</string>
   <string name="cit_tool_wifi_b_13a">Tx:13/1M/15dBm</string>
   <string name="cit_tool_wifi_b_13b">Tx:13/11M/15dBm</string>
   <string name="cit_tool_wifi_b_1a">Tx:1/1M/15dBm</string>
   <string name="cit_tool_wifi_b_1b">Tx:1/11M/15dBm</string>
+    <string name="cit_tool_wifi_band_24">Μπάντα: 2.4G</string>
+    <string name="cit_tool_wifi_band_5">Μπάντα: 5G</string>
+    <string name="cit_tool_wifi_band_change">Αλλαγή</string>
   <string name="cit_tool_wifi_exit">Έξοδος</string>
   <string name="cit_tool_wifi_g_13a">Tx:13/6M/13dBm</string>
   <string name="cit_tool_wifi_g_13b">Tx:13/54M/13dBm</string>
@@ -201,7 +247,10 @@
   <string name="cit_tool_wifi_n_1a">Tx:1/MCS0/11dBm</string>
   <string name="cit_tool_wifi_n_1b">Tx:1/MCS7/11dBm</string>
   <string name="cit_tool_wifi_rx_1">Rx:1</string>
+  <string name="cit_tool_wifi_rx_100">Rx:100</string>
   <string name="cit_tool_wifi_rx_13">Rx:13</string>
+  <string name="cit_tool_wifi_rx_165">Rx:165</string>
+  <string name="cit_tool_wifi_rx_36">Rx:36</string>
   <string name="cit_tool_wifi_rx_7">Rx:7</string>
   <string name="cit_tool_wifi_rx_ap">Rx:AP</string>
   <string name="cit_tool_wifi_rx_ap_name">Όνομα Access point</string>
@@ -210,21 +259,36 @@
   <string name="cit_tool_wifi_rx_ap_type_error">Σφάλμα Access point, παρακαλώ ξανα δώστε πληροφορίες bss / adhoc</string>
   <string name="cit_tool_wifi_rx_chan">Rx: Κανάλι</string>
   <string name="cit_tool_wifi_rx_count_error">Η εξαχθείσα τιμή δεν είναι αριθμός</string>
+    <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>
   <string name="cit_tool_wifi_rx_error">Συνέβει ένα σφάλμα</string>
   <string name="cit_tool_wifi_rx_exit">Rx:έξοδος</string>
   <string name="cit_tool_wifi_rx_run">Εκκίνηση</string>
   <string name="cit_tool_wifi_rx_stop">Στοπ</string>
   <string name="cit_tool_wifi_rx_total_format">Μεταφέρθηκαν: %s</string>
+    <string name="cit_tool_wifi_rxbg_test">Rx:B/G</string>
+    <string name="cit_tool_wifi_rxbg_test_channel">Κανάλι:</string>
+    <string name="cit_tool_wifi_rxbg_test_datarate">ρυθμός:</string>
+    <string name="cit_tool_wifi_rxn_test">Rx:N</string>
+    <string name="cit_tool_wifi_rxn_test_channel">κανάλι:</string>
+    <string name="cit_tool_wifi_rxn_test_mcs">MCS:</string>
   <string name="cit_tool_wifi_tx_bg">Tx: B/G</string>
   <string name="cit_tool_wifi_tx_bg_chan">Κανάλι:</string>
   <string name="cit_tool_wifi_tx_bg_txpr">TX ένταση:</string>
   <string name="cit_tool_wifi_tx_bg_txrt">Ρυθμός μετάδοσης:</string>
   <string name="cit_tool_wifi_tx_n">Tx: N</string>
+    <string name="cit_tool_wifi_tx_n_bandwidth">Εύρος ζώνης:</string>
   <string name="cit_tool_wifi_tx_n_chan">Κανάλι:</string>
   <string name="cit_tool_wifi_tx_n_txpr">TX ένταση:</string>
   <string name="cit_tool_wifi_tx_n_txrt">Ρυθμός μετάδοσης: MCS</string>
+    <string name="cit_tool_wifi_tx_st">Tx: ST</string>
+    <string name="cit_tool_wifi_tx_st_chan">Κανάλι:</string>
   <string name="cit_torch_off">Απενεργοποίηση Φακού</string>
   <string name="cit_torch_on">Ενεργοποίηση Φακού</string>
+    <string name="cit_touch_calib_fail">Αποτυχία βαθμονόμησης</string>
+    <string name="cit_touch_calib_instruction">Βαθμονόμηση</string>
+    <string name="cit_touch_calib_pass">Η βαθμονόμηση ολοκληρωθεί με επιτυχία </string>
+    <string name="cit_touch_calib_summary">Κάντε τα παρακάτω βήματα για να ολοκληρωθεί η βαθμονόμηση της αφής, πατήστε ΟΚ, μην αγγίζετε την οθόνη έως ότου η βαθμονόμηση έχει ολοκληρωθεί</string>
+    <string name="cit_touch_calib_title">Βαθμονόμηση αφής</string>
   <string name="cit_usb_OTG_in"> USB_OTG συσκευή συνδέθηκε </string>
   <string name="cit_usb_OTG_out"> USB_OTG εξοπλισμός δεν απαιτείται. </string>
   <string name="cit_usb_charger_in">USB φορτιστής συνδέθηκε</string>

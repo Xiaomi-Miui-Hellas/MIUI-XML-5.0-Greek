@@ -106,7 +106,7 @@
   <string name="find_device_notice_p3">για να το βρείτε, να το κλειδώσετε, ή να σβήσετε τα δεδομένα</string>
   <string name="find_device_success_title">Ο εντοπισμός της συσκευής είναι ενεργοποιημένος</string>
   <string name="find_password_on_web_msg">Παρακαλούμε επισκεφθείτε το account.xiaomi.com για να ανακτήσετε τον κωδικό πρόσβασης σας</string>
-  <string name="forget_password">Ξεχάσατε τον κωδικό σας?</string>
+  <string name="forget_password">"Ξεχάσατε τον κωδικό σας?"</string>
   <string name="get_back_pwd">Ανακτήσει τον κωδικό πρόσβασης του λογαριασμού σας</string>
   <string name="header_data_and_synchronization">Δεδομενα &amp; Συγχρονισμος</string>
   <string name="i_know">ΟΚ</string>
