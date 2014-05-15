@@ -689,7 +689,7 @@
     <string name="confirm">OK</string>
     <string name="confirm_clear_blacklist">Καθαρισμός λίστας μπλοκαρισμένων?</string>
     <string name="confirm_clear_whitelist">Καθαρισμός εξαιρέσεων?</string>
-    <string name="confirm_erase">Επιβεβαίωση διαγραφής</string>
+    <string name="confirm_erase">Επιβεβαίωση</string>
     <string name="confirm_new_backup_pw_prompt">Πληκτρολογήστε πάλι τον νέο πλήρες κωδικό backup σας εδώ</string>
     <string name="connected_wifi">Συνδεδεμενο</string>
     <string name="context_add_contact">Προσθήκη στις υπάρχουσες επαφές</string>
