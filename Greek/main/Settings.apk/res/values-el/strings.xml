@@ -172,6 +172,7 @@
  <string name="apn_general">Γενικο APN</string>
  <string name="apn_http_port">Θύρα</string>
  <string name="apn_http_proxy">Proxy</string> 
+    <string name="apn_list_category_title">Λίστα Access point</string>
  <string name="apn_mcc">MCC</string>
  <string name="apn_mms">MMS APN</string>
  <string name="apn_mms_port">MMS port</string>
@@ -182,6 +183,7 @@
  <string name="apn_new">Προσθήκη νέου APN</string>
  <string name="apn_not_set">Δεν έχει οριστεί</string>
     <string name="apn_password">Κωδικός</string>
+    <string name="apn_predefine_change_dialog_notice">Είστε βέβαιοι? Οι τροποποιήσεις στις προεπιλεγμένες APNs μπορεί να προκαλέσουν προβλήματα σύνδεσης!</string>
     <string name="apn_protocol">Πρωτόκολλο APN</string>
     <string name="apn_roaming_protocol">APN πρωτόκολλο περιαγωγής</string>
  <string name="apn_save">Αποθήκευση APN </string>
@@ -211,6 +213,7 @@
  <string name="app_name_label">Εφαρμογή</string>
     <string name="app_not_found_dlg_text">"Η εφαρμογή δε βρέθηκε στη λίστα των εγκατεστημένων εφαρμογών."</string>
     <string name="app_not_found_dlg_title"/>
+    <string name="app_notifications_switch_label">Προσαρμοσμένες ειδοποιήσεις</string>
     <string name="app_not_supported_in_limited">Αυτή η εφαρμογή δεν υποστηρίζεται σε περιορισμένο προφίλ</string>
     <string name="app_notifications_switch_label">Προβολή ειδοποιήσεων</string>
     <string name="app_ops_never_used">(Δεν έχει χρησιμοποιηθεί)</string>
@@ -346,6 +349,7 @@
     <string name="battery_info_voltage_label">Τάση μπαταρίας </string>
     <string name="battery_info_voltage_units">mV</string>
     <string name="battery_level_title">Επίπεδο μπαταρίας</string>
+    <string name="battery_percent">Ποσοστό μπαταρίας</string>
  <string name="battery_settings">Μπαταρία</string>
  <string name="battery_settings_title">Μπαταρία</string>
  <string name="battery_since_reset">Χρήση ματαρίας μετά την επανεκίνηση</string>
