@@ -213,7 +213,6 @@
  <string name="app_name_label">Εφαρμογή</string>
     <string name="app_not_found_dlg_text">"Η εφαρμογή δε βρέθηκε στη λίστα των εγκατεστημένων εφαρμογών."</string>
     <string name="app_not_found_dlg_title"/>
-    <string name="app_notifications_switch_label">Προσαρμοσμένες ειδοποιήσεις</string>
     <string name="app_not_supported_in_limited">Αυτή η εφαρμογή δεν υποστηρίζεται σε περιορισμένο προφίλ</string>
     <string name="app_notifications_switch_label">Προβολή ειδοποιήσεων</string>
     <string name="app_ops_never_used">(Δεν έχει χρησιμοποιηθεί)</string>
