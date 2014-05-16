@@ -1649,7 +1649,7 @@ vyžadováno oprávnění"</string>
     <string name="StrInvalidDeflectedToNumber">Verify the number and try again</string>
     <string name="StrMaxNumberOfMPTY_ParticipantsExceeded">Maximum number of conference call participants exceeded</string>
     <string name="StrResourcesNotAvailable">Signal is too weak. Please try again</string>
-    <string name="StrEtcReturnError">Try again</string>
+    <string name="StrEtcReturnError">Δοκιμάστε ξανά</string>
     <string name="KTmmiError">Undefined additional service. Contact customer centre</string>
     <string name="unregistered_SIM">Neregistrovaná karta SIM</string>
     <string name="SS_USB_TETHERING_ENABLED">Sdílení připojení USB zapnuto</string>
