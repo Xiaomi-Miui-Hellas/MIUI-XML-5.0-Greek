@@ -67,7 +67,6 @@
     <string name="account_settings_retry_label">Προσπάθεια συγχρονισμού</string>
     <string name="account_settings_retry_summary">Ακουμπήστε εδώ για να συγχρονίσετε τον λογαριασμό</string>
     <string name="account_settings_ringtone">Επιλογή ήχου κλήσεις</string>
-
     <string name="account_settings_servers">Ρυθμίσεις διακομιστή</string>
     <string name="account_settings_signature_hint">Εισάγει αυτόματα κείμενο στο κάτω μέρος κάθε μηνύματος που στέλνετε</string>
     <string name="account_settings_signature_label">Υπογραφή</string>
@@ -352,7 +351,6 @@
     <string name="conversation_folder_moved">Μεταφέρθηκε στο %1$s</string>
     <string name="conversation_item_mark_read">Διαβασμένο</string>
     <string name="conversation_item_mark_unread">Αδιάβαστο</string>
-    <string name="conversation_folder_moved">Μεταφέρθηκε στο %1$s</string>
     <string name="conversation_photo_welcome_text">Αγγίξτε μια εικόνα αποστολέα για να επιλέξετε αυτή τη συζήτηση.</string>
     <string name="copy_email">Αντιγραφή email</string>
     <string name="copy_number">Αντιγραφή τηλεφώνου</string>
