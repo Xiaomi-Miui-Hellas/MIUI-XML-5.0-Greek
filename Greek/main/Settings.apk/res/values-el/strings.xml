@@ -1899,7 +1899,7 @@ Android File Transfer,
  <string name="perm_app_header">Διαχειριστής δικαιωμάτων</string>
  <string name="perm_app_manage_empty">"Δεν παρακολουθείται καμία από τις  εφαρμογές"</string>
     <string name="perm_app_name">Δικαιώματα</string>
-    <string name="perm_app_title">Διαχείριση αυτόματης εκκίνησης</string>
+    <string name="perm_app_title">Διαχείριση δικαιωμάτων εφαρμογών</string>
     <string name="perm_auto_start">Διαχειριστείτε την αυτόματη εκκίνηση εφαρμογών</string>
     <string name="perm_auto_start_desc">"Διαχείριση αδειών αυτόματη εκκίνηση εφαρμογών"</string>
     <string name="perm_canceling">Ακύρωση ...</string>
