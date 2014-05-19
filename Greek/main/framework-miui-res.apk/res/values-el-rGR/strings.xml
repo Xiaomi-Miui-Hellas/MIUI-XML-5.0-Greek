@@ -44,8 +44,6 @@
   <string name="experimental_validate_thanks">Ευχαριστούμε!</string>
   <string name="experimental_validate_username">Xiaomi ID</string>
   <string name="experimental_validate_warning">Κάθε εξερεύνηση σας βοηθάει το MIUI να γίνει καλύτερο!</string>
-  <string name="fast_scroll_alphabet">" ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ"</string>
-  <string name="fast_scroll_numeric_alphabet">" 0123456789ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ"</string>
   <string name="find_device_check_sim">Έλεγχος για SIM…</string>
   <string name="find_device_sim_change_instructions">"Η συσκευή σας έχει κλειδωθεί. Παρακαλώ εισάγετε την κάρτα SIM ή εισάγετε τον κωδικό πρόσβασης του λογαριασμού σας στην Xiaomi"</string>
   <string name="find_device_sim_change_instructions_no_network">"Η συσκευή σας έχει κλειδώσει την SIM, μπορείτε να τοποθετήσετε την αυθεντική κάρτα SIM"</string>

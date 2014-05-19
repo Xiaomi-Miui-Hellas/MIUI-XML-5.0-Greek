@@ -1048,8 +1048,8 @@
     <string name="hardware">Υλικό</string>
     <string name="select_keyboard_layout_notification_title">Επιλογή διάταξης πληκτρολογίου</string>
     <string name="select_keyboard_layout_notification_message">Αγγίξτε για να επιλέξετε διάταξη πληκτρολογίου.</string>
-    <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-    <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+  <string name="fast_scroll_alphabet">" ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ"</string>
+  <string name="fast_scroll_numeric_alphabet">" 0123456789ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ"</string>
     <string name="candidates_style"><u>υποψήφιοι</u></string>
     <string name="ext_media_checking_notification_title">Προετοιμασία αποθ. χώρου USB</string>
     <string name="ext_media_checking_notification_message">Έλεγχος για σφάλματα.</string>
