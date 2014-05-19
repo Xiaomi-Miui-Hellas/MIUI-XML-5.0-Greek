@@ -111,7 +111,6 @@
   <string name="menu_bl_clear">Διαγραφή λίστας</string>
   <string name="menu_bl_remove">Διαγραφή από την λίστα</string>
   <string name="menu_bl_sms_log">Έλεγχος φραγμένων μηνυμάτων</string>
-
   <string name="menu_call">Κλήση</string>
   <string name="menu_clear_all_sms">Διαγραφή όλων των φραγμένων μηνυμάτων</string>
     <string name="menu_clear_current_call">Διαγραφή όλων των κλήσεων από αυτό τον αριθμό</string>
@@ -145,17 +144,14 @@
   <string name="st_antispam_des_smart_anti">Έξυπνη λίστα</string>
   <string name="st_antispam_des_uesless">Αναποτελεσματικό</string>
   <string name="st_antispam_mode_add_new">Προσθήκη</string>
-
   <string name="st_antispam_mode_blacklist">Χρήση των φραγών</string>
   <string name="st_antispam_mode_blacklist_sum">Αποκλείστε τη λήψη μηνυμάτων και κλήσεις από αριθμούς στη blocklist</string>
   <string name="st_antispam_mode_customize_sum">Δημιουργήστε το δικό σας σκηνικό</string>
   <string name="st_antispam_mode_denyownself_sum">Προσαρμοσμένη blocklist λειτουργία</string>
-
   <string name="st_antispam_mode_only_all_deny">Φραγή όλων</string>
   <string name="st_antispam_mode_only_all_deny_sum">Αποκλεισμός όλων των κλήσεων και μηνυμάτων</string>
   <string name="st_antispam_mode_only_contacts">Only allow contacts</string>
   <string name="st_antispam_mode_only_contacts_sum">Να επιτρέπονται μόνο κλήσεις και μηνύματα από τις Επαφές</string>
-
   <string name="st_antispam_mode_only_whitelist">Only allow exceptions</string>
   <string name="st_antispam_mode_only_whitelist_sum">Να επιτρέπονται μόνο κλήσεις και μηνύματα από αριθμούς στη λίστα εξαιρέσεων</string>
   <string name="st_antispam_mode_smart">Έξυπνη φραγή</string>
