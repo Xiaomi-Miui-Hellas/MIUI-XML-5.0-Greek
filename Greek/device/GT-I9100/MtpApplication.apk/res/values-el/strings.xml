@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Εφαρμογή MTP</string>
+    <string name="error_title">Προσοχή</string>
+    <string name="bluetooth_running">Η ενεργοποίηση της λειτουργίας USB θα απενεργοποιήσει το Bluetooth. Συνέχεια;</string>
+    <string name="alert_dialog_yes">Ναι</string>
+    <string name="alert_dialog_no">Όχι</string>
+    <string name="animation_initializing">Προετοιμασία…</string>
+    <string name="animation_connected">Συνδέθηκε</string>
+    <string name="animation_synchronizing">Συγχρονισμός…</string>
+    <string name="animation_downloading">Λήψη…</string>
+    <string name="animation_sending">Αποστολή</string>
+    <string name="notification_mtp_connected">Το MTP συνδέθηκε</string>
+    <string name="notification_usb_connected">Το USB συνδέθηκε</string>
+    <string name="notification_mtp_initialization">Προετοιμασία MTP</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_cancel">Ακύρωση</string>
+    <string name="non_idle_toast">Η σύνδεση με τον υπολογιστή είναι διαθέσιμη μόνο σε κατάσταση αναμονής. Nα κλείσουν όλες οι εφαρμογές που εκτελούνται</string>
+    <string name="media_scanner_running">Εκτελείται σάρωση πολυμέσων…</string>
+    <string name="media_scanner_finished">Η σάρωση πολυμέσων ολοκληρώθηκε</string>
+    <string name="kies_software_check">Έλεγχος για Samsung Kies (λογισμικό σύνδεσης υπολογιστή)…</string>
+    <string name="security_policy_restriction">Η πολιτική ασφαλείας περιορίζει τη χρήση της σύνδεσης υπολογιστή</string>
+    <string name="resume_to_call">Συνέχιση κλήσης</string>
+    <string name="store_add_popup">Θα γίνει επανεκκίνηση της εφαρμογής MTP για την προετοιμασία της κάρτας SD. Συνέχεια;</string>
+</resources>

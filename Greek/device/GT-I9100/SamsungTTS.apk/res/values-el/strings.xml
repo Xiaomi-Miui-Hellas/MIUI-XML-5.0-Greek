@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="general_settings">Γεν. Ρυθμίσεις</string>
+    <string name="samsungtts_settings">Ρυθμίσεις Samsung TTS</string>
+    <string name="open_source_licenses">Άδειες χρήσης ανοιχτού κώδικα</string>
+    <string name="advanced_settings">Σύνθετες ρυθμίσεις</string>
+    <string name="change_voice_effects">Φωνητικά εφέ</string>
+    <string name="change_voice_effects_summary">Εφαρμόζει τα διάφορα φωνητικά εφέ για το κείμενο που εκφωνείτε</string>
+    <string name="installed_languages">Εγκατεστημένες γλώσσες</string>
+    <string name="female">Θηλυκό</string>
+    <string name="male">Αρσενικό</string>
+</resources>
