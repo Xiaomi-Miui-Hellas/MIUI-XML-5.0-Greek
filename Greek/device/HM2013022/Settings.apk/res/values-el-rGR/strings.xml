@@ -446,8 +446,8 @@
     <string name="preference_key_garbage_cleanup_auto_check_size">Μέγεθος αυτομ. καθαρισμού</string>
     <string name="preference_key_garbage_cleanup_auto_check_time">Ώρα αυτόμ. καθαρισμού</string>
     <string name="preference_key_manual_update_cleanup_db">Χειροκ.ενημέρωση + καθαρισμός</string>
-    <string name="preference_key_module_antipam declared">Ενεργό Antispam</string>
-    <string name="reference_key_module_antivirus declared">Ενεργό Antivirus</string>
+    <string name="preference_key_module_antipam">Ενεργό Antispam</string>
+    <string name="reference_key_module_antivirus">Ενεργό Antivirus</string>
     <string name="preference_key_module_garbage_cleanup">Καθαρισμός σκουπιδιών</string>
     <string name="preference_key_module_network_assistant">Βοηθός Δικτύου</string>
     <string name="preference_key_module_power_center">Κέντρο ενέργειας</string>
