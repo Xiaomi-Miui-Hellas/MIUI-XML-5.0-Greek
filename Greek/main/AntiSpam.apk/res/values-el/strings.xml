@@ -112,6 +112,7 @@
   <string name="menu_bl_remove">Διαγραφή από την λίστα</string>
   <string name="menu_bl_sms_log">Έλεγχος φραγμένων μηνυμάτων</string>
   <string name="menu_call">Κλήση</string>
+  <string name="menu_clear_all_call">Διαγραφή φραγμένων κλήσεων</string>
   <string name="menu_clear_all_sms">Διαγραφή όλων των φραγμένων μηνυμάτων</string>
     <string name="menu_clear_current_call">Διαγραφή όλων των κλήσεων από αυτό τον αριθμό</string>
   <string name="menu_clear_current_sms">Διαγραφή όλων των φραγμένων μηνυμάτων που στάλθηκαν από αυτόν τον αριθμό</string>
