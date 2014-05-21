@@ -23,6 +23,7 @@
     <string name="event_create">Νέο γεγονός</string>
     <string name="event_edit">Επεξεργασία γεγονότος</string>
     <string name="event_delete">Διαγραφή γεγονότος</string>
+    <string name="event_not_found">Δεν βρέθηκε γεγονός.</string>
     <string name="goto_today">Σήμερα</string>
     <string name="menu_preferences">Ρυθμίσεις</string>
     <string name="menu_select_visible_calendars">Ημερολόγια για προβολή</string>
@@ -50,6 +51,7 @@
     <string name="event_info_title_invite">Πρόσκληση σε ραντεβού</string>
     <string name="edit_event_to_label">ΠΡΟΣ</string>
     <string name="edit_event_from_label">ΑΠΟ</string>
+    <string name="email_organizer_label">Οργάνωση Email</string>
     <string name="edit_event_all_day_label">ΟΛΗ ΜΕΡΑ</string>
     <string name="edit_event_calendar_label">Ημερολόγιο</string>
     <string name="edit_event_show_all">Εμφάνιση όλων</string>
@@ -117,6 +119,7 @@
     <string name="change_response_title">Αλλαγή ανταπόκρισης</string>
     <string name="menu_general_preferences">Γενικες ρυθμισεις</string>
     <string name="menu_about_preferences">Περί του Ημερολογίου</string>
+    <string name="prefDefault_alerts_vibrate_true">πάντα</string>
     <string name="preferences_title">Ρυθμίσεις</string>
     <string name="preferences_general_title">Ρυθμίσεις προβολής ημερολογίου</string>
     <string name="preferences_reminder_title">Ειδοποιήσεις &amp; υπενθυμίσεις</string>
@@ -147,6 +150,7 @@
     <string name="tardis">TARDIS</string>
     <string name="copy_db">Αποστολή βάσης δεδομένων</string>
     <string name="directory_searching_fmt">Ψάχνει %s…</string>
+    <string name="accessibility_email_notification">Επισκέπτες Email</string>
     <string name="accessibility_remove_attendee">Αφαίρεση συμμετέχοντα</string>
     <string name="accessibility_pick_start_date">Ημερομηνία έναρξης</string>
     <string name="accessibility_pick_start_time">ΑΠΟ</string>
