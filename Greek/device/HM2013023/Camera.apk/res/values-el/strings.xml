@@ -410,4 +410,13 @@
   <string name="wifi_security">Ασφάλεια:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Πριν από τη σύνδεση, βεβαιωθείτε ότι το δίκτυο Wi-Fi είναι ασφαλές</string>
+  <string name="cannot_connect_camera">"Αδύνατη η σύνδεση στην κάμερα."</string>
+  <string name="camera_disabled">Η κάμερα απενεργοποιήθηκε για λόγους ασφάλειας.</string>
+  <string name="open">Εγραφή</string>
+  <string name="exposure_time">Χρόνος έκθεσης</string>
+  <string name="people">Κόσμος</string>
+  <string name="resume_playing_message">Συνέχεια αναπαραγωγής από %s?</string>
+  <string name="resume_playing_restart">Επανεκίνηση</string>
+  <string name="resume_playing_resume">Συνέχεια αναπαραγωγής</string>
+  <string name="resume_playing_title">Συνέχιση του βίντεο</string>
 </resources>
