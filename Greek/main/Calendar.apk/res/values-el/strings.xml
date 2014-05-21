@@ -119,7 +119,6 @@
     <string name="change_response_title">Αλλαγή ανταπόκρισης</string>
     <string name="menu_general_preferences">Γενικες ρυθμισεις</string>
     <string name="menu_about_preferences">Περί του Ημερολογίου</string>
-    <string name="prefDefault_alerts_vibrate_true">πάντα</string>
     <string name="preferences_title">Ρυθμίσεις</string>
     <string name="preferences_general_title">Ρυθμίσεις προβολής ημερολογίου</string>
     <string name="preferences_reminder_title">Ειδοποιήσεις &amp; υπενθυμίσεις</string>
