@@ -8,19 +8,22 @@
   <string name="accessibility_review_thumbnail">Πρόσφατη φωτογραφία</string>
   <string name="accessibility_shutter_button">Κουμπί κλείστρου</string>
   <string name="accessibility_zoom_control">Έλεγχος ζουμ</string>
-  <string name="aperture">Διάφραγμα</string>
-  <string name="albums">Άλμπουμ</string>
-  <string name="app_details">Πληροφ. εφαρμογής:</string>
-  <string name="auto">Αυτόματα</string>
-  <string name="bg_replacement_message">"Τοποθετήστε τη συσκευή και
+    <string name="albums">Άλμπουν</string>
+    <string name="aperture">Διάφραγμα</string>
+    <string name="app_details">Λεπτομέριες εφαρμ:</string>
+    <string name="auto">Αυτόματο</string>
+    <string name="bg_replacement_message">"Τοποθετήστε την συσκευή σας σε μια σταθερή επιφάνεια,
 
-Βγείτε από το καρέ για μια στιγμή"</string>
-  <string name="camera_disabled">Η κάμερα έχει απενεργοποιηθεί λόγο ρυθμίσεων ασφαλείας.</string>
-  <string name="camera_error_title">Σφάλμα κάμερας</string>
-  <string name="camera_label">Κάμερα</string>
-  <string name="camera_settings_label">Ρυθμίσεις κάμερας</string>
-  <string name="can_not_play_video">Ξεκλειδώστε την οθόνη για προβολή αναπαραγωγής</string>
-  <string name="cancel">Άκυρο</string>
+
+
+
+ και βγείτε από το οπτικό πεδίο για μια στιγμή"</string>
+    <string name="camera_disabled">Η κάμερα απενεργοποιήθηκε</string>
+    <string name="camera_error_title">Σφάλμα κάμερας</string>
+    <string name="camera_label">Κάμερα</string>
+    <string name="camera_settings_label">Ρυθμίσεις κάμερας</string>
+    <string name="can_not_play_video">Ξεκλειδώστε την οθόνη για αναπαραγωγή</string>
+    <string name="cancel">Άκυρο</string>
   <string name="cannot_connect_camera_once">"Αδύνατη σύνδεση σε κάμερα"</string>
   <string name="clear_effects">Καθαρισμός εφέ</string>
   <string name="close">Κλείσιμο</string>
@@ -48,11 +51,11 @@
   <string name="crop_saved">Περικομμένη εικόνα που καταγράφεται %s</string>
   <string name="delete">Διαγραφή</string>
   <string name="deleted">Διεγράφη</string>
-  <string name="details">Πληροφορίες</string>
   <string name="description">Περιγραφή</string>
-  <string name="details_title">%1$d από %2$d αντικείμενα:</string>
+  <string name="details">Πληροφορίες</string>
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="details_ms">%1$02d:%2$02d</string>
+  <string name="details_title">%1$d από %2$d αντικείμενα:</string>
   <string name="dialog_ok">ΟΚ</string>
   <string name="disable_video_snapshot_hint">Στιγμιότυπο βίντεο είναι ανενεργό όταν υπάρχουν ειδικά εφέ.</string>
   <string name="download_by_browser">Λήψη με χρήση browser</string>
@@ -108,17 +111,17 @@
   <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
   <string name="import_complete">Ολοκλήρωση εισαγωγής</string>
     <string name="import_contact">Εισαγωγή επαφής</string>
-  <string name="launch_market">Εκκίνηση app store</string>
   <string name="import_fail">Αποτυχία εισαγωγής !</string>
   <string name="iso">ISO</string>
+  <string name="launch_market">Εκκίνηση app store</string>
   <string name="launch_qq">Εκκίνηση QQ</string>
   <string name="launch_wechat">Εκκίνηση WeChat</string>
-  <string name="location">Τοποθεσία</string>
   <string name="loading">Φορτώνει…</string>
   <string name="loading_video">Φορτώνει το βίντεο…</string>
+  <string name="location">Τοποθεσία</string>
   <string name="locations">Τοποθεσίες</string>
   <string name="maker">Δημιουργός</string>
-  <string name="manual">Εγχειρίδιο</string>
+  <string name="manual">Χειροκίνητα</string>
   <string name="mimetype">Τύποι ΜΙΜΕ</string>
   <string name="model">Μοντέλο</string>
   <string name="no_storage">Εισάγετε κάρτα SD πριν χρησιμοποιήσετε την κάμερα.</string>
@@ -131,9 +134,9 @@
   <string name="pano_dialog_panorama_failed">"Αδύνατη αποθήκευση πανόραμα."</string>
   <string name="pano_dialog_prepare_preview">Ετοιμασία πανόραμα</string>
   <string name="pano_dialog_title">Πανόραμα</string>
-  <string name="pano_how_to_use_prompt">Ακουμπήστε το κουμπί κλείστρου για να τραβήξετε φωτογραφία πανόραμα.</string>
   <string name="pano_dialog_waiting_previous">Περιμένετε να ολοκληρωθεί η προηγούμενη πανοραμική</string>
   <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
+  <string name="pano_how_to_use_prompt">Ακουμπήστε το κουμπί κλείστρου για να τραβήξετε φωτογραφία πανόραμα.</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Συνεχίστε να κινείτε τη συσκευή</string>
   <string name="pano_how_to_use_prompt_to_move">Μετακινείτε την συσκευή απαλότερα</string>
   <string name="pano_review_saving_indication_str">Αποθηκεύει…</string>
@@ -164,7 +167,6 @@
   <string name="pref_camera_coloreffect_entry_mosaic">Μωσαϊκό</string>
   <string name="pref_camera_coloreffect_entry_none">Κανένα</string>
   <string name="pref_camera_coloreffect_entry_posterize">Σε πόστερ</string>
-  <string name="pref_camera_coloreffect_entry_sepia">Σέπια</string>
     <string name="pref_camera_coloreffect_entry_sepia_blue">Μπλε σέπια</string>
     <string name="pref_camera_coloreffect_entry_whiteboard">Ασπροπίνακας</string>
   <string name="pref_camera_coloreffect_title">Χρωματικό εφέ</string>
@@ -212,10 +214,10 @@
   <string name="pref_camera_movie_solid_entry_on">On</string>
   <string name="pref_camera_movie_solid_title">Σταθερή λήψη</string>
   <string name="pref_camera_panoramamode_title">Πανόραμα</string>
-  <string name="pref_camera_picture_format_title">Φορμά Φωτογραφιών</string>
-  <string name="pref_camera_picturesize_entry_fullscreen">Ευρεία 16:9</string>
   <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
   <string name="pref_camera_picture_format_entry_raw">RAW</string>
+  <string name="pref_camera_picture_format_title">Φορμά Φωτογραφιών</string>
+  <string name="pref_camera_picturesize_entry_fullscreen">Ευρεία 16:9</string>
   <string name="pref_camera_picturesize_entry_standard">Πρότυπο 4:3</string>
   <string name="pref_camera_picturesize_title">Μέγεθος φωτογραφίας</string>
   <string name="pref_camera_picturesize_title_simple_mode">Μέγεθος φωτογραφίας</string>
@@ -371,13 +373,13 @@
   <string name="snapshot_qcif_and_d1">Μόνο μεγεθός στιγμιότυπου Βίντου υποστηρίζεται για αυτή την ανάλυση.</string>
   <string name="snapshotsize_low_powermode">Ανάλυση φωτογραφίας σε λειτουργία Χαμηλής Κατανάλωσης δεν υποστηρίζεται. Θα χρησιμοποιθεί στιγμιότυπο του μεγέθους του βίντεο. Παρακαλώ επιλέξτε λειτουργία Υψηλής Κατανάλωσης για μέγεθος φωτογραφίας.</string>
   <string name="spaceIsLow_content">Σας τελειώνει ο χώρος στο αποθηκευτικό μέσω USB. Αλλάξτε την ρύθμιση ποιότητας ή διαγράψτε μερικές φωτογραφίες ή άλλα αρχεία.</string>
-  <string name="tags">Ετικέτες</string>
   <string name="success_message_import_from_account">Εισαγωγή επιτυχής</string>
+  <string name="tags">Ετικέτες</string>
   <string name="tap_to_focus">Ακουμπήστε για εστίαση.</string>
   <string name="time">Ώρα</string>
   <string name="time_lapse_error">Λάθος μέγεθος βίντεο για εγγραφή time-lapse.</string>
-  <string name="title">Τίτλος</string>
   <string name="times">Ώρες</string>
+  <string name="title">Τίτλος</string>
   <string name="toast_burst_snap_finished_end">Ληφθείσες φωτογραφίες</string>
   <string name="toast_burst_snap_finished_start">Burst shooting ολοκληρώθηκε</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Το Burst shooting δεν είναι διαθέσιμο όταν είναι ενεργή η ηχογράφηση.</string>
@@ -386,18 +388,18 @@
   <string name="toast_start_audio_capture">Κάντε έναν ήχο για να ξεκινήσει το κλείστρο</string>
   <string name="undo">ΑΝΑΙΡΕΣΗ</string>
   <string name="video_camera_label">Βίντεο</string>
-    <string name="video_reach_size_limit">Έχει φτάσει στο μέγιστο μέγεθος αρχείου.</string>
-  <string name="video_snapshot_hint">Λήψη φωτογραφίας κατά την διάρκεια εγγραφής βίντεο απλά πατώντας στην οθόνη προεπισκόπισης.</string>
-  <string name="video_err">Αδύνατη η αναπαραγωγή του βίντεο.</string>
+    <string name="video_err">Αδύνατη η αναπαραγωγή του βίντεο.</string>
   <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
+  <string name="video_reach_size_limit">Έχει φτάσει στο μέγιστο μέγεθος αρχείου.</string>
+  <string name="video_snapshot_hint">Λήψη φωτογραφίας κατά την διάρκεια εγγραφής βίντεο απλά πατώντας στην οθόνη προεπισκόπισης.</string>
   <string name="videocamera_settings_label">Ρυθμίσεις βίντεο</string>
   <string name="visit_cloud_album">Επίσκεψη άλμπουμ σύννεφου</string>
   <string name="wait">Παρακαλώ περιμένετε…</string>
   <string name="web_url_apk_warning">Ο επιλεγμένος QR κωδικός περιέχει μια εφαρμογή που ενδέχεται να προκαλέσει προβλήματα, παρακαλώ αναζητήστε την εφαρμογή από το PlayStore</string>
   <string name="web_url_warning">Ο QR κωδικός για σελίδα ενδέχεται να προκαλέσει προβλήματα, ο MIUI browser θα αναλύσει τον QR κωδικό για την ασφάλειά σας.</string>
-  <string name="white_balance">Ισορροπία λευκού</string>
   <string name="website_details">"Πληροφορίες σελίδας: "</string>
   <string name="wechat_details">Πληροφορίες WeChat:</string>
+  <string name="white_balance">Ισορροπία λευκού</string>
   <string name="width">Πλάτος</string>
   <string name="wifi_connect_fail">Το χρονικό όριο σύνδεσης σε δίκτυο Wi-Fi έληξη ή υπάρχει σφάλμα</string>
   <string name="wifi_connect_success">Επιτυχής σύνδεση σε δίκτυο Wi-Fi</string>
@@ -408,4 +410,13 @@
   <string name="wifi_security">Ασφάλεια:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Πριν από τη σύνδεση, βεβαιωθείτε ότι το δίκτυο Wi-Fi είναι ασφαλές</string>
+  <string name="cannot_connect_camera">"Αδύνατη η σύνδεση στην κάμερα."</string>
+  <string name="camera_disabled">Η κάμερα απενεργοποιήθηκε για λόγους ασφάλειας.</string>
+  <string name="open">Εγραφή</string>
+  <string name="exposure_time">Χρόνος έκθεσης</string>
+  <string name="people">Κόσμος</string>
+  <string name="resume_playing_message">Συνέχεια αναπαραγωγής από %s?</string>
+  <string name="resume_playing_restart">Επανεκίνηση</string>
+  <string name="resume_playing_resume">Συνέχεια αναπαραγωγής</string>
+  <string name="resume_playing_title">Συνέχιση του βίντεο</string>
 </resources>
