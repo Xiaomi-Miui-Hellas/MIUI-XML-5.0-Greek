@@ -13,7 +13,7 @@
   <string name="default_record_name">χωρίς όνομα</string>
   <string name="delete">Διαγραφή</string>
   <string name="delete_dialog_message">Θέλετε να διαγράψετε την συγκεκριμένη εγγραφή;</string>
-  <string name="deleting_message">Διαγραφή...</string>
+  <string name="deleting_message">Διαγραφή…</string>
   <string name="dialog_content_storage_full">Λόγω έλλειψης χώρου η εγγραφή έχει σταματήσει. Αφαιρέστε άχρηστα αρχεία μέσω της Διαχ.Αρχείων. Θέλετε να γίνει εκτέλεση τώρα;</string>
   <string name="dialog_play">Αναπαραγωγή</string>
   <string name="dialog_send">Αποστολή</string>
@@ -42,7 +42,7 @@
   <string name="minute">%d λεπτό</string>
   <string name="no_file">Χωρίς εγγραφές</string>
   <string name="notification_playback">Αναπαραγωγή ηχογράφησης…</string>
-  <string name="notification_recording">Ηχογράφηση...</string>
+  <string name="notification_recording">Ηχογράφηση…</string>
   <string name="notification_stopped">Η ηχογράφηση σταμάτησε</string>
   <string name="notification_warning">Μη επαρκής χώρος, (λιγότερο από %d λεπτά)</string>
   <string name="open_file_explorer">Άνοιγμα Διαχ.Αρχείων</string>

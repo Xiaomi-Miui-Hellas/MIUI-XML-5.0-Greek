@@ -13,7 +13,7 @@
     <string name="airkan_control_device_des">Μπορείτε να ελέγξετε την αναπαραγωγή βίντεο μέσω του πλήκτρου κάτω</string>
   <string name="airkan_device_xiaomi_phone">Xiaomi</string>
     <string name="airkan_tips">"Κάντε κλικ εδώ, για να παίξει το βίντεο 
-Ή για προβολή στο Xiaomi TV Box"</string>
+Ή για προβολή στο Mi TV Box"</string>
   <string name="airkan_video_playing"/>
     <string name="airkan_video_playing_in">Αναπαραγωγή του βίντεο…</string>
     <string name="alert_ignore">Να μην εμφανιστεί ξανά αυτή τη σελίδα</string>
@@ -71,8 +71,8 @@
     <string name="comment_max_error">Το σχόλιο σας δεν μπορεί να υπερβαίνει τους 300 χαρακτήρες</string>
     <string name="comment_max_tip">300 όριο χαρακτήρων</string>
     <string name="comment_publish">Υποβολή</string>
-    <string name="comment_submiting">Υποβολή ...</string>
-    <string name="connecting">Σύνδεση ...</string>
+    <string name="comment_submiting">Υποβολή …</string>
+    <string name="connecting">Σύνδεση …</string>
     <string name="continue_to_play_nextset">Αυτ.στο επόμενο επεισόδιο</string>
     <string name="continue_to_play_nextset_summary">«Όταν το επεισόδιο που βλέπετε έχει τελειώσει το επόμενο θα αρχίσει αυτόματα"</string>
     <string name="count_bu">Prt. %d</string>
@@ -111,11 +111,11 @@
     <string name="filter_mediaex">Φιλτράρισμα</string>
     <string name="filter_program">Φιλτράρισμα προγράμματος</string>
     <string name="find_media_count_bu">%d αποτελέσματα</string>
-    <string name="find_media_searching">Αναζήτηση ...</string>
+    <string name="find_media_searching">Αναζήτηση …</string>
     <string name="finish">Τέλος</string>
     <string name="finish_download">Προσωρινή αποθήκευση τελείωσε</string>
     <string name="forecast_living_status">Απευθείας μετάδοση</string>
-    <string name="fullscreen_hint_auto">Μπαίνοντας σε πλήρη οθόνη ...</string>
+    <string name="fullscreen_hint_auto">Μπαίνοντας σε πλήρη οθόνη …</string>
     <string name="fullscreen_hint_horizontal">Για να μπείτε σε πλήρη οθόνη, πατήστε το εικονίδιο στην επάνω αριστερή γωνία</string>
     <string name="fullscreen_hint_vertical">Για να μπείτε σε πλήρη οθόνη, πατήστε το παρακάτω κουμπί</string>
     <string name="fullscreen_to_play">Πλήρης οθόνη</string>
@@ -128,7 +128,7 @@
     <string name="hide_media">Απόκρυψη</string>
     <string name="hided_cannot_favorite">"Δεν μπορώ να βάλω αστέρι σε κρυφά στοιχεία"</string>
     <string name="hint_can_not_get_source_info">"Δε μπορείτε να βρείτε πληροφορίες Βίντεο στην πηγή"</string>
-    <string name="hint_without_selected_set">Δεν έχετε επιλέξει πηγή, βρίσκοντας την πηγή αυτόματα ...</string>
+    <string name="hint_without_selected_set">Δεν έχετε επιλέξει πηγή, βρίσκοντας την πηγή αυτόματα …</string>
     <string name="icntv">iCNTV</string>
     <string name="in_download">Προσωρινή αποθήκευση</string>
     <string name="in_download_notification">%d βίντεο αποθηκεύονται προσωρινά</string>
@@ -165,7 +165,7 @@
   <string name="loading_video_netplay_label">Φόρτωση, παρακαλώ περιμένετε…</string>
   <string name="loading_video_netplay_label_v5">Φόρτωση ροής, παρακαλώ περιμένετε…</string>
     <string name="local_count_ji">PRC %d Επ.</string>
-    <string name="login_tip_content">Σύνδεση με το λογαριασμό σας Xiaomi για να συγχρονίσετε και να ενημερώσετε τα shows τα οποία ακολουθείτε.</string>
+    <string name="login_tip_content">Σύνδεση με το λογαριασμό σας Mi για να συγχρονίσετε και να ενημερώσετε τα shows τα οποία ακολουθείτε.</string>
     <string name="login_tip_title">Σύνδεση</string>
     <string name="manage">Διαχειριστείτε</string>
     <string name="media_source_unavailable">Πηγή δεν είναι διαθέσιμη</string>
@@ -202,7 +202,7 @@
     <string name="no_comment_tip">"Δεν μπορεί να υποβάλετε ένα άδειο σχόλιο"</string>
     <string name="no_favorite">Δεν υπάρχουν αγαπημένα</string>
     <string name="no_filter_media">"Δεν μπόρεσα να βρω τίποτα. Δοκιμάστε αλλάζοντας την αναζήτησή σας."</string>
-    <string name="no_login_xiaomi_account">Σύνδεση με το λογαριασμό σας Xiaomi για να υποβάλετε τις παρατηρήσεις σας.</string>
+    <string name="no_login_xiaomi_account">Σύνδεση με το λογαριασμό σας Mi για να υποβάλετε τις παρατηρήσεις σας.</string>
     <string name="no_media">Κενό</string>
     <string name="no_myfavorite">Χωρίς αστέρι</string>
     <string name="no_myfavorite_advice">Προτεινόμενα</string>
@@ -262,7 +262,7 @@
     <string name="recentplay">Έπαιξαν πρόσφατα</string>
     <string name="recommendation">Μάλλον θα σας αρέσουν</string>
     <string name="reloading_tip">"Δεν ήταν δυνατή η σύνδεση με το δίκτυο"</string>
-    <string name="retrieving">Ανάκτηση ...</string>
+    <string name="retrieving">Ανάκτηση …</string>
     <string name="retry">Επανάληψη</string>
     <string name="review_success">Σχόλιο υποβάλλεται</string>
     <string name="sdcard_storage">Εσωτερική μνήμη</string>
@@ -339,8 +339,8 @@
     <string name="wasu">Wasu</string>
     <string name="will_live_status">Ζωντανό</string>
     <string name="write_comment">Πρόσθεσε ένα σχόλιο</string>
-    <string name="xiaomi_account_type_unsupported">"Το σύστημα δεν υποστηρίζει Xiaomi Λογαριασμούς."</string>
-    <string name="xiaomi_user">Xiaomi χρήστης</string>
+    <string name="xiaomi_account_type_unsupported">"Το σύστημα δεν υποστηρίζει Mi Λογαριασμούς."</string>
+    <string name="xiaomi_user">Mi χρήστης</string>
     <string name="year">Έτος</string>
     <string name="yestorday">Χτες</string>
     <string name="yinyuetai">YinYueTai</string>

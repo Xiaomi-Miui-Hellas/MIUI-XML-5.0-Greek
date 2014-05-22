@@ -66,11 +66,11 @@
   <string name="delete_playlist_menu">Διαγραφή</string>
   <string name="delete_song_desc">\"%s\" θα διαγραφούν μόνιμα από την SD card.</string>
   <string name="deselect_all">Απόρριψη όλων</string>
-  <string name="dirac_mode_earbuds">Xiaomi ακουστικά</string>
+  <string name="dirac_mode_earbuds">Mi ακουστικά</string>
   <string name="dirac_mode_general">Γενικός τύπος</string>
-  <string name="dirac_mode_in_ear">Xiaomi τύπος μπατονέτας</string>
+  <string name="dirac_mode_in_ear">Mi τύπος μπατονέτας</string>
   <string name="dirac_mode_off">Dirac Off</string>
-  <string name="dirac_mode_piston_100">Xiaomi Piston ακουστικά</string>
+  <string name="dirac_mode_piston_100">Mi Piston ακουστικά</string>
   <string name="disconnect">Αποσύνδεση</string>
   <string name="download">Λήψη</string>
   <string name="download_album_settings">Αυτόμ. λήψη εικόνων άλμπουμ</string>
@@ -177,7 +177,7 @@
   <string name="load_channel_in_process">Φόρτωση λίστας καναλιών</string>
   <string name="loading">Φορτώνει</string>
   <string name="login">Είσοδος</string>
-  <string name="login_first">Πρέπει να συνδεθείτε στον λογαριασμός σας στην Xiaomi Account πρώτα</string>
+  <string name="login_first">Πρέπει να συνδεθείτε στον λογαριασμός σας στην Mi Account πρώτα</string>
   <string name="lrc_progress_modify">Ρύθμιση ταχύτητας ροής στίχων</string>
   <string name="lrc_progress_modify_helper">Ρύθμιση της ταχύτητας ροής στίχων σύροντας πάνω ή κάτω</string>
   <string name="lrc_search_failed">Δεν βρέθηκαν στίχοι!</string>
@@ -249,7 +249,7 @@
   <string name="playlist_renamed_message">Μετονομασία λίστας.</string>
   <string name="playlists_title">Λίστες</string>
   <string name="powered_by">Powered by</string>
-  <string name="project_device">Xiaomi MiBox</string>
+  <string name="project_device">Mi MiBox</string>
   <string name="project_device_mobile">Συσκευή κινητής</string>
   <string name="queue">Τρέχουσα λίστα</string>
   <string name="quit_player">Έξοδος</string>
@@ -337,5 +337,5 @@
   <string name="vip_recommend_summary">Ροή ή λήψη όλων των αγαπημένων σας καλλιτεχνών από το Baidu Music στα 320 kbps.</string>
   <string name="vip_recommend_title">Υψηλότερη ποιότητα μουσικής</string>
   <string name="where_is_barcode">"Που είναι ο QR κωδικός?"</string>
-  <string name="xiaomi_account_setting">Xiaomi λογαριασμός</string>
+  <string name="xiaomi_account_setting">Mi λογαριασμός</string>
 </resources>

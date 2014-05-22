@@ -103,14 +103,14 @@
   <string name="new_configures">Νέες διαμορφώσεις</string>
   <string name="no_available_networks">Δεν υπάρχουν διαθέσιμα δίκτυα</string>
   <string name="no_available_networks_summary">Δοκιμάστε ξανά μετά την σύνδεση σε WLAN</string>
-  <string name="no_available_xiaomi_shop">Απέτυχε το άνοιγμα της αγοράς Xiaomi</string>
+  <string name="no_available_xiaomi_shop">Απέτυχε το άνοιγμα της αγοράς Mi</string>
   <string name="not_save_btn">Όχι</string>
   <string name="notification_value">Ειδοποιήσεις %s%%</string>
   <string name="null_task">Δεν υπάρχουν καθήκοντα</string>
   <string name="off">Off</string>
   <string name="on">On</string>
   <string name="open_web">Άνοιγμα ιστοσελίδας</string>
-  <string name="open_xiaomi_web">Πηγαίνετε στο Xiaomi.com</string>
+  <string name="open_xiaomi_web">Πηγαίνετε στο Mi.com</string>
   <string name="password_preference">Tag κωδικού</string>
   <string name="percent">%s%%</string>
   <string name="phone">Τηλέφωνο</string>
@@ -125,7 +125,7 @@
   <string name="pwd_prot_on">ON</string>
   <string name="read_a_tag">Διαβάστε μια ετικέτα</string>
   <string name="reading">Διάβασμα…</string>
-  <string name="remote_app">Αναμονή για να κατεβάσετε ...</string>
+  <string name="remote_app">Αναμονή για να κατεβάσετε …</string>
   <string name="remove_alert">Διαγραφή επιλεγμένων εργασιών?</string>
   <string name="ringer_mode">Λειτουργία Ring</string>
   <string name="ringer_normal">Ring</string>

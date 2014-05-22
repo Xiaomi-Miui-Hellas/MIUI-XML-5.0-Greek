@@ -2,7 +2,7 @@
 <resources>
     <string name="ok">OK</string>
     <string name="unknown_error">Άγνωστο σφάλμα</string>
-    <string name="processing">Επεξεργασία...</string>
+    <string name="processing">Επεξεργασία…</string>
     <string name="license_not_found">Η άδεια χρήσης δεν βρέθηκε</string>
     <string name="dev_cert_revoked">Έγινε ανάκληση του πιστοποιητικού συσκευής. Επικοινωνήστε με τον παροχέα υπηρεσιών</string>
     <string name="server_internal_error">Ο διακομιστής αντιμετωπίζει προβλήματα. Δοκιμάστε αργότερα</string>

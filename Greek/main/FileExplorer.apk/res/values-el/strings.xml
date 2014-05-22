@@ -15,8 +15,8 @@
     <string name="big5_summary">Παραδοσιακή κινεζική Windows κωδικοποίηση</string>
     <string name="big5_title">BIG5</string>
     <string name="bind_account">Συγχρον. υπάρχοντος λογαριασμού</string>
-    <string name="bind_account_summary">Συγχρονίστε τον KuaiPan λογαριασμό σας με το λογαριασμό της Xiaomi</string>
-    <string name="binded_accout_description">"Ο λογαριασμός της Xiaomi έχει συγχρονιστεί με του KuaiPan. Μπορείτε τώρα να χρησιμοποιήσετε το λογαριασμό της Xiaomi για να έχετε πρόσβαση στα δεδομένα που έχετε αποθηκεύσει στο KuaiPan."</string>
+    <string name="bind_account_summary">Συγχρονίστε τον KuaiPan λογαριασμό σας με το λογαριασμό της Mi</string>
+    <string name="binded_accout_description">"Ο λογαριασμός της Mi έχει συγχρονιστεί με του KuaiPan. Μπορείτε τώρα να χρησιμοποιήσετε το λογαριασμό της Mi για να έχετε πρόσβαση στα δεδομένα που έχετε αποθηκεύσει στο KuaiPan."</string>
     <string name="binded_accout_title">Λογαριασμοί συγχρονισμένοι</string>
     <string name="cache_size_label">Cache</string>
     <string name="cancel">Άκυρο</string>
@@ -154,7 +154,7 @@
  <string name="menu_item_sort_name">Όνομα</string>
  <string name="menu_item_sort_size">Μέγεθος</string>
  <string name="menu_item_sort_type">Τύπο</string>
-    <string name="migrate_announcement_msg">Συγχρονίστε τον λογαριασμό στο KuaiPan με το λογαριασμό της Xiaomi από τις ρυθμίσεις KuaiPan.</string>
+    <string name="migrate_announcement_msg">Συγχρονίστε τον λογαριασμό στο KuaiPan με το λογαριασμό της Mi από τις ρυθμίσεις KuaiPan.</string>
     <string name="migrate_announcement_title">Ολοκλήρωση μετεγκατάστασης</string>
     <string name="move_failed">Αδυναμία αποκοπής</string>
     <string name="multi_select_title">%1$s επιλέχθηκαν</string>
@@ -303,7 +303,7 @@
     <string name="waiting_for_scanning">Αναμονή…</string>
     <string name="wangpan_root_path">Kuaipan</string>
     <string name="wifi_state">Κατάσταση WLAN</string>
- <string name="xiaomi_account">Λογαριασμός Xiaomi</string>
+ <string name="xiaomi_account">Λογαριασμός Mi</string>
     <string name="yes">Ναι</string>
 	<string name="APKTOOL_DUMMY_012a"/>
 	<string name="APKTOOL_DUMMY_012b"/>

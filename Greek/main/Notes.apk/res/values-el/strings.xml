@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add_account_desc">Οι σημειώσεις μπορούν να συγχρονιστούν με τον λογαριασμό σας στην Xiaomi. Είσοδος και συγχρονισμός τώρα?</string>
+  <string name="add_account_desc">Οι σημειώσεις μπορούν να συγχρονιστούν με τον λογαριασμό σας στην Mi. Είσοδος και συγχρονισμός τώρα?</string>
   <string name="alert_action_edit_anyway">Συνεχίζουν την επεξεργασία</string>
   <string name="alert_edit_action_delete">Αφαίρεση</string>
   <string name="alert_edit_action_update">Ενημέρωση</string>
@@ -26,7 +26,7 @@
   <string name="dlg_desc_confirm_alarm_silent">Η Αφύπνιση και οι σημειώσεις δεν θα ακούγονται σε σιωπηλή λειτουργία όταν απενεργοποιηθεί. .</string>
   <string name="dlg_title_confirm_alarm_silent">Θέλετε να σίγαση συναγερμών σε σιωπηλή λειτουργία?</string>
   <string name="enable_sync">Συγχρονισμός</string>
-  <string name="enable_sync_desc">Σημειώσεις μπορεί να συγχρονιστεί με το λογαριασμό σας στην Xiaomi %1$s, το θέλετε τώρα?</string>
+  <string name="enable_sync_desc">Σημειώσεις μπορεί να συγχρονιστεί με το λογαριασμό σας στην Mi %1$s, το θέλετε τώρα?</string>
   <string name="error_contact_not_exist">Η επαφή δεν υπάρχει</string>
   <string name="error_note_empty_for_clock">Δυστυχώς, το ρολόι δεν μπορεί να ρυθμιστεί σε μία άδεια σημείωση</string>
   <string name="error_note_empty_for_send_to_desktop">Λυπούμαστε, αλλά δεν μπορείτε να στείλετε άδεια σημείωση στην αρχική οθόνη</string>

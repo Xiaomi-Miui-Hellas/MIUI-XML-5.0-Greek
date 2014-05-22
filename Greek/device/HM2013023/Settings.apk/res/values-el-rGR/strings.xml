@@ -272,12 +272,12 @@
     <string name="gemini_3g_disable_warning_cu">Η υπηρεσία 3G δεν είναι διαθέσιμη με την επιλεγμένη SIM. Ενδεχεται να προκαλείται καθυστέρηση φόρτωσης δεδομένων. Μπορείτε να αλλάξετε τη ρύθμιση υπηρεσίας 3G στην περιοχή Ρυθμίσεις > Διαχείριση κάρτας SIM.</string>
     <string name="gemini_3g_indic">3G</string>
     <string name="gemini_3g_modem_switch_confirm_message">Με αυτήν την ενέργεια θα γίνει επίσης εναλλαγή της υπηρεσίας 3G σε αυτήν την κάρτα SIM. Συνέχεια; Βεβαιωθείτε, επίσης, ότι η επιλεγμένη κάρτα SIM υποστηρίζει την υπηρεσία 3G.</string>
-    <string name="gemini_3g_modem_switching_message">Η εναλλαγή SIM θα χρειαστεί περίπου 10 δευτερόλεπτα για να ολοκληρωθεί. Περιμένετε...</string>
+    <string name="gemini_3g_modem_switching_message">Η εναλλαγή SIM θα χρειαστεί περίπου 10 δευτερόλεπτα για να ολοκληρωθεί. Περιμένετε…</string>
     <string name="gemini_3g_service_settings">Υπηρεσία 3G</string>
     <string name="gemini_contacts_sim_summary">Συσχετισμός επαφών με συγκεκριμένη κάρτα SIM</string>
     <string name="gemini_contacts_sim_title">Συσχετισμός επαφών</string>
     <string name="gemini_data_connection">Σύνδεση δεδομένων</string>
-    <string name="gemini_data_connection_progress_message">Περιμένετε...</string>
+    <string name="gemini_data_connection_progress_message">Περιμένετε…</string>
     <string name="gemini_data_roaming_summary">Σύνδεση με υπηρεσίες δεδομένων κατά την περιαγωγή</string>
     <string name="gemini_data_roaming_title">Περιαγωγή δεδομένων</string>
     <string name="gemini_default_sim_3g_off">Απενεργοποίηση</string>

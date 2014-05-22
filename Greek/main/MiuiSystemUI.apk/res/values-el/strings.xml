@@ -207,7 +207,7 @@
     <string name="settings_toggle">Διακόπτες</string>
     <string name="settings_toggle_collapse_after_clicked">Σύμπτυξη μετά το άγγιγμα</string>
     <string name="settings_toggle_layout_style">Αλλαγη μορφης πανελ</string>
-    <string name="settings_toggle_layout_style_applying">Αλλαγή εμφάνισης διακοπτών...</string>
+    <string name="settings_toggle_layout_style_applying">Αλλαγή εμφάνισης διακοπτών…</string>
     <string name="settings_toggle_layout_style_compact">Συμπαγής</string>
     <string name="settings_toggle_layout_style_single_page">Σελίδα</string>
     <string name="settings_toggle_position">Θέση διακοπτών</string>

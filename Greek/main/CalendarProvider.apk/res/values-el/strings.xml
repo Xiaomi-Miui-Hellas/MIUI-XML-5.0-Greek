@@ -17,7 +17,7 @@
     <string name="debug_tool_email_body">Επισυνάπτεται η βάση δεδομένων του ημερολογίου μου με όλα τα ραντεβού μου και τις προσωπικές πληροφορίες. Χειριστείτε με προσοχή.</string>
     <string name="holiday_update_title">Ημέρες που πρέπει να συνδεθείτε στο δίκτυο για ενημέρωση</string>
     <string name="holiday_update_summary">Κλικ έλεγχος ενημέρωσης</string>
-    <string name="holiday_data_updating">Ενημερώνεται...</string>
+    <string name="holiday_data_updating">Ενημερώνεται…</string>
     <string name="holiday_data_update_failed">Ελέγξτε για λάθη στην ενημέρωση και προσπαθήστε αργότερα.</string>
     <string name="holiday_data_update_succeed">Έλεγχος για ολοκληρωμένες ενημερώσεις</string>
     <string name="holiday_data_no_network">Χωρίς δίκτυο. Προσπαθήστε αργότερα</string>

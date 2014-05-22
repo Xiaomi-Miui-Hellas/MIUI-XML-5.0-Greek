@@ -154,7 +154,7 @@
   <string name="tips_dialog_title">"Δεν ξέρετε το όριο σας?"</string>
   <string name="tips_message">"Αν δεν είστε σίγουρος σχετικά με τις λεπτομέρειες του προγράμματος σας, μπορείτε να τα δείτε με την κλήση %2$s (%1$s)."</string>
   <string name="traffic_correction_failed">"Δεν μπορείτε να πάρετε πληροφορίες για τη χρήση των δεδομένων"</string>
-  <string name="traffic_correction_start_correction">«Μιλώντας με τους διακομιστές του μεταφορέα ..."</string>
+  <string name="traffic_correction_start_correction">«Μιλώντας με τους διακομιστές του μεταφορέα …"</string>
   <string name="traffic_correction_start_correction_failed">Αίτηση απέτυχε, παρακαλώ ελέγξτε τις ρυθμίσεις του φορέα</string>
   <string name="traffic_correction_success">Η χρήση δεδομένων ενημερώνεται</string>
   <string name="traffic_none">Κανένα</string>
@@ -169,7 +169,7 @@
   <string name="traffic_setting_fragment_brand">Μάρκα</string>
   <string name="traffic_setting_fragment_button2_text">Αποθήκευση</string>
   <string name="traffic_setting_fragment_get_template_falure">Ενημέρωση απέτυχε. Ελέγξτε τη σύνδεση δεδομένων σας και δοκιμάστε ξανά.</string>
-  <string name="traffic_setting_fragment_loading_text">Λαμβάνοντας πληροφορίες για το δίκτυο ...</string>
+  <string name="traffic_setting_fragment_loading_text">Λαμβάνοντας πληροφορίες για το δίκτυο …</string>
   <string name="traffic_setting_fragment_no_network">"Δεν είναι δυνατή η σύνδεση με το δίκτυο"</string>
   <string name="traffic_setting_fragment_null">Άδειο</string>
   <string name="traffic_setting_fragment_operator">Φορέας</string>

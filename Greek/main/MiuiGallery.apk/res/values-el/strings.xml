@@ -73,7 +73,7 @@
   <string name="cannot_send_message">"Αδυναμία αποστολής μηνύματος"</string>
   <string name="cannot_send_message_reason">Το μήνυμά σας δεν έχει παραλήπτες.</string>
   <string name="cant_delete_cloud_album">Αδυναμία διαγραφής: %s είναι άλμπουμ συστήματος ή μοιράζεται από άλλους.</string>
-	<string name="cleaning_cache">Εκκαθάριση προσωρινής μνήμης...</string>
+	<string name="cleaning_cache">Εκκαθάριση προσωρινής μνήμης…</string>
 	<string name="clear_thumbnail_cache">Εκκαθάριση μνήμης μικρογραφιών</string>
 	<string name="clear_thumbnail_cache_confirm">Η μνήμη μικρογραφιών θα εκκαθαριστεί. Η εφαρμογή θα αναζητήσει εκ νέου αρχεία πολυμέσων και θα δημιουργήσει τις μικρογραφίες αργότερα.</string>
   <string name="clear_thumbnail_cache_summary">Η περιήγηση θα δημιουργήσει μικρογραφίες. Η εκκαθάριση της μνήμης cache θα αυξήσει το χώρο.</string>
@@ -202,7 +202,7 @@
 	<string name="frame_white">Λευκό</string>
   <string name="gallery_cloud_provider_name">MiCloud άλμπουμ</string>
   <string name="gallery_setting">Ρυθμίσεις</string>
-  <string name="get_album_info_in_process">"Αναζήτηση πληροφοριών κοινόχρηστου άλμπουμ. Παρακαλώ περιμένετε..."</string>
+  <string name="get_album_info_in_process">"Αναζήτηση πληροφοριών κοινόχρηστου άλμπουμ. Παρακαλώ περιμένετε…"</string>
   <string name="global_setting">Ρυθμίσεις</string>
   <string name="grain">Φιλμ με κόκκους</string>
   <string name="grayscale">B&amp;W</string>
@@ -247,7 +247,7 @@
   <string name="loading_image">Λήψη φωτογραφίας…</string>
   <string name="loading_members">Φόρτωση μελών…</string>
   <string name="loading_suspend">Η λήψη πάγωσε: Θα συνεχιστεί όταν βρεθεί διαθέσιμο δίκτυο Wi-Fi</string>
-	<string name="loading_thumbnail">Φόρτωση μικρογραφίας...</string>
+	<string name="loading_thumbnail">Φόρτωση μικρογραφίας…</string>
   <string name="loading_video">Λήψη βίντεο…</string>
   <string name="local_albums">Τοπικές φωτογραφίες</string>
   <string name="location">Τοποθεσία</string>
