@@ -106,7 +106,7 @@
   <string name="find_device_notice_p3">για να το βρείτε, να το κλειδώσετε, ή να σβήσετε τα δεδομένα</string>
   <string name="find_device_success_title">Ο εντοπισμός της συσκευής είναι ενεργοποιημένος</string>
   <string name="find_password_on_web_msg">Παρακαλούμε επισκεφθείτε το account.xiaomi.com για να ανακτήσετε τον κωδικό πρόσβασης σας</string>
-  <string name="forget_password">"Ξεχάσατε τον κωδικό σας?"</string>
+  <string name="forget_password"><u>Ξέχασα τον κωδικό</u></string>
   <string name="get_back_pwd">Ανακτήσει τον κωδικό πρόσβασης του λογαριασμού σας</string>
   <string name="header_data_and_synchronization">Δεδομενα &amp; Συγχρονισμος</string>
   <string name="i_know">ΟΚ</string>
@@ -204,7 +204,7 @@
   <string name="micloud_warn_low_title">Λίγος διαθέσιμος χώρος!</string>
   <string name="micloud_web_discription_01">Συνδεθείτε στο http://i.xiaomi.com</string>
   <string name="micloud_web_discription_02">για να αποθηκεύσετε ώστε να έχετε πρόσβαση των αρχείων σας από παντού</string>
-  <string name="micloud_welcome_skip_login">Παράκαμψη εγγραφής</string>
+  <string name="micloud_welcome_skip_login"><u>Παράκαμψη εγγραφής</u></string>
   <string name="mili_center">Mi Credit</string>
   <string name="my_xiaomi_account">Ο Mi λογαριασμός μου</string>
   <string name="next">Επόμενο</string>
@@ -237,7 +237,7 @@
   <string name="sim_changed_notification_content">Η SIM card δεν ενεργοποιήθηκε</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Παράκαμψη εισόδου</string>
-  <string name="skip_login_u">&lt;u&gt;Παράκαμψη εισόδου&lt;/u&gt;</string>
+  <string name="skip_login_u"><u>Παράκαμψη εισόδου</u></string>
   <string name="skip_setup_account_msg">Με την χρήση του λογαριασμού σας Mi, μπορείτε να συγχρονίσετε τα backup, SMS, Επαφές, φωτογραφίες, σημειώσεις, κ.λ.π. Συνέχιση και εγκατάσταση αργότερα;</string>
   <string name="skip_setup_account_title">Παράκαμψη εγκατάστασης</string>
   <string name="start_micloud">Έναρξη</string>
