@@ -153,9 +153,9 @@
   <string name="traffic_suffix">δεδομένα</string>
   <string name="traffic_suffix_with_uint">δεδομένα (MB)</string>
   <string name="traffic_total">"%s
-Total"</string>
+Σύνολο"</string>
   <string name="traffic_used_status">"%s
-Used"</string>
+Σε χρήση"</string>
   <string name="unknown">Άγνωστο</string>
   <string name="unknown_free_traffic_hint">Επικοινωωήστε με τον πάροχό σας για να μάθετε το μηνιάιο όριό σας.</string>
   <string name="unknown_free_traffic_text">"Δεν γνωρίζετε το μηνιαίο όριο?"</string>
