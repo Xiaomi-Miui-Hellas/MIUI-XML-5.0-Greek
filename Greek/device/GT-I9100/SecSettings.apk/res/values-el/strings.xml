@@ -1671,7 +1671,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="device_admin_status">Η διαχείριση είναι ενεργή. Αυτό επιτρέπει στη συσκευή %s την εκτέλεση των ακόλουθων λειτουργιών</string>
     <string name="untitled_apn">Χωρίς τίτλο</string>
     <string name="sound_category_sound_title">Γενικά</string>
-    <string name="sound_category_calls_and_notification_title">Ήχος κλήσης και ειδοποιήσεις</string>
+    <string name="sound_category_calls_and_notification_title">Ήχος κλήσεων και ειδοποιήσεων</string>
     <string name="sound_category_notification_title">Ειδοποιήσεις</string>
     <string name="sound_category_feedback_title">Σύστημα</string>
     <string name="sound_category_call_ringtone_vibrate_title">Ήχος κλήσης και δόνηση</string>

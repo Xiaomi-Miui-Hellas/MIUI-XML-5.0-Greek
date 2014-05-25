@@ -20,36 +20,36 @@
         <item quantity="one">Απόρριψη πρόχειρων από την συζήτηση?</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> στο αρχείο.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> στο αρχείο.</item>
+        <item quantity="other">%1$d στο αρχείο.</item>
+        <item quantity="one">%1$d στο αρχείο.</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> διεγράφησαν.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> διεγράφη.</item>
+        <item quantity="other">%1$d διεγράφησαν.</item>
+        <item quantity="one">%1$d διεγράφη.</item>
     </plurals>
     <plurals name="conversation_folder_changed">
         <item quantity="other">Αλλαγμένοι φάκελοι.</item>
         <item quantity="one">Αλλαγμένος φάκελος.</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> σε σίγαση.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> σε σίγαση.</item>
+        <item quantity="other">%1$d σε σίγαση.</item>
+        <item quantity="one">%1$d σε σίγαση.</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> όχι ως σημαντικά.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> όχι ως σημαντικό.</item>
+        <item quantity="other">%1$d όχι ως σημαντικά.</item>
+        <item quantity="one">%1$d όχι ως σημαντικό.</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> όχι σαν spam.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> όχι σαν spam.</item>
+        <item quantity="other">%1$d όχι σαν spam.</item>
+        <item quantity="one">%1$d όχι σαν spam.</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> αναφορά ως ψευδή.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> αναφορά ως ψευδές.</item>
+        <item quantity="other">%1$d αναφορά ως ψευδή.</item>
+        <item quantity="one">%1$d αναφορά ως ψευδές.</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> αναφορά ως spam.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> αναφορά ως spam.</item>
+        <item quantity="other">%1$d αναφορά ως spam.</item>
+        <item quantity="one">%1$d αναφορά ως spam.</item>
     </plurals>
     <plurals name="conversation_unstarred">
         <item quantity="other">Χωρίς αστέρι σε %1$d συζητήσεις.</item>
