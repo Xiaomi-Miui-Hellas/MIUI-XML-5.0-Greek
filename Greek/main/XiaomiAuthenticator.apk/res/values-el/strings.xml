@@ -73,7 +73,7 @@
     <string name="welcome_page_alert">&lt;font color=#fb3500>Σημείωση：&lt;/font>Προσέξτε να μην διαγράψετε το διακριτικό, διαφορετικά δεν θα συνδεθείτε。</string>
     <string name="acknowledge_button">Συνέχεια</string>
     <string name="mycard_scan_barcode">MiID Code Scanner</string>
-    <string name="scan_barcode_info">Τόπος και σαρώσετε ένα MiID barcode στο εσωτερικό αυτού του σκοπεύτρου.</string>
+    <string name="scan_barcode_info">Στοχεύστε και σαρώσετε ένα MiID barcode στο εσωτερικό αυτού του σκοπεύτρου.</string>
     <string name="scan_barcode">Σάρωση MiID</string>
     <string name="gif_not_support_camera_msg">Η συσκευή σας δεν υποστηρίζει την εγγραφή βίντεο.</string>
     <string name="open_camera_exception_dialog_title">Δυσλειτουργία της κάμερας</string>
@@ -97,8 +97,8 @@
     <string name="lockpassword_input_your_pattern_header">Επιβεβαιώστε το μοτίβο σας</string>
     <string name="lockpassword_choose_your_pattern_header">Επιλέξτε το μοτίβο σας</string>
     <string name="lockpattern_continue_button_text">Συνέχεια</string>
-    <string name="lockpattern_redraw_button_text">Redraw</string>
-    <string name="lockpattern_confirm_button_text">Διόρθωση</string>
+    <string name="lockpattern_redraw_button_text">Διόρθωση</string>
+    <string name="lockpattern_confirm_button_text">Επιβεβαίωση</string>
     <string name="lockpattern_tutorial_cancel_label">Ακύρωση</string>
     <string name="lockpattern_tutorial_jump_label">Άλμα</string>
     <string name="lockpattern_tutorial_close_label">Κλείσιμο</string>
@@ -129,7 +129,7 @@
     <string name="jump_updatepattern_tip">Με την ακύρωση κωδικού μοτίβου, ο λογαριασμός δεν θα έχει ασφάλεια, σας συνιστούμε να μην επιλέξετε ακύρωση</string>
     <string name="jump_lockpattern_title">Σημείωση</string>
     <string name="update_pattern_jump"><u>Ακύρωση κωδικού μοτίβου</u></string>
-    <string name="original_pattern_tip">Εισάγετε&lt;font color=#fb3500>πρωτότυπο&lt;/font> Μοτίβο ως κωδικό</string>
+    <string name="original_pattern_tip">Εισάγετε&lt;font color=#fb3500> πρωτότυπο&lt;/font> Μοτίβο ως κωδικό</string>
     <string name="new_pattern_tip">Εισάγετε&lt;font color=#fb3500>Νέος&lt;/font> κωδικός μοτίβου, με τουλάχιστον τέσσερα σημεία σύνδεσης</string>
     <string name="title_createpattern">Δημιουργία κωδικού μοτίβου</string>
     <string name="title_updatepattern">Τροποιποίηση κωδικού μοτίβου</string>
