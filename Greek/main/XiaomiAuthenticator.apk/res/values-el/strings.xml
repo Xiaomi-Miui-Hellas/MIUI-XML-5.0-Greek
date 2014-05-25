@@ -135,6 +135,7 @@
     <string name="title_updatepattern">Τροποιποίηση κωδικού μοτίβου</string>
     <string name="title_forgetpattern">Ξεχάσατε τον κωδικό μοτίβου</string>
     <string name="resetbtn_patternforgotten">Επαναφορά τώρα</string>
+    <string name="success_copy_to_clipboard">Σώθηκε στο πρόχειρο</string>
     <string name="authenticator_page_reactivation">Επανενεργοποίηση</string>
     <string name="success_set_password">Επιτυχής ορισμός Κωδικού πρόσβασης</string>
     <string name="success_reset_password">Επαναφορά κωδικού επιτυχής</string>
