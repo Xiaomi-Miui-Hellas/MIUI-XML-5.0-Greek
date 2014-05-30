@@ -78,7 +78,6 @@
   <string name="menu_stats">Στατιστικά FM RF</string>
   <string name="msg_callactive">FM Tx δεν υποστηρίζεται κατά την διάρκεια ενεργής φωνητικής κλήσης.</string>
   <string name="msg_do_not_support_fm">"Αυτή η συσκευή δεν υποστηρίζει FM Ράδιο"</string>
-  <string name="msg_fm_starting">Démarrage…</string>
   <string name="msg_headsetpluggedin">Αποσυνδέστε ακουστικά τώρα.</string>
   <string name="msg_noantenna_message">Για να βελτιωθεί η ποιότητα ήχου, συνδέστε τα ακουστικά</string>
   <string name="msg_scanning">Σάρωση για σταθμούς στα FM…</string>
@@ -98,14 +97,14 @@
   <string name="preset_tune">Συντονισμός</string>
   <string name="presetlist_autoselect_title">Επιβεβαίωση Αυτόματης Επιλογής</string>
   <string name="radio_text_string">Αυτό είναι μια Μεγάλη Φράση Μηνύματος Ράδιο που πρέπει κάνει κύλιση</string>
-  <string name="record_completed">Enregistrement terminé</string>
   <string name="record_error_file_removed">Ηχογράφηση σταμάτησε. Το αρχείο ηχογράφησης αφαιρέθηκε.</string>
   <string name="record_error_unknown">Ηχογράφηση σταμάτησε. Άγνωστο σφάλμα κατά την ηχογράφηση.</string>
   <string name="record_fail">Ηχογράφηση απέτυχε</string>
   <string name="record_file_format">%1$s_%2$s</string>
   <string name="record_file_location_format">Κλικ για εμφάνιση αρχείου %s</string>
-  <string name="reduce_af">Réduire la fréquence</string>
-  <string name="regional_band">Bandes régionales</string>
+    <string name="record_sucess">Επιτυχής ηχογράφηση</string>
+  <string name="reduce_af">Μείωση συχνότητας</string>
+  <string name="regional_band">Το Περιφερειακό Εύρος θα αφαιρέσει τους αποθηκευμένους σταθμούς</string>
   <string name="search_dialog_title">Σάρωση Σταθμών</string>
   <string name="sel_band_menu">Επιλογή Περιφερειακού Εύρους</string>
   <string name="set">Ορισμός</string>
@@ -135,7 +134,6 @@
   <string name="toast_channel_searched">Σαρώθηκαν %1$d σταθμοί</string>
   <string name="toast_delete_station">%sMHz διεγράφη</string>
   <string name="toast_edit_station">Αλλαγές αποθηκεύτηκαν</string>
-  <string name="toast_fm_error_startfailed">Enregistrement échoué, une autre application utilise peut-être la fonction d\'enregistrement. Veuillez vérifier et réessayer.</string>
     <string name="toast_fm_not_stated">"Το ραδιόφωνο δεν άρχισε ακόμη"</string>
   <string name="toast_fm_recorder_internal_error">Σφάλμα ηχογράφησης FM</string>
   <string name="toast_fm_recorder_storage_full">"Αδύνατη συνέχηση ηχογράφησης: Δεν υπάρχει διαθέσιμος χώρος αποθήκευσης"</string>
@@ -152,4 +150,28 @@
   <string name="turn_on_fm">Ενεργοποίηση FM</string>
   <string name="turn_on_speaker_phone">Ενεργοποίηση ανοιχτής ακρόασης</string>
   <string name="view_stations_list">Προβολή λίστας σταθμών</string>
+	<string name=">APKTOOL_DUMMY_0065">false</string>
+	<string name="FMR_DSP_Version_text">DSP Έκδοση</string>
+	<string name="FMR_Patch_Version">None.</string>
+	<string name="FMR_Patch_Version_text">None.</string>
+	<string name="aud_output_mode">Τύπος εξόδου ήχου</string>
+	<string name="by_headset">.</string>
+	<string name="empty">Άδειο</string>
+	<string name="fm">FM</string>
+	<string name="fm_volume">Ένταση φωνής</string>
+	<string name="fmradio_airplane_mode_enable_in_listen">Ενεργό FM σε λειτ.πτήσης</string>
+	<string name="fmradio_no_headset_at_begin">Δεν υπάρχουν συνδεμένα ακουστικά</string>
+	<string name="fmradio_start_error">Σφάλμα εκκίνησης</string>
+	<string name="fmradio_stop_unexpected">Άγνωστο σφάλμα</string>
+	<string name="menu_stations_list">Λίστα σταθμών</string>
+	<string name="msg_unable_start_fm_title">Αδύνατη η εκκίνηση</string>
+	<string name="revert_to_fac">Αναίρεση</string>
+	<string name="sel_audio_output">Επιλογή εξόδου ήχου</string>
+	<string name="service_start_error_msg">Άγνωστο σφάλμα</string>
+	<string name="service_start_error_title">Αδυναμία εκκίνησης</string>
+	<string name="settings_revert_confirm_title">Αναίρεση ρυθμίσεων ?</string>
+	<string name="toast_fm_recorder_access_error">Αδυναμία έναρξης εγγραφής</string>
+	<string name="max_time">Μέγιστη ώρα</string>
+	<string name="min_time">Ελάχιστη ώρα</string>
+	
 </resources>
