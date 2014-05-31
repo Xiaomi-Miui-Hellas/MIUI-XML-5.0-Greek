@@ -2668,7 +2668,7 @@ Android File Transfer,
     <string name="selinux_status_permissive">Ανεκτική</string>
     <string name="service_background_processes">%1$s ελεύθερα</string>
     <string name="service_client_name">%1$s</string>
-    <string name="service_foreground_processes">%1$s σε χρήση</string>
+    <string name="service_foreground_processes">%1$s χρησιμοποιημένα</string>
     <string name="service_manage">Ρυθμίσεις</string>
     <string name="service_manage_description">%1$s: σε χρήση. Αγγίξτε Ρυθμίσεις για την καταπολέμησή της.</string>
     <string name="service_process_name">%1$s</string>
@@ -2683,7 +2683,7 @@ Android File Transfer,
  <string name="set_dds_success">Επιτυχία στην εγγραφή δεδομένων</string>
  <string name="set_priority_sub_error">Σφάλμα κατά τη ρύθμιση της προτεραιότητας συνδρομής. Η συνδρομή είναι ανενεργή.</string>
  <string name="set_sms_error">Σφάλμα στην εγγραφή των sms. Η συνδρομή δεν είναι ενεργή.</string>
-    <string name="set_voice_error">Σφάλμα στις φωνιτικές συνδρομές. Η συνδρομή δεν είναι ενεργή.</string>
+    <string name="set_voice_error">Σφάλμα στις φωνητικές συνδρομές. Η συνδρομή δεν είναι ενεργή.</string>
     <string name="settings_backup">Αποθήκευση ρυθμίσεων</string>
     <string name="settings_backup_summary">Αποθήκευση των ρυθμίσεών μου</string>
     <string name="settings_button">Ρυθμίσεις</string>
