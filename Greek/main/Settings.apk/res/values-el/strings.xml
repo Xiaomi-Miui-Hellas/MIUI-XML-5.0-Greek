@@ -2666,9 +2666,9 @@ Android File Transfer,
     <string name="selinux_status_disabled">Απενεργοποιημένο</string>
     <string name="selinux_status_enforcing">Διεκδικώντας</string>
     <string name="selinux_status_permissive">Ανεκτική</string>
-    <string name="service_background_processes">%1$s δωρεάν</string>
+    <string name="service_background_processes">%1$s ελεύθερα</string>
     <string name="service_client_name">%1$s</string>
-    <string name="service_foreground_processes">%1$s μεταχειρισμένο</string>
+    <string name="service_foreground_processes">%1$s σε χρήση</string>
     <string name="service_manage">Ρυθμίσεις</string>
     <string name="service_manage_description">%1$s: σε χρήση. Αγγίξτε Ρυθμίσεις για την καταπολέμησή της.</string>
     <string name="service_process_name">%1$s</string>

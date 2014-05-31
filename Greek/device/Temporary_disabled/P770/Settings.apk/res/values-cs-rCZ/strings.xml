@@ -540,7 +540,7 @@ Toto nastavení ovlivni všechny uživatele na tomto zařízení."</string>
     <string name="usb_charge_title">Pouze nabíjet</string>
     <string name="usb_connect_as_cdrom_category">Připojit jako CD-ROM</string>
     <string name="usb_host_mode_subtext">For using game controllers and other peripherals on USB port, may decrease battery life</string>
-    <string name="usb_host_mode_text">Enable USB host mode</string>
+    <string name="usb_host_mode_text">Ενεργοποίηση USB host mode</string>
     <string name="usb_sharing_info_step_1">1. Open network connections on your Windows PC.</string>
     <string name="usb_sharing_info_step_2">2. Right-click the connection that you want to share, and then click properties.</string>
     <string name="usb_sharing_info_step_3">"3. Click the sharing tab, and select 'Allow other network users to connect through this computer's internet connection'(choose newly added netork which represents USB internet if 'Home networking connection' appears)."</string>

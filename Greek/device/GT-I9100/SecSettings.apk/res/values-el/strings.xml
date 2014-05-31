@@ -2764,7 +2764,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="apn_exception_proxy2">Εξαίρεση διακομιστή μεσολάβησης 2</string>
     <string name="apn_exception_proxy3">Εξαίρεση διακομιστή μεσολάβησης 3</string>
     <string name="wlan_reselection">WLAN reselection</string>
-    <string name="wlan_reselection_summary">Enable notifications when WLAN disconnected</string>
+    <string name="wlan_reselection_summary">Ενεργοποίηση notifications when WLAN disconnected</string>
     <string name="wifi_netmask">Netmask</string>
     <string name="keyguard_password_attempt_count_pin_code">%d προσπάθεια απομένει</string>
     <string name="keyguard_password_attempts_count_pin_code">%d προσπάθειες απομένουν</string>

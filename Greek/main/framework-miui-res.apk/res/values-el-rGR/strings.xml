@@ -146,7 +146,7 @@
   <string name="screen_button_notification_text">"Πιέστε 'Home'+'Power' για ενεργοποίηση"</string>
   <string name="screen_button_notification_title">Τα πλήκτρα οθόνης έχουν απενεργοποιηθεί</string>
  <string name="screen_on_proximity_sensor_hint">"Εξαναγκασμός εξόδου: κράτημα πλήκτρου «Ενεργοποίηση». Η λειτουργία αποτροπής λάθος χρήσης μπορεί να απενεργοποιηθεί στις 'Ρυθμίσεις - Προβολή'"</string>
- <string name="screen_on_proximity_sensor_summary">"Η λειτουργία αποτροπής λάθος χρήσης είναι ενεργοποιημένη. Σιγουρευτείτε ότι το πάνω μέρος της οθόνης δεν είναι καλλυμένο"</string>
+ <string name="screen_on_proximity_sensor_summary">"Η λειτουργία αποτροπής λάθος χρήσης είναι ενεργοποιημένη. Σιγουρευτείτε ότι το πάνω μέρος της οθόνης δεν είναι καλυμμένο"</string>
  <string name="screen_on_proximity_sensor_title">Αποτροπή λάθος χρήσης</string>
  <string name="sd_not_available">Η κάρτα SD είναι αποσυνδεδεμένη ή μη διαθέσιμη</string>
  <string name="sd_not_available_low_internal_storage">Η κάρτα SD είναι αποσυνδεδεμένη ή μη διαθέσιμη, ο εσωτερικός χώρος είναι σε χαμηλά επίπεδα</string>

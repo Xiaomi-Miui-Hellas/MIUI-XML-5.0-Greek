@@ -210,10 +210,10 @@
     <string name="eap_sim_aka_no_sim_slot_selected">Επιλέξτε μια κάρτα SIM για να χρησιμοποιήσετε EAP-SIM/AKA</string>
     <string name="eap_sim_slot_0">Υποδοχή κάρτας SIM 1</string>
     <string name="eap_sim_slot_1">Υποδοχή κάρτας SIM 2</string>
-    <string name="enable_gps">Enable GPS</string>
+    <string name="enable_gps">Ενεργοποίηση GPS</string>
     <string name="enable_gps_confirm_message">It needs a wireless data connection to acquire GPS assistance data (EPO, A-GPS) that may cause extra network fee. Are you sure to turn on GPS?</string>
     <string name="enable_opengl_traces_title">Ενεργοποίηση ιχνών OpenGL</string>
-    <string name="enable_sim">Enable</string>
+    <string name="enable_sim">Ενεργοποίηση</string>
     <string name="enable_wifi_display">Ενεργ. Wi-Fi οθόνης</string>
     <string name="enable_wifi_tether">Ενεργ. Wi-Fi hotspot</string>
     <string name="epo_about_message">"\u0009Η τεχνολογία EPO (Extended Prediction Orbit) είναι μια καινοτόμα αποκλειστική τεχνολογία A-GPS της MediaTek που βασίζεται σε διακομιστή εκτός σύνδεσης. 
