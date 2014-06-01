@@ -26,8 +26,6 @@
         <item>Χ</item>
         <item>Ψ</item>
         <item>Ω</item>
-        <item>A</item>
-        <item>B</item>
     </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
@@ -56,8 +54,6 @@
         <item>Χ</item>
         <item>Ψ</item>
         <item>Ω</item>
-        <item>A</item>
-        <item>B</item>
     </string-array>
     <string-array name="mobile_operator_display_names">
         <item>Cosmote</item>
