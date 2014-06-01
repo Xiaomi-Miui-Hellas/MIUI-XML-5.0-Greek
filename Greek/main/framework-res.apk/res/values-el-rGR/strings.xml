@@ -78,6 +78,8 @@
     <string name="day_of_week_shortest_saturday">Σ</string>
     <string name="am">πμ.</string>
     <string name="pm">μμ.</string>
+    <string name="AM">ΠΜ.</string>
+    <string name="PM">ΜΜ.</string>
     <string name="yesterday">Εχθές</string>
     <string name="today">Σήμερα</string>
     <string name="tomorrow">Αύριο</string>
