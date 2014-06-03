@@ -878,8 +878,8 @@
     <string name="default_usb_mode">Προεπιλεγμένος τύπος σύνδεσης USB</string>
     <string name="delete">Διαγραφή</string>
     <string name="deny">Άρνηση</string>
-    <string name="details_subtitle">Χρησιμοποιήστε λεπτομέρειες</string>
-    <string name="details_title">Χρησιμοποιήστε λεπτομέρειες</string>
+    <string name="details_subtitle">Αναλυτική παρουσίαση χρήσης</string>
+    <string name="details_title">Λεπτομέρειες χρήσης</string>
     <string name="dev_settings_warning_message">Αυτές οι ρυθμίσεις προορίζονται για χρήση ανάπτυξης μόνο. Μπορούν να προκαλέσουν τη συσκευή σας και τις εφαρμογές για να σπάσουν ή να παρεκτρέπονται</string>
     <string name="dev_settings_warning_title">Να επιτρέπονται οι ρυθμίσεις ανάπτυξης </string>
     <string name="development_enable">Για προγραμματιστές</string>
@@ -3062,10 +3062,10 @@ Android File Transfer,
  <string name="usage_stats_label">Στατιστικά χρήσης</string>
  <string name="usage_time_label">Χρόνο χρήσης</string>
  <string name="usage_type_audio">Ήχος</string>
-    <string name="usage_type_cpu">Συνολική CPU</string>
-    <string name="usage_type_cpu_foreground">CPU προσκήνιο</string>
- <string name="usage_type_data_recv">Τα δεδομένα που λαμβάνονται</string>
- <string name="usage_type_data_send">Τα δεδομένα που αποστέλλονται</string>
+    <string name="usage_type_cpu">Συνολική χρήση CPU</string>
+    <string name="usage_type_cpu_foreground">CPU στο προσκήνιο</string>
+ <string name="usage_type_data_recv">Λήψη δεδομένων</string>
+ <string name="usage_type_data_send">Αποστολή δεδομένων</string>
  <string name="usage_type_data_wifi_recv">Λήψη δεδομένων Wi-Fi</string>
     <string name="usage_type_data_wifi_send">Αποστολή δεδομένων Wi-Fi</string>
  <string name="usage_type_gps">GPS</string>
@@ -3073,7 +3073,7 @@ Android File Transfer,
     <string name="usage_type_on_time">Ώρα που είναι ενεργό</string>
     <string name="usage_type_phone">Τηλέφωνο</string>
     <string name="usage_type_video">Βίντεο</string>
-    <string name="usage_type_wake_lock">Διατήρηση ξύπνιο</string>
+    <string name="usage_type_wake_lock">Ενεργή συσκευή</string>
     <string name="usage_type_wifi_running">Wi-Fi σε λειτουργία</string>
     <string name="usb_connection_category">Σύνδεση ως</string>
     <string name="usb_host_mode_subtext">Για να χρησιμοποιήσετε ελεγκτές παιχνιδιών και άλλα περιφερειακά στη θύρα USB, μπορεί να μειώσει την διάρκεια ζωής της μπαταρίας</string>
