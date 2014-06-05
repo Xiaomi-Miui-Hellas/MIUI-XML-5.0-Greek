@@ -153,7 +153,7 @@
   <string name="id3_edit_failed">Αποτυχία επεξεργασίας ID3</string>
   <string name="id3_modify_confirm_check">Επιβεβαίωση αλλαγών ID3?</string>
   <string name="id3_modify_confirm_text">Αποθήκευση</string>
-  <string name="impunity_declaration">Η online μουσική που πρόκειται να χρησιμοποιήσετε είναι από το Baidu σε απευθείας σύνδεση μρ την υπηρεσία μουσικής. Κλικ \"OK\" για αποδοχή και χρήση, Κλικ \"Ακύρωση\" για έξοδο.</string>
+  <string name="impunity_declaration">Η online μουσική που πρόκειται να χρησιμοποιήσετε είναι από το Baidu σε απευθείας σύνδεση με την υπηρεσία μουσικής. Κλικ \"OK\" για αποδοχή και χρήση, Κλικ \"Ακύρωση\" για έξοδο.</string>
   <string name="impunity_declaration_title">Δήλωση</string>
   <string name="keep_quit_position_settings">Αποθήκευση τελευταίας θέσης</string>
   <string name="keep_quit_position_summary">Αποθηκεύει την τελευταία θέση, για να συνεχίσετε αργότερα την αναπαραγωγή.</string>
