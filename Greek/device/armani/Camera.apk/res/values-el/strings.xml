@@ -121,7 +121,7 @@
   <string name="pano_dialog_prepare_preview">Ετοιμασία πανόραμα</string>
   <string name="pano_dialog_title">Πανόραμα</string>
   <string name="pano_dialog_waiting_previous">Περιμένετε να ολοκληρωθεί η προηγούμενη πανοραμική</string>
-    <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
+    <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
   <string name="pano_how_to_use_prompt">Ακουμπήστε το κουμπί κλείστρου για να τραβήξετε φωτογραφία πανόραμα.</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Συνεχίστε να κινείτε τη συσκευή</string>
   <string name="pano_how_to_use_prompt_to_move">Μετακινείτε την συσκευή απαλότερα</string>
