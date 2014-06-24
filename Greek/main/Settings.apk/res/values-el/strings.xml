@@ -697,7 +697,6 @@
     <string name="common_settings">Απλές ρυθμίσεις</string>
     <string name="complete_settings">Πλήρεις ρυθμίσεις</string>
     <string name="computing_size">Υπολογισμός…</string>
-    <string name="config_list_label">Ρυθμισμένα δύκτια</string>
     <string name="config_mass_storage_function_name">mass_storage</string>
     <string name="config_mtp_function_name">mtp</string>
     <string name="config_ptp_function_name">ptp</string>
@@ -969,7 +968,6 @@
     <string name="disable_service_title">Σταμάτημα %1$s?</string>
     <string name="disable_text">Απενεργοποίηση</string>
     <string name="disabled">Απενεργοποιημένο</string>
-    <string name="disconnect">αποσύνδεση</string>
     <string name="display_font_size_label">Μέγεθος γραμματοσειράς</string>
     <string name="display_label">Εμφάνιση</string>
     <string name="display_order_text">Ταξινόμηση κατά</string>
@@ -1318,7 +1316,6 @@
     <string name="hello_world">Γεια σου κόσμε!</string>
     <string name="help_label">Βοήθεια</string>
     <string name="history_details_title">Λεπτομέρειες Ιστορικού</string>
-    <string name="hidden_ssid_label">Κρυφά SSID:</string>
     <string name="home_app_uninstall_button">Κατάργηση εγκατάστασης αυτής της εφαρμογής</string>
     <string name="home_key">Αρχική οθόνη</string>
     <string name="home_settings">Αρχική σελίδα</string>
@@ -1440,7 +1437,6 @@
     <string name="license_title">Άδεια</string>
     <string name="line_breaking_summary">Βελτιστοποιήστε την γραμμή θραύσης παραγράφου</string>
     <string name="line_breaking_title">βελτιστοποιήσετε το κείμενο</string>
-    <string name="link_speed_label">Ταχύτητα σύνδεσης:</string>
     <string name="list_sub_view_item_backup_cleanup">Δημιουργία αντιγράφων ασφαλείας πρώτα</string>
     <string name="list_sub_view_item_backup_uninstall">Δημιουργία αντιγράφων ασφαλείας και απεγκατάσταση</string>
     <string name="list_sub_view_item_clean">Καθαρισμός</string>
@@ -1459,7 +1455,6 @@
     <string name="local_backup_password_toast_success">Ορίστηκε νέος κωδικός ασφαλείας backup</string>
     <string name="local_backup_password_toast_validation_failure">Ρύθμιση Αποτυχίας δημιουργίας αντιγράφων ασφαλείας κωδικού πρόσβασης</string>
     <string name="locale_default">Προεπιλογή</string>
-    <string name="location_access_summary">Επίτρεψε στις εφαρμογές που έχουν ζητήσει την άδειά σας χρησιμοποιούν τις πληροφορίες θέσης σας</string>
     <string name="local_backup_section_summary">Αντίγραφα ρυθμίσεων συστήματος, λογαριασμών και εφαρμογών</string>
     <string name="local_backup_section_title">Τοπικά αντίγραφα</string>
     <string name="location_access_summary">Αφήνει εφαρμογές που έχουν ζητήσει την άδειά σας, να χρησιμοποιούν τις πληροφορίες θέσης σας</string>
@@ -1798,8 +1793,6 @@ Android File Transfer,
     <string name="network_assistant">Δεδομένα</string>
     <string name="network_detail">%s Πληροφορίες δικτύου</string>
     <string name="network_settings_title">Δίκτυα κινητής</string>
-    <string name="network_state_label">Κατάσταση δικτύου:</string>
-    <string name="networkid_label">ID δικτύου:</string>
     <string name="networks">Επιλογή φορέα</string>
     <string name="new_backup_pw_prompt">Πληκτρολογήστε ένα νέο κωδικό πρόσβασης για πλήρη αντίγραφα ασφαλείας εδώ</string>
     <string name="new_bw_list_button">Προσθήκη επαφής</string>
@@ -2582,7 +2575,6 @@ Android File Transfer,
     <string name="runningservices_settings_title">Υπηρεσίες που εκτελούνται</string>
     <string name="save_button">Αποθήκευση</string>
     <string name="scan_done">Σάρωση ολοκληρώθηκε</string>
-    <string name="scan_list_label">Αποτελέσματα σάρωσης:</string>
     <string name="scanning_prefix">Σάρωση: %s</string>
     <string name="scanning_start_hints">Ετοιμαστείτε …</string>
     <string name="scanning_virus">Σάρωση …</string>
@@ -2910,7 +2902,6 @@ Android File Transfer,
     <string name="summary_virus_update">Ενημέρωση ορισμών ιών αυτόματα όταν συνδέεται με WLAN</string>
     <string name="sync_active">Ο συγχρονισμός είναι ενεργός</string>
     <string name="sync_automatically">Αυτόματος συγχρονισμός δεδομένων εφαρμογών</string>
-    <string name="supplicant_state_label">Κατάσταση:</string>
     <string name="sync_calendar">Ημερολόγιο</string>
     <string name="sync_contacts">Επαφές</string>
     <string name="sync_disabled">Ανενεργός συγχρονισμός</string>
@@ -2953,7 +2944,6 @@ Android File Transfer,
     <string name="tether_settings_title_wifi">Φορητό σημείο πρόσβασης</string>
     <string name="tethering_help_button_text">Βοήθεια</string>
     <string name="time_picker_title">Ώρα</string>
-    <string name="time_zone_auto_stub">Επιλογή ζώνης ώρας</string>
     <string name="timezone_settings">Ζωνη ωρας</string>
     <string name="title_app_update_no">%d εφαρμογές έχουν ενημερώσεις</string>
     <string name="title_app_update_yes">Όλες οι εφαρμογές είναι ενημερωμένες</string>
@@ -3671,16 +3661,9 @@ Android File Transfer,
     <string name="wifi_ssid">SSID δικτύου</string>
     <string name="wifi_ssid_hint">Πληκτρολογήστε το SSID</string>
     <string name="wifi_starting">Ενεργοποίηση…</string>
-    <string name="wifi_status">Κατάσταση</string>
     <string name="wifi_stopping">Απενεργοποίηση Wi-Fi…</string>
-    <string name="wifi_state_disabled">Απενεργοποιημένο</string>
-    <string name="wifi_state_disabling">Απενεργοποίηση</string>
-    <string name="wifi_state_enabled">Ενεργοποιημένο</string>
-    <string name="wifi_state_enabling">Ενεργοποίηση</string>
-    <string name="wifi_state_label">Κατάσταση WLAN:</string>
-    <string name="wifi_state_unknown">Άγνωστο</string>
-    <string name="wifi_status">Κατάσταση</string>
     <string name="wifi_suspend_optimizations">WLAN βελτιστοποίηση</string>
+    <string name="wifi_status">Κατάσταση</string>
     <string name="wifi_suspend_optimizations_summary">Ελαχιστοποίηση της χρήσης της μπαταρίας, όταν WLAN είναι ενεργοποιημένη</string>
     <string name="wifi_tether_checkbox_text">Φορητό σημείο πρόσβασης Wi-Fi</string>
     <string name="wifi_tether_configure_ap_text">Ρύθμιση σημείου πρόσβασης Wi-Fi</string>
@@ -3696,7 +3679,6 @@ Android File Transfer,
     <string name="wifi_unchanged">χωρίς αλλαγή</string>
     <string name="wifi_unspecified">δεν έχει οριστεί</string>
     <string name="wifi_wapi_as_cert">Πιστοποιητικό WAPI AS</string>
-    <string name="wifi_update">Ανανέωση στατιστικών</string>
     <string name="wifi_wapi_cert_cancel_button">Ακύρωση</string>
     <string name="wifi_wapi_cert_create_subdir">Δημιουργία φακέλου</string>
     <string name="wifi_wapi_cert_delet_subdir">Επιλέξτε ένα πιστοποιητικό που να ταιριάζει</string>
