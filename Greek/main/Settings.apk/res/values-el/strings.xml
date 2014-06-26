@@ -192,6 +192,7 @@
     <string name="apn_settings">APNs</string>
     <string name="apn_type">Τύπος APN</string>
     <string name="apn_user">Όνομα χρήστη</string>
+    <string name="app_backup">Αντίγραφα</string>
     <string name="app_disable_dlg_text">Εάν απενεργοποιήσετε μια ενσωματωμένη εφαρμογή, άλλες εφαρμογές μπορεί να παρεκτρέπονται</string>
     <string name="app_disable_dlg_title">Απενεργοποίηση ενσωματωμένης εφαρμογής</string>
     <string name="app_disable_notifications_dlg_text">Αν απενεργοποιήσετε τις ειδοποιήσεις για αυτήν την εφαρμογή, ενδέχεται να χάσετε σημαντικά νέα και ενημερώσεις</string>
@@ -199,6 +200,7 @@
     <string name="app_factory_reset">Απεγκατάσταση ενημερώσεων</string>
     <string name="app_factory_reset_dlg_text">Όλες οι ενημερώσεις για αυτήν την εφαρμογή συστήματος Android θα απεγκατασταθούν.</string>
     <string name="app_factory_reset_dlg_title">Απεγκατάσταση ενημερώσεων;</string>
+    <string name="app_feedback">Αναφορά λάθους</string>
     <string name="app_floating_window_dlg_disable">"Η απενεργοποίηση %1$s's κυμαινόμενο παράθυρο των ρυθμίσεων θα σταματήσει την εφαρμογή.
 Απενεργοποιήστε τα κινητά παράθυρα?"</string>
     <string name="app_floating_window_dlg_enable">"Ενεργοποίηση %1$s's κυμαινόμενο παράθυρο των ρυθμίσεων απαιτεί από την εφαρμογή να κάνει επανεκκίνηση. Μπορείτε επίσης να διακόψετε τη λειτουργία της εφαρμογής με το χέρι.
@@ -564,7 +566,10 @@
     <string name="bluetooth_unlock_title">Ξεκλείδωμα από bluetooth συσκευή</string>
     <string name="bluetooth_unlock_turned_off">Απενεργοποιήθηκε</string>
     <string name="bluetooth_unlock_turned_on">Ενεργοποιήθηκε</string>
+    <string name="bluetooth_untether_blank">%1$s είναι χωρίς σύνδεση.</string>
+    <string name="bluetooth_visibility_timeout">Διάρκεια ορατότητας</string>
     <string name="breathing_light_color_title">Χρώμα LED</string>
+    <string name="breathing_light_color_summary">Χρώμα LED όταν λαμβάνετε ειδοποιήσεις</string>
     <string name="breathing_light_freq_summary">Διάστημα μεταξύ εμφανίσεων LED</string>
     <string name="breathing_light_freq_title">Συχνότητα εμφάνισης LED</string>
     <string name="brightness">Φωτεινότητα</string>
@@ -577,6 +582,7 @@
     <string name="bt_trace_log_summary">Ενεργοποίηση καταγραφής παρακολούθησης Bluetooth</string>
     <string name="bugreport_in_power">Εκθέσεις αναφοράς σφάλματος μενού ρεύματος</string>
     <string name="bugreport_in_power_summary">Συμπεριλάβετε την επιλογή στο μενού για τη λήψη μιας αναφοράς σφάλματος</string>
+    <string name="bugreport_tool_log">Σύλληψη αναφοράς λάθους</string>
     <string name="bugreport_tool_log_toast">Το αρχείο αποθηκεύτηκε στο %s</string>
     <string name="bugreport_tool_log_toast_generate_bugreport">Δημιουργία Αναφοράς σφάλματος (διαρκεί περίπου 1 λεπτό)</string>
     <string name="build_number">Αριθμός κατασκευής</string>
@@ -866,6 +872,7 @@
     <string name="debug_hw_drawing_category">Επιτάχυνση απόδοσης υλικού</string>
     <string name="debug_hw_overdraw">Κατάρ.σφαλμ.υπέρβ.GPU</string>
     <string name="debug_input_category">Εισαγωγη</string>
+    <string name="debug_intent_sender_label">Αποστολέας αναφοράς</string>
     <string name="debug_layout">Εμφάνιση ορίων διάταξης</string>
     <string name="debug_layout_summary">Εμφάνιση ορίων κλιπ, περιθωρίων, κλπ.</string>
     <string name="debug_log">Προγραμμα εμπειριας χρηστη</string>
