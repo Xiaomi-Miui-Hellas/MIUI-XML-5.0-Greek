@@ -548,7 +548,6 @@
     <string name="bluetooth_unknown"/>
     <string name="bluetooth_untether_blank">%1$s θα είναι χωρίς σύζευξη</string>
     <string name="bluetooth_visibility">Ανιχνεύσιμο</string>
-    <string name="bluetooth_visibility_timeout">Τέλος χρόνου ανίχνευσης</string>
     <string name="bluetooth_visibility_timeout_summary">Ρυθμίστε τον χρόνο δυνατότητας ανίχνευσης της συσκευής</string>
     <string name="breathing_light_color_menu_title">Χρώμα φωτός</string>
     <string name="breathing_light_color_summary">Χρώμα LED κατά τη λήψη νέων ειδοποιήσεων</string>
@@ -566,10 +565,8 @@
     <string name="bluetooth_unlock_title">Ξεκλείδωμα από bluetooth συσκευή</string>
     <string name="bluetooth_unlock_turned_off">Απενεργοποιήθηκε</string>
     <string name="bluetooth_unlock_turned_on">Ενεργοποιήθηκε</string>
-    <string name="bluetooth_untether_blank">%1$s είναι χωρίς σύνδεση.</string>
     <string name="bluetooth_visibility_timeout">Διάρκεια ορατότητας</string>
     <string name="breathing_light_color_title">Χρώμα LED</string>
-    <string name="breathing_light_color_summary">Χρώμα LED όταν λαμβάνετε ειδοποιήσεις</string>
     <string name="breathing_light_freq_summary">Διάστημα μεταξύ εμφανίσεων LED</string>
     <string name="breathing_light_freq_title">Συχνότητα εμφάνισης LED</string>
     <string name="brightness">Φωτεινότητα</string>
@@ -872,7 +869,6 @@
     <string name="debug_hw_drawing_category">Επιτάχυνση απόδοσης υλικού</string>
     <string name="debug_hw_overdraw">Κατάρ.σφαλμ.υπέρβ.GPU</string>
     <string name="debug_input_category">Εισαγωγη</string>
-    <string name="debug_intent_sender_label">Αποστολέας αναφοράς</string>
     <string name="debug_layout">Εμφάνιση ορίων διάταξης</string>
     <string name="debug_layout_summary">Εμφάνιση ορίων κλιπ, περιθωρίων, κλπ.</string>
     <string name="debug_log">Προγραμμα εμπειριας χρηστη</string>

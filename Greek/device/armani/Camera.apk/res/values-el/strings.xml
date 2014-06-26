@@ -48,7 +48,7 @@
     <string name="confirm_restore_title">Επαναφορά προεπιλογών</string>
     <string name="connect_wifi">Σύνδεση σε αυτό το δύκτιο?</string>
     <string name="contact_address">Διεύθυνση</string>
-    <string name="contact_birthday">Γεννέθλιαstring>
+    <string name="contact_birthday">Γεννέθλια</string>
     <string name="contact_details">Λεπτομέρειες επαφής:</string>
     <string name="contact_email">Email</string>
     <string name="contact_name">Όνομα</string>
@@ -195,7 +195,6 @@
     <string name="pref_camera_autoexposure_entry_frameaverage">Μέσο καρέ</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Σημειακή μέτρηση</string>
     <string name="pref_camera_autoexposure_title">Ρυθμίσεις αυτόματης έκθεσης</string>
-    <string name="pref_camera_coloreffect_default">κανένα</string>
     <string name="pref_camera_coloreffect_entry_aqua">Υδάτινο</string>
     <string name="pref_camera_coloreffect_entry_brannan">Αυγή</string>
     <string name="pref_camera_coloreffect_entry_earlybird">Άνοιξη</string>
@@ -525,3 +524,4 @@
     <string name="wifi_ssid">SSID:</string>
     <string name="wifi_warning">Πριν από τη σύνδεση, βεβαιωθείτε ότι το δίκτυο Wi-Fi είναι ασφαλές</string>
 </resources>
+
