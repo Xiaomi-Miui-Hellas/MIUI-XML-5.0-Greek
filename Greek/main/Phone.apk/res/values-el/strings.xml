@@ -885,7 +885,7 @@
     <string name="registration_status_server_unreachable">Αποτυχία εγγραφής λογαριασμού: Ελέγξτε το όνομα του διακομιστή.</string>
     <string name="registration_status_still_trying">Συνεχίζοντας την προσπάθεια…</string>
     <string name="reject_via_sms_miui">Γρήγορες απαντήσεις</string>
-    <string name="reject_via_sms_summary_miui">Επεξεργασία πρότυπων κειμένου απαντήσεων</string>
+    <string name="reject_via_sms_summary_miui">Επεξεργασία προτύπων κειμένου απαντήσεων</string>
     <string name="reject_via_sms_title_miui">Γρήγορες απαντήσεις</string>
     <string name="remember_my_choice">Να χρησιμοποιείτε πάντα για την πραγματοποίηση κλήσεων μέσω Internet</string>
     <string name="remove_ims_account">Κατάργηση λογαριασμού</string>

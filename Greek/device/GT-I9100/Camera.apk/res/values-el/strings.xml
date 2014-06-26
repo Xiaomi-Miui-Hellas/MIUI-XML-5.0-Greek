@@ -181,7 +181,7 @@
     <string name="help_text_panorama_device">Πατήστε το πλήκτρο κάμερας και μετακινήστε τη συσκευή αργά προς μία κατεύθυνση</string>
     <string name="message_DefaultLayout">Θα γίνει επαναφορά της διάταξης συντομεύσεων</string>
     <string name="message_EULA_GPS">Η ενεργοποίηση της ετικέτας GPS θα επισυνάψει, θα ενσωματώσει και θα αποθηκεύσει τα δεδομένα γεωγραφικής θέσης σε κάθε φωτογραφία. Να είστε προσεκτικοί, όταν στέλνετε, κάνετε κοινή χρήση, διανείμετε, μεταδίδετε ή αντιγράφετε αυτές τις φωτογραφίες, γιατί περιέχουν την τοποθεσία όπου έγινε λήψη της φωτογραφίας</string>
-    <string name="message_Auto_ShareShot">"Η δυνατότητα αυτόματης κοινής χρήσης λήψης σάς επιτρέπει να συνδεθείτε εύκολα στις συσκευές με τις οποίες θέλετε να μοιραστείτε εικόνες.
+    <string name="message_Auto_ShareShot">"Η δυνατότητα αυτόματης κοινής χρήσης λήψης σας επιτρέπει να συνδεθείτε εύκολα στις συσκευές με τις οποίες θέλετε να μοιραστείτε εικόνες.
 Ενεργοποιήστε την αυτόματη κοινή χρήση λήψης και, στη συνέχεια, μετακινήστε τις συσκευές τη μία κοντά στην άλλη (συνήθως “πλάτη με πλάτη”) για σύνδεση"</string>
     <string name="GPS_msg">Απενεργοποιημένο GPS</string>
     <string name="message_enable_GPS">Για να χρησιμοποιήσετε την ετικέτα GPS, ενεργοποιήστε το GPS στις Ρυθμίσεις</string>
@@ -223,7 +223,7 @@
     <string name="wifi_dialog_text">Απαιτείται σύνδεση Wi-Fi</string>
     <string name="wifi_dialog_text_chn">WLAN connection required</string>
     <string name="wifi_direct_dialog_title">Κοινή χρήση λήψης</string>
-    <string name="wifi_direct_dialog_text">Η “Κοινή χρήση λήψης” σάς δίνει τη δυνατότητα να μοιραστείτε φωτογραφίες με άλλους χρήστες μέσω του Wi-Fi Direct. Απαιτείται σύνδεση Wi-Fi Direct</string>
+    <string name="wifi_direct_dialog_text">Η “Κοινή χρήση λήψης” σας δίνει τη δυνατότητα να μοιραστείτε φωτογραφίες με άλλους χρήστες μέσω του Wi-Fi Direct. Απαιτείται σύνδεση Wi-Fi Direct</string>
     <string name="wifi_direct_dialog_text_chn">WLAN Direct connection required</string>
     <string name="wifi_dialog_yes">OK</string>
     <string name="wifi_dialog_no">Ακύρωση</string>

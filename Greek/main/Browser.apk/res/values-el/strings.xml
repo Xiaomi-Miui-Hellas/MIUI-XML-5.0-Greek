@@ -296,7 +296,7 @@
   <string name="network_show_wifi_setting_tip_dialog_setting_title">"Εάν χρησιμοποιείτε το δίκτυο κινητής για πρόσβαση στο Internet, το MIUI θα σας ειδοποιήσει εάν βρεθούν κοντά διαθέσιμα ασύρματα δίκτυα"</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Διαθέσιμο τοπικό δίκτυο Wi-Fi</string>
   <string name="new_folder">Νέος φάκελος</string>
-  <string name="new_incognito_tab">Νέα καρτέλα πλοηγού</string>
+  <string name="new_incognito_tab">Νέα ανώνυμη καρτέλα πλοηγού</string>
   <string name="new_tab">Νέα καρτέλα</string>
   <string name="no">Όχι</string>
   <string name="no_subfolders">Χωρίς υποφακέλους.</string>

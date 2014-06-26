@@ -1014,8 +1014,8 @@
     <string name="dndm_vip_call_summary_custom">%d εξαιρέσεις</string>
     <string name="dndm_vip_call_summary_none">Αγγίξτε για να ρυθμίσετε</string>
     <string name="dndm_vip_list_contact">Όλες οι επαφές</string>
-    <string name="dndm_vip_list_custom">Εξαιρεσεις</string>
-    <string name="dndm_vip_list_custom_group">Εξαιρεσεις</string>
+    <string name="dndm_vip_list_custom">Εξαιρέσεις</string>
+    <string name="dndm_vip_list_custom_group">Εξαιρέσεις</string>
     <string name="dndm_vip_list_group">Λίστα εξαιρεσεων</string>
     <string name="do_not_disturb_mode">Νυχτερινή σίγαση</string>
     <string name="dock_audio_settings_title">Ήχος</string>
@@ -1121,7 +1121,7 @@
     <string name="erase_internal_storage_description">Η διαγραφή του εσωτερικού χώρου θα διαγράψει όλα τα αρχεία όπως μουσική και φωτογραφίες</string>
     <string name="erase_optional">Προαιρετικη διαγραφη</string>
     <string name="erase_personal_data">Προσωπικά δεδομένα</string>
-    <string name="erase_personal_data_description">Λογαριασμοί επαφές μητρώο κλήσεων και άλλα δεδομένα</string>
+    <string name="erase_personal_data_description">Λογαριασμοί, επαφές, μητρώο κλήσεων και άλλα δεδομένα</string>
     <string name="erase_sure">Επιβεβαιωση διαγραφης</string>
     <string name="error_apn_empty">"Το σημείο πρόσβασης δε μπορεί να είναι κενό "</string>
     <string name="error_mcc_not3">Το πεδίο MCC πρέπει να αποτελείται από 3 ψηφία</string>
@@ -1279,6 +1279,7 @@
     <string name="global_change_warning">Αυτή η ρύθμιση επηρεάζει όλους τους χρήστες σε αυτό το τηλέφωνο.</string>
     <string name="global_font_change_title">Αλλαγή μεγέθους γραμματοσειράς</string>
     <string name="global_locale_change_title">Αλλαγή γλώσσας</string>
+    <string name="google_backup_section_title">Google αντίγραφα &amp; επαναφορά</string>
     <string name="gsm_to_wifi_connect_type_title">Κινητή σε WLAN</string>
     <string name="haptic_feedback_enable_title">Δόνηση κατά το άγγιγμα</string>
     <string name="haptic_feedback_level">Επίπεδο δόνησης</string>
@@ -1331,7 +1332,7 @@
     <string name="immediately_destroy_activities_summary">Κλείσιμο κάθε δραστηριότητας μόλις ο χρήστης την αφήνει</string>
     <string name="ims_reg_required_off">Απενεργοποιήστε το IMS. Απαιτείται εγγραφή</string>
     <string name="ims_reg_required_on">Ενεργοποιήστε το IMS. Απαιτείται εγγραφή</string>
-    <string name="incoming_call_breathing_light_color_title">Χρώματισμός LED κλήσεων</string>
+    <string name="incoming_call_breathing_light_color_title">Χρωματισμός LED κλήσεων</string>
     <string name="incoming_call_breathing_light_freq_title">Συχνότητα LED flash των κλήσεων</string>
     <string name="incoming_call_vibrate_abbreviation">Κλήσεις</string>
     <string name="incoming_call_volume_title">Ήχος κλήσης</string>
