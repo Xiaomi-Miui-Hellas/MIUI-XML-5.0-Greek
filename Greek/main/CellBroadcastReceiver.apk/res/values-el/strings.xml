@@ -53,6 +53,8 @@
     <string name="category_brazil_settings_title">Ρυθμίσεις για τη Βραζιλία</string>
     <string name="enable_channel_50_alerts_title">Δείτε το κανάλι 50</string>
     <string name="enable_channel_50_alerts_summary">Το Κανάλι 50 χρησιμοποιείται στη Βραζιλία για πληροφορίες ενημέρωση της περιοχής</string>
+    <string name="enable_channel_60_alerts_title">Προβολή εκπομπής καναλιού 60</string>
+    <string name="enable_channel_60_alerts_summary">Το κανάλι 60 χρησιμοποιείται στην Ινδία για προβολή ειδικών πληροφοριών.</string>
     <string name="category_dev_settings_title">Για προγραμματιστές</string>
     <string name="cmas_category_heading">Alert Κατηγορία:</string>
     <string name="cmas_category_geo">Γεωφυσικές</string>

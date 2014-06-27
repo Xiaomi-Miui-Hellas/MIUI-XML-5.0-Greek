@@ -15,6 +15,7 @@
  <string name="alarm_notify_text">Αναβολή ή απόρριψη αφύπνισης </string>
  <string name="alarm_repeat">Επανάληψη</string>
  <string name="alarm_settings">Ρυθμίσεις αφύπνισης</string>
+    <string name="alarm_screen">Οθόνη αφύπνισης και ήχος</string>
  <string name="alarm_vibrate">Δόνηση</string>
  <string name="alarm_volume_summary">Ρυθμίσεις έντασης ήχου</string>
  <string name="alarm_volume_title">Ένταση ήχου αφύπνισης</string>
@@ -89,6 +90,8 @@
  <string name="timer_got_it">Κλείσιμο</string>
  <string name="timer_hour">Ω</string>
  <string name="timer_message">Χρονόμετρο για %1$d λεπτά </string>
+    <string name="timer_message_with_hour">%1$d ώρες και %2$d λεπτά</string>
+    <string name="timer_message_with_seconds">%1$d δευτερόλεπτα</string>
  <string name="timer_start_alarm">Ο χρόνος έληξε</string>
  <string name="timer_title">Αντ.μέτρηση</string>
     <string name="timezone_exist_error_message">"Είναι ήδη επιλεγμένη η συγκεκριμένη ζώνη ώρας"</string>
