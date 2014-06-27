@@ -63,7 +63,6 @@
     <string name="pref_title_web_dev">Developer</string>
     <string name="pref_title_version">Version</string>
     <string name="pref_title_clear_session">Clear session</string>
-    <string name="pref_title_show_report_data">@string/show_report_data</string>
     <string name="pref_title_slient_install">"When you tap Install in Xiaomi's App Market, the app you're downloading will be installed without any further pop-up windows or notifications."</string>
     <string name="pref_title_auto_update">"When new updates become available for apps you've installed, they will be downloaded and applied when you're not using your phone (and only when you have a WLAN connection). This way, you don't have to spend time checking for updates manually."</string>
     <string name="pref_title_delta_update">To help reduce mobile data usage, Xiaomi App Market will only download the individual parts of the app that have actually changed when you update.</string>
