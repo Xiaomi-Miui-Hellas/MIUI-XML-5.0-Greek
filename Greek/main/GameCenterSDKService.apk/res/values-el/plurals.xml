@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Just now</item>
+        <item quantity="other">Μόλις τώρα</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Just now</item>
+        <item quantity="other">Μόλις τώρα</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Immediately</item>
+        <item quantity="other">Άμμεσα</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="other">Immediately</item>
+        <item quantity="other">Άμμεσα</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">One hour ago</item>
+        <item quantity="other">Πριν μία ώρα</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="other">Πριν μισή ώρα</item>
     </plurals>
     <plurals name="a_hour_ago">
-        <item quantity="other">One hour ago</item>
+        <item quantity="other">Πριν μία ώρα</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="other">Πριν μισή ώρα</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">In one hour</item>
+        <item quantity="other">Σε μία ώρα</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="other">In half an hour</item>
+        <item quantity="other">Σε μισή ώρα</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="other">In one hour</item>
+        <item quantity="other">Σε μία ώρα</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="other">In half an hour</item>
+        <item quantity="other">Σε μισή ώρα</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins ago</item>
-        <item quantity="one">1 min ago</item>
+        <item quantity="other">%d λεπτά πριν</item>
+        <item quantity="one">1 λεπτό πριν</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d minutes ago</item>
-        <item quantity="one">1 minute ago</item>
+        <item quantity="other">%d λεπτά πριν</item>
+        <item quantity="one">1 λεπτό πριν</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d mins</item>
-        <item quantity="one">in 1 min</item>
+        <item quantity="other">σε %d λεπτά</item>
+        <item quantity="one">σε 1 λετπό</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">in %d minutes</item>
-        <item quantity="one">in 1 minute</item>
+        <item quantity="other">σε %d λεπτά</item>
+        <item quantity="one">σε 1 λεπτό</item>
     </plurals>
     <plurals name="v5_edit_mode_title">
-        <item quantity="other">%1$d Items Checked</item>
-        <item quantity="one">%1$d Item Checked</item>
+        <item quantity="other">%1$d αντικείμενα ελέχθησαν</item>
+        <item quantity="one">%1$d αντικείμενο ελέχθηκε</item>
     </plurals>
 </resources>
