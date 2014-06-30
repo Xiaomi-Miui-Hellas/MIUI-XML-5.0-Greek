@@ -25,7 +25,7 @@
   <string name="cold_dews">Κρύο - δροσιά</string>
   <string name="contact_carrier_message">Please contact carrier if any questions</string>
   <string name="day_of_month">" %d"</string>
-  <string name="days">ημέρες</string>
+  <string name="days">%d ημέρες</string>
   <string name="delete">Διαγραφή</string>
   <string name="deprecated_alarm_message_12_hour_formate"/>
   <string name="device_hongmi">Hongmi phone</string>
