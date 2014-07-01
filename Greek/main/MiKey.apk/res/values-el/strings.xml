@@ -32,11 +32,10 @@
     <string name="add_to_contacts">Προσθήκη στη λίστα επαφών</string>
     <string name="address">Διεύθυνση:</string>
     <string name="app_name">MiKey</string>
-    <string name="call_to">κλήση</string>
+    <string name="call_to">Κλήση</string>
     <string name="app_not_installed">Μη εγκατεστημένη εφαρμογή</string>
     <string name="back_camera">Πίσω κάμερα</string>
     <string name="birthday">Γενέθλια:</string>
-    <string name="call_to">Κλήσηl</string>
     <string name="cancel">Άκυρο</string>
     <string name="category_app">Εφαρμογές</string>
     <string name="category_system_settings">Ρυθμίσεις</string>
@@ -105,7 +104,6 @@
     <string name="message_photo_end">Η φωτογραφία σώθηκε</string>
     <string name="name">Όνομα:</string>
     <string name="nickname">Ψευδώνυμο:</string>
-    <string name="no_usage">...</string>
     <string name="note">Σημείωση:</string>
     <string name="notification_control_play">Αναπαραγωγή</string>
     <string name="notification_control_stop">Σταμάτημα</string>
