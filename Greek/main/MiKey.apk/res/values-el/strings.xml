@@ -26,7 +26,6 @@
     <string name="action_share_to_moment">Μοιραστείτε μέσω Moment</string>
     <string name="action_share_to_wechat">Μοιραστείτε μέσω WeChat</string>
     <string name="action_share_to_weibo">Μοιραστείτε μέσω Weibo</string>
-    <string name="add">Προσθήκη</string>
     <string name="action_toolbox">Εργαλεία</string>
     <string name="action_zero_volume">Σίγαση</string>
     <string name="add">Προσθήκη</string>
@@ -121,7 +120,6 @@
     <string name="recognize">Προσδιορισμός</string>
     <string name="recommend">Προτείνω</string>
     <string name="running_notification">Mi MiKey</string>
-    <string name="select_device">Επιλογή συσκευής?</string>
     <string name="setting_vibrate_desc">Η λειτουργία ειδοποίησης δονεί το τηλέφωνο.</string>
     <string name="scan_fail">Αποστυχία σάρωσης!</string>
     <string name="scan_result">Αποτελέσματα σάρωσης</string>
@@ -156,7 +154,6 @@
 
 Άνοιγμα γραμμής εργαλείων,
 Από την κορυφή της οθόνης σπρώξτε προς τα κάτω για να το χρησιμοποιήσετε."</string>
-    <string name="setting_vibrate_desc">Το τηλέφωνο θα δονείται όταν η λειτουργία εκτελεστεί</string>
     <string name="setting_vibrate_text">Αντίδραση δόνισης</string>
     <string name="settings">Ρυθμίσεις</string>
     <string name="short_click_1">1x</string>
