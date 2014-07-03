@@ -92,6 +92,11 @@
         <item>Ειδοποίηση</item>
         <item>Δόνηση</item>
     </string-array>
+    <string-array name="media_feedback_level_entries">
+        <item>Ισχυρό</item>
+        <item>Μέτριο</item>
+        <item>Ελαφρύ</item>
+    </string-array>
     <string-array name="entries_font_size">
         <item>Μικρό</item>
         <item>Κανονικό</item>

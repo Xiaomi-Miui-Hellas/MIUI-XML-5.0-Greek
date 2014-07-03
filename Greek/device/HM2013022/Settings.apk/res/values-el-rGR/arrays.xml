@@ -14,9 +14,9 @@
         <item>Κλήση στοίβας σε glGetError</item>
     </string-array>
     <string-array name="media_feedback_level_entries">
-        <item>Strong</item>
-        <item>Medium</item>
-        <item>Light</item>
+        <item>Δυνατό</item>
+        <item>Μέτριο</item>
+        <item>Ελαφρύ</item>
     </string-array>
     <string-array name="gemini_sim_info_number_display_format_entries">
         <item>Πρώτα 4 ψηφία</item>

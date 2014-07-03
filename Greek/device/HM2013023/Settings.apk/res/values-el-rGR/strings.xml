@@ -391,7 +391,7 @@
     <string name="lockdown_vpn_already_connected">Ενεργοποιήθηκε δίκτυο VPN πάντα ενεργοποιημένο.</string>
     <string name="lockscreen_style_default_desc">Πρόσβαση σε εφαρμογές από την οθόνη κλειδ.</string>
     <string name="lockscreen_style_set">Ρύθμιση οθόνης κλειδ.</string>
-    <string name="media_feedback_enable_title">Vibrate with the beat</string>
+    <string name="media_feedback_enable_title">Δόνηση με το ρυθμό</string>
     <string name="meeting_settings_title">Συνάντηση</string>
     <string name="meeting_summary">Μόνο δόνηση</string>
     <string name="memory_available_read_only">Διαθέσιμος (μόνος για ανάγνωση)</string>

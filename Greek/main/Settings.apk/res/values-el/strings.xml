@@ -1601,6 +1601,7 @@
     <string name="master_clear_summary">Διαγράφει όλα τα δεδομένα του τηλεφώνου</string>
     <string name="master_clear_title">Επαναφορά εργοστασιακών ρυθμίσεων</string>
     <string name="media_button">Πλήκτρο πολυμέσων</string>
+    <string name="media_feedback_enable_title">Δόνηση με το ρυθμό</string>
     <string name="media_format_button_text">Διαγραφή κάρτας SD</string>
     <string name="media_format_desc">Διαγραφή της κάρτας SD Θα χάσετε</string>
     <string name="media_format_final_button_text">Διαγραφή όλων</string>
