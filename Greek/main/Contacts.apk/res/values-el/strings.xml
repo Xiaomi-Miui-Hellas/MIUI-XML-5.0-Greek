@@ -195,6 +195,12 @@
     <string name="createContactShortcutSuccessful">Το widget της επαφής έχει προστεθεί στην Αρχική οθόνη</string>
     <string name="create_group_dialog_title">Δημιουργία νέας ομάδας</string>
     <string name="create_group_item_label">Δημιουργία νέας ομάδας</string>
+    <string name="cta_notice_title">Υπενθύμιση</string>
+    <string name="cta_notice_new_contact_message">Το σώσιμο επαφών στο λογαριασμό \"%s\" θα γίνει με χρήση δυκτίου, συμφωνείτε?</string>
+    <string name="cta_notice_photo_message">Η επεξεργασία φωτογραφιών των επαφών, θα γίνει με χρήση δυκτίου, συμφωνείτε ?</string>
+    <string name="cta_notice_checkbox">"Όχι επανάληψη προβολής"</string>
+    <string name="cta_notice_ok">Συμφωνώ</string>
+    <string name="cta_notice_settings">Υπενθύμιση χρήσης δυκτίου</string>
     <string name="customLabelPickerTitle">Προσαρμοσμένο όνομα ετικέτας</string>
     <string name="custom_list_filter">Ορίστε την προσαρμοσμένη προβολή</string>
     <string name="custom_nickname_hint">Πληκτρολογήστε ψευδώνυμο</string>

@@ -336,6 +336,7 @@
   <string name="pref_content_autofit_summary">Αλλαγή των σελίδων για ταίριασμα στην οθόνη</string>
   <string name="pref_content_block_float_popups">Φραγή αναδ. παραθύρων</string>
   <string name="pref_content_block_popups">Φραγή αναδυόμενων</string>
+  <string name="pref_content_cloud_speedup">Χρήση proxy διακομιστών</string>
   <string name="pref_content_fontsize_setting">Ρυθμίσεις γραμματοσειράς</string>
   <string name="pref_content_homepage">Ορισμός αρχικής σελίδας</string>
   <string name="pref_content_javascript">Ενεργοποίηση JavaScript</string>

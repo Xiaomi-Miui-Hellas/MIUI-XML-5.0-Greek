@@ -1920,12 +1920,12 @@ Android File Transfer,
     <string name="optimize_title_residual">Υπολείμματα</string>
     <string name="optimizing">Βελτιστοποίηση</string>
     <string name="optimizing_virus">Αφαίρεση ιών …</string>
-    <string name="cta_dialog_title">OTA και όροι</string>
+    <string name="cta_dialog_title">Χρήση και όροι</string>
     <string name="cta_dialog_msg">Θα γίνει χρήση του κέντρο ασφάλειας για τις αναβαθμίσεις της εταιρείας, προκειμένου να διασφαλιστεί η κανονική χρήση και λειτουργία που σχετίζεται με τη βάση δεδομένων, για την έγκαιρη ενημέρωση του λογισμικού. Κατά τη διάρκεια της ενημέρωσης απαιτεί δικτύωση, συμφωνείτε？</string>
     <string name="cta_checkbox_title">Περισσότερες οδηγίες</string>
     <string name="cta_button_text_cancel">Ακύρωση</string>
     <string name="cta_button_text_agree">Συμφωνώ</string>
-    <string name="cta_settings">Ρυθμίσεις ΟΤΑ</string>
+    <string name="cta_settings">Εξασφάλιση δυκτίωσης</string>
     <string name="other_relative">Άλλα δικαιώματα</string>
     <string name="overlay_display_devices_title">Εξομοιώνει δευτερεύουσες οθόνες</string>
     <string name="owner_info_settings_edit_text_hint">Πληκτρολογήστε το κείμενο που θα φαίνεται στην οθόνη κλειδώματος</string>

@@ -153,8 +153,11 @@
   <string name="id3_edit_failed">Αποτυχία επεξεργασίας ID3</string>
   <string name="id3_modify_confirm_check">Επιβεβαίωση αλλαγών ID3?</string>
   <string name="id3_modify_confirm_text">Αποθήκευση</string>
-  <string name="impunity_declaration">Η online μουσική που πρόκειται να χρησιμοποιήσετε είναι από το Baidu σε απευθείας σύνδεση με την υπηρεσία μουσικής. Κλικ \"OK\" για αποδοχή και χρήση, Κλικ \"Ακύρωση\" για έξοδο.</string>
-  <string name="impunity_declaration_title">Δήλωση</string>
+    <string name="impunity_declaration_title"> Δήλωση και όροι</string>
+    <string name="impunity_declaration">Η δυκτιακή μουσική που θα ακούσετε, παρέχεται από την αντίστοιχη υπηρεσία της Baidu. Επιλέξτε Επιβεβαίωση για αποδοχή των <a href="http://music.baidu.com/doc/agreement">όρων χρήσης</a>, μπορεί να αυξηθεί το κόστος χρήσης δεδομένων.</string>
+    <string name="impunity_declaration_ignore">Χωρίς προτροπή</string>
+    <string name="impunity_declaration_settings">Ειδοποίηση σε κάθε χρήση δυκτίου</string>
+    <string name="impunity_declaration_summary">Κατά την είσοδο στην μουσική, θα εμφανίζεται ένα παράθυρο υπενθύμισης</string>
   <string name="keep_quit_position_settings">Αποθήκευση τελευταίας θέσης</string>
   <string name="keep_quit_position_summary">Αποθηκεύει την τελευταία θέση, για να συνεχίσετε αργότερα την αναπαραγωγή.</string>
   <string name="ktv_alert_message">"Πατήστε Χρήση του τηλεφώνου για να προσθέσετε τραγούδια στην κεντρική σελίδα της κονσόλας του KTV και να δείτε τον αντίστοιχο κωδικό QR"</string>

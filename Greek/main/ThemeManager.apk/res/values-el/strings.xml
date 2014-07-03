@@ -280,6 +280,16 @@
     <string name="theme_upgrade_request_content">Το θέμα αυτό πρέπει να επικαιροποιηθεί, προκειμένου να λειτουργήσει σωστά. Απαιτείται σύνδεση στο Internet. Θέλετε να συνεχίσετε?</string>
     <string name="theme_upgrade_request_title">Αναβάθμιση θέματος</string>
     <string name="theme_upgrade_request_yes">OK</string>
+    <string name="theme_user_agreement_content1">"Επιλέγοντας Συμφωνώ, συμφωνείτε με τους όρους που υπάρχουν στην "</string>
+    <string name="theme_user_agreement_content2">Συμφωνία χρήσης</string>
+    <string name="theme_user_agreement_content3">" και "</string>
+    <string name="theme_user_agreement_content4">πολιτικής απορρήτου</string>
+    <string name="theme_user_agreement_content5">.</string>
+    <string name="theme_user_agreement_title">Όροι Χρήσης</string>
+    <string name="theme_user_agreement_allow">Συμφωνώ</string>
+    <string name="theme_user_agreement_remind_never">"Don't show again"</string>
+    <string name="theme_user_agreement_remind_again">Προβολή των όρων χρήσης</string>
+    <string name="theme_user_agreement_remind_summary">Προβολή των όρων χρήσης κάθε φορά. Αυτή η ρύθμιση θα ενεργοποιηθεί μετά την επανεκκίνηση της συσκευής.</string>
   <string name="third_party_pickers_activity_title">Ορισμός %1$s</string>
   <string name="title_component">Μείγμα</string>
   <string name="title_local">Τοπικά</string>
