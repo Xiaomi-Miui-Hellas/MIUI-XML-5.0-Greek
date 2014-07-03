@@ -347,7 +347,7 @@
   <string name="pref_content_night_read_mode">Λειτουργία νυκτός</string>
   <string name="pref_content_open_in_background">Άνοιγμα στο παρασκήνιο</string>
   <string name="pref_content_open_in_background_summary">Άνοιγμα καρτελών πίσω από την τρέχουσα</string>
-  <string name="pref_content_plugins">Ενεργοποίηση plug-ins</string>
+  <string name="pref_content_plugins">Ενεργ. προσθέτων (plugins)</string>
   <string name="pref_content_search_engine">Ορισμός μηχανής αναζήτησης</string>
   <string name="pref_content_search_engine_summary">Επιλογή μηχανής αναζήτησης</string>
   <string name="pref_content_title">Περιεχομενο σελιδας</string>
