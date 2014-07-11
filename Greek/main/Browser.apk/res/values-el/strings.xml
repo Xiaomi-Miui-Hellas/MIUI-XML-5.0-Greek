@@ -361,7 +361,6 @@
     <string name="name">Ετικέτα</string>
     <string name="network_alert_message">Wi-Fi μη διαθέσιμο, να γίνει χρήση δικτύου κινητής?</string>
     <string name="network_show_wifi_setting_tip_dialog_description">Wi-Fi σύνδεση βρέθηκε, θέλετε να συνδεθείτε?</string>
-    <string name="network_show_wifi_setting_tip_dialog_description">Θέλετε την σύνδεση?</string>
   <string name="network_show_wifi_setting_tip_dialog_notshow">Αποθήκευση</string>
   <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Διαθέσιμο δίκτυο Wi-Fi</string>
   <string name="network_show_wifi_setting_tip_dialog_setting_title">"Εάν χρησιμοποιείτε το δίκτυο κινητής για πρόσβαση στο Internet, το MIUI θα σας ειδοποιήσει εάν βρεθούν κοντά διαθέσιμα ασύρματα δίκτυα"</string>
@@ -630,8 +629,6 @@
     <string name="snapshot_successed">Save for offline reading successed</string>
     <string name="ssl_certificate">Security certificate</string>
     <string name="ssl_certificate_is_valid">This certificate is valid.</string>
-    <string name="ssl_continue">Continue</string>
-    <string name="ssl_date_invalid">This certificate has an invalid date.</string>
   <string name="ssl_expired">Το πιστοποιητικό έχει λήξει.</string>
   <string name="ssl_go_back">Πίσω</string>
   <string name="ssl_invalid">Το πιστοποιητικό είναι λανθασμένο.</string>
@@ -702,7 +699,6 @@
     <string name="webapp_menu_nightmode">Night Mode</string>
     <string name="webapp_menu_settings">Settings</string>
     <string name="webapp_menu_share">Share</string>
-    <string name="webapp_pref_addtodesktop_popover">webapp_pref_addtodesktop_popover</string>
     <string name="webapp_splashview_loading">Φόρτωση, παρακαλώ περιμένετε…</string>
   <string name="webapp_web_forward">Μπροστά</string>
   <string name="webapp_web_goback">Πίσω</string>
