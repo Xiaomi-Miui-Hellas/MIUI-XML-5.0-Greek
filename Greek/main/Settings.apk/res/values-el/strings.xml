@@ -1972,7 +1972,7 @@ Android File Transfer,
     <string name="perm_hips_end_call">Τερματισμός τρέχουσας κλήσης</string>
     <string name="perm_hips_get_call_state">Πάρτε την τρέχουσα κατάσταση κλήσης</string>
     <string name="perm_hips_group_data_privacy">Ιδιωτικοτητα</string>
-    <string name="perm_hips_group_expense">Ασφαλεια</string>
+    <string name="perm_hips_group_expense">Ασφάλεια</string>
     <string name="perm_hips_group_internet">Πρόσβαση στο Διαδίκτυο</string>
     <string name="perm_hips_group_location">Τοποθέτηση</string>
     <string name="perm_hips_group_phoneid">Αναγνώριση τηλεφώνου</string>
@@ -3583,7 +3583,7 @@ Android File Transfer,
     <string name="wifi_scan_notify_text_location_on">Για να βελτιωθεί η ακρίβεια θέσης και για άλλους σκοπούς, το Google και άλλες εφαρμογές μπορεί να σαρώσουν για κοντινά δίκτυα, ακόμα και όταν WLAN είναι απενεργοποιημένο. Εάν δεν θέλετε να συμβεί αυτό, πηγαίνετε Για προχωρημένους > Σάρωση πάντα στη διάθεσή σας.</string>
     <string name="wifi_secured_first_item">Ασφαλισμένο με %1$s</string>
     <string name="wifi_secured_second_item">ασφαλισμένο με %1$s</string>
-    <string name="wifi_security">Ασφαλεια</string>
+    <string name="wifi_security">Ασφάλεια</string>
     <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_none">Καμία</string>
