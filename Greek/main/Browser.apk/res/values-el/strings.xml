@@ -193,7 +193,6 @@
   <string name="disk_space_available">%1$s διαθέσιμα</string>
   <string name="disk_space_selected">%1$s επιλέχθηκαν</string>
   <string name="disk_space_used">%1$s σε χρήση</string>
-    <string name="disable_autofill">Απενεργ.αυτόματης συμπλήρωσης</string>
   <string name="do_not_save">Άκυρο</string>
   <string name="download">Λήψη</string>
   <string name="download_complete">Λήψη ολοκληρώθηκε</string>
