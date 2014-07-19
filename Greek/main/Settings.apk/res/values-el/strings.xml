@@ -2373,7 +2373,6 @@ Android File Transfer,
     <string name="print_service_security_warning_title">Χρήση υπηρεσίας %1$s;</string>
     <string name="print_settings">Εκτύπωση</string>
     <string name="print_settings_title">Υπηρεσίες εκτύπωσης</string>
-    <string name="bluetooth_preference_connected_devices">Connected devices</string>
     <string name="priority_storage_title">Ρυθμίσεις αποθήκευσης</string>
     <string name="priority_storage_summary">Επιλέξτε τον προεπιλεγμένο τόπο για σώσιμο δεδομένων χρήστη</string>
     <string name="priority_storage_settings_summary">"Εάν δεν βρεθεί SD card, τα δεδομένα θα σωθούν αυτόματα στον εσωτερικό αποθηκευτικό χώρο της συσκευής"</string>
