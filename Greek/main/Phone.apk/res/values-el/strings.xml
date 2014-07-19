@@ -545,6 +545,9 @@
     <string name="ip_prefix_miui">IP πρόθεμα</string>
     <string name="ip_prefix_required_miui">Απαιτείται IP πρόθεμα</string>
     <string name="ip_prefix_sum_miui">"Πρόθεμα IP Μεταφορέα: %s"</string>
+    <string name="ivr_menu_dialing_msg">Προώθηση…</string>
+    <string name="ivr_menu_dialing_msg_no_mute">Μεταφορά στην επιλεγμένη υπηρεσία (αγνόηση των μυνημάτων λάθους)…</string>
+    <string name="ivr_menu_list_sub_menu_count_format">Πίεσε %s</string>
     <string name="jituan_number_format_error_message_miui">%s υποστηρίζει μόνο τους αριθμούς και τα μπαλαντέρ</string>
     <string name="labelCDMAMore">Ρυθμίσεις κλήσης CDMA</string>
     <string name="labelCF">Προώθηση κλήσεων</string>
@@ -665,7 +668,8 @@
     <string name="no_volte">Αδύνατη η πραγματοποίηση IMS κλήσης</string>
     <string name="no_wifi_available">Θα πρέπει να είστε συνδεδεμένοι σε ένα δίκτυο WLAN για κλήσεις μέσω του Διαδικτύου (χρήση του ασύρματου &amp; Ρυθμίσεις δικτύου).</string>
     <string name="no_wifi_available_title">Δεν υπάρχει σύνδεση WLAN</string>
-    <string name="not_a_valid_port">Ο αριθμός θύρας θα πρέπει να είναι μέσα στο 1000 και 65534.</string>
+    <string name="non_ivr_menu_view_menu">Προβολή μενού</string>
+    <string name="non_ivr_menu_collapse_menu">Σύμπτυξη μενού</string>    <string name="not_a_valid_port">Ο αριθμός θύρας θα πρέπει να είναι μέσα στο 1000 και 65534.</string>
     <string name="not_allowed">"Η κάρτα SIM σας δεν επιτρέπει σύνδεση σε αυτό το δίκτυο."</string>
     <string name="not_connected_miui">"Δεν συνδέθηκε"</string>
     <string name="not_voice_capable">Η φωνητική κλήση δεν υποστηρίζεται</string>

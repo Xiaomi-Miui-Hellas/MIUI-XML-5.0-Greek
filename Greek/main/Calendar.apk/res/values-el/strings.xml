@@ -271,4 +271,6 @@
     <string name="copy_email">Αντιγραφή email</string>
     <string name="copy_number">Αντιγραφή τηλεφώνου</string>
     <string name="done">Επόμενο</string>
-</resources>
+    <string name="text_year">έτος</string>
+    <string name="button_week">Ε</string>
+    <string name="week_view_today_toast">Ήδη σε αυτή την εβδομάδα</string></resources>

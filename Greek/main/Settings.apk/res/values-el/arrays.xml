@@ -71,6 +71,10 @@
         <item>Καταστολή θορύβου με 1 μικρόφωνο</item>
         <item>Καταστολή θορύβου με 2 μικρόφωνα</item>
     </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Εσωτερικός χώρος</item>
+        <item>Εξωτερικός χώρος</item>
+    </string-array>
     <string-array name="change_security_lock_picker">
         <item>Αναγνώριση Προσώπου</item>
         <item>Μοτίβο</item>

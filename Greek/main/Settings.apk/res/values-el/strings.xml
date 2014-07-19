@@ -503,6 +503,7 @@
     <string name="bluetooth_permission_request">Αίτημα άδειας Bluetooth</string>
     <string name="bluetooth_phonebook_request">Αναζήτηση βιβλίου επαφών</string>
     <string name="bluetooth_pin_values_hint">Συνήθως 0000 ή 1234</string>
+    <string name="bluetooth_preference_connected_devices">Συνδεμένες συσκευές</string>
     <string name="bluetooth_preference_device_settings">Ρυθμίσεις συσκευής</string>
     <string name="bluetooth_preference_found_devices">Διαθέσιμες συσκευές</string>
     <string name="bluetooth_preference_paired_devices">Συζευγμένες συσκευές</string>
@@ -1319,6 +1320,9 @@
     <string name="heavy_weight_stop_description">Αυτή η εφαρμογή δεν μπορεί να σταματήσει με ασφάλεια. Αν την σταματήσεις, μπορεί να χάσετε κάποια από την τρέχουσα εργασία σας.</string>
     <string name="hello_world">Γεια σου κόσμε!</string>
     <string name="help_label">Βοήθεια</string>
+    <string name="high_performance_title">"Φαίνεται πως τρέχετε ένα Benchmark. Θέστε την διαχείρηση ενέργειας στην \"Απόδοση\" για καλύτερα αποτελέσματα."</string>
+    <string name="high_performance_notif_title">Χρήση μπαταρίας</string>
+    <string name="high_performance_notif_summary">Ενεργοποιημένη η απόδοση. Αυτό θα αδειάσει την μπαταρία γρηγορότερα.</string>
     <string name="history_details_title">Λεπτομέρειες Ιστορικού</string>
     <string name="home_app_uninstall_button">Κατάργηση εγκατάστασης αυτής της εφαρμογής</string>
     <string name="home_key">Αρχική οθόνη</string>
@@ -2369,8 +2373,13 @@ Android File Transfer,
     <string name="print_service_security_warning_title">Χρήση υπηρεσίας %1$s;</string>
     <string name="print_settings">Εκτύπωση</string>
     <string name="print_settings_title">Υπηρεσίες εκτύπωσης</string>
-    <string name="priority_sub_summary">Select Priority Subscription</string>
-    <string name="priority_sub_title">Priority Subscription</string>
+    <string name="bluetooth_preference_connected_devices">Connected devices</string>
+    <string name="priority_storage_title">Ρυθμίσεις αποθήκευσης</string>
+    <string name="priority_storage_summary">Επιλέξτε τον προεπιλεγμένο τόπο για σώσιμο δεδομένων χρήστη</string>
+    <string name="priority_storage_settings_summary">"Εάν δεν βρεθεί SD card, τα δεδομένα θα σωθούν αυτόματα στον εσωτερικό αποθηκευτικό χώρο της συσκευής"</string>
+    <string name="priority_storage_app_settings">Τα δεδομένα θα σωθούν στο %1$s</string>
+    <string name="priority_sub_summary">Επιλογή προτεραιότητας</string>
+    <string name="priority_sub_title">Προτεραιότητα</string>
     <string name="privacy_mode_enable_sum">Απόκρυψη μηνυμάτων, σημειώσεων, φωτογραφιών και εισερχόμενων κλήσεων</string>
     <string name="privacy_mode_enable_title">Λειτουργία επισκεπτών</string>
     <string name="privacy_protect_title">Ασφάλεια απορρήτου</string>
