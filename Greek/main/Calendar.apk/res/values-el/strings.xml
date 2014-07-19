@@ -273,4 +273,6 @@
     <string name="done">Επόμενο</string>
     <string name="text_year">έτος</string>
     <string name="button_week">Ε</string>
-    <string name="week_view_today_toast">Ήδη σε αυτή την εβδομάδα</string></resources>
+    <string name="week_view_today_toast">Ήδη σε αυτή την εβδομάδα</string>
+	</resources>
+	
