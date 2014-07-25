@@ -22,4 +22,7 @@
         <item>IMSI</item>
         <item>GID</item>
     </string-array>
-</resources>
+  <string-array name="power_mode_entries">
+    <item>Υψηλή απόδοση</item>
+    <item>Ισορροπημένη (προεπιλογή)</item>
+  </string-array></resources>
