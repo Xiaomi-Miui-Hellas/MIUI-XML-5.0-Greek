@@ -407,7 +407,7 @@
 	<string name="dynamic_pull_connect_failed">Αποτυχία σύβδεσης, δοκιμάστε πάλι</string> 
 	<string name="dynamic_pull_connect_failed_hint">Ελέγξτε αν το MiBand και το τηλέφωνο είναι πλήρως φορτισμένα</string> 
 	<string name="dynamic_pull_not_sync_today">Χωρίς συγχρονισμό σήμερα</string> 
-	<string name="dynamic_pull_last_sync_time">Τελευτ.συγχρ./string> 
+	<string name="dynamic_pull_last_sync_time">Τελευτ.συγχρ.</string> 
 	<string name="dynamic_pull_connecting_bracelet">Σύνδεση στο MiBand..</string> 
 	<string name="dynamic_pull_sync_after_connected">Μετά από επιτυχημένη σύνδεση,θα αρχίσει ο αυτόματος συγχρονισμός</string> 
 	<string name="dynamic_pull_syncing">Λεπτομέρειες συγχρονισμού...</string> 
