@@ -1,4 +1,4 @@
-<dl><dd><a href="https://raw.githubusercontent.com/Xiaomi-Miui-Hellas/MIUI-XML-5.0-Greek/master/Greek/main/Browser.apk/assets/quicklinks4-el-rGR/miui-hellas.png" target="_blank"><img src="" border="0" alt="Xiaomi-miui.gr Hellas Logo"></a></dd></dl>
+<dl><dd><a href="https://xiaomi-miui.gr/" target="_blank"><img src="https://raw.githubusercontent.com/Xiaomi-Miui-Hellas/MIUI-XML-5.0-Greek/master/Greek/main/Browser.apk/assets/quicklinks4-el-rGR/miui-hellas.png" border="0" alt="Xiaomi-miui.gr Hellas Logo"></a></dd></dl>
 
 MIUI-XML-5.0-Greek
 ==================
