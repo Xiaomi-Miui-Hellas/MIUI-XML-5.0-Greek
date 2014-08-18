@@ -1,8 +1,15 @@
 #!/bin/bash
-clear
+clear #clears the air of your terminal
 # variables
-BACKPATH="../MIUI-XML-5.0-Greek_Backup"
-VER="0.6"
+###############################################################
+###############################################################
+################ VARIABLES TO EDIT ############################
+APPNAME="MIUI-XML-5.0-Greek"
+BACKPATH="../MIUI-XML-5.0-Greek_Backup" #always a folder outside git
+################ DO NOT EDIT AFTER THESE LINES ################
+###############################################################
+###############################################################
+VER="0.8"
 echo "Do GIT script v.$VER"
 echo "by @SomniusX (Somnius on GitHub)"
 echo " "
@@ -16,49 +23,30 @@ if [ -d $BACKPATH ]
 then
     echo "Backup Directory exists."
 	echo "Starting process.."
-# the zipping using date
-	zip -r -q -9 $BACKPATH/backup-$(date +%Y%m%d_%H%M).zip *
-# the du to check the file size
-	du -sh $BACKPATH/*.zip|tail -1|sed -e "s/..\/MIUI-XML-5.0-Greek_Backup\//is the back'ed up file\: /"
+	zip -r -q -9 $BACKPATH/backup-$(date +%Y%m%d_%H%M).zip * # the zipping using date
+	du -sh $BACKPATH/*.zip|tail -1|sed -e "s/..\/\"$APPNAME\"_backup\//is the back'ed up file\: /" # the du to check the file size
 	echo "Backup folder size is.."
-# the du with sed to display the backup folder size
-	du -sh $BACKPATH|sed -e "s/..\/MIUI-XML-5.0-Greek_/holds the folder\: /"
+	du -sh $BACKPATH|sed -e "s/..\/\"$APPNAME\"_/holds the folder\: /" # the du with sed to display the backup folder size
 	echo " "
-# wait for 1sec
-	sleep 1
-# the commit all
-	git commit -a
-# the pull
-	git pull
-# the push
-	git push
-#echo " "
+	sleep 1 # wait for 1sec
+	git commit -a # the commit all
+	git pull # the pull
+	git push # the push
 	echo " "
 	echo "All done.."
-#echo " "
 else
     echo "Backup Directory doesn't exist, creating.."
-# creating the backup directory for 1st time use
-	mkdir $BACKPATH
+	mkdir $BACKPATH # creating the backup directory for 1st time use
 	echo "Starting process.."
-# the zipping using date
-	zip -r -q -9 $BACKPATH/backup-$(date +%Y%m%d_%H%M).zip *
-# the du to check the file size
-	du -sh $BACKPATH/*.zip|tail -1|sed -e "s/..\/MIUI-XML-5.0-Greek_Backup\//is the back'ed up file\: /"
+	zip -r -q -9 $BACKPATH/backup-$(date +%Y%m%d_%H%M).zip * # the zipping using date
+	du -sh $BACKPATH/*.zip|tail -1|sed -e "s/..\/\"$APPNAME\"_backup\//is the back'ed up file\: /" # the du to check the file size
 	echo "Backup folder size is.."
-# the du with sed to display the backup folder size
-	du -sh $BACKPATH|sed -e "s/..\/MIUI-XML-5.0-Greek_/holds the folder\: /"
+	du -sh $BACKPATH|sed -e "s/..\/\"$APPNAME\"_/holds the folder\: /" # the du with sed to display the backup folder size
 	echo " "
-# wait for 1sec
-	sleep 1
-# the commit all
-	git commit -a
-# the pull
-	git pull
-# the push
-	git push
-#echo " "
+	sleep 1 # wait for 1sec
+	git commit -a # the commit all
+	git pull # the pull
+	git push # the push
 	echo " "
 	echo "All done.."
-#echo " "
 fi
