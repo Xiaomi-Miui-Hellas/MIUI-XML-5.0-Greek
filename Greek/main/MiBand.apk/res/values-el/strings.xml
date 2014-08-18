@@ -416,8 +416,8 @@
 	<string name="dynamic_pull_pull_to_sync">Τραβήξτε κάτω για συγχρ.</string> 
 	<string name="dynamic_pull_update_report">Ενημέρωση %s εγγραφών</string> 
 	<string name="bind_weixin_qrcode_name">MiBand QR code</string> 
-	<string name="mili_exit_login_info_unbind">Exiting will remove current binding and MiBand from phone,</string> 
-	<string name="mili_exit_login_info_unlock">including unlock of phone,</string> 
+	<string name="mili_exit_login_info_unbind">Η έξοδος θα αφαιρέσει την τρέσουσα σύζευξη και το MiBand από το τηλέφωνό σας,</string> 
+	<string name="mili_exit_login_info_unlock">μαζί και του ξεκλειδώματος της συσκευής,</string> 
 	<string name="mili_exit_login_info_continue_tip">OK για συνέχεια?</string> 
 	<string name="mili_exit_login_info_exiting">Έξοδος...</string> 
 	<string name="back">Πίσω</string> 
