@@ -156,5 +156,5 @@
   <string name="type_rd"/>
   <string name="view_stations_list">Προβολή λίστας σταθμών</string>
     <string name="toast_fm_recorder_access_error">"Δεν είναι δυνατή η εγγραφή σε λειτ. επισκέπτη"</string>
-    <string name="msg_fm_starting">Έναρξη...</string>
+    <string name="msg_fm_starting">Έναρξη…</string>
 </resources>

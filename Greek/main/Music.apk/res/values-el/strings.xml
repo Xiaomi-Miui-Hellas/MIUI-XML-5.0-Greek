@@ -44,6 +44,9 @@
   <string name="choose_stream_quality">Επιλέξτε ποιότητα ροής</string>
   <string name="click_to_shuffle">Κλικ για ανακάτεμα</string>
   <string name="complete">Ολοκληρώθηκε</string>
+    <string name="collect_bill_success">Ο λογαριασμός προστέθηκε στα αγαπημένα</string>
+    <string name="collect_fm_success">Προστέθηκε στα αγαπημένα</string>
+    <string name="collect_topic_success">Το Άλμουμ προστέθηκε στα αγαπημένα</string>
   <string name="confirm">Επιβεβαίωση</string>
   <string name="correct_id3_by_internet">Αυτόμ. διόρθ. ID3 με χρήση δικτύου κινητής</string>
   <string name="correct_id3_failed">Αποτυχία διόρθωσης των δεδομένων ID3!</string>
@@ -66,11 +69,13 @@
   <string name="delete_playlist_menu">Διαγραφή</string>
   <string name="delete_song_desc">\"%s\" θα διαγραφούν μόνιμα από την SD card.</string>
   <string name="deselect_all">Απόρριψη όλων</string>
-  <string name="dirac_mode_earbuds">Xiaomi ακουστικά</string>
+  <string name="dirac_mode_earbuds">Mi ακουστικά</string>
   <string name="dirac_mode_general">Γενικός τύπος</string>
-  <string name="dirac_mode_in_ear">Xiaomi τύπος μπατονέτας</string>
+    <string name="dirac_mode_general_earbuds">Γενικά earbuds</string>
+    <string name="dirac_mode_general_inear">Γενικά inear</string>
+  <string name="dirac_mode_in_ear">Mi τύπος μπατονέτας</string>
   <string name="dirac_mode_off">Dirac Off</string>
-  <string name="dirac_mode_piston_100">Xiaomi Piston ακουστικά</string>
+  <string name="dirac_mode_piston_100">Mi Piston ακουστικά</string>
   <string name="disconnect">Αποσύνδεση</string>
   <string name="download">Λήψη</string>
   <string name="download_album_settings">Αυτόμ. λήψη εικόνων άλμπουμ</string>
@@ -148,8 +153,11 @@
   <string name="id3_edit_failed">Αποτυχία επεξεργασίας ID3</string>
   <string name="id3_modify_confirm_check">Επιβεβαίωση αλλαγών ID3?</string>
   <string name="id3_modify_confirm_text">Αποθήκευση</string>
-  <string name="impunity_declaration">Η online μουσική που πρόκειται να χρησιμοποιήσετε είναι από το Baidu σε απευθείας σύνδεση μρ την υπηρεσία μουσικής. Κλικ \"OK\" για αποδοχή και χρήση, Κλικ \"Ακύρωση\" για έξοδο.</string>
-  <string name="impunity_declaration_title">Δήλωση</string>
+    <string name="impunity_declaration_title"> Δήλωση και όροι</string>
+    <string name="impunity_declaration">Η δυκτιακή μουσική που θα ακούσετε, παρέχεται από την αντίστοιχη υπηρεσία της Baidu. Επιλέξτε Επιβεβαίωση για αποδοχή των <a href="http://music.baidu.com/doc/agreement">όρων χρήσης</a>, μπορεί να αυξηθεί το κόστος χρήσης δεδομένων.</string>
+    <string name="impunity_declaration_ignore">Χωρίς προτροπή</string>
+    <string name="impunity_declaration_settings">Ειδοποίηση σε κάθε χρήση δυκτίου</string>
+    <string name="impunity_declaration_summary">Κατά την είσοδο στην μουσική, θα εμφανίζεται ένα παράθυρο υπενθύμισης</string>
   <string name="keep_quit_position_settings">Αποθήκευση τελευταίας θέσης</string>
   <string name="keep_quit_position_summary">Αποθηκεύει την τελευταία θέση, για να συνεχίσετε αργότερα την αναπαραγωγή.</string>
   <string name="ktv_alert_message">"Πατήστε Χρήση του τηλεφώνου για να προσθέσετε τραγούδια στην κεντρική σελίδα της κονσόλας του KTV και να δείτε τον αντίστοιχο κωδικό QR"</string>
@@ -177,7 +185,7 @@
   <string name="load_channel_in_process">Φόρτωση λίστας καναλιών</string>
   <string name="loading">Φορτώνει</string>
   <string name="login">Είσοδος</string>
-  <string name="login_first">Πρέπει να συνδεθείτε στον λογαριασμός σας στην Xiaomi Account πρώτα</string>
+  <string name="login_first">Πρέπει να συνδεθείτε στον λογαριασμός σας στην Mi Account πρώτα</string>
   <string name="lrc_progress_modify">Ρύθμιση ταχύτητας ροής στίχων</string>
   <string name="lrc_progress_modify_helper">Ρύθμιση της ταχύτητας ροής στίχων σύροντας πάνω ή κάτω</string>
   <string name="lrc_search_failed">Δεν βρέθηκαν στίχοι!</string>
@@ -220,7 +228,8 @@
   <string name="normal_quality">Κανονική ποιότητα</string>
   <string name="not_login">Είσοδος</string>
   <string name="not_selected">Παρακαλώ επιλέξετε ένα τραγούδι</string>
-  <string name="notification_artist_album">"%2$s %1$s"</string>
+    <string name="notification_artist_album">"%2$s
+%1$s"</string>
   <string name="online_search_hint">Αναζήτηση μουσικής στο δίκτυο</string>
   <string name="online_title">Δίκτυο</string>
   <string name="other_settings">Άλλα</string>
@@ -249,7 +258,7 @@
   <string name="playlist_renamed_message">Μετονομασία λίστας.</string>
   <string name="playlists_title">Λίστες</string>
   <string name="powered_by">Powered by</string>
-  <string name="project_device">Xiaomi MiBox</string>
+  <string name="project_device">Mi MiBox</string>
   <string name="project_device_mobile">Συσκευή κινητής</string>
   <string name="queue">Τρέχουσα λίστα</string>
   <string name="quit_player">Έξοδος</string>
@@ -308,9 +317,14 @@
   <string name="sort_by_track">Κομμάτια</string>
   <string name="start_to_download_album">Λήψη εικόνων άλμπουμ για την συλλογή τραγουδιών σας</string>
   <string name="start_to_download_avatar">Λήψη avatar καλλιτεχνών για την συλλογή μουσικής σας</string>
+    <string name="source_from">Πηγή από : %1$s</string>
   <string name="streamloadingtext">Σύνδεση στο %s</string>
   <string name="synchronize_guide_toast">Για ενεργοποίηση συγχρονισμού, πηγαίνετε στις Ρυθμίσεις &gt; Συγχρονισμός λίστας</string>
   <string name="synchronize_playlist_setting">Συγχρονισμός λίστας</string>
+    <string name="sync_alert_message">Συγχρονίστε τα αγαπημένα σας τραγούδια σε συσκευές με το λογαριασμό σας Mi.</string>
+    <string name="sync_alert_title">Συγχρονισμός μουσικής</string>
+    <string name="sync_disable_toast">Μπορείτε να ενεργοποιήσετε τον συγχρονισμό αργότερα από τις Ρυθμίσεις > Λογαριασμοί > Mi Cloud</string>
+    <string name="sync_enable_toast">Μπορείτε να αλλάξετε αυτή τη ρύθμιση από τις Ρυθμίσεις > Λογαριασμοί > Mi Cloud</string>
   <string name="synchronize_playlist_summary">Συγχρονισμός λίστας στο MiCloud.</string>
   <string name="synchronize_to_baidu_cloud">Πάρτε αντίγραφα των τραγουδιών της λίστας, χρησιμοποιώντας το Baidu Cloud</string>
   <string name="track_album_format" formatted="false">%s - %s</string>
@@ -321,6 +335,7 @@
   <string name="track_num_format">(%s)</string>
   <string name="tracks_title">Όλα τα τραγούδια</string>
   <string name="ultra_high_quality">Υψηλότερη ποιότητα</string>
+    <string name="uncollect_success">Διαγράφηκε από τα αγαπημένα</string>
   <string name="unknown_album_name">Άγνωστο άλμπουμ</string>
   <string name="unknown_artist_name">Άγνωστος καλλιτέχνης</string>
   <string name="use_local_album">Χρήση των αποθηκευμένων εικόνων άλμπουμ</string>
@@ -337,5 +352,7 @@
   <string name="vip_recommend_summary">Ροή ή λήψη όλων των αγαπημένων σας καλλιτεχνών από το Baidu Music στα 320 kbps.</string>
   <string name="vip_recommend_title">Υψηλότερη ποιότητα μουσικής</string>
   <string name="where_is_barcode">"Που είναι ο QR κωδικός?"</string>
-  <string name="xiaomi_account_setting">Xiaomi λογαριασμός</string>
+    <string name="volume_alert_playback_alert_title">Προειδοποίηση έντασης</string>
+    <string name="volume_alert_playback_message">Για την αποφυγή πιθανής ζημιάς στην ακοή, μην ακούτε σε υψηλή ένταση ήχου για μεγάλες χρονικές περιόδους.</string>
+  <string name="xiaomi_account_setting">Mi λογαριασμός</string>
 </resources>

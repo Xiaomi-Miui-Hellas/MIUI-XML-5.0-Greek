@@ -6,14 +6,14 @@
     <string name="about_title">Περί</string>
     <string name="about_version">1.0.1</string>
   <string name="about_version_label">Έκδοση:</string>
-    <string name="actors_colon">"Cast: "</string>
+    <string name="actors_colon">"Πρωταγωνιστές: "</string>
     <string name="add_review">Πρόσθεσε ένα σχόλιο</string>
   <string name="adjust_position_next_media_notice">Επόμενο</string>
   <string name="adjust_position_prev_media_notice">Προηγούμενο</string>
     <string name="airkan_control_device_des">Μπορείτε να ελέγξετε την αναπαραγωγή βίντεο μέσω του πλήκτρου κάτω</string>
-  <string name="airkan_device_xiaomi_phone">Xiaomi</string>
+  <string name="airkan_device_xiaomi_phone">Μi</string>
     <string name="airkan_tips">"Κάντε κλικ εδώ, για να παίξει το βίντεο 
-Ή για προβολή στο Xiaomi TV Box"</string>
+Ή για προβολή στο Mi TV Box"</string>
   <string name="airkan_video_playing"/>
     <string name="airkan_video_playing_in">Αναπαραγωγή του βίντεο…</string>
     <string name="alert_ignore">Να μην εμφανιστεί ξανά αυτή τη σελίδα</string>
@@ -34,7 +34,10 @@
     <string name="brief_intro">Περίληψη</string>
     <string name="browse_devices">Προβολή συσκευών</string>
     <string name="browse_folder">Περιήγηση</string>
+    <string name="btnplayerdefault">προεπιλογή</string>
+    <string name="btnplayerfavorite">Αγαπημένο</string>
     <string name="btnplayerforecast">Πρόγνωση καιρού</string>
+    <string name="btnplayerfullscreen">πλήρης</string>
     <string name="btnplayerselect">Επιλογή καναλιού</string>
   <string name="buffering">Προ-φορτώνει…</string>
   <string name="buffering_video_netplay_label_v5">Προ-φορτώνει…</string>
@@ -49,6 +52,7 @@
     <string name="cancel_hide">Επανεμφάνιση</string>
     <string name="cancel_select_all">Αποεπιλογή όλων</string>
     <string name="cancel_waitfornewset">Σταματήσετε να ακολουθείτε</string>
+    <string name="cancelappointment">ακύρωση ραντεβού</string>
     <string name="cant_connecting">"Δεν ήταν δυνατή η σύνδεση με το διακομιστή"</string>
     <string name="channel_more">Περισσότερα</string>
     <string name="check_network">δεν μπορεί να συνδεθεί με το δίκτυο, ελέγξτε το δίκτυο</string>
@@ -61,6 +65,7 @@
     <string name="clear_playhistory">Καθαρισμός ιστορικού του player</string>
     <string name="clear_playhistory_tip">Το ιστορικού του Video player θα καθαριστεί.</string>
     <string name="clearplayhistory">Καθαρισμός ιστορικού</string>
+    <string name="click_to_list">κλικ για προβολή λεπτομεριών</string>
     <string name="cnlive">cnlive</string>
     <string name="comment">Σχόλια</string>
     <string name="comment_can_input_prefix"/>
@@ -71,8 +76,8 @@
     <string name="comment_max_error">Το σχόλιο σας δεν μπορεί να υπερβαίνει τους 300 χαρακτήρες</string>
     <string name="comment_max_tip">300 όριο χαρακτήρων</string>
     <string name="comment_publish">Υποβολή</string>
-    <string name="comment_submiting">Υποβολή ...</string>
-    <string name="connecting">Σύνδεση ...</string>
+    <string name="comment_submiting">Υποβολή …</string>
+    <string name="connecting">Σύνδεση …</string>
     <string name="continue_to_play_nextset">Αυτ.στο επόμενο επεισόδιο</string>
     <string name="continue_to_play_nextset_summary">«Όταν το επεισόδιο που βλέπετε έχει τελειώσει το επόμενο θα αρχίσει αυτόματα"</string>
     <string name="count_bu">Prt. %d</string>
@@ -93,6 +98,7 @@
     <string name="dlna_list_name">DLNA συσκευή</string>
     <string name="dlna_name">Κοινόχρηστη συσκευή</string>
     <string name="download_add_success">Προσθέσατε με επιτυχία την εργασία λήψης</string>
+    <string name="download_add_sucess">ολοκλήρωση προσθήκης εργασίας</string>
     <string name="download_delete">Αφαιρέστε την ενέργεια</string>
     <string name="download_fail">Προσωρινή αποθήκευση απέτυχε</string>
     <string name="download_file_fail">Πρόσβαση στο τοπικό αρχείο απέτυχε, ίσως δεν υπάρχει χώρος στην κάρτα SD</string>
@@ -111,11 +117,11 @@
     <string name="filter_mediaex">Φιλτράρισμα</string>
     <string name="filter_program">Φιλτράρισμα προγράμματος</string>
     <string name="find_media_count_bu">%d αποτελέσματα</string>
-    <string name="find_media_searching">Αναζήτηση ...</string>
+    <string name="find_media_searching">Αναζήτηση …</string>
     <string name="finish">Τέλος</string>
     <string name="finish_download">Προσωρινή αποθήκευση τελείωσε</string>
     <string name="forecast_living_status">Απευθείας μετάδοση</string>
-    <string name="fullscreen_hint_auto">Μπαίνοντας σε πλήρη οθόνη ...</string>
+    <string name="fullscreen_hint_auto">Μπαίνοντας σε πλήρη οθόνη …</string>
     <string name="fullscreen_hint_horizontal">Για να μπείτε σε πλήρη οθόνη, πατήστε το εικονίδιο στην επάνω αριστερή γωνία</string>
     <string name="fullscreen_hint_vertical">Για να μπείτε σε πλήρη οθόνη, πατήστε το παρακάτω κουμπί</string>
     <string name="fullscreen_to_play">Πλήρης οθόνη</string>
@@ -128,7 +134,7 @@
     <string name="hide_media">Απόκρυψη</string>
     <string name="hided_cannot_favorite">"Δεν μπορώ να βάλω αστέρι σε κρυφά στοιχεία"</string>
     <string name="hint_can_not_get_source_info">"Δε μπορείτε να βρείτε πληροφορίες Βίντεο στην πηγή"</string>
-    <string name="hint_without_selected_set">Δεν έχετε επιλέξει πηγή, βρίσκοντας την πηγή αυτόματα ...</string>
+    <string name="hint_without_selected_set">Δεν έχετε επιλέξει πηγή, βρίσκοντας την πηγή αυτόματα …</string>
     <string name="icntv">iCNTV</string>
     <string name="in_download">Προσωρινή αποθήκευση</string>
     <string name="in_download_notification">%d βίντεο αποθηκεύονται προσωρινά</string>
@@ -165,8 +171,9 @@
   <string name="loading_video_netplay_label">Φόρτωση, παρακαλώ περιμένετε…</string>
   <string name="loading_video_netplay_label_v5">Φόρτωση ροής, παρακαλώ περιμένετε…</string>
     <string name="local_count_ji">PRC %d Επ.</string>
-    <string name="login_tip_content">Σύνδεση με το λογαριασμό σας Xiaomi για να συγχρονίσετε και να ενημερώσετε τα shows τα οποία ακολουθείτε.</string>
+    <string name="login_tip_content">Σύνδεση με το λογαριασμό σας Mi για να συγχρονίσετε και να ενημερώσετε τα shows τα οποία ακολουθείτε.</string>
     <string name="login_tip_title">Σύνδεση</string>
+    <string name="makeappointment">κλείσε ραντεβού</string>
     <string name="manage">Διαχειριστείτε</string>
     <string name="media_source_unavailable">Πηγή δεν είναι διαθέσιμη</string>
     <string name="mediaset">Σειρά</string>
@@ -202,7 +209,7 @@
     <string name="no_comment_tip">"Δεν μπορεί να υποβάλετε ένα άδειο σχόλιο"</string>
     <string name="no_favorite">Δεν υπάρχουν αγαπημένα</string>
     <string name="no_filter_media">"Δεν μπόρεσα να βρω τίποτα. Δοκιμάστε αλλάζοντας την αναζήτησή σας."</string>
-    <string name="no_login_xiaomi_account">Σύνδεση με το λογαριασμό σας Xiaomi για να υποβάλετε τις παρατηρήσεις σας.</string>
+    <string name="no_login_xiaomi_account">Σύνδεση με το λογαριασμό σας Mi για να υποβάλετε τις παρατηρήσεις σας.</string>
     <string name="no_media">Κενό</string>
     <string name="no_myfavorite">Χωρίς αστέρι</string>
     <string name="no_myfavorite_advice">Προτεινόμενα</string>
@@ -220,6 +227,8 @@
   <string name="nowifi_alert_dialog_exit">Έξοδος</string>
   <string name="nowifi_alert_dialog_message">Χρησιμοποίηση δικτύου κινητής τηλεφωνίας για λήψη του βίντεο, θέλετε να συνεχίσετε?</string>
   <string name="nowifi_alert_dialog_title">Συναγερμός κίνησης δεδομένων</string>
+    <string name="null_category">άγνωστη</string>
+    <string name="null_videoname">άγνωστο</string>
     <string name="offline_alert_title">Προσωρινή αποθήκευση κοινοποιήσεων</string>
     <string name="offline_alert_wifi">Χρησιμοποιείτε δίκτυο κινητής τηλεφωνίας, για να μην καταναλώνετε τα δεδομένα σας, τα καθήκοντα προσωρινής αποθήκευσης είναι σε παύση και θα συνεχιστούν όταν μεταβείτε σε δίκτυο Wi-Fi.</string>
     <string name="offline_continue">Συνέχεια</string>
@@ -262,7 +271,7 @@
     <string name="recentplay">Έπαιξαν πρόσφατα</string>
     <string name="recommendation">Μάλλον θα σας αρέσουν</string>
     <string name="reloading_tip">"Δεν ήταν δυνατή η σύνδεση με το δίκτυο"</string>
-    <string name="retrieving">Ανάκτηση ...</string>
+    <string name="retrieving">Ανάκτηση …</string>
     <string name="retry">Επανάληψη</string>
     <string name="review_success">Σχόλιο υποβάλλεται</string>
     <string name="sdcard_storage">Εσωτερική μνήμη</string>
@@ -299,7 +308,8 @@
     <string name="toast_message_continue_play_minute">λεπτά</string>
     <string name="toast_message_continue_play_second_and_play">δεύτερα</string>
   <string name="toast_message_set_misound">Ρυθμίσεις MiAudio</string>
-    <string name="today">Today</string>
+    <string name="today">Σήμερα</string>
+    <string name="top_null_videoname">άγνωστο όνομα βίντεο</string>
   <string name="top_status_local_media">Τοπικά πολυμέσα</string>
   <string name="top_status_online_media">Πολυμέσα δικτύου</string>
     <string name="tudou">Tudou</string>
@@ -339,8 +349,8 @@
     <string name="wasu">Wasu</string>
     <string name="will_live_status">Ζωντανό</string>
     <string name="write_comment">Πρόσθεσε ένα σχόλιο</string>
-    <string name="xiaomi_account_type_unsupported">"Το σύστημα δεν υποστηρίζει Xiaomi Λογαριασμούς."</string>
-    <string name="xiaomi_user">Xiaomi χρήστης</string>
+    <string name="xiaomi_account_type_unsupported">"Το σύστημα δεν υποστηρίζει Mi Λογαριασμούς."</string>
+    <string name="xiaomi_user">Mi χρήστης</string>
     <string name="year">Έτος</string>
     <string name="yestorday">Χτες</string>
     <string name="yinyuetai">YinYueTai</string>

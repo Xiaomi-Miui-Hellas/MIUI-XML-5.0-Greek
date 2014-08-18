@@ -274,7 +274,7 @@
     <string name="silent_mode_silent">Ειδοποίηση ήχου ανενεργή</string>
     <string name="silent_mode_vibrate">Δόνηση ειδοποίησης ήχου</string>
     <string name="silent_mode_ring">Ειδοποίηση ήχου ενεργή</string>
-    <string name="shutdown_progress">Απενεργοποίηση...</string>
+    <string name="shutdown_progress">Απενεργοποίηση…</string>
     <string name="shutdown_confirm">Το τηλέφωνό σας θα απενεργοποιηθεί.</string>
     <string name="shutdown_confirm_question">Θέλετε να γίνει τερματισμός λειτουργίας;</string>
     <string name="reboot_safemode_title">Επανεκκίνηση στην ασφαλή λειτουργία</string>
@@ -762,7 +762,7 @@
     <string name="lockscreen_sim_puk_locked_message">Η κάρτα SIM είναι κλειδωμένη με κωδικό PUK.</string>
     <string name="lockscreen_sim_puk_locked_instructions">Ανατρέξτε στον Οδηγό χρήσης ή επικοινωνήστε με την Εξυπηρέτηση πελατών.</string>
     <string name="lockscreen_sim_locked_message">Η κάρτα SIM είναι κλειδωμένη.</string>
-    <string name="lockscreen_sim_unlock_progress_dialog_message">Ξεκλείδωμα κάρτας SIM...</string>
+    <string name="lockscreen_sim_unlock_progress_dialog_message">Ξεκλείδωμα κάρτας SIM…</string>
     <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Σχεδιάσατε εσφαλμένα το μοτίβο ξεκλειδώματος%d φορές. 
 
 Προσπαθήστε ξανά σε %d δευτερόλεπτα."</string>
@@ -788,7 +788,7 @@
     <string name="lockscreen_glogin_invalid_input">Μη έγκυρο όνομα χρήστη ή κωδικός πρόσβασης.</string>
     <string name="lockscreen_glogin_account_recovery_hint">"Ξεχάσατε το όνομα χρήστη ή τον κωδικό πρόσβασής σας;
 Επισκεφτείτε τη διεύθυνση "<b>google.com/accounts/recovery</b>.</string>
-    <string name="lockscreen_glogin_checking_password">Έλεγχος...</string>
+    <string name="lockscreen_glogin_checking_password">Έλεγχος…</string>
     <string name="lockscreen_unlock_label">Ξεκλείδωμα</string>
     <string name="lockscreen_sound_on_label">Ενεργοποίηση ήχου</string>
     <string name="lockscreen_sound_off_label">Απενεργοποίηση ήχου</string>
@@ -900,7 +900,7 @@
     <string name="Midnight">Μεσάνυχτα</string>
     <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
     <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
-    <string name="replace">Αντικατάσταση...</string>
+    <string name="replace">Αντικατάσταση…</string>
     <string name="delete">Διαγραφή</string>
     <string name="textSelectionCABTitle">Επιλογή κειμένου</string>
     <string name="addToDictionary">προσθήκη στο λεξικό</string>
@@ -946,7 +946,7 @@
     <string name="screen_compat_mode_hint">Ενεργοποιήστε το ξανά στις Ρυθμίσεις συστημάτων > Εφαρμογές > Ληφθείσες.</string>
     <string name="smv_application">Η εφαρμογή %1$s (διεργασία %2$s) παραβίασε την αυτοεπιβαλλόμενη πολιτική StrictMode.</string>
     <string name="smv_process">Η διεργασία %1$s παραβίασε την αυτοεπιβαλόμενη πολιτική StrictMode.</string>
-    <string name="android_upgrading_title">Το Android αναβαθμίζεται...</string>
+    <string name="android_upgrading_title">Το Android αναβαθμίζεται…</string>
     <string name="android_upgrading_apk">Βελτιστοποίηση της εφαρμογής %1$d από %2$d.</string>
     <string name="android_upgrading_starting_apps">Έναρξη εφαρμογών.</string>
     <string name="android_upgrading_complete">Ολοκλήρωση εκκίνησης.</string>
@@ -1118,8 +1118,8 @@
     <string name="no_matches">Δεν υπάρχουν αποτελέσματα</string>
     <string name="find_on_page">Εύρεση στη σελίδα</string>
     <string name="action_mode_done">Ολοκληρώθηκε</string>
-    <string name="progress_unmounting">Αποσύνδεση του χώρου αποθήκευσης USB...</string>
-    <string name="progress_erasing">Διαγραφή χώρου αποθήκευσης USB...</string>
+    <string name="progress_unmounting">Αποσύνδεση του χώρου αποθήκευσης USB…</string>
+    <string name="progress_erasing">Διαγραφή χώρου αποθήκευσης USB…</string>
     <string name="format_error">Δεν ήταν δυνατή η διαγραφή του χώρου αποθήκευσης USB.</string>
     <string name="media_bad_removal">Η κάρτα SD καταργήθηκε πριν την αποπροσάρτησή της.</string>
     <string name="media_checking">Αυτή τη στιγμή γίνεται έλεγχος του αποθηκευτικού χώρου USB.</string>

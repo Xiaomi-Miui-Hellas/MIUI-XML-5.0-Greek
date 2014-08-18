@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">Σφάλμα</string>
+    <string name="app_name">Σφάλμα</string>
+    <string name="ok">OK</string>
+    <string name="sms_fdn_title">Σφάλμα</string>
+    <string name="sms_fdn_body">Περιορισμός αριθμού FDN</string>
+    <string name="sms_fdn_restricted">Περιορισμός αριθμού FDN</string>
+    <string name="sim_not_inserted">Εισάγετε κάρτα SIM</string>
+    <string name="sdcard_copy_err">Η αντιγραφή απέτυχε</string>
+    <string name="data_copy_err">Σφάλμα αντιγραφής δεδομένων</string>
+    <string name="sim_crash_title">Βλάβη κάρτας SIM</string>
+    <string name="sim_crash_text">Ελέγξτε την κάρτα SIM σας ή επικοινωνήστε με την εξυπηρέτηση πελατών</string>
+    <string name="unknown_err">Άγνωστο σφάλμα</string>
+    <string name="sim_removed_text">Έγινε αφαίρεση της κάρτας SIM. Επανεκκινήστε το τηλέφωνο</string>
+    <string name="sim_removed_title">Αφαιρέθηκε η κάρτα SIM</string>
+    <string name="sim_permernent_title">Σφάλμα κάρτας SIM</string>
+    <string name="sim_permernent_blocked">Εμπλοκή PUK</string>
+    <string name="perso_blocked_title">Προέκυψε σφάλμα κατά το ξεκλείδωμα δικτύου</string>
+    <string name="perso_blocked_text">Ο κωδικός ξεκλειδώματος του δικτύου έχει μπλοκάρει</string>
+    <string name="dialog_ok">OK</string>
+</resources>

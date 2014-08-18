@@ -31,7 +31,7 @@
     <string name="bluetooth_hid_disconnect_confirm">Αποσύνδεση από την ασύρματη συσκευή εισόδου %1$s;</string>
     <string name="bluetooth_hid_unplug_confirm">Αφαίρεση της ασύρματης συσκευής εισόδου %1$s;</string>
     <string name="bluetooth_hid_auth_confirm">Θέλετε να αποδεχτείτε το αίτημα για ασύρματο πληκτρολόγιο από το %1$s;</string>
-    <string name="bluetooth_hid_summary_disconnecting">Αποσύνδεση...</string>
+    <string name="bluetooth_hid_summary_disconnecting">Αποσύνδεση…</string>
     <string name="bt_opp_notification_in_coming_ticker">Αίτημα εισερχόμενου αρχείου</string>
     <string name="bt_opp_notification_in_coming_title">Αίτημα εισερχ. αρχείου (από: %1$s)</string>
     <string name="bt_opp_notification_in_coming_message">Αγγίξτε για αποδ. του εισερχ. αρχείου</string>

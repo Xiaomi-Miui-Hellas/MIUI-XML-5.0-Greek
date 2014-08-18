@@ -109,7 +109,7 @@
   <string name="recharge_order_original_price">RMB%s</string>
   <string name="recharge_order_pay">Ολοκλήρωση συναλλαγής</string>
   <string name="recharge_pay">Γεμίστε τώρα</string>
-  <string name="recharge_pay_hint">Η στήριξη παρέχεται από την Xiaomi</string>
+  <string name="recharge_pay_hint">Η στήριξη παρέχεται από την Mi</string>
   <string name="recharge_pay_hint_license">Ειδοποίηση επαναφόρτισης</string>
   <string name="recharge_payment_result_failed_summary">Παρακαλώ δοκιμάστε ξανά</string>
   <string name="recharge_payment_result_failed_title">Απέτυχε η επαναφόρτιση</string>
@@ -137,12 +137,12 @@
   <string name="toast_finish_delete_call_log">Το αρχείο κλήσεων έχει διαγραφεί</string>
   <string name="toast_text_copied">Το κείμενο αντιγράφτηκε</string>
   <string name="try_again">Δοκιμάστε ξανά</string>
-  <string name="turn_on_smart_antispam_hint">"Προσδιορίστε κλήσεις από άγνωστους αριθμούς χρησιμοποιώντας τον κατάλογο ετικετών της Xiaomi"</string>
+  <string name="turn_on_smart_antispam_hint">"Προσδιορίστε κλήσεις από άγνωστους αριθμούς χρησιμοποιώντας τον κατάλογο ετικετών της Mi"</string>
   <string name="turn_on_smart_antispam_summary_off">Να αναζητούνται μόνο οι αριθμοί που αποθηκεύονται σε αυτή τη συσκευή</string>
   <string name="turn_on_smart_antispam_summary_on">Ανέβασμα και τον εντοπισμός των άγνωστων αριθμών στα αρχεία καταγραφής κλήσεων και στα μηνυμάτων κειμένου</string>
   <string name="turn_on_smart_antispam_title">Εντοπισμός των άγνωστων αριθμών</string>
-  <string name="user_notice_identify_summary_format">"Το τηλέφωνό σας θα χρησιμοποιήσει τον κατάλογο ετικετών της  MIUI για να μπλοκάρει τις ανεπιθύμητες κλήσεις όταν συνδέεται με WLAN. Αγγίζοντας \"Συμφωνώ\" συμφωνείτε με την Xiaomi να %1$s και %2$s."</string>
-  <string name="user_notice_yp_detail_summary_format">"Μερικές από τις πληροφορίες καταλόγου σας είναι ξεπερασμένες. Θέλετε να τις ενημερώσετε? Αγγίζοντας \"Συμφωνώ\" συμφωνείτε με την Xiaomi να %1$s και %2$s."</string>
+  <string name="user_notice_identify_summary_format">"Το τηλέφωνό σας θα χρησιμοποιήσει τον κατάλογο ετικετών της  MIUI για να μπλοκάρει τις ανεπιθύμητες κλήσεις όταν συνδέεται με WLAN. Αγγίζοντας \"Συμφωνώ\" συμφωνείτε με την Mi να %1$s και %2$s."</string>
+  <string name="user_notice_yp_detail_summary_format">"Μερικές από τις πληροφορίες καταλόγου σας είναι ξεπερασμένες. Θέλετε να τις ενημερώσετε? Αγγίζοντας \"Συμφωνώ\" συμφωνείτε με την Mi να %1$s και %2$s."</string>
   <string name="voicemail">Τηλεφωνητής</string>
   <string name="yellow_page_call_log_title">Αρχείο κλήσεων</string>
   <string name="yellow_page_detail_title">Σχετικά</string>

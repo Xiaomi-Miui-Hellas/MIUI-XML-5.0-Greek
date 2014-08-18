@@ -29,7 +29,7 @@
   <string name="default_blank"/>
   <string name="default_station">FM</string>
     <string name="delete_station_title">Διαγραφή</string>
-    <string name="dialog_sleep_title">Ορσμός χρόνου ύπνου</string>
+    <string name="dialog_sleep_title">Ορισμός χρόνου ύπνου</string>
   <string name="durationformat">%2$d:%5$02d</string>
     <string name="edit_station">Επεξεργασία σταθμού</string>
     <string name="enter_rssi">Εισαγωγή RMSSI Delta</string>
@@ -64,8 +64,8 @@
     <string name="menu_new_station">Προσθήκη  νέου σταθμού</string>
     <string name="menu_play">Αναπαραγωγή</string>
     <string name="menu_record_list">Εγραφές</string>
-    <string name="menu_record_start">Έναρξη εγραφής</string>
-    <string name="menu_record_stop">Στόπ εγραφής</string>
+    <string name="menu_record_start">Έναρξη εγγραφής</string>
+    <string name="menu_record_stop">Στόπ εγγραφής</string>
     <string name="menu_rename_list">Μετονομασία λίστας</string>
     <string name="menu_reorder_list">Αναδιάταξη λίστας</string>
     <string name="menu_save_station_list">Προσθήκη στην λίστα</string>

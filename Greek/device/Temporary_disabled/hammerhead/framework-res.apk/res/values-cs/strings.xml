@@ -474,7 +474,7 @@
     <string name="permlab_captureSecureVideoOutput">zachytit zabezpečený výstup videa</string>
     <string name="permdesc_captureSecureVideoOutput">Umožní aplikaci zachytit a přesměrovat zabezpečený výstup videa.</string>
     <string name="permlab_mediaContentControl">řízení přehrávání médií a přístup k metadatům</string>
-    <string name="permdesc_mediaContentControl">Umožňuje aplikaci řídit přehrávání médií a číst informace o médiích (název, autor...).</string>
+    <string name="permdesc_mediaContentControl">Umožňuje aplikaci řídit přehrávání médií a číst informace o médiích (název, autor…).</string>
     <string name="permlab_modifyAudioSettings">změna nastavení zvuku</string>
     <string name="permdesc_modifyAudioSettings">Umožňuje aplikaci změnit globální nastavení zvuku, například hlasitost či reproduktor pro výstup zvuku.</string>
     <string name="permlab_recordAudio">nahrávání zvuku</string>

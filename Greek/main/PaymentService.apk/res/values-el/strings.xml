@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_detail">"Xiaomi λογαριασμός:
+  <string name="account_detail">"Mi λογαριασμός:
 %1$s"</string>
   <string name="app_name">Υπηρεσία πληρωμών</string>
   <string name="balance">Υπόλοιπο: %1$s MiCredits</string>
@@ -31,7 +31,7 @@
   <string name="bankcall_phone_debit_hint">Βεβαιωθείτε ότι έχετε μια καλή σύνδεση με το Διαδίκτυο.</string>
   <string name="bankcall_province">Επαρχία</string>
   <string name="bankcall_saved_card_info">%1$s - Αρ. Κάρτας %2$s</string>
-  <string name="bankcall_xiaomi_company">Xiaomi Corporation (Beijing)</string>
+  <string name="bankcall_xiaomi_company">Mi Corporation (Beijing)</string>
   <string name="btn_back">Επιστροφή</string>
   <string name="btn_call">Κλήση</string>
   <string name="btn_count_down_auto">Ερευνήστε μετά %1$s δευτερόλεπτα</string>
@@ -47,7 +47,7 @@
   <string name="btn_recharge_other">Γεμίστε</string>
   <string name="btn_recharge_success">Γέμισμα ολοκληρώθηκε</string>
   <string name="btn_recharge_success_quick">Γέμισμα ολοκληρώθηκε</string>
-  <string name="btn_wait_call">Αναμονή ...</string>
+  <string name="btn_wait_call">Αναμονή …</string>
   <string name="btn_wait_call_count">Αναμονή (%1$s)</string>
   <string name="btn_wait_confirm">Αναμονή</string>
   <string name="btn_wait_confirm_count">Αναμονή(%1$s)</string>
@@ -90,7 +90,7 @@
   <string name="error_common_title">Σφάλμα συστήματος</string>
   <string name="error_expired_summary">Η παραγγελία σας έχει λήξει</string>
   <string name="error_frozen_summary">"Ο λογαριασμός σας έχει παγώσει. 
-Παρακαλούμε επικοινωνήστε με την εξυπηρέτηση πελατών Xiaomi."</string>
+Παρακαλούμε επικοινωνήστε με την εξυπηρέτηση πελατών Mi."</string>
   <string name="error_frozen_title">Ο λογαριασμός σας έχει παγώσει</string>
   <string name="error_giftcard_summary">"Δεν μπόρεσα να πάρω πληροφορίες για την κάρτα δώρο."</string>
   <string name="error_has_bought_summary">Έχετε ήδη αγοράσει το προϊόν αυτό.</string>
@@ -104,7 +104,7 @@
   <string name="error_server_title">Σφάλμα διακομιστή</string>
   <string name="error_too_frequent_visits_summary">"Ο αριθμός δράση συναλλαγών υπερέβη.
 Περιμένετε πέντε λεπτά και προσπαθήστε ξανά."</string>
-  <string name="error_too_frequent_visits_title">Πω πω ... περιμένετε λίγο</string>
+  <string name="error_too_frequent_visits_title">Πω πω … περιμένετε λίγο</string>
   <string name="error_user_id_mismatch_summary">Παρακαλούμε ελέγξτε και πραγματοποιήστε εκ νέου σύνδεση στο λογαριασμό σας</string>
   <string name="error_user_id_mismatch_title">Σφάλμα λογαριασμού</string>
   <string name="error_verify_summary">Η εφαρμογή σας δεν έχει δικαίωμα να ζητήσει αυτή την υπηρεσία</string>
@@ -149,7 +149,7 @@
   <string name="hfb_instruct">"Παρακαλώ ακολουθήστε 10658008
 SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολοκληρώθηκε', σας ευχαριστώ!"</string>
   <string name="hfb_main_title">Πλήρης πληρωμή</string>
-  <string name="hfb_network_progress">Ζητώντας την πληρωμή, παρακαλώ περιμένετε για  δίκτυο ...</string>
+  <string name="hfb_network_progress">Ζητώντας την πληρωμή, παρακαλώ περιμένετε για  δίκτυο …</string>
   <string name="hfb_order_price">Συνολική Παραγγελία:</string>
   <string name="hfb_other_case">Εάν δεν λάβετε το μήνυμα SMS από 10658008 παρακαλούμε δείτε τις συμβουλές.</string>
   <string name="hfb_pad_info">Παρακαλώ ακολουθήστε %1$s SMS επιβεβαίωσης για να επιβεβαιώσετε την ολοκλήρωση πληρωμής. Σας ευχαριστώ!</string>
@@ -157,8 +157,8 @@ SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολ�
   <string name="hfb_pay_by_phone_hint">Πληρώστε με την κινεζικό αριθμό τηλεφώνου</string>
   <string name="hfb_retry_receive">Δοκιμή ξανά</string>
   <string name="hfb_return">Πίσω</string>
-  <string name="hfb_sms1_progress_label">Αποστολή SMS, παρακαλώ περιμένετε ...</string>
-  <string name="hfb_sms2_progress_label">Πληρωμή επιβεβαιώνεται, παρακαλώ περιμένετε ...</string>
+  <string name="hfb_sms1_progress_label">Αποστολή SMS, παρακαλώ περιμένετε …</string>
+  <string name="hfb_sms2_progress_label">Πληρωμή επιβεβαιώνεται, παρακαλώ περιμένετε …</string>
   <string name="hfb_sms_error">Αποστολή SMS απέτυχε!</string>
   <string name="hfb_sms_pay">Σημείωση: Κάντε κλικ στο "Επιβεβαίωση πληρωμής" για να ολοκληρώσετε την αγορά και να στείλετε SMS στο 10658008 για να ολοκληρώσετε την αγορά. Πληρωμές χρεώνονται σε τοπικό ποσοστά κλήσης.</string>
   <string name="hfb_succ_label">ολοκλήρωση αγοράς</string>
@@ -166,7 +166,7 @@ SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολ�
 Έχετε αγοράσει [%1$s] για την αξία της [%2$s yuan]. Τηλέφωνο εξυπηρέτησης πελατών: %3$s"</string>
   <string name="hfb_tariff">Οι δασμολογικές πληροφορίες</string>
   <string name="hfb_trans_error_label">Δεν βρέθηκαν προηγούμενες συναλλαγές</string>
-  <string name="hfb_trans_result_progress_label">Ψάχνοντας για προηγούμενες συναλλαγές ...</string>
+  <string name="hfb_trans_result_progress_label">Ψάχνοντας για προηγούμενες συναλλαγές …</string>
   <string name="hfb_umpay_info">Καλέστε * 10658008 για την China Mobile Communications λογαριασμούς να πληρώσει μέσω SMS</string>
   <string name="hfb_upgrade_download_fail">Αποτυχία να κατεβάσετε την ενημερωμένη έκδοση, δοκιμάστε ξανά αργότερα</string>
   <string name="hfb_upgrade_download_sucess">Η Νέα έκδοση κατέβηκε με επιτυχία!</string>
@@ -353,7 +353,7 @@ SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολ�
   <string name="msg_telecom_picker_hint_1_2">Αυτόματη επικοινωνήστε με τον παροχέα υπηρεσιών σας.</string>
   <string name="msg_telecom_picker_hint_2_1">Το δίκτυό σας έχει έρθει σε επαφή!</string>
   <string name="msg_telecom_picker_hint_2_2">Θα λάβετε μια επιβεβαίωση κειμένου σύντομα.</string>
-  <string name="msg_telecom_sending">Επικοινωνήσετε με τον πάροχο του δικτύου ...</string>
+  <string name="msg_telecom_sending">Επικοινωνήσετε με τον πάροχο του δικτύου …</string>
   <string name="order_price">%1$s MiCredits</string>
   <string name="password_error">Κωδικός πρόσβασης είναι λανθασμένος.</string>
   <string name="password_forget">Ξεχάσατε τον κωδικό σας?</string>
@@ -377,20 +377,20 @@ SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολ�
   <string name="prepaid_picker_hint_1_2">Υποστηρίζει μόνο εφάπαξ χρέωση?</string>
   <string name="prepaid_picker_hint_2_1">2.</string>
   <string name="prepaid_picker_hint_2_2_a">"Επιλεγμένα ονομαστικής αξίας πρέπει να είναι συνεπής με εκείνη της προπληρωμένης κάρτας. Επιλέγοντας άλλη τιμή θα ακυρώσει την κάρτα. Αυτή η ενέργεια δεν μπορεί να αναιρεθεί."</string>
-  <string name="prepaid_picker_hint_2_2_b">Εάν η ονομαστική αξία της προπληρωμένης κάρτας δεν είναι &lt;font color=red&gt;￥%1$s&lt;/font&gt;, η κάρτα θα είναι άκυρη. Η Xiaomi δεν είναι υπεύθυνη για οποιαδήποτε νομισματική απώλεια που συμβαίνει ως αποτέλεσμα σφαλμάτων του χρήστη.</string>
+  <string name="prepaid_picker_hint_2_2_b">Εάν η ονομαστική αξία της προπληρωμένης κάρτας δεν είναι &lt;font color=red&gt;￥%1$s&lt;/font&gt;, η κάρτα θα είναι άκυρη. Η Mi δεν είναι υπεύθυνη για οποιαδήποτε νομισματική απώλεια που συμβαίνει ως αποτέλεσμα σφαλμάτων του χρήστη.</string>
   <string name="prepaid_picker_title_default">Επιλέξτε ποσό</string>
   <string name="prepaid_picker_title_selected">ποσό</string>
   <string name="progress_bankcall_card_creating">Δημιουργία παραγγελίας…</string>
-  <string name="progress_bankcall_card_querying">Έλεγχος τύπου λογαριασμού ...</string>
-  <string name="progress_creating">Ανάκτηση πληροφοριών, προκειμένου ...</string>
+  <string name="progress_bankcall_card_querying">Έλεγχος τύπου λογαριασμού …</string>
+  <string name="progress_creating">Ανάκτηση πληροφοριών, προκειμένου …</string>
   <string name="progress_downloading">Φορτώνει…</string>
   <string name="progress_error_pay_summary">%1$s MiCredits έχουν προστεθεί, αλλά η πληρωμή απέτυχε! Παρακαλώ δοκιμάστε ξανά αργότερα.</string>
   <string name="progress_error_pay_title">Η πληρωμή απέτυχε</string>
   <string name="progress_error_recharge_summary">Ανανέωση απέτυχε! Παρακαλώ δοκιμάστε ξανά αργότερα.</string>
   <string name="progress_error_recharge_title">Ανανέωση απέτυχε</string>
   <string name="progress_loading">Επεξεργασία…</string>
-  <string name="progress_msg_creating">Παραγωγή παραγγελίας ανανέωσης ...</string>
-  <string name="progress_paytool_creating">Δημιουργία %1$s παραγγελίας...</string>
+  <string name="progress_msg_creating">Παραγωγή παραγγελίας ανανέωσης …</string>
+  <string name="progress_paytool_creating">Δημιουργία %1$s παραγγελίας…</string>
   <string name="progress_paytool_installing">Εγκατάσταση %1$s plugin ασφαλείας…</string>
   <string name="progress_prepaid_creating">Δημιουργία παραγγελίας…</string>
   <string name="progress_querying">Επεξεργασία…</string>
@@ -401,7 +401,7 @@ SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολ�
   <string name="progress_success_pay_title">%1$s MiCredit πληρωμή ολοκληρώθηκε</string>
   <string name="progress_success_recharge_summary">Υπόλοιπο λογαριασμού: %1$s MiCredits.</string>
   <string name="progress_success_recharge_title">%1$s MiCredit. Ανανέωση ολοκληρώθηκε</string>
-  <string name="progress_voucher_creating">Προσθέτοντας MiCredit στο λογαριασμό σας, παρακαλώ περιμένετε ...</string>
+  <string name="progress_voucher_creating">Προσθέτοντας MiCredit στο λογαριασμό σας, παρακαλώ περιμένετε …</string>
   <string name="progress_warning_check">"Η πληρωμή δεν έχει φτάσει ακόμα τον λογαριασμό σας. 
 Θα ελέγξουμε ξανά εντός δύο εργάσιμων ημερών."</string>
   <string name="progress_warning_contact_server">"Πληρωμή ακόμα δεν έχει φτάσει στο λογαριασμό σας. 

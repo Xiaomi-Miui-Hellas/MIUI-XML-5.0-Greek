@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Συγχρονισμός Xiaomi</string>
+    <string name="app_name">Συγχρονισμός Mi</string>
     <string name="find_device">Εύρεση συσκευής</string>
     <string name="find_device_noise_title">Ήχος εντοπισμού συσκευής</string>
     <string name="find_device_stop_noise">Πατήστε ΟΚ για σίγαση</string>

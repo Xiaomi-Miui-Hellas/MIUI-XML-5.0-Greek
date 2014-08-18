@@ -24,7 +24,7 @@
   <string name="setup_complete_summary">Ολοκλήρωση της εγκατάστασης! Απολαύστε τη χρήση του MIUI!</string>
   <string name="shutdown">Τερματισμός Λειτουργίας</string>
   <string name="sim_card_detection_dialog_message">Ανίχνευση της κάρτας SIM, παρακαλώ περιμένετε…</string>
-  <string name="sim_card_detection_info">"Δεν είναι δυνατή η εγκατάσταση λογαριασμού Xiaomi χωρίς κάρτα SIM. Χρειάζεται μια κάρτα SIM για να χρησιμοποιήσετε το λογαριασμό συγχρονισμού, εντοπισμού του τηλεφώνου κ.λπ.."</string>
+  <string name="sim_card_detection_info">"Δεν είναι δυνατή η εγκατάσταση λογαριασμού Mi χωρίς κάρτα SIM. Χρειάζεται μια κάρτα SIM για να χρησιμοποιήσετε το λογαριασμό συγχρονισμού, εντοπισμού του τηλεφώνου κ.λπ.."</string>
   <string name="sim_card_detection_label">Ανίχνευση της κάρτας SIM</string>
   <string name="sim_card_detection_status_absent">H SIM card δεν ανιχνεύτηκε!</string>
   <string name="traffic_protection_label">Παρακολούθηση κίνησης δεδομένων</string>

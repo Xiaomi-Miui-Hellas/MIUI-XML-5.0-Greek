@@ -86,7 +86,7 @@
     <string name="dualtalk_tip_accept_disconnect_outgoing">Με την αποδοχή αυτής της κλήσης θα τερματίσετε την εξερχόμενη κλήση..</string>
     <string name="dualtalk_tip_accept_disconnect_outgoing_reject_incoming">Με την αποδοχή αυτής της κλήσης θα τερματίσετε την εξερχόμενη κλήση και θα απορρίψετε όλες τις άλλες εισερχόμενες κλήσεις.</string>
     <string name="dualtalk_tip_accept_disconnect_voice">Η αποδοχή αυτής της κλήσης θα τερματίσει τις φωνητικές κλήσεις.</string>
-    <string name="enable">Enable</string>
+    <string name="enable">Ενεργοποίηση</string>
 	<string name="enable_3G_service">Ενεργοποίηση 3G</string>
     <string name="enable_sip_dialog_message">Οι ιντερνετικές κλήσεις είναι απενεργοποιημένες, θέλετε να ενεργοποιηθούν?</string>
     <string name="end_call_because_can_not_hold">"Η κλήση τερματίστηκε, διότι δεν μπορούσε να κρατηθεί."</string>
@@ -181,10 +181,10 @@
     <string name="mobile_networks">Ρυθμίσεις δικτύου κινητής τηλεφωνίας</string>
     <string name="mobile_networks_miui">δίκτυα κινητής τηλεφωνίας</string>
 
-    <string name="modem_switching">Η εναλλαγή SIM θα λάβει περίπου 10 δευτερόλεπτα για να ολοκληρωθεί. Παρακαλώ περιμένετε ...</string>
+    <string name="modem_switching">Η εναλλαγή SIM θα λάβει περίπου 10 δευτερόλεπτα για να ολοκληρωθεί. Παρακαλώ περιμένετε …</string>
     <string name="mt_code_additional_call_forwarded">Πρόσθετες εισερχόμενες κλήσεις προωθούνται</string>
     <string name="mt_code_call_connected_ect">Μεταφορά κλήσης ενεργή</string>
-    <string name="mt_code_call_connecting_ect">Μεταφορά ...</string>
+    <string name="mt_code_call_connecting_ect">Μεταφορά …</string>
     <string name="mt_code_call_on_hold">Κλήση σε αναμονή</string>
     <string name="mt_code_call_retrieved">Κλήση ανακτήθηκε</string>
     <string name="mt_code_cug_call">Κλειστή ομάδα χρηστών</string>
@@ -289,7 +289,7 @@
     <string name="simlock_retriesleft">"Απομένουν: "</string>
     <string name="simlock_returntocall">Επιστροφή στην κλήση</string>
     <string name="simlock_secondsim">για τη δεύτερη κάρτα SIM</string>
-    <string name="simlock_unlocking">Ξεκλείδωμα...</string>
+    <string name="simlock_unlocking">Ξεκλείδωμα…</string>
     <string name="simlock_unlockmardedcard">Ξεκλειδώστε τη επιλεγμένη κάρτα SIM</string>
     <string name="simlock_wrongcode">Λάθος κωδικός.</string>
     <string name="sip_call_options_title_single_sim">Επιλογές κλήσεων μέσω Διαδικτύου</string>

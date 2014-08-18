@@ -308,7 +308,7 @@
   <string name="pref_camera_hfr_title">Video High FrameRate</string>
   <string name="pref_camera_histogram_default">disable</string>
   <string name="pref_camera_histogram_entry_disable">Disable</string>
-  <string name="pref_camera_histogram_entry_enable">Enable</string>
+  <string name="pref_camera_histogram_entry_enable">Ενεργοποίηση</string>
   <string name="pref_camera_histogram_title">Histogram</string>
   <string name="pref_camera_id_default">0</string>
   <string name="pref_camera_id_entry_back">Back</string>
@@ -334,7 +334,7 @@
   <string name="pref_camera_jpegquality_entry_normal">Κανονικό</string>
   <string name="pref_camera_jpegquality_entry_superfine">Super fine</string>
   <string name="pref_camera_jpegquality_title">Picture quality</string>
-  <string name="pref_camera_mce_default">enable</string>
+  <string name="pref_camera_mce_default">Ενεργοποίηση</string>
   <string name="pref_camera_mode_default">common</string>
   <string name="pref_camera_mode_entry_beauty">Enhanced</string>
   <string name="pref_camera_mode_entry_common">Κανονικό</string>
@@ -374,7 +374,7 @@
   <string name="pref_camera_recordlocation_title">Store location</string>
   <string name="pref_camera_redeyereduction_default">disable</string>
   <string name="pref_camera_redeyereduction_entry_disable">Disable</string>
-  <string name="pref_camera_redeyereduction_entry_enable">Enable</string>
+  <string name="pref_camera_redeyereduction_entry_enable">Ενεργοποίηση</string>
   <string name="pref_camera_redeyereduction_title">Redeye Reduction</string>
   <string name="pref_camera_saturation_default">5</string>
   <string name="pref_camera_saturation_entry_level0">Level 0</string>
@@ -432,7 +432,7 @@
   <string name="pref_camera_sharpness_title">Sharpness</string>
   <string name="pref_camera_skinToneEnhancement_default">disable</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Disable</string>
-  <string name="pref_camera_skinToneEnhancement_entry_enable">Enable</string>
+  <string name="pref_camera_skinToneEnhancement_entry_enable">Ενεργοποίηση</string>
   <string name="pref_camera_skinToneEnhancement_title">Skin Tone Enhancement</string>
   <string name="pref_camera_smile_default">off</string>
   <string name="pref_camera_smile_entry_off">Off</string>

@@ -339,7 +339,7 @@ Opravdu chcete aktivovat preferování mobilních dat?"</string>
     <string name="vt_dis_exit">Exit</string>
     <string name="vt_dis_peer_rep">Display peer video</string>
     <string name="vt_dis_peer_rep_des">Display picture for replacing peer video when it is unavailable</string>
-    <string name="vt_enable_back_camera">Enable back camera</string>
+    <string name="vt_enable_back_camera">Ενεργοποίηση back camera</string>
     <string name="vt_enable_back_camera_description">Available to switch cameras if turn on</string>
     <string name="vt_error_media">Video cannot be displayed properly.The video call will disconnect.</string>
     <string name="vt_error_network">Network unreachable.The video call will disconnect.</string>

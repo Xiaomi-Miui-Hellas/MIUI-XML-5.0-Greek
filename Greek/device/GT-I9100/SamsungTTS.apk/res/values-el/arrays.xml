@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="voice_effects_entries">
+        <item>Κανονικό</item>
+        <item>Βαθιά φωνή</item>
+        <item>Ψιλή φωνή</item>
+        <item>Λεπτή φωνή</item>
+        <item>Βαριά φωνή</item>
+        <item>Φωνή ρομπότ</item>
+        <item>Εφέ ήλιο</item>
+    </string-array>
+</resources>

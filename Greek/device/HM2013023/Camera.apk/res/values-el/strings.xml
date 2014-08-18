@@ -18,7 +18,6 @@
 
 
  και βγείτε από το οπτικό πεδίο για μια στιγμή"</string>
-    <string name="camera_disabled">Η κάμερα απενεργοποιήθηκε</string>
     <string name="camera_error_title">Σφάλμα κάμερας</string>
     <string name="camera_label">Κάμερα</string>
     <string name="camera_settings_label">Ρυθμίσεις κάμερας</string>
@@ -256,7 +255,7 @@
   <string name="pref_camera_settings_category">Ρυθμίσεις κάμερας</string>
   <string name="pref_camera_settings_title">Ρυθμίσεις</string>
     <string name="pref_camera_sharpness_entry_high">Υψηλή</string>
-    <string name="pref_camera_sharpness_entry_low">ΧΑμηλήá</string>
+    <string name="pref_camera_sharpness_entry_low">Χαμηλή</string>
     <string name="pref_camera_sharpness_entry_middle">Μέτρια (προεπιλογή)</string>
     <string name="pref_camera_sharpness_title">Οξύτητα</string>
   <string name="pref_camera_skinToneEnhancement_entry_auto">Αυτόματη Βελτίωση</string>
@@ -410,4 +409,13 @@
   <string name="wifi_security">Ασφάλεια:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Πριν από τη σύνδεση, βεβαιωθείτε ότι το δίκτυο Wi-Fi είναι ασφαλές</string>
+  <string name="cannot_connect_camera">"Αδύνατη η σύνδεση στην κάμερα."</string>
+  <string name="camera_disabled">Η κάμερα απενεργοποιήθηκε για λόγους ασφάλειας.</string>
+  <string name="open">Εγραφή</string>
+  <string name="exposure_time">Χρόνος έκθεσης</string>
+  <string name="people">Κόσμος</string>
+  <string name="resume_playing_message">Συνέχεια αναπαραγωγής από %s?</string>
+  <string name="resume_playing_restart">Επανεκίνηση</string>
+  <string name="resume_playing_resume">Συνέχεια αναπαραγωγής</string>
+  <string name="resume_playing_title">Συνέχιση του βίντεο</string>
 </resources>

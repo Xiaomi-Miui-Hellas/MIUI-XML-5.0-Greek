@@ -23,6 +23,7 @@
     <string name="event_create">Νέο γεγονός</string>
     <string name="event_edit">Επεξεργασία γεγονότος</string>
     <string name="event_delete">Διαγραφή γεγονότος</string>
+    <string name="event_not_found">Δεν βρέθηκε γεγονός.</string>
     <string name="goto_today">Σήμερα</string>
     <string name="menu_preferences">Ρυθμίσεις</string>
     <string name="menu_select_visible_calendars">Ημερολόγια για προβολή</string>
@@ -50,6 +51,7 @@
     <string name="event_info_title_invite">Πρόσκληση σε ραντεβού</string>
     <string name="edit_event_to_label">ΠΡΟΣ</string>
     <string name="edit_event_from_label">ΑΠΟ</string>
+    <string name="email_organizer_label">Οργάνωση Email</string>
     <string name="edit_event_all_day_label">ΟΛΗ ΜΕΡΑ</string>
     <string name="edit_event_calendar_label">Ημερολόγιο</string>
     <string name="edit_event_show_all">Εμφάνιση όλων</string>
@@ -59,7 +61,7 @@
     <string name="reminders_label">Προσθήκη ειδοποίησης</string>
     <string name="no_syncable_calendars">Χωρίς ημερολόγια</string>
     <string name="no_calendars_found">Πριν προσθέσετε ένα γεγονός, πρέπει πρώτα να προσθέσετε ένα λογαριασμό Ημερολογίων στη συσκευή να γίνει το ημερολόγιο ορατό. Ακουμπήστε Προσθήκη Λογαριασμού για να προσθέσετε έναν λογαριασμό (εάν έχετε ήδη προσθέσει έναν λογαριασμό, παρακαλώ περιμένετε να συγχρονίσει και ξαναπροσπαθήστε). Ή ακουμπήστε Άκυρο και βεβαιωθείτε ότι υπάρχει τουλάχιστον ένα ορατό ημερολόγιο..</string>
-    <string name="create_an_account_desc">"Ιδανική είναι η λειτουργία του Ημερολογίου με λογαριασμό Xiaomi.
+    <string name="create_an_account_desc">"Ιδανική είναι η λειτουργία του Ημερολογίου με λογαριασμό Mi.
 
 • Πρόσβαση από οποιονδήποτε πλοηγό
 • Αντίγραφα ασφαλείας γεγονότων"</string>
@@ -147,6 +149,7 @@
     <string name="tardis">TARDIS</string>
     <string name="copy_db">Αποστολή βάσης δεδομένων</string>
     <string name="directory_searching_fmt">Ψάχνει %s…</string>
+    <string name="accessibility_email_notification">Επισκέπτες Email</string>
     <string name="accessibility_remove_attendee">Αφαίρεση συμμετέχοντα</string>
     <string name="accessibility_pick_start_date">Ημερομηνία έναρξης</string>
     <string name="accessibility_pick_start_time">ΑΠΟ</string>
@@ -268,4 +271,8 @@
     <string name="copy_email">Αντιγραφή email</string>
     <string name="copy_number">Αντιγραφή τηλεφώνου</string>
     <string name="done">Επόμενο</string>
-</resources>
+    <string name="text_year">έτος</string>
+    <string name="button_week">Ε</string>
+    <string name="week_view_today_toast">Ήδη σε αυτή την εβδομάδα</string>
+	</resources>
+	

@@ -288,7 +288,7 @@
   <string name="pref_summary_mms_read_reports">Ζητήστε αναφορά ανάγνωσης για κάθε μήνυμα που στέλνετε</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Αυτόματη ανάκτηση μηνυμάτων κατά την περιαγωγή</string>
   <string name="pref_summary_mx_feedback">"Βοηθήστε μας να βελτιώσουμε το MIUI!
-Αναφέρετε τα σφάλματα και στείλτε τα σχόλιά σας απευθείας στη Xiaomi.”</string>
+Αναφέρετε τα σφάλματα και στείλτε τα σχόλιά σας απευθείας στη Mi.”</string>
   <string name="pref_summary_new_message_popup">Εμφάνιση pop-ups, όταν λαμβάνεται νέο μήνυμα</string>
   <string name="pref_summary_new_message_popup_when_secure">Χωρίς ειδοποιήσεις popup όταν είναι ελεγχόμενη πρόσβαση</string>
   <string name="pref_summary_notification_body_enabled">Προεπισκόπηση μηνυμάτων στην οθόνη κλειδώματος και γραμμή κατάστασης</string>
@@ -435,7 +435,7 @@
   <string name="text_message">Μήνυμα κειμένου</string>
   <string name="timed_message_expired_title">%d χρονικά μήνυμα(τα) δεν εστάλησαν</string>
   <string name="timed_message_expired_title_2">Αποστολή τώρα?</string>
-  <string name="timed_message_in_total">... (%d συνολικά)</string>
+  <string name="timed_message_in_total">… (%d συνολικά)</string>
   <string name="timed_message_to">προς</string>
   <string name="title_collapse_sp_messages">Συνδυασμός μυνημ. παρόχου</string>
   <string name="title_date_type">Χρονοσήμανση μηνυμάτων</string>
