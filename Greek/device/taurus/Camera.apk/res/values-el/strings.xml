@@ -3,7 +3,8 @@
   <string name="Import">Εισαγωγή</string>
   <string name="access_sd_fail">"Αδύνατη πρόσβαση σε αποθήκευση USB."</string>
   <string name="accessibilit_camera_video_switch_picker_and_state">Εναλλαγή κάμερα και βίντεο (σε χρήση είναι %s)</string>
-  <string name="accessibility_camera_auto_flashmode">Αυτόματο φλας</string>  <string name="accessibility_camera_flash_closemode">Χωρίς φλας</string>
+  <string name="accessibility_camera_auto_flashmode">Αυτόματο φλας</string>  
+  <string name="accessibility_camera_flash_closemode">Χωρίς φλας</string>
   <string name="accessibility_camera_flashmode">Πάντα με φλας</string>
   <string name="accessibility_camera_switch_back_state">Εναλλαγή κάμερας (τρέχον η πίσω κάμερα)</string>
   <string name="accessibility_camera_switch_front_state">Εναλλαγή κάμερας (τρέχον η εμπρόσθια κάμερα)</string>
