@@ -4,8 +4,6 @@
 	<string name="pull_to_refresh_release_label">Ελευθερώστε για φόρτωση</string> 
 	<string name="pull_to_refresh_refreshing_label">Ανανέωση...</string> 
 	<string name="pull_to_refresh_from_bottom_pull_label">Φόρτωση περισσοτέρων</string> 
-	<string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string> 
-	<string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string> 
 	<string name="app_name">MiBand</string> 
 	<string name="action_exit">Έξοδος</string> 
 	<string name="register">Καταχώρηση</string> 
