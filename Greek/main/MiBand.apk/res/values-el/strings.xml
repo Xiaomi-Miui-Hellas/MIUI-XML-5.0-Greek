@@ -313,8 +313,8 @@
 	<string name="donot_bind">Χωρίς σύνδεση</string> 
 	<string name="welcom_back">Καλοσωρίσατε πάλι</string> 
 	<string name="bracelet_not_connected_bat_unknown">Το MiBand δεν συνδέθηκε, άγνωστη κατάσταση μπαταρίας</string> 
-	<string name="am">ΜΜ</string> 
-	<string name="pm">ΠΜ</string> 
+	<string name="am">ΠΜ</string> 
+	<string name="pm">ΜΜ</string> 
 	<string name="week">Εβδομάδα</string> 
 	<string name="alarm_ring">Αφύπνιση</string> 
 	<string name="alarm_repeat">Επανάληψη αφύπνισης</string> 
